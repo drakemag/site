@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- $Id: access.xml 32 2009-11-14 21:24:02Z maverick $ -->
+<access component="com_communitypolls">
+	<section name="component">
+		<action name="core.admin" title="JACTION_ADMIN" description="JACTION_ADMIN_COMPONENT_DESC" />
+		<action name="core.manage" title="JACTION_MANAGE" description="JACTION_MANAGE_COMPONENT_DESC" />
+		<action name="core.create" title="COM_COMMUNITYPOLLS_JACTION_CREATE" description="COM_COMMUNITYPOLLS_ACCESS_CREATE_DESC" />
+		<action name="core.edit" title="JACTION_EDIT" description="COM_COMMUNITYPOLLSJACTION_EDIT_DESC" />
+		<action name="core.edit.own" title="JACTION_EDITOWN" description="JACTION_EDITOWN_COMPONENT_DESC" />
+		<action name="core.edit.state" title="JACTION_EDITSTATE" description="JACTION_EDITSTATE_COMPONENT_DESC" />
+		<action name="core.edit.state.own" title="COM_COMMUNITYPOLLS_JACTION_EDIT_OWN_STATE" description="COM_COMMUNITYPOLLS_JACTION_EDIT_OWN_STATE_DESC" />
+		<action name="core.delete" title="JACTION_DELETE" description="JACTION_DELETE_COMPONENT_DESC" />
+		<action name="core.delete.own" title="COM_COMMUNITYPOLLS_JACTION_DELETE_OWN" description="COM_COMMUNITYPOLLS_JACTION_DELETE_OWN_DESC" />
+		<action name="core.polls.approve" title="COM_COMMUNITYPOLLS_JACTION_AUTOAPPROVE" description="COM_COMMUNITYPOLLS_JACTION_AUTOAPPROVE_DESC" />
+		<action name="core.vote" title="COM_COMMUNITYPOLLS_JACTION_VOTE" description="COM_COMMUNITYPOLLS_JACTION_VOTE_DESC" />
+		<action name="core.results.view" title="COM_COMMUNITYPOLLS_JACTION_VIEW_RESULTS" description="COM_COMMUNITYPOLLS_JACTION_VIEW_RESULTS_DESC" />
+		<action name="core.wysiwyg" title="COM_COMMUNITYPOLLS_JACTION_WYSIWYG" description="COM_COMMUNITYPOLLS_JACTION_WYSIWYG_DESC" />
+		<action name="core.attachments" title="COM_COMMUNITYPOLLS_JACTION_ATTACHMENTS" description="COM_COMMUNITYPOLLS_JACTION_ATTACHMENTS_DESC" />
+		<action name="core.vcaptcha" title="COM_COMMUNITYPOLLS_JACTION_CAPTCHA" description="COM_COMMUNITYPOLLS_JACTION_CAPTCHA_DESC" />
+	</section>
+	<section name="category">
+		<action name="core.create" title="JACTION_CREATE" description="JACTION_CREATE_COMPONENT_DESC" />
+		<action name="core.edit" title="JACTION_EDIT" description="JACTION_EDIT_COMPONENT_DESC" />
+		<action name="core.edit.own" title="JACTION_EDITOWN" description="JACTION_EDITOWN_COMPONENT_DESC" />
+		<action name="core.edit.state" title="JACTION_EDITSTATE" description="JACTION_EDITSTATE_COMPONENT_DESC" />
+		<action name="core.edit.state.own" title="COM_COMMUNITYPOLLS_JACTION_EDIT_OWN_STATE" description="COM_COMMUNITYPOLLS_JACTION_EDIT_OWN_STATE_DESC" />
+		<action name="core.delete" title="JACTION_DELETE" description="JACTION_DELETE_COMPONENT_DESC" />
+		<action name="core.delete.own" title="COM_COMMUNITYPOLLS_JACTION_DELETE_OWN" description="COM_COMMUNITYPOLLS_JACTION_DELETE_OWN_DESC" />
+		<action name="core.polls.approve" title="COM_COMMUNITYPOLLS_JACTION_AUTOAPPROVE" description="COM_COMMUNITYPOLLS_JACTION_AUTOAPPROVE_DESC" />
+		<action name="core.vote" title="COM_COMMUNITYPOLLS_JACTION_VOTE" description="COM_COMMUNITYPOLLS_JACTION_VOTE_DESC" />
+		<action name="core.results.view" title="COM_COMMUNITYPOLLS_JACTION_VIEW_RESULTS" description="COM_COMMUNITYPOLLS_JACTION_VIEW_RESULTS_DESC" />
+		<action name="core.wysiwyg" title="COM_COMMUNITYPOLLS_JACTION_WYSIWYG" description="COM_COMMUNITYPOLLS_JACTION_WYSIWYG_DESC" />
+		<action name="core.attachments" title="COM_COMMUNITYPOLLS_JACTION_ATTACHMENTS" description="COM_COMMUNITYPOLLS_JACTION_ATTACHMENTS_DESC" />
+		<action name="core.vcaptcha" title="COM_COMMUNITYPOLLS_JACTION_CAPTCHA" description="COM_COMMUNITYPOLLS_JACTION_CAPTCHA_DESC" />
+	</section>
+	<section name="poll">
+		<action name="core.edit" title="JACTION_EDIT" description="JACTION_EDIT_COMPONENT_DESC" />
+		<action name="core.edit.state" title="JACTION_EDITSTATE" description="JACTION_EDITSTATE_COMPONENT_DESC" />
+		<action name="core.delete" title="JACTION_DELETE" description="JACTION_DELETE_COMPONENT_DESC" />
+		<action name="core.vote" title="COM_COMMUNITYPOLLS_JACTION_VOTE" description="COM_COMMUNITYPOLLS_JACTION_VOTE_DESC" />
+		<action name="core.results.view" title="COM_COMMUNITYPOLLS_JACTION_VIEW_RESULTS" description="COM_COMMUNITYPOLLS_JACTION_VIEW_RESULTS_DESC" />
+		<action name="core.vcaptcha" title="COM_COMMUNITYPOLLS_JACTION_CAPTCHA" description="COM_COMMUNITYPOLLS_JACTION_CAPTCHA_DESC" />
+	</section>
+</access>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jomsocial>
+    <component>com_communitypolls</component>
+    <rules>
+        <rule>
+            <name>Community Polls - Submit Poll</name>
+            <description>Points awarded for submitting poll.</description>
+            <action_string>com_communitypolls.polls</action_string>
+            <publish>true</publish>
+            <points>0</points>
+            <access_level>1</access_level>
+        </rule>
+        <rule>
+            <name>Community Polls - Vote on a poll</name>
+            <description>Points awarded for voting on polls.</description>
+            <action_string>com_communitycore.votes</action_string>
+            <publish>true</publish>
+            <points>0</points>
+            <access_level>1</access_level>
+        </rule>
+    </rules>
+</jomsocial>

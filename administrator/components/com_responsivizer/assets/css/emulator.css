@@ -1,0 +1,251 @@
+#wrapper {
+	z-index: 999999;
+	background-color: #dedede;
+	position: fixed;
+	top: 0;
+	left: 0;
+	height: 100%;
+	min-height: 100%;
+	min-width: 100%;
+	background-image: url('../../images/ruler-v.png'),
+		url('../../images/ruler-h.png');
+	background-position: 0 0, 0 52px;
+	background-repeat: no-repeat;
+}
+
+#emulator_toolbar {
+	padding: 12px 0 12px 1em;
+	position: absolute;
+	background-color: #333;
+	width: 100%;
+	box-sizing: border-box;
+}
+
+#emulator_iframe {
+	background-color: #CACACA;
+	border: none;
+	border-radius: 50px;
+	display: block;
+	width: 320px;
+	height: 568px;
+	margin: 100px auto;
+	border: none;
+}
+
+#emulator_iframe.portrait {
+	padding: 80px 27px 80px 27px;
+}
+
+#emulator_iframe.landscape {
+	padding: 27px 80px 27px 80px;
+}
+
+#emulator_iframe.animating {
+	
+}
+
+#closer {
+	float: right;
+	margin-top: -8px;
+	margin-right: 3px;
+}
+
+div.container {
+	margin-top: 5px;
+}
+
+#emulator_toolbar .navbar {
+	float: left;
+	margin-bottom: 0 !important;
+}
+
+#emulator_toolbar .navbar .nav {
+	margin: 0;
+}
+
+#emulator_toolbar .navbar .nav>li>a {
+	color: #999;
+}
+
+#emulator_toolbar .navbar .nav li.dropdown>.dropdown-toggle .caret {
+	border-top-color: #999;
+	border-bottom-color: #999;
+}
+
+#emulator_toolbar .navbar .nav li.dropdown.container_active>.dropdown-toggle .caret
+	{
+	border-top-color: #777;
+	border-bottom-color: #777;
+}
+
+#emulator_toolbar .navbar li.dropdown {
+	width: 150px;
+}
+
+#emulator_toolbar .navbar li.dropdown:first-child {
+	border-right: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+#emulator_toolbar .navbar li.dropdown a {
+	text-align: left;
+}
+
+#emulator_toolbar .navbar li.dropdown a .caret {
+	margin: 6px 5px 0 5px;
+}
+
+#emulator_toolbar .navbar-inner {
+	min-height: 26px;
+	padding-right: 5px;
+	padding-left: 5px;
+}
+
+#emulator_toolbar .navbar .nav li.dropdown.open>.dropdown-toggle {
+	color: #111;
+	background-color: #F3F3F3;
+	border-radius: 4px;
+}
+
+#emulator_toolbar .navbar .nav li.dropdown.container_active>.dropdown-toggle
+	{
+	color: #111;
+}
+
+#emulator_toolbar ul.dropdown-menu li {
+	display: block;
+	color: #333;
+	padding: 2px 8px;
+	min-height: 34px;
+	border-bottom: 1px solid #ddd;
+	border-bottom-color: rgba(0, 0, 0, 0.05);
+	text-align: left;
+	position: relative;
+	cursor: pointer;
+	font-size: 14px;
+}
+
+#emulator_toolbar ul.dropdown-menu li:hover {
+	background-color: #EFEFEF;
+}
+
+#emulator_toolbar ul.dropdown-menu li.active {
+	background-color: #DEDEDE;
+}
+
+#emulator_toolbar .dropdown-menu {
+	min-width: 200px;
+	font-size: 14px;
+	color: #333;
+}
+
+#emulator_toolbar ul.dropdown-menu li span {
+	display: block;
+	font-size: 11px;
+	color: #aaa;
+	font-weight: normal;
+}
+
+#emulator_toolbar input.sizes {
+	width: 60px;
+	height: 18px;
+	min-height: 18px;
+	padding: 4px 6px;
+}
+
+#emulator_toolbar .navbar .nav>li>a {
+	padding: 0 !important;
+	font-size: 12px;
+}
+
+#emulator_toolbar .input-append,#emulator_toolbar .input-prepend {
+	margin-bottom: 0;
+	margin-left: 5px;
+	float: left;
+}
+
+#emulator_toolbar .input-append,#emulator_toolbar .input-prepend span.add-on
+	{
+	position: relative;
+}
+
+#emulator_toolbar span.icon-resize-vertical {
+	margin-right: 8px;
+}
+
+#emulator_toolbar span.icon-resize-horizontal {
+	position: absolute;
+	left: 9px;
+	top: 9px;
+}
+
+#emulator_toolbar button.btn.btn-small,#emulator_toolbar input[type="submit"].btn.btn-small
+	{
+	margin-left: 5px;
+	float: left;
+	margin-top: 4px;
+}
+
+#emulator_toolbar button.btn.btn-small span {
+	margin-right: 5px;
+}
+
+#emulator_toolbar span.icon-expand-2 {
+	margin-right: 5px;
+}
+
+#windowsize {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
+
+#currentdevice {
+	position: absolute;
+	top: 52px;
+	padding: 8px 20px;
+	font-size: 14px;
+	z-index: -1;
+}
+
+span.manufacturer {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	top: 5px;
+	right: 5px;
+}
+
+span.manufacturer.android {
+	background-image: url('../../images/icon-android.png');
+}
+
+span.manufacturer.apple {
+	background-image: url('../../images/icon-safari.png');
+}
+
+span.manufacturer.motorola {
+	background-image: url('../../images/icon-motorola.png');
+}
+
+span.manufacturer.blackberry {
+	background-image: url('../../images/icon-blackberry.png');
+}
+
+span.manufacturer.windows {
+	background-image: url('../../images/icon-windows.png');
+}
+
+#waiter {
+	position: absolute;
+	left: 50%;
+	margin-left: -64px;
+	top: 300px;
+}
+
+/* ============  Breakpoint 319px ============= */
+@media ( max-width : 1024px) {
+	#windowsize {
+		font-size: 11px;
+		padding: 1px;
+	}
+}

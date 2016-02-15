@@ -1,0 +1,83 @@
+.bottom-site{border-top:1px solid #2f2f2f;color:#333}
+#search .inputbox{color:#333;background:transparent url(../../../images/white-10.png) 0 0 repeat}
+#search .inputbox:hover,#search .inputbox:focus{color:#333;background:transparent url(../../../images/white-20.png) 0 0 repeat}
+#search .inputbox:focus{color:#333}
+ul.menu li ul{background-color:#D1D1D1;background:url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzJhMmEyYSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwMDAwMDAiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);background:linear-gradient(to bottom,rgba(177,192,95,1) 0%,rgba(154,173,60,1) 100%);box-shadow:0 2px 3px rgba(255,255,255,0.3)}
+ul.menu li ul:hover,ul.menu li li ul:hover{box-shadow:0 2px 3px rgba(255,255,255,0.45)}
+ul.menu li a,ul.menu li span{color:#474747}
+ul.menu li li a,ul.menu li li span{color:#FFF;border:1px solid #C2C2C2}
+.top_menu li a{color:#ccc;text-shadow:none}
+.content_menu ul{background:transparent url(../../../images/white-07.png) 0 0 repeat}
+.content_menu li{text-shadow:none}
+.content_menu li a,.content_menu li span.separator{color:#999}
+.content_menu li.active a,.content_menu li:hover a{color:#bbb;text-shadow:none;background-color:#1c1c1c;background:url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzJkMmQyZCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwZDBkMGQiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);background:linear-gradient(to bottom,rgba(45,45,45,1) 0%,rgba(13,13,13,1) 100%);box-shadow:0 0 2px rgba(255,255,255,0.24)}
+.content_menu li a:active{color:#999;box-shadow:0 0 2px rgba(255,255,255,0.10);background-color:#191919;background:url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzExMTExMSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMzNjM2MzYiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);background:linear-gradient(to bottom,rgba(17,17,17,1) 0%,rgba(54,54,54,1) 100%)}
+.submenu li a,.submenu li span.separator{color:#aaa}
+.submenu li li a,.submenu li li span.separator,.submenu li.active li a,.submenu li.active li span.separator{color:#999;background-image:url(../../../images/puce-link-black.png)}
+.submenu li li li a,.submenu li li li span.separator,.submenu li.active li li a,.submenu li.active li li span.separator,.submenu li.active li.active li a,.submenu li.active li.active li span.separator{color:#999}
+body{color:#000;background:#C2D985 url(../../../images/pattern-white.png) 0 0 repeat}
+h1,.componentheading,.contentheading{color:#ccc}
+h1 a{color:#ccc}
+h1 a:hover{color:#ccc}
+.blog h1{color:#474747}
+h2{color:#474747}
+h2 a{color:#474747}
+h2 a:hover{color:#474747}
+h3{color:#333;font-weight:700}
+.module h3{color:#474747;border-color:#3a3a3a}
+a{color:#fff}
+.link a{background-image:url(../../../images/puce-link-black.png)}
+.main-content ul li:hover,.blog_more ul li:hover,.normal li:hover,.check li:hover,.arrow li:hover,.normal_red li:hover,.check_red li:hover,.arrow_red li:hover,.circle li:hover,.circle_red li:hover,.normal_white li:hover,.check_white li:hover,.arrow_white li:hover,.circle_white li:hover,ol li:hover{color:#9c9c9c}
+.jmessage,.info{background:transparent url(../../../images/white-10.png) 0 0 repeat;border-color:#555;box-shadow:2px 2px 4px #555}
+.jmessage:hover,.info:hover{background:transparent url(../../../images/white-14.png) 0 0 repeat;box-shadow:2px 2px 4px #666}
+.info{background-color:#555}
+a.readon{text-shadow:none;background:#333 url(../../../images/white-07.png) top left repeat;box-shadow:0 1px 2px rgba(255,255,255,0.5);color:#ddd}
+a.readon:hover{box-shadow:0 1px 2px rgba(255,255,255,0.25);color:#fff}
+a.readon:active{box-shadow:0 1px 2px rgba(255,255,255,0.5);background:#323232}
+.shadow{box-shadow:2px 2px 6px #999}
+a .shadow:hover{border-color:#aaa;box-shadow:2px 2px 6px #666}
+.bottom-site a{color:#353535}
+.top .border,.bottom .border,.left_column .border,.right-module-position .border,.user1 .border,.user2 .border,.user3 .border,.user4 .border,.user5 .border,.user6 .border{border-color:#444}
+.top .grey,.bottom .grey,.left_column .grey,.right-module-position .grey{background-image:url(../../../images/black-20.png)}
+.user1 .grey,.user2 .grey,.user3 .grey,.user4 .grey,.user5 .grey,.user6 .grey{background-image:url(../../../images/black-20.png)}
+.top .light,.bottom .light,.left_column .light,.right-module-position .light{background-image:url(../../../images/white-04.png)}
+.user1 .light,.user2 .light,.user3 .light,.user4 .light,.user5 .light,.user6 .light{background-image:url(../../../images/white-04.png)}
+#article-index{background-image:url(../../../images/white-07.png)}
+.article_column,.leading{background-image:url(../../../images/underline-blacktheme.png)}
+.sectiontableheader{background-image:url(../../../images/white-07.png)}
+.sectiontableheader a{color:#ddd}
+tr.sectiontableentry1 td,tr.even td{border-color:#bbb}
+tr.sectiontableentry2 td,tr.odd td{background-image:url(../../../images/white-07.png);border-color:#bbb}
+input[type="text"],input[type="password"],input[type="email"],textarea{background:transparent url(../../../images/white-80.png) top left repeat;box-shadow:1px 1px 2px rgba(0,0,0,0.7) inset;color:#474747}
+input[type="text"]:hover,textarea:hover,input[type="password"]:hover,input[type="password"]:focus,input[type="email"]:hover,input[type="email"]:focus,input[type="text"]:focus,textarea:focus{box-shadow:1px 1px 2px rgba(0,0,0,0.6) inset,0 0 3px rgba(255,255,255,0.4);color:#474747}
+input[type="submit"],button{color:#eee;text-shadow:none;background-color:#454545;box-shadow:0 1px 2px rgba(255,255,255,0.5)}
+input[type="submit"]:hover,button:hover{color:#eee;box-shadow:0 1px 2px rgba(255,255,255,0.25)}
+input[type="submit"]:active,button:active{color:#ddd;box-shadow:0 1px 2px rgba(255,255,255,0.5);background:#333;background:url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzMzMzMzMyIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiM1YjViNWIiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);background:linear-gradient(to bottom,rgba(51,51,51,1) 0%,rgba(91,91,91,1) 100%)}
+div.pagination ul li,ul.pagenav li{border-color:#333}
+ul.category.list-striped li{color:#333}
+.cbContainer{z-index:9999999}
+.cbBox h3{color:#000;line-height:13px}
+.vmCartContainer,.vmCartContainer .inputbox,.vmCartContainer .inputbox:hover,.vmCartContainer .inputbox:focus{color:#000}
+.blog_more{border-color:#444}
+.blog_more h2{color:#ccc}
+.tip-wrap{background-color:#000;border:1px solid #888;color:#ccc}
+.tip-title{color:#fff}
+#system-message{background-image:url(../../../images/black-60.png);border-color:#444;box-shadow:2px 2px 4px #666}
+#system-message dt.error{color:#fff}
+#system-message dl.message{color:#ccc!important}
+nav.top_menu div.moduletable.menutop{background-color:#226013;border-color:#226013;color:#000}
+nav.top_menu div.moduletable.menutop ul.menu li{border-bottom:1px solid #CACACA;background-color:#226013}
+nav.top_menu div.moduletable.menutop h3,nav.top_menu div.moduletable.menutop ul.menu li a,nav.top_menu div.moduletable.menutop ul.menu li span{color:#FFF}
+nav.top_menu div.moduletable.menutop ul.menu li span:hover,nav.top_menu div.moduletable.menutop ul.menu li span:active{color:#FFF}
+nav.top_menu div.moduletable.menutop ul.menu li.active > a{color:#8DC971}
+nav.top_menu div.moduletable.menutop h3{border-bottom:1px solid #CACACA}
+nav.top_menu div.moduletable.menutop h3:hover{border-color:#DEDEDE!important}
+nav.top_menu div.moduletable.menutop h3.menumodule.activeaccordion{background:transparent url(../../../images/white_menunav.png) no-repeat;background-position:right 10px top 3px}
+nav.top_menu div.moduletable.menutop ul.menu li ul{background:#226013}
+nav.top_menu div.moduletable.menutop ul.menu li ul li a,nav.top_menu div.moduletable.menutop ul.menu li ul li span.separator{color:#FFF}
+nav.top_menu div.moduletable.menutop ul.menu li:hover > a,nav.top_menu div.moduletable.menutop ul.menu li:hover > span,nav.top_menu div.moduletable.menutop ul.menu li ul.nav-child li:hover > a,nav.top_menu div.moduletable.menutop ul.menu li ul.nav-child li:hover>span{background-color:#39823C;color:#FFF}
+nav.top_menu div.moduletable.menutop ul.menu li ul li.active > a,nav.top_menu div.moduletable.menutop ul.menu li ul li.active>span.separator{background-color:#226013;color:#8DC971}
+nav.top_menu div.moduletable.menutop ul.menu li ul li.clicked>a{border-bottom:1px solid #CACACA}
+#sidemenu_trigger,#sidemenu_trigger_container{background-color:#226013}
+nav.side_menu div.moduletable{background-color:#C2D985}
+#top_search input.inputbox{border-right:1px solid #CACACA;color:#FFF}

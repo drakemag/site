@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" version="1.6" client="site" method="upgrade">
+    <name>Responsivizer mobile switcher</name>
+	<author>Joomla! Extensions Store</author>
+	<creationDate>February 2015</creationDate>
+	<copyright>Copyright (C) 2014 - Joomla! Extensions Store. All Rights Reserved.</copyright>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<authorEmail>info@storejextensions.org</authorEmail>
+	<authorUrl>http://storejextensions.org</authorUrl>
+	<version>2.1.1</version>
+	<description>Responsivizer switcher to mobile layout</description>
+	
+    <files>
+		<folder>tmpl</folder>
+		<folder>assets</folder>
+		<folder>language</folder>
+        <filename>index.html</filename>
+        <filename module="mod_responsivizerswitcher">mod_responsivizerswitcher.php</filename>
+    </files>
+    
+    <params></params>		
+				
+	<params group="advanced">
+
+			<param name="cache" type="list" default="1" label="Caching" description="Select whether to cache the content of this module">
+				<option value="1">Use global</option>
+				<option value="0">No caching</option>
+			</param>
+			<param name="cache_time" type="text" default="900" label="Cache Time" description="The time before the module is recached" />
+
+	</params>
+</extension>

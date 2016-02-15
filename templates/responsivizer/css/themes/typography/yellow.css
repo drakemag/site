@@ -1,0 +1,7 @@
+.border_top_header{background-color:#556270;height:5px}
+h3:hover{border-color:#FC6}
+ul.menu li:hover>span,ul.menu li.active>a,ul.menu li.active>span{color:#ff7101}
+nav.main_menu ul.menu li:hover>a,nav.side_menu ul.menu li:hover>a{color:#000;box-shadow:0 2px 3px rgba(0,0,0,0.3)}
+nav.top_menu div.moduletable.menutop ul.menu li:hover > a{color:#FFF}
+ul.menu li:hover>a,ul.menu li li:hover>a,ul.menu li li:hover>span,ul.menu li li.active>a,ul.menu li li.active>span{background-color:#FC6;color:#000}
+a,a:hover,.breadcrumb a:hover,.user7 .link a:hover,.user8 .link a:hover,.user9 .link a:hover,h1,.componentheading,.contentheading,h1 a,#social-links li.text_social_icons,.submenu li>a:hover,.submenu li>span.separator:hover,.submenu li.current>a,ul.menu li:hover>a,ul.menu li:hover>span,ul.menu li.active>a,ul.menu li.active>span,.content_menu li.active a,.content_menu li:hover a,.content_menu li:focus a,.top_menu li a:hover,#top_menu li span.separator:hover,.bottom_menu li a,#bottom_menu li span.separator,.bottom_menu li a:hover,#bottom_menu li span.separator:hover{color:#FC6}

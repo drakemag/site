@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<form>
+  <fieldset>
+    <field name="id" type="text" default="0" label="COM_STORELOCATOR_FORM_LBL_LOCATION_ID"
+            readonly="true" class="readonly"
+            description="JGLOBAL_FIELD_ID_DESC" />
+    <field name="name" type="text"
+            label="COM_STORELOCATOR_FORM_LBL_LOCATION_NAME"
+            description="COM_STORELOCATOR_FORM_DESC_LOCATION_NAME" 
+            required="true" 
+            filter="string"
+            maxlength="200" />
+			
+    <field name="address" type="text"
+            label="COM_STORELOCATOR_FORM_LBL_LOCATION_ADDRESS"
+            description="COM_STORELOCATOR_FORM_DESC_LOCATION_ADDRESS" 
+            required="false" 
+            filter="string" />
+    
+	<field name="lat" type="text" size="40" class="inputbox"
+            label="COM_STORELOCATOR_FORM_LBL_LOCATION_LAT"
+            description="COM_STORELOCATOR_FORM_DESC_LOCATION_LAT" 
+         default="0" 
+         required="true" 
+        filter="safehtml" />
+		
+    <field name="long" type="text" size="40" class="inputbox"
+            label="COM_STORELOCATOR_FORM_LBL_LOCATION_LONG"
+            description="COM_STORELOCATOR_FORM_DESC_LOCATION_LONG" 
+         default="0" 
+         required="true" 
+        filter="safehtml" />
+		
+    <field name="catid" type="sql" class="inputbox"
+            label="COM_STORELOCATOR_FORM_LBL_LOCATION_CATID"
+            description="COM_STORELOCATOR_FORM_DESC_LOCATION_CATID" 
+        multiple="multiple"
+         required="true" 
+        query="SELECT 0 AS `id`, '- Select Category -' AS `name` UNION SELECT `id`, `name` FROM `#__storelocator_cats`" key_field="id" value_field="name"
+         />
+		 
+    <field name="filter_catid" type="sql" class="inputbox"
+            onchange="this.form.submit();"
+            query="SELECT 0 AS `id`, '- Select Category -' AS `name` UNION SELECT `id`, `name` FROM `#__storelocator_cats`" key_field="id" value_field="name"
+             />
+			 
+    <field name="tags" type="sql" class="inputbox"
+            label="COM_STORELOCATOR_FORM_LBL_LOCATION_TAGS"
+            description="COM_STORELOCATOR_FORM_DESC_LOCATION_TAGS" 
+        multiple="multiple"
+        query="SELECT 0 AS `id`, '- Select Tags -' AS `name` UNION SELECT `id`, `name` FROM `#__storelocator_tags`" key_field="id" value_field="name"
+         />
+		 
+    <field name="filter_tags" type="sql" class="inputbox"
+            onchange="this.form.submit();"
+            query="SELECT 0 AS `id`, '- Select Tags -' AS `name` UNION SELECT `id`, `name` FROM `#__storelocator_tags`" key_field="id" value_field="name"
+             />
+    <field
+        name="featured"
+        type="list"
+        label="COM_STORELOCATOR_FORM_LBL_LOCATION_FEATURED"
+        description="COM_STORELOCATOR_FORM_DESC_LOCATION_FEATURED"
+        class="inputbox"
+        size="1"
+        default="0">
+      <option value="1">JFEATURED</option>
+      <option value="0">JUNFEATURED</option>
+    </field>
+	
+    <field name="description" type="editor"
+            label="COM_STORELOCATOR_FORM_LBL_LOCATION_DESCRIPTION"
+            description="COM_STORELOCATOR_FORM_DESC_LOCATION_DESCRIPTION" 
+            filter="safehtml" />
+			
+    <field name="phone" type="text"
+            label="COM_STORELOCATOR_FORM_LBL_LOCATION_PHONE"
+            description="COM_STORELOCATOR_FORM_DESC_LOCATION_PHONE" 
+            filter="string"
+            maxlength="100" />
+			
+    <field name="website" type="text"
+            label="COM_STORELOCATOR_FORM_LBL_LOCATION_WEBSITE"
+            description="COM_STORELOCATOR_FORM_DESC_LOCATION_WEBSITE" 
+            filter="url" />
+			
+    <field name="facebook" type="text"
+            label="COM_STORELOCATOR_FORM_LBL_LOCATION_FACEBOOK"
+            description="COM_STORELOCATOR_FORM_DESC_LOCATION_FACEBOOK" 
+            filter="url" />
+			
+    <field name="twitter" type="text" class="input-medium"
+            label="COM_STORELOCATOR_FORM_LBL_LOCATION_TWITTER"
+            description="COM_STORELOCATOR_FORM_DESC_LOCATION_TWITTER" 
+            filter="string" />
+			
+    <field name="email" type="text"
+            label="COM_STORELOCATOR_FORM_LBL_LOCATION_EMAIL"
+            description="COM_STORELOCATOR_FORM_DESC_LOCATION_EMAIL" 
+            filter="string"
+            maxlength="200" />
+			
+    <field name="cust1" type="text"
+            label="COM_STORELOCATOR_FORM_LBL_LOCATION_CUST1"
+            description="COM_STORELOCATOR_FORM_DESC_LOCATION_CUST1" 
+            filter="string" />
+			
+    <field name="cust3" type="text"
+            label="COM_STORELOCATOR_FORM_LBL_LOCATION_CUST3"
+            description="COM_STORELOCATOR_FORM_DESC_LOCATION_CUST3" 
+            filter="string" />
+			
+    <field name="cust2" type="text"
+
+            label="COM_STORELOCATOR_FORM_LBL_LOCATION_CUST2"
+            description="COM_STORELOCATOR_FORM_DESC_LOCATION_CUST2" 
+            filter="string" />
+			
+    <field name="cust4" type="text"
+            label="COM_STORELOCATOR_FORM_LBL_LOCATION_CUST4"
+            description="COM_STORELOCATOR_FORM_DESC_LOCATION_CUST4" 
+            filter="string" />
+			
+    <field name="cust5" type="text"
+            label="COM_STORELOCATOR_FORM_LBL_LOCATION_CUST5"
+            description="COM_STORELOCATOR_FORM_DESC_LOCATION_CUST5" 
+            filter="string" />
+			
+    <field name="publish_up" type="calendar"
+            label="COM_STORELOCATOR_FORM_LBL_LOCATION_PUBLISH_UP"
+            description="COM_STORELOCATOR_FORM_DESC_LOCATION_PUBLISH_UP" 
+            filter="raw" />
+			
+    <field name="publish_down" type="calendar"
+            label="COM_STORELOCATOR_FORM_LBL_LOCATION_PUBLISH_DOWN"
+            description="COM_STORELOCATOR_FORM_DESC_LOCATION_PUBLISH_DOWN" 
+            filter="raw" />
+			
+    <field name="created_by" type="createdby" default="" 
+            label="COM_STORELOCATOR_FORM_LBL_LOCATION_CREATED_BY"
+            description="COM_STORELOCATOR_FORM_DESC_LOCATION_CREATED_BY"  />
+			
+    <field name="access" type="accesslevel"
+            label="COM_STORELOCATOR_FORM_LBL_LOCATION_ACCESS"
+            description="COM_STORELOCATOR_FORM_DESC_LOCATION_ACCESS" 
+            filter="raw" />
+			
+    <field name="filter_access" type="accesslevel" onchange="this.form.submit();" />
+	
+    <field name="access" type="accesslevel"
+            label="COM_STORELOCATOR_FORM_LBL_LOCATION_ACCESS"
+            description="COM_STORELOCATOR_FORM_DESC_LOCATION_ACCESS" 
+            filter="raw" />
+			
+    <field
+        name="state"
+        type="list"
+        label="JSTATUS"
+        description="JFIELD_PUBLISHED_DESC"
+        class="inputbox"
+        size="1"
+        default="1">
+      <option value="1">JPUBLISHED</option>
+      <option value="0">JUNPUBLISHED</option>
+    </field>
+	
+    <field name="checked_out" type="hidden" filter="unset" />
+	
+    <field name="checked_out_time" type="hidden" filter="unset" />
+	
+  </fieldset>
+</form>

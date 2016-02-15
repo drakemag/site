@@ -1,0 +1,19 @@
+#pa-container { border: 1px solid #ccc; padding: 10px; -moz-border-radius: 5px; -webkit-border-radius: 5px;}
+#pa-container .pa-preview { border: 1px solid #ccc;	padding: 10px; -moz-border-radius: 5px; -webkit-border-radius: 5px; margin-bottom: 10px;}
+#pa-container .pa-title { font: bold 120%/140% Arial, sans-serif, helvetica;}
+#pa-container .pa-description { font: normal 100%/110% Arial, sans-serif, helvetica; margin-bottom: 10px;}
+#pa-container .pa-metadata { font: normal 100%/110% Arial, sans-serif, helvetica; border: 1px solid #ccc; background-color: #F4FEF3; padding: 5px; margin-bottom: 10px;}
+#pa-container .pa-answers { margin: 0 0 10px 0; padding: 0;}
+#pa-container .pa-answer { margin: 0; padding: 0;}
+#pa-container .pa-answer td { margin: 0 0 10px 0;}
+#pa-container .pa-alt { background-color: #F6F6F6;}
+#pa-container .pa-choicetext { width: 100%;}
+#pa-container .pa-avatar { float: left; margin-right: 10px;}
+#pa-container .pa-details { font: bold 90%/110% Arial, sans-serif, helvetica;}
+#pa-container .pa-clear { clear: both;}
+#pa-container .pa-ruler { border-bottom: 1px; border-style: solid; border-color: #ccc; margin-bottom: 5px;}
+#pa-container .pa-votes { float: right;}
+#pa-container .pa-chart { border: 1px dotted #ccc; margin: 2px 0px 10px 0; padding: 1px; float: left; background-color: #f2f2f2; font-weight: bold; line-height: 12px; font-size: 11px; vertical-align: middle; width: 100%;}
+#pa-container .pa-percent { height: 12px;}
+#pa-container .pa-clear { clear: both;}
+#pa-container .pa-credits { font: normal 90%/110% Arial, helvetica, sans-serif; text-decoration: none;}

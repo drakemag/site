@@ -1,0 +1,15 @@
+a:15:{i:0;d:394.18;i:1;s:26:"daily-drake.html?start=808";i:2;i:0;i:3;i:19956;i:4;i:80110204;i:5;i:4;i:6;s:11:"11,764.6 Kb";i:7;i:19832;i:8;i:0;i:9;d:364.09;i:10;d:0.23093;i:11;i:1668;i:12;a:0:{}i:13;s:280:"[0.39s] pre1 = 0.00s 
+ pre2a = 0.00s 
+ pre2b = 0.00s 
+ extract = 0.37s 
+ analyze = 0.00s 
+ parse = 0.00s 
+ llist = 0.00s 
+ post = 0.00s 
+ post-save1 = 0.00s 
+ post-save2 = 0.00s 
+ post-progress1 = 0.00s 
+ post-progress2 = 0.00s 
+ post-progress3 = 0.00s 
+ post-progress4 = 0.00s 
+ ";i:14;a:1:{s:8:"smcreate";a:3:{i:0;s:4:"html";i:1;i:2301;i:2;i:19832;}}}

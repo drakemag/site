@@ -1,0 +1,220 @@
+@charset "utf-8";
+
+/* CSS Document */
+*{margin:0px; padding:0px; font-family:Arial, Verdana, Helvetica, sans-serif;}
+td{vertical-align:top;}
+
+/**** GLOBALS ***********************************************************************************/
+/************************************************************************************************/
+a img{border:0; text-decoration:none;} 
+li{}
+#content li{}
+.contentpaneopen ul, .contentpaneopen ol,
+.blog ul, .blog ol{}
+p{padding:4px 0;}
+.img,a img{border:0px; text-decoration:none;}
+ul,ol{margin:0 0 0 7px;}
+li{margin:0 0 0 7px;}
+blockquote{padding:0 30px 15px; font-weight:bold; font-style:italic;}
+
+
+	/**** SPECIALIZED CLASSES *******************************************************************/
+	.left{margin:0 20px 20px 0;}
+	.right{margin:0 0 20px 20px;}
+	.callout_left{width:30%; float:left; margin:0 20px 20px 0;}
+	.callout_right{width:30%; float:left; margin:0 0 20px 20px;}
+
+	/**** FONT SIZES ****************************************************************************/
+	*{font-size:13.5px;}
+	.small, .small a{font-size:12px;}
+	.smaller, .smaller a{font-size:11px;}
+	.x-small, .x-small a{font-size:10px;}
+	h1,
+	.contentheading,
+	.contentpagetitle{font-size:24px; color:#990000;}
+	h2,
+	.componentheading{font-size:19px; color:#336600;}
+	
+	h3{font-size:13px;}
+	h4{font-size:13px;}
+	h5{font-size:12px;}
+	h6{font-size:11px;}
+	
+	.left, .img_left, .image_left{font-size:12px;}
+	.right, .img_right, .image_right{font-size:12px;}
+	.callout_left,
+	.callout_right{font-size:22px;}
+
+/**** LINKS *************************************************************************************/
+/************************************************************************************************/
+*|*:-moz-any-link:focus {outline-width: 0 !important;}
+a{color:#006699;}
+
+a.contentheading,
+a.contentpagetitle{color:#4d8ac1; text-decoration: none;}
+
+a.contentheading:hover,
+a.contentpagetitle:hover{color:#4d8ac1; text-decoration:underline;}
+
+a.readmore, a.read_more, a.readon, a.readon_more{float:right; margin-bottom:15px;}
+
+.contentheading a,
+.contentpagetitle a{color:#000; text-decoration:none;}
+
+.contentheading a:hover,
+.contentpagetitle a:hover{color:#4d8ac1;}
+
+
+
+/**** STRUCTURE *********************************************************************************/
+/************************************************************************************************/
+body{}
+#wrapper{width:988px; margin:10px auto;}
+	#header{width:988px; height:230px; float:left; clear:both; background:#9C9;}
+		#logo{width:200px; height:230px; float:left;}
+		#main_menu{width:788px; height:230px; float:left;}
+	#focus{width:988px; float:left; clear:both; background:#CCC;}
+		#left{width:200px; float:left; background:#FFC;}
+		#content{float:left;}
+			#blockrandom{padding-top:-346px;}
+				#blockrandom #header{display:none; visibility:hidden;}
+		#right{width:200px; float:left; background:#6CF;}
+	#footer{width:988px; height:36px; float:left; clear:both; background:#996;}
+	#credits{width:988px; height:16px; float:left; clear:both; background:#999;}
+
+/**** PAGES *************************************************************************************/
+/************************************************************************************************/
+
+/**** FORMS *************************************************************************************/
+/************************************************************************************************/
+
+	/**** CONTACT FORM **************************************************************************/
+	#contact_form{width:320px; float:left; padding-top:20px;}
+	#contact_form ul{list-style:none;}
+	#contact_map{width:330px; float:right; border:1px solid #e0e0e0; }
+	#map_title{width:250px; float:right; text-align:left; padding-top:10px;}
+	
+	#contact_form .input_section{padding-bottom:10px;}
+	#contact_form label{width:200px; text-align:left; padding-bottom:10px; }
+	#contact_form input{width:200px; float:right; }
+	#contact_form input#security{margin-top:0px; float:left;}
+	#contact_form textarea{width:320px; height:90px; margin-top:10px; text-align:left;}
+	#contact_form #freecap{margin-top:10px;} 
+	#contact_form #captcha{float:left; }
+	#contact_form .submit_button input{ width:115px; height:22px; float:left; clear:both; margin-top:10px;}
+	.required{color:#920000;}
+	
+	table.contact_form fieldset{padding:2px 0 2px 4px; margin:0 0 10px 0;}
+	table.contact_form legend{ font-weight:bold;}
+	table.contact_form label,legend{font-size:12px;}
+	table.contact_form input,textarea,select{font-size:12px; padding:2px 2px 1px 2px;}
+	table.contact_form input.submit_button{width:115px; height:22px;}
+	table.contact_form span.captcha{color:#999;}
+	table.contact_form span.captcha p{font-size:10px;}
+	table.contact_form .button_map{height:22px; padding:0px; margin:0px;}
+	#contact_right{float:right; padding-left:67px; width:407px; height:570px; border-left:1px solid #cccccc;}
+	
+	
+	
+	table.contact_form span.captcha{color:#999;}
+	table.contact_form span.captcha p{font-size:10px;}
+	table.contact_form .button_map{height:22px; padding:0px; margin:0px;}
+	
+	s div.moduletable, #focus .search-modulesearch{padding-bottom:20px;}
+	#slide_show div.moduletable{padding-bottom:0px;}
+	#search *{ float:right;}
+	input.inputbox-modulesearch{width:184px; border:1px solid #D8D8D8;}
+	.contentpaneopen fieldset{margin:4px 0; padding:2px 10px 4px 4px;}
+	.contentpaneopen fieldset div{font-size:12px;}
+	.contentpaneopen fieldset div a{font-weight:bold;}
+	span.highlight{background:#FFFF00; font-weight:bold;}
+	
+	form#searchForm td label {padding-right:10px;}
+	form#searchForm td {padding:3px 0;}
+	form#searchForm input {margin:0 3px;}
+	form#searchForm td button {margin-left:5px; margin-top:-3px;}
+
+/**** JOOMLA INTERNAL ***************************************************************************/
+/************************************************************************************************/
+div.my-pagenav{font-weight:bold; text-align:center;}
+.contentpaneopen{width:100%;}
+.contentheading,
+.contentpane{font-weight:bold; color:#666666; border-bottom:1px solid #666666 ;width:100%; clear:both; height:40px;}
+
+	/**** TABLE OF CONTENTS, PAGINATION ************************************************************/
+	table.contenttoc{width:124px; float:right; border:1px solid #b7be85; padding-bottom:4px; margin:2px 2px 10px 10px;}
+	table.contenttoc th{background:#b7be85; color:#fff;}
+	table.contenttoc td{background:#fff; color:#000; padding:0 3px;}
+	div.pagenavcounter{display:none;}
+	
+	div.pagenavbar{width:100%; text-align:center;}
+	div.pagenavbar div{width:120px; padding-left:200px;}
+	
+	span.pagination span,span.pagination a{padding:0 2px;}
+	.sectiontableentry1 td,.sectiontableentry2 td{padding:2px 4px 2px 2px;}
+
+	/**** SEARCH RESULTS ***************************************************************************/
+	#searchForm{float:left;}
+		#searchForm div{float:left; width:100%; clear:both;}
+	#mod_search_searchword{width:130px;}
+	div.search input{vertical-align:middle;}
+	#focus div.moduletable, #focus .search-modulesearch{padding-bottom:20px;}
+	#slide_show div.moduletable{padding-bottom:0px;}
+	#search *{ float:right;}
+	input.inputbox-modulesearch{width:184px; border:1px solid #D8D8D8;}
+	.contentpaneopen fieldset{margin:4px 0; padding:2px 10px 4px 4px;}
+	.contentpaneopen fieldset div{font-size:12px;}
+	.contentpaneopen fieldset div a{font-weight:bold;}
+	span.highlight{background:#FFFF00; font-weight:bold;}
+
+
+	/**** SYSTEM MESSAGES ***************************************************************************/
+	dl#system-message{}
+		dt.error{}
+		dd.error{}
+			dd.error ul{}
+				dd.error li{}
+				.message {text-align: center; color: red; font-weight: bold; background: #eee; border: 1px solid #f55; padding: 15px; margin-bottom: 25px;}
+
+/**** EXTENSIONS *********************************************************/
+/*************************************************************************/
+
+
+	/**** MODULES ************************************************************/
+	div.moduletable{width:100%;}
+
+		/**** NEWSLETTER OPT-IN **********************************************/
+		#newsletter .moduletable{float:right;}
+		#newsletter .moduletable ul.menu{list-style:none; padding:0px; margin:0px;}
+		#newsletter .moduletable ul.menu li{list-style:none; padding:0px; margin:0px;}
+
+		/**** MENU SYSTEMS ***************************************************/
+		#main_menu ul li a{ padding:4px;}
+		
+		#credits div{float:right;}
+		#credits ul.menu{list-style:none;}
+		#credits ul.menu li{display:inline;}
+		#credits ul.menu li a{color:#fff; text-decoration:none}
+		
+		#footer ul.menu{height:; list-style:none; padding-top:20px;}
+		#footer ul.menu li{height:;display:inline;}
+		#footer ul.menu li a{height:;color:#; text-decoration:none;}
+
+	/**** COMPONENTS *********************************************************/
+
+
+	/**** PLUGINS ************************************************************/
+
+
+	
+
+
+	
+
+
+
+	
+	
+
+
+

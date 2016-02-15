@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 2.5//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/1.6/template-install.dtd">
+<extension version="3.0" type="template" client="site" method="upgrade">
+	<name>Responsivizer</name>
+	<author>Joomla! Extensions Store</author>
+	<creationDate>February 2015</creationDate>
+	<copyright>Copyright (C) 2013 - Joomla! Extensions Store. All Rights Reserved.</copyright>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<authorEmail>info@storejextensions.org</authorEmail>
+	<authorUrl>http://storejextensions.org</authorUrl>
+	<version>2.1.1</version>
+	<description>TPL_RESPONSIVIZER_DESCRIPTION</description>
+	 
+	<files>
+		<filename>favicon.ico</filename>
+		<filename>index.html</filename>
+		<filename>index.php</filename>
+		<filename>appcacheoffline.php</filename>
+		<filename>component.php</filename>
+		<filename>params.ini</filename>
+		<filename>template_preview.png</filename>
+		<filename>template_thumbnail.png</filename>
+		
+		<!-- CSS -->
+		<folder>css</folder> 
+		
+		<!-- FONTS AWESOME -->
+		<folder>fonts</folder> 
+		
+		<!-- FRAMEWORK -->
+		<folder>framework</folder> 
+		
+		<!-- HTML OVERRIDES -->
+		<folder>html</folder> 
+		
+		<!-- IMAGES -->
+		<folder>images</folder> 
+		
+		<!-- JS -->
+		<folder>js</folder>   
+		
+		<!-- LANGUAGE -->
+		<folder>language</folder> 
+	</files>
+	
+	<!-- TEMPLATE UPDATES -->
+	<templateupdates>
+		<filename>templateDetails.xml</filename>
+		<filename>index.php</filename>
+		<filename>js/utility.js</filename>
+		<folder>css/resources</folder>
+		<folder>css/themes</folder>
+		<folder>framework</folder>
+		<folder>html</folder>
+		<folder>fonts</folder>
+		<folder>images</folder>
+	</templateupdates>
+	
+	<positions>
+		<position>responsivizer_language_switcher</position>
+		<position>responsivizer_menu_top</position>
+		<position>responsivizer_menu_side</position>
+		<position>responsivizer_logo</position>
+		<position>responsivizer_mainmenu</position>
+		<position>responsivizer_search</position>
+		<position>responsivizer_breadcrumb</position>
+		<position>responsivizer_top</position>
+		<position>responsivizer_left</position>
+		<position>responsivizer_right</position>
+		<position>responsivizer_slideshow</position>
+		<position>responsivizer_user1</position>
+		<position>responsivizer_user2</position>
+		<position>responsivizer_user3</position>
+		<position>responsivizer_user4</position>
+		<position>responsivizer_user5</position>
+		<position>responsivizer_user6</position>
+		<position>responsivizer_bottom</position>
+		<position>responsivizer_copyright</position>
+		<position>responsivizer_menu_bottom</position>
+		<position>responsivizer_debug</position>
+	</positions> 
+</extension>

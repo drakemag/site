@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="component" version="1.6.0" method="upgrade">
+    <name>com_storelocator</name>
+    <creationDate>March 2015</creationDate>
+    <copyright>Copyright (C) 2015. Sysgen Media LLC. All rights reserved.</copyright>
+    <license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+    <author>Sysgen Media</author>
+    <authorEmail>support@sysgenmedia.com</authorEmail>
+    <authorUrl>http://www.sysgenmedia.com</authorUrl>
+    <version>2.3.0</version>
+    <description>Add a Places Locator on your website using the power of Google Maps.</description>
+    
+    <scriptfile>script.storelocator.php</scriptfile>
+	<install> <!-- Runs on install -->
+        <sql>
+            <file driver="mysql" charset="utf8">sql/install.mysql.utf8.sql</file>
+        </sql>
+    </install>
+	
+	<media folder="media" destination="com_storelocator">
+		<filename>sysgen_16.png</filename>
+		<filename>sysgen_48.png</filename>
+		<folder>markers</folder>
+	</media>
+	
+    <files folder="site">
+        <filename>index.html</filename>
+        <filename>storelocator.php</filename>
+        <filename>controller.php</filename>
+        <filename>router.php</filename>
+        <folder>assets</folder>
+		<folder>views</folder>
+        <folder>models</folder>
+        <folder>controllers</folder>
+        <folder>helpers</folder>
+    </files>
+    <languages folder="site">
+        <language tag="en-GB">language/en-GB.com_storelocator.ini
+        </language>
+    </languages>
+    <administration>
+        <menu img="components/com_storelocator/assets/images/s_com_storelocator.png" >COM_STORELOCATOR</menu>
+        <submenu>
+            
+			<menu link="option=com_storelocator&amp;view=locations" view="locations" img="components/com_storelocator/assets/images/s_locations.png" alt="Storelocator/Locations">COM_STORELOCATOR_TITLE_LOCATIONS</menu>
+
+			<menu link="option=com_storelocator&amp;view=categories" view="categories" img="components/com_storelocator/assets/images/s_categories.png" alt="Storelocator/Categories">COM_STORELOCATOR_TITLE_CATEGORIES</menu>
+
+			<menu link="option=com_storelocator&amp;view=tags" view="tags" img="components/com_storelocator/assets/images/s_tags.png" alt="Storelocator/Tags">COM_STORELOCATOR_TITLE_TAGS</menu>
+
+			<menu link="option=com_storelocator&amp;view=markers" view="markers" img="components/com_storelocator/assets/images/s_markers.png" alt="Storelocator/Markers">COM_STORELOCATOR_TITLE_MARKERS</menu>
+
+			<menu link="option=com_storelocator&amp;view=searchlog" view="searchlog" img="components/com_storelocator/assets/images/s_searchlog.png" alt="Storelocator/Searchlog">COM_STORELOCATOR_TITLE_SEARCHLOG</menu>
+
+			<menu link="option=com_storelocator&amp;view=importexport" view="importexport" img="components/com_storelocator/assets/images/s_importexport.png" alt="Storelocator/Importexport">COM_STORELOCATOR_TITLE_IMPORTEXPORT</menu>
+
+			<menu link="option=com_storelocator&amp;view=batchgeocoding" view="batchgeocoding" img="components/com_storelocator/assets/images/s_batchgeocoding.png" alt="Storelocator/Batchgeocoding">COM_STORELOCATOR_TITLE_BATCHGEOCODING</menu>
+
+        </submenu>
+        <files folder="administrator">
+            <filename>access.xml</filename>
+            <filename>config.xml</filename>
+            <filename>controller.php</filename>
+            <filename>index.html</filename>
+            <filename>storelocator.php</filename>
+            <folder>controllers</folder>
+            <folder>assets</folder>
+            <folder>help</folder>
+			<folder>helpers</folder>
+            <folder>models</folder>
+            <folder>sql</folder>
+            <folder>tables</folder>
+            <folder>views</folder>
+        </files>
+        <languages folder="administrator">
+            
+			<language tag="en-GB">language/en-GB.com_storelocator.ini</language>
+			<language tag="en-GB">language/en-GB.com_storelocator.sys.ini</language>
+        </languages>
+    </administration>
+	
+	<tables>
+		<table>#__storelocator_locations</table>
+		<table>#__storelocator_cats</table>
+		<table>#__storelocator_tags</table>
+		<table>#__storelocator_tag_map</table>
+		<table>#__storelocator_marker_types</table>
+		<table>#__storelocator_log_search</table>
+	</tables>
+</extension>

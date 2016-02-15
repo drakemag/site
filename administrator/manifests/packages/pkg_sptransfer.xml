@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension type="package" version="3.3">
+  <name>SP Transfer Package</name>
+  <creationDate>2014</creationDate>
+  <author>SP CYEND</author>
+  <authorEmail>info@cyend.com</authorEmail>
+  <authorUrl>http://www.cyend.com</authorUrl>
+  <copyright>SP CYEND - All rights reserved.</copyright>
+  <license>GNU/GPLv3 http://www.gnu.org/licenses/gpl-3.0.html</license>
+  <packagename>sptransfer</packagename>
+  <version>3.6.8</version>
+  <url>http://cyend.com/extensions/</url>
+  <packager>SP CYEND</packager>
+  <packagerurl>http://cyend.com/extensions/</packagerurl>
+  <description>SP Transfer Component</description>
+  <files>    
+  	<file type="library" id="spcyend" >spcyend_3.1.11_j3.3.zip</file>
+	<file type="component" id="com_sptransfer">com_sptransfer_3.6.8_j3.3.zip</file>
+  </files>
+  <updateservers>
+        <server type="extension" priority="1" name="SP CYEND Update Site">http://cyend.com/extensions/index.php?option=com_ars&amp;view=update&amp;task=stream&amp;format=xml&amp;dlid=&amp;id=13&amp;dummy=extension.xml</server>
+    </updateservers>
+</extension>

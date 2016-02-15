@@ -1,0 +1,21 @@
+//Password Protect file
+<Files *.php>
+AuthName "Restricted Area" 
+AuthType Basic 
+AuthUserFile /home/rxjdkdfp/public_html/adserver/.htpasswd 
+AuthGroupFile /dev/null 
+require valid-user
+</Files>
+
+//Prevent viewing of .htaccess file
+<Files .htaccess>
+order allow,deny
+deny from all
+</Files>
+
+//Prevent directory listings
+Options All -Indexes
+
+
+
+

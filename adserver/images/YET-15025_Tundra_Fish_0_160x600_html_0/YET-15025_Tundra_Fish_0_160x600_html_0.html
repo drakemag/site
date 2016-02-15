@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>YET-15025_Tundra_Fish_0_160x600_html_0</title>
+
+<script src="//code.createjs.com/easeljs-0.8.1.min.js"></script>
+<script src="//code.createjs.com/tweenjs-0.6.1.min.js"></script>
+<script src="//code.createjs.com/movieclip-0.8.1.min.js"></script>
+<script src="//code.createjs.com/preloadjs-0.6.1.min.js"></script>
+<script src="YET-15025_Tundra_Fish_0_160x600_html_0.js"></script>
+
+<script>
+var clickTag = 'http://yeticoolers.com/coolers/shop-by-category/tundra-series/';
+var canvas, stage, exportRoot;
+
+function init() {
+	canvas = document.getElementById("canvas");
+	images = images||{};
+
+	var loader = new createjs.LoadQueue(false);
+	loader.addEventListener("fileload", handleFileLoad);
+	loader.addEventListener("complete", handleComplete);
+	loader.loadManifest(lib.properties.manifest);
+}
+
+function handleFileLoad(evt) {
+	if (evt.item.type == "image") { images[evt.item.id] = evt.result; }
+}
+
+function handleComplete(evt) {
+	exportRoot = new lib.YET15025_Tundra_Fish_0_160x600_html_0();
+
+	stage = new createjs.Stage(canvas);
+	stage.addChild(exportRoot);
+	stage.update();
+	stage.enableMouseOver();
+
+	createjs.Ticker.setFPS(lib.properties.fps);
+	createjs.Ticker.addEventListener("tick", stage);
+}
+</script>
+</head>
+
+<body onload="init();" style="margin: 0;">
+	<canvas id="canvas" width="160" height="600" style="background-color:#000000"></canvas>
+</body>
+</html>

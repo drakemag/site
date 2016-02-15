@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install SYSTEM "http://www.joomla.org/xml/dtd/1.5/module-install.dtd">
+<extension type="module" version="1.5.0" method="upgrade">
+	<name>Responsive Menu</name>
+	<author>Cecil Gupta</author>
+	<creationDate>January 2013</creationDate>
+	<copyright>Copyright (C) Cecil Gupta. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<authorEmail>cecilgupta@gmail.com</authorEmail>
+	<authorUrl>www.AddonStreet.com</authorUrl>
+	<version>3.3.0</version>
+	<description>Responsive Menus for Joomla</description>
+	<files>
+		<filename module="mod_responsivemenu">mod_responsivemenu.php</filename>
+		<filename>helper.php</filename>
+		<filename>index.html</filename>		
+		<filename>mod_responsivemenu.xml</filename>
+		<filename>en-GB.mod_responsivemenu.ini</filename>
+		<folder>tmpl</folder>
+		<folder>js</folder>
+	</files>
+	<media destination="mod_responsivemenu" folder="mod_responsivemenu">
+		<folder>css</folder>
+		<folder>images</folder>
+		<file>index.html</file>
+	</media>
+	<languages>
+		<language tag="en-GB">en-GB.mod_responsivemenu.ini</language>
+	</languages>
+	<config>
+		<fields name="params">
+			<fieldset name="basic">
+				
+				<field name="menutype" type="menu" label="Select Menu" description="Select the Menu you want to use" /> 
+
+				<field name="selectTheme" type="list" default="1" label="Select Theme" description="Select theme when none is specified" >
+					<option value="1">Theme 1</option>
+					<option value="2">Theme 2</option>
+					<option value="3">Theme 3</option>
+					<option value="4">Theme 4</option>
+					<option value="5">Theme 5</option>
+					<option value="6">Theme 6</option>
+					<option value="7">Theme 7</option>
+					<option value="8">Theme 8</option>
+				</field>
+
+				<field name="rtlLayout" class="btn-group" type="radio" default="0" label="RTL Menu Layout" description="If you are using any RTL language, turn this on."> 
+					<option value="0">JNO</option>
+					<option value="1">JYES</option>
+				</field>
+
+				<field name="menuBG" type="color" default="#3474A6" label="Menu Background" description="background color of the menu"  />
+				<field name="textColor" type="color" default="#ffffff" label="Menu Text Color" description="color of the menu text"  />
+				<field name="textColor2" type="color" default="#247eab" label="Text Color 2 - theme 6 &amp; 7" description="Another 2nd level+ Text color for certain themes 6 and 7"  />
+
+				<field name="maxMobileWidth" type="text" default="800" label="Max Mobile Width" description="Max width where the mobile view shall be displayed. Above that desktop view shall be used. value in pixels" />
+			</fieldset>
+
+			<fieldset name="advanced">				
+				<field name="class_sfx" type="text" label="Menu Class Suffix" description="A suffix to be applied to the CSS class of the menu items" />
+				<field name="moduleclass_sfx" type="text" label="COM_MODULES_FIELD_MODULECLASS_SFX_LABEL" description="COM_MODULES_FIELD_MODULECLASS_SFX_DESC" /> 
+
+				<field name="startLevel" type="list" default="1" label="Start Level" description="Level to start rendering the menu at. Setting the start and end levels to the same # and setting 'Show Sub-menu Items' to yes will only display that single level" >
+					<option value="1">J1</option>
+					<option value="2">J2</option>
+					<option value="3">J3</option>
+					<option value="4">J4</option>
+					<option value="5">J5</option>
+					<option value="6">J6</option>
+					<option value="7">J7</option>
+					<option value="8">J8</option>
+					<option value="9">J9</option>
+					<option value="10">J10</option>
+				</field>
+
+				<field name="endLevel" type="list" default="0" label="End Level" description="Level to stop rendering the menu at. If you choose 'All', all levels will be shown depending on 'Show Sub-menu Items' setting" >
+					<option value="0">JALL</option>
+					<option value="1">J1</option>
+					<option value="2">J2</option>
+					<option value="3">J3</option>
+					<option value="4">J4</option>
+					<option value="5">J5</option>
+					<option value="6">J6</option>
+					<option value="7">J7</option>
+					<option value="8">J8</option>
+					<option value="9">J9</option>
+					<option value="10">J10</option>
+				</field>
+
+				<field name="showAllChildren" class="btn-group" type="radio" default="1" label="Show Sub-menu Items" description="Expand the menu and make its sub-menu items always visible"> 
+					<option value="0">JNO</option>
+					<option value="1">JYES</option>
+				</field>
+
+				<field name="jQuery" class="btn-group" type="radio" default="1" description="Select Yes to load fresh jquery library instance. Joomla 3 is supposed to have jQuery already" label="Load jQuery Library" >
+					<option value="0">JNO</option>
+					<option value="1">JYES</option>
+				</field>
+
+
+				<field name="cache" type="list" default="1" label="COM_MODULES_FIELD_CACHING_LABEL" description="COM_MODULES_FIELD_CACHING_DESC">
+					<option value="1">JGLOBAL_USE_GLOBAL</option> 
+					<option value="0">COM_MODULES_FIELD_VALUE_NOCACHING</option>
+				</field>
+				
+				<field name="cache_time" type="text" default="900" label="COM_MODULES_FIELD_CACHE_TIME_LABEL" description="COM_MODULES_FIELD_CACHE_TIME_DESC" /> 
+
+				<field name="cachemode" type="hidden" default="itemid"> 
+					<option value="itemid"></option>
+				</field>
+
+			</fieldset>
+		</fields>
+	</config>
+</extension>

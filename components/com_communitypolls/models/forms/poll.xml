@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<form>
+	<fieldset addfieldpath="/administrator/components/com_categories/models/fields" addrulepath="/administrator/components/com_communitypolls/models/rules">
+		<field name="id" type="text" class="readonly" label="JGLOBAL_FIELD_ID_LABEL" description ="JGLOBAL_FIELD_ID_DESC" size="10" default="0" readonly="true" />
+		<field name="asset_id" type="hidden" filter="unset" />
+		<field name="poll-final-answers" type="hidden"/>
+		<field name="poll-final-columns" type="hidden"/>
+
+		<field name="title" type="text" label="JGLOBAL_TITLE" description="JFIELD_TITLE_DESC" class="inputbox input-block-level input-large-text" size="40" required="true" />
+		<field name="alias" type="text" label="JFIELD_ALIAS_LABEL" description="JFIELD_ALIAS_DESC" hint="JFIELD_ALIAS_PLACEHOLDER" class="inputbox input-block-level input-large-text" size="40" />
+		<field name="description" type="editor" class="inputbox" asset_id="com_communitypolls"
+		    label="COM_COMMUNITYPOLLS_FIELD_DESCRIPTION_LABEL" description="COM_COMMUNITYPOLLS_FIELD_DESCRIPTION_DESC" filter="JComponentHelper::filterText" buttons="true" />
+		<field name="end_message" type="editor" class="inputbox"  asset_id="com_communitypolls"
+		    label="COM_COMMUNITYPOLLS_FIELD_END_MESSAGE_LABEL" description="COM_COMMUNITYPOLLS_FIELD_END_MESSAGE_DESC" filter="JComponentHelper::filterText" buttons="true" />
+		
+		<field name="published" type="list" label="JSTATUS" description="JFIELD_PUBLISHED_DESC" class="chzn-color-state" filter="intval" size="1" default="1">
+			<option value="1">JPUBLISHED</option>
+			<option value="0">JUNPUBLISHED</option>
+			<option value="2">JARCHIVED</option>
+			<option value="-2">JTRASHED</option>
+		</field>
+		
+		<field name="catid" type="categoryedit" label="JCATEGORY" description="JFIELD_CATEGORY_DESC" class="inputbox input-block-level" required="true"></field>
+		<field name="tags" type="tag" label="JTAG" description="JTAG_DESC" class="inputbox" multiple="true"></field>
+		
+		<field name="buttonspacer" description="JGLOBAL_ACTION_PERMISSIONS_DESCRIPTION" type="spacer" />
+		
+		<field name="created" type="calendar" label="COM_COMMUNITYPOLLS_FIELD_CREATED_LABEL" description="COM_COMMUNITYPOLLS_FIELD_CREATED_DESC" class="inputbox" size="22" format="%Y-%m-%d %H:%M:%S" filter="user_utc" />
+		<field name="created_by" type="user" label="COM_COMMUNITYPOLLS_FIELD_CREATED_BY_LABEL" description="COM_COMMUNITYPOLLS_FIELD_CREATED_BY_DESC" />
+		<field name="created_by_alias" type="text" label="COM_COMMUNITYPOLLS_FIELD_CREATED_BY_ALIAS_LABEL" description="COM_COMMUNITYPOLLS_FIELD_CREATED_BY_ALIAS_DESC" class="inputbox" size="20" />
+		<field name="modified" type="calendar" class="readonly" label="JGLOBAL_FIELD_MODIFIED_LABEL" description="COM_COMMUNITYPOLLS_FIELD_MODIFIED_DESC" size="22" readonly="true" format="%Y-%m-%d %H:%M:%S" filter="user_utc" />
+		<field name="modified_by" type="user" label="JGLOBAL_FIELD_MODIFIED_BY_LABEL" class="readonly" readonly="true" filter="unset"/>
+		<field name="checked_out" type="hidden" filter="unset" />
+		<field name="checked_out_time" type="hidden" filter="unset" />
+
+		<field name="publish_up" type="calendar" label="COM_COMMUNITYPOLLS_FIELD_PUBLISH_UP_LABEL" description="COM_COMMUNITYPOLLS_FIELD_PUBLISH_UP_DESC" class="inputbox" format="%Y-%m-%d %H:%M:%S" size="22" filter="user_utc" />
+		<field name="publish_down" type="calendar" label="COM_COMMUNITYPOLLS_FIELD_PUBLISH_DOWN_LABEL" description="COM_COMMUNITYPOLLS_FIELD_PUBLISH_DOWN_DESC" class="inputbox" format="%Y-%m-%d %H:%M:%S" size="22" filter="user_utc" />
+
+		<!-- 
+		<field name="version" type="text" class="readonly" label="COM_COMMUNITYPOLLS_FIELD_VERSION_LABEL" size="6" description="COM_COMMUNITYPOLLS_FIELD_VERSION_DESC" readonly="true" filter="unset" />
+		 -->
+		<field name="ordering" type="text" label="JFIELD_ORDERING_LABEL" description="JFIELD_ORDERING_DESC" class="inputbox" size="6" default="0" />
+		<field name="min_answers" type="text" label="COM_COMMUNITYPOLLS_FIELD_MINIMUM_ANSWERS_LABEL" description="COM_COMMUNITYPOLLS_FIELD_MINIMUM_ANSWERS_DESC" class="inputbox" default="1" />
+		<field name="max_answers" type="text" label="COM_COMMUNITYPOLLS_FIELD_MAXIMUM_ANSWERS_LABEL" description="COM_COMMUNITYPOLLS_FIELD_MAXIMUM_ANSWERS_DESC" class="inputbox" default="0" />
+
+		<field name="metakey" type="textarea" label="JFIELD_META_KEYWORDS_LABEL" description="JFIELD_META_KEYWORDS_DESC" class="inputbox" rows="3" cols="60" />
+		<field name="metadesc" type="textarea" label="JFIELD_META_DESCRIPTION_LABEL" description="JFIELD_META_DESCRIPTION_DESC" class="inputbox" rows="3" cols="60" />
+		<field name="access" type="accesslevel" label="JFIELD_ACCESS_LABEL" description="JFIELD_ACCESS_DESC" size="1" />
+
+		<field name="language" type="contentlanguage" label="JFIELD_LANGUAGE_LABEL" description="COM_COMMUNITYPOLLS_FIELD_LANGUAGE_DESC">
+			<option value="*">JALL</option>
+		</field>
+
+		<field name="featured" type="radio" class="btn-group btn-group-yesno" label="JFEATURED" description="COM_COMMUNITYPOLLS_FIELD_FEATURED_DESC" default="0">
+			<option value="1">JYES</option>
+			<option value="0">JNO</option>
+		</field>
+		
+		<field name="captcha" type="captcha" label="COM_COMMUNITYPOLLS_FIELD_CAPTCHA_LABEL" description="COM_COMMUNITYPOLLS_FIELD_CAPTCHA_DESC" validate="cpcaptcha"/>
+		<field name="rules" type="rules" label="JFIELD_RULES_LABEL" translate_label="false" class="inputbox" filter="rules" component="com_communitypolls" section="poll" validate="rules"/>
+	</fieldset>
+
+	<fieldset addfieldpath="/administrator/components/com_communitypolls/models/fields" >
+		<field name="type" type="PollType" label="COM_COMMUNITYPOLLS_FIELD_POLL_TYPE_LABEL" description="COM_COMMUNITYPOLLS_FIELD_POLL_TYPE_DESC" class="input-block-level" size="1">
+			<option value="radio">COM_COMMUNITYPOLLS_FIELD_OPTION_RADIO</option>
+			<option value="checkbox">COM_COMMUNITYPOLLS_FIELD_OPTION_CHECKBOX</option>
+			<option value="grid">COM_COMMUNITYPOLLS_FIELD_OPTION_RADIO_GRID</option>
+		</field>
+		<field name="chart_type" type="ChartType" class="btn-group" label="COM_COMMUNITYPOLLS_FIELD_CHART_TYPE_LABEL" description="COM_COMMUNITYPOLLS_FIELD_CHART_TYPE_DESC">
+			<option value="sbar">COM_COMMUNITYPOLLS_LABEL_SBAR_CHART</option>
+			<option value="gpie">COM_COMMUNITYPOLLS_LABEL_GPIE_CHART</option>
+			<option value="bar">COM_COMMUNITYPOLLS_LABEL_IMAGE_BAR_CHART</option>
+			<option value="pie">COM_COMMUNITYPOLLS_LABEL_IMAGE_PIE_CHART</option>
+		</field>
+	</fieldset>
+	
+	<fieldset name="preferences" label="COM_COMMUNITYPOLLS_FIELDSET_CUSTOMIZE">
+	    
+		<field name="close_date" type="calendar" label="COM_COMMUNITYPOLLS_FIELD_CLOSING_DATE_LABEL" description="COM_COMMUNITYPOLLS_FIELD_CLOSING_DATE_DESC" class="inputbox" format="%Y-%m-%d %H:%M:%S" size="22" filter="user_utc" />
+		<field name="results_up" type="calendar" label="COM_COMMUNITYPOLLS_FIELD_RESULTS_UP_LABEL" description="COM_COMMUNITYPOLLS_FIELD_RESULTS_UP_DESC" class="inputbox" format="%Y-%m-%d %H:%M:%S" size="22" filter="user_utc" />
+	    
+	    <field name="custom_answer" type="list" class="btn-group" label="COM_COMMUNITYPOLLS_FIELD_CUSTOM_ANSWER_LABEL" description="COM_COMMUNITYPOLLS_FIELD_CUSTOM_ANSWER_DESC" filter="intval">
+		    <option value="">JGLOBAL_USE_GLOBAL</option>
+			<option value="0">COM_COMMUNITYPOLLS_LABEL_DISABLED</option>
+			<option value="1">COM_COMMUNITYPOLLS_LABEL_ENABLED</option>
+			<option value="2">COM_COMMUNITYPOLLS_LABEL_STACK_ANSWERS</option>
+		</field>
+		<field name="anywhere" type="list" class="btn-group" label="COM_COMMUNITYPOLLS_FIELD_POLLS_ANYWHERE_LABEL" description="COM_COMMUNITYPOLLS_FIELD_POLLS_ANYWHERE_DESC" filter="intval">
+		    <option value="">JGLOBAL_USE_GLOBAL</option>
+			<option value="0">COM_COMMUNITYPOLLS_LABEL_DISABLED</option>
+			<option value="1">COM_COMMUNITYPOLLS_LABEL_ENABLED</option>
+		</field>
+		<field name="featured" type="list" class="btn-group" label="COM_COMMUNITYPOLLS_FIELD_FEATURED_LABEL" description="COM_COMMUNITYPOLLS_FIELD_FEATURED_DESC" filter="intval">
+		    <option value="">JGLOBAL_USE_GLOBAL</option>
+			<option value="0">COM_COMMUNITYPOLLS_LABEL_DISABLED</option>
+			<option value="1">COM_COMMUNITYPOLLS_LABEL_ENABLED</option>
+		</field>
+		<field name="anonymous" type="list" class="btn-group" label="COM_COMMUNITYPOLLS_FIELD_ANONYMOUS_LABEL" description="COM_COMMUNITYPOLLS_FIELD_ANONYMOUS_DESC" filter="intval">
+		    <option value="">JGLOBAL_USE_GLOBAL</option>
+			<option value="0">COM_COMMUNITYPOLLS_LABEL_DISABLED</option>
+			<option value="1">COM_COMMUNITYPOLLS_LABEL_ENABLED</option>
+		</field>
+		<field name="private" type="list" class="btn-group" label="COM_COMMUNITYPOLLS_FIELD_PRIVATE_LABEL" description="COM_COMMUNITYPOLLS_FIELD_PRIVATE_DESC" filter="intval">
+		    <option value="">JGLOBAL_USE_GLOBAL</option>
+			<option value="0">COM_COMMUNITYPOLLS_LABEL_DISABLED</option>
+			<option value="1">COM_COMMUNITYPOLLS_LABEL_ENABLED</option>
+		</field>
+		<field name="answers_order" type="list" class="btn-group" label="COM_COMMUNITYPOLLS_FIELD_ANSWERS_ORDER_LABEL" description="COM_COMMUNITYPOLLS_FIELD_ANSWERS_ORDER_DESC">
+		    <option value="">JGLOBAL_USE_GLOBAL</option>
+			<option value="order">COM_COMMUNITYPOLLS_LABEL_ORDER</option>
+			<option value="votes">COM_COMMUNITYPOLLS_LABEL_VOTES</option>
+			<option value="random">COM_COMMUNITYPOLLS_LABEL_RANDOM</option>
+		</field>
+		<field name="modify_answers" type="list" class="btn-group" label="COM_COMMUNITYPOLLS_FIELD_MODIFY_ANSWERS_LABEL" description="COM_COMMUNITYPOLLS_FIELD_MODIFY_ANSWERS_DESC" filter="intval">
+		    <option value="">JGLOBAL_USE_GLOBAL</option>
+			<option value="0">COM_COMMUNITYPOLLS_LABEL_DISABLED</option>
+			<option value="1">COM_COMMUNITYPOLLS_LABEL_ENABLED</option>
+		</field>
+		<field name="pallete" type="list" default="default" class="btn-group pallete" label="COM_COMMUNITYPOLLS_FIELD_COLOR_PALETTE_LABEL" description="COM_COMMUNITYPOLLS_FIELD_COLOR_PALETTE_DESC">
+			<option value="default">COM_COMMUNITYPOLLS_LABEL_PALLETE_DEFAULT</option>
+			<option value="shankar">COM_COMMUNITYPOLLS_LABEL_PALLETE_SHANKAR</option>
+			<option value="kamala">COM_COMMUNITYPOLLS_LABEL_PALLETE_KAMALA</option>
+			<option value="autumn">COM_COMMUNITYPOLLS_LABEL_PALLETE_AUTUMN</option>
+			<option value="blind">COM_COMMUNITYPOLLS_LABEL_PALLETE_BLIND</option>
+			<option value="evening">COM_COMMUNITYPOLLS_LABEL_PALLETE_EVENING</option>
+			<option value="kitchen">COM_COMMUNITYPOLLS_LABEL_PALLETE_KITCHEN</option>
+			<option value="light">COM_COMMUNITYPOLLS_LABEL_PALLETE_LIGHT</option>
+			<option value="navy">COM_COMMUNITYPOLLS_LABEL_PALLETE_NAVY</option>
+			<option value="shade">COM_COMMUNITYPOLLS_LABEL_PALLETE_SHADE</option>
+			<option value="spring">COM_COMMUNITYPOLLS_LABEL_PALLETE_SPRING</option>
+			<option value="summer">COM_COMMUNITYPOLLS_LABEL_PALLETE_SUMMER</option>
+		</field>
+	</fieldset>
+
+	<fields name="attribs" label="COM_COMMUNITYPOLLS_FIELDSET_ATTRIBS">
+		<fieldset name="basic" label="COM_COMMUNITYPOLLS_FIELDSET_ATTRIBS">
+			<field name="show_title" type="list" class="chzn-color" label="JGLOBAL_SHOW_TITLE_LABEL" description="JGLOBAL_SHOW_TITLE_DESC">
+			    <option value="">JGLOBAL_USE_GLOBAL</option>
+				<option value="1">JSHOW</option>
+				<option value="0">JHIDE</option>
+			</field>
+
+			<field name="link_titles" type="list" class="chzn-color" label="JGLOBAL_LINKED_TITLES_LABEL" description="JGLOBAL_LINKED_TITLES_DESC">
+				<option value="">JGLOBAL_USE_GLOBAL</option>
+				<option	value="0">JNO</option>
+				<option value="1">JYES</option>
+			</field>
+
+			<field name="show_tags" type="list" class="chzn-color" label="COM_COMMUNITYPOLLS_FIELD_SHOW_TAGS_LABEL" description="COM_COMMUNITYPOLLS_FIELD_SHOW_TAGS_DESC">
+				<option value="">JGLOBAL_USE_GLOBAL</option>
+				<option value="1">JSHOW</option>
+				<option value="0">JHIDE</option>
+			</field>
+
+			<field name="show_intro" type="list" class="chzn-color" description="JGLOBAL_SHOW_INTRO_DESC" label="JGLOBAL_SHOW_INTRO_LABEL">
+				<option value="">JGLOBAL_USE_GLOBAL</option>
+				<option value="1">JSHOW</option>
+				<option value="0">JHIDE</option>
+			</field>
+			<field name="info_block_position" type="list" default="" label="COM_COMMUNITYPOLLS_FIELD_INFOBLOCK_POSITION_LABEL" description="COM_COMMUNITYPOLLS_FIELD_INFOBLOCK_POSITION_DESC">
+				<option value="">JGLOBAL_USE_GLOBAL</option>
+				<option value="0">COM_COMMUNITYPOLLS_FIELD_OPTION_ABOVE</option>
+				<option value="1">COM_COMMUNITYPOLLS_FIELD_OPTION_BELOW</option>
+			</field>
+
+			<field name="show_category" type="list" class="chzn-color" label="JGLOBAL_SHOW_CATEGORY_LABEL" description="JGLOBAL_SHOW_CATEGORY_DESC">
+			    <option value="">JGLOBAL_USE_GLOBAL</option>
+				<option	value="0">JHIDE</option>
+				<option	value="1">JSHOW</option>
+			</field>
+
+			<field name="link_category" type="list" class="chzn-color" label="JGLOBAL_LINK_CATEGORY_LABEL" description="JGLOBAL_LINK_CATEGORY_DESC">
+				<option value="">JGLOBAL_USE_GLOBAL</option>
+				<option	value="0">JNO</option>
+				<option	value="1">JYES</option>
+			</field>
+
+			<field name="show_parent_category" type="list" class="chzn-color" label="JGLOBAL_SHOW_PARENT_CATEGORY_LABEL" description="JGLOBAL_SHOW_PARENT_CATEGORY_DESC">
+				<option	value="">JGLOBAL_USE_GLOBAL</option>
+				<option	value="0">JHIDE</option>
+				<option	value="1">JSHOW</option>
+			</field>
+
+			<field name="link_parent_category" type="list" class="chzn-color" label="JGLOBAL_LINK_PARENT_CATEGORY_LABEL" description="JGLOBAL_LINK_PARENT_CATEGORY_DESC">
+				<option value="">JGLOBAL_USE_GLOBAL</option>
+				<option	value="0">JNO</option>
+				<option	value="1">JYES</option>
+			</field>
+
+			<field name="show_author" type="list" class="chzn-color" label="JGLOBAL_SHOW_AUTHOR_LABEL" description="JGLOBAL_SHOW_AUTHOR_DESC">
+			    <option	value="">JGLOBAL_USE_GLOBAL</option>
+				<option	value="0">JHIDE</option>
+				<option	value="1">JSHOW</option>
+			</field>
+
+			<field name="link_author" type="list" class="chzn-color" label="JGLOBAL_LINK_AUTHOR_LABEL" description="JGLOBAL_LINK_AUTHOR_DESC">
+				<option	value="">JGLOBAL_USE_GLOBAL</option>
+				<option	value="0">JNO</option>
+				<option	value="1">JYES</option>
+			</field>
+
+			<field name="show_create_date" type="list" class="chzn-color" label="JGLOBAL_SHOW_CREATE_DATE_LABEL" description="JGLOBAL_SHOW_CREATE_DATE_DESC">
+				<option	value="">JGLOBAL_USE_GLOBAL</option>
+				<option	value="0">JHIDE</option>
+				<option	value="1">JSHOW</option>
+			</field>
+
+			<field name="show_modify_date" type="list" class="chzn-color" label="JGLOBAL_SHOW_MODIFY_DATE_LABEL" description="JGLOBAL_SHOW_MODIFY_DATE_DESC">
+				<option	value="">JGLOBAL_USE_GLOBAL</option>
+				<option	value="0">JHIDE</option>
+				<option	value="1">JSHOW</option>
+			</field>
+
+			<field name="show_publish_date" type="list" class="chzn-color" label="JGLOBAL_SHOW_PUBLISH_DATE_LABEL" description="JGLOBAL_SHOW_PUBLISH_DATE_DESC">
+				<option value="">JGLOBAL_USE_GLOBAL</option>
+				<option	value="0">JHIDE</option>
+				<option	value="1">JSHOW</option>
+			</field>
+
+			<field name="show_item_navigation" type="list" class="chzn-color" label="JGLOBAL_SHOW_NAVIGATION_LABEL" description="JGLOBAL_SHOW_NAVIGATION_DESC">
+				<option value="">JGLOBAL_USE_GLOBAL</option>
+				<option value="0">JHIDE</option>
+				<option	value="1">JSHOW</option>
+			</field>
+
+			<field name="show_hits" type="list" class="chzn-color" label="COM_COMMUNITYPOLLS_SHOW_VOTES_LABEL" description="COM_COMMUNITYPOLLS_SHOW_VOTES_DESC">
+				<option	value="">JGLOBAL_USE_GLOBAL</option>
+				<option	value="0">JHIDE</option>
+				<option	value="1">JSHOW</option>
+			</field>
+
+			<field name="show_noauth" type="list" class="chzn-color" label="JGLOBAL_SHOW_UNAUTH_LINKS_LABEL" description="JGLOBAL_SHOW_UNAUTH_LINKS_DESC">
+				<option value="">JGLOBAL_USE_GLOBAL</option>
+				<option value="0">JNO</option>
+				<option value="1">JYES</option>
+			</field>
+
+			<field name="poll_layout" type="componentlayout" label="JFIELD_ALT_LAYOUT_LABEL" description="JFIELD_ALT_COMPONENT_LAYOUT_DESC" useglobal="true" extension="com_communitypolls" view="poll"/>
+
+			<field name="spacer2" type="spacer" hr="true"/>
+		</fieldset>
+
+		<fieldset name="editorConfig" label="COM_COMMUNITYPOLLS_EDITORCONFIG_FIELDSET_LABEL">
+			<field name="show_publishing_options" type="list" class="chzn-color" default="" label="COM_COMMUNITYPOLLS_SHOW_PUBLISHING_OPTIONS_LABEL" description="COM_COMMUNITYPOLLS_SHOW_PUBLISHING_OPTIONS_DESC">
+				<option value="">JGLOBAL_USE_GLOBAL</option>
+				<option value="0">JNO</option>
+				<option value="1">JYES</option>
+			</field>
+			
+			<field name="show_poll_options" type="list" class="chzn-color" default="" label="COM_COMMUNITYPOLLS_SHOW_POLL_OPTIONS_LABEL" description="COM_COMMUNITYPOLLS_SHOW_POLL_OPTIONS_DESC">
+				<option value="">JGLOBAL_USE_GLOBAL</option>
+				<option value="0">JNO</option>
+				<option value="1">JYES</option>
+			</field>
+		</fieldset>
+
+		<fieldset name="basic-limited" label="COM_COMMUNITYPOLLS_ATTRIBS_FIELDSET_LABEL">
+			<field name="show_title" type="hidden" label="JGLOBAL_SHOW_TITLE_LABEL" description="JGLOBAL_SHOW_TITLE_DESC"></field>
+			<field name="link_titles" type="hidden" label="JGLOBAL_LINKED_TITLES_LABEL" description="JGLOBAL_LINKED_TITLES_DESC"></field>
+			<field name="show_intro" type="hidden" description="JGLOBAL_SHOW_INTRO_DESC" label="JGLOBAL_SHOW_INTRO_LABEL"></field>
+			<field name="show_category" type="hidden" label="JGLOBAL_SHOW_CATEGORY_LABEL" description="JGLOBAL_SHOW_CATEGORY_DESC"></field>
+			<field name="link_category" type="hidden" label="JGLOBAL_LINK_CATEGORY_LABEL" description="JGLOBAL_LINK_CATEGORY_DESC"></field>
+			<field name="show_parent_category" type="hidden" label="JGLOBAL_SHOW_PARENT_CATEGORY_LABEL" description="JGLOBAL_SHOW_PARENT_CATEGORY_DESC"></field>
+			<field name="link_parent_category" type="hidden" label="JGLOBAL_LINK_PARENT_CATEGORY_LABEL" description="JGLOBAL_LINK_PARENT_CATEGORY_DESC"></field>
+			<field name="show_author" type="hidden" label="JGLOBAL_SHOW_AUTHOR_LABEL" description="JGLOBAL_SHOW_AUTHOR_DESC"></field>
+			<field name="link_author" type="hidden" label="JGLOBAL_LINK_AUTHOR_LABEL" description="JGLOBAL_LINK_AUTHOR_DESC"></field>
+			<field name="show_create_date" type="hidden" label="JGLOBAL_SHOW_CREATE_DATE_LABEL" description="JGLOBAL_SHOW_CREATE_DATE_DESC"></field>
+			<field name="show_modify_date" type="hidden" label="JGLOBAL_SHOW_MODIFY_DATE_LABEL" description="JGLOBAL_SHOW_MODIFY_DATE_DESC"></field>
+			<field name="show_publish_date" type="hidden" label="JGLOBAL_SHOW_PUBLISH_DATE_LABEL" description="JGLOBAL_SHOW_PUBLISH_DATE_DESC"></field>
+			<field name="show_item_navigation" type="hidden" label="JGLOBAL_SHOW_NAVIGATION_LABEL" description="JGLOBAL_SHOW_NAVIGATION_DESC"></field>
+			<field name="show_hits" type="hidden" label="JGLOBAL_SHOW_HITS_LABEL" description="JGLOBAL_SHOW_HITS_DESC"></field>
+			<field name="show_noauth" type="hidden" label="JGLOBAL_SHOW_UNAUTH_LINKS_LABEL" description="JGLOBAL_SHOW_UNAUTH_LINKS_DESC"></field>
+			<field name="poll_layout" type="hidden" label="JFIELD_ALT_LAYOUT_LABEL" description="JFIELD_ALT_COMPONENT_LAYOUT_DESC" useglobal="true" extension="com_communitypolls" view="poll"/>
+		</fieldset>
+	</fields>
+
+	<fields name="metadata" label="JGLOBAL_FIELDSET_METADATA_OPTIONS">
+		<fieldset name="jmetadata" label="JGLOBAL_FIELDSET_METADATA_OPTIONS">
+
+			<field name="robots" type="list" label="JFIELD_METADATA_ROBOTS_LABEL" description="JFIELD_METADATA_ROBOTS_DESC">
+				<option value="">JGLOBAL_USE_GLOBAL</option>
+				<option value="index, follow">JGLOBAL_INDEX_FOLLOW</option>
+				<option value="noindex, follow">JGLOBAL_NOINDEX_FOLLOW</option>
+				<option value="index, nofollow">JGLOBAL_INDEX_NOFOLLOW</option>
+				<option value="noindex, nofollow">JGLOBAL_NOINDEX_NOFOLLOW</option>
+			</field>
+
+			<field name="author" type="text" label="JAUTHOR" description="JFIELD_METADATA_AUTHOR_DESC" size="20" />
+
+			<field name="rights" type="textarea" label="JFIELD_META_RIGHTS_LABEL" description="JFIELD_META_RIGHTS_DESC" required="false" filter="string" cols="30" rows="2" />
+
+		</fieldset>
+	</fields>
+</form>

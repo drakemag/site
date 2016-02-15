@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<fieldset id="template_general" name="template_general" label="COM_RESPONSIVIZER_TEMPLATE_GENERAL">
+		<field type="spacer" class="label label-info spacer" label="COM_RESPONSIVIZER_JS_COLLAPSE" />
+		<field name="headers_accordion" type="radio" class="btn-group" default="1" label="COM_RESPONSIVIZER_ACCORDION" description="COM_RESPONSIVIZER_ACCORDION_DESC">
+			<option value="0">JNO</option>
+			<option value="1">JYES</option>
+		</field>
+		<field name="headers_menu_accordion_collapsed" type="radio" class="btn-group" default="0" label="COM_RESPONSIVIZER_ACCORDION_MENU_COLLAPSED" description="COM_RESPONSIVIZER_ACCORDION_MENU_COLLAPSED_DESC">
+			<option value="0">JNO</option>
+			<option value="1">JYES</option>
+		</field>
+		<field name="headers_topmenu_accordion_collapsed" type="radio" class="btn-group" default="1" label="COM_RESPONSIVIZER_ACCORDION_TOPMENU_COLLAPSED" description="COM_RESPONSIVIZER_ACCORDION_TOPMENU_COLLAPSED_DESC">
+			<option value="0">JNO</option>
+			<option value="1">JYES</option>
+		</field>
+		<field name="headers_accordion_collapsed" type="radio" class="btn-group" default="0" label="COM_RESPONSIVIZER_ACCORDION_COLLAPSED" description="COM_RESPONSIVIZER_ACCORDION_COLLAPSED_DESC">
+			<option value="0">JNO</option>
+			<option value="1">JYES</option>
+		</field>
+		
+		<field type="spacer" class="label label-info spacer" label="COM_RESPONSIVIZER_LOGO_SETTINGS" />
+		<field name="explicit_logo_include" type="radio" class="btn-group" default="0" label="COM_RESPONSIVIZER_LOGO_IMAGE_INCLUDE" description="COM_RESPONSIVIZER_LOGO_IMAGE_INCLUDE_DESC">
+			<option value="0">JNO</option>
+			<option value="1">JYES</option>
+		</field>
+		<field name="explicit_logo" type="media" class="input-large" label="COM_RESPONSIVIZER_LOGO_IMAGE" description="COM_RESPONSIVIZER_LOGO_IMAGE_DESC"/>
+		
+		<field name="home_icon_enabled" type="radio" class="btn-group" default="0" label="COM_RESPONSIVIZER_MOBILE_HOME_ICON_ENABLED" description="COM_RESPONSIVIZER_MOBILE_HOME_ICON_ENABLED_DESC">
+			<option value="0">JNO</option>
+			<option value="1">JYES</option>
+		</field>
+		<field name="home_icon" type="media" class="input-large" label="COM_RESPONSIVIZER_MOBILE_HOME_ICON" description="COM_RESPONSIVIZER_MOBILE_HOME_ICON_DESC"/>
+		
+		<field type="spacer" class="label label-info spacer" label="COM_RESPONSIVIZER_GOOGLE_ANALYTICS" />
+		<field name="inject_gajs" type="radio" class="btn-group" default="0" label="COM_RESPONSIVIZER_INJECT_GAJS" description="COM_RESPONSIVIZER_INJECT_GAJS_DESC">
+			<option value="0">JNO</option>
+			<option value="1">JYES</option>
+		</field>
+		<field name="gajs_code" type="text" default="" size="10" label="COM_RESPONSIVIZER_GAJS_CODE" description="COM_RESPONSIVIZER_GAJS_CODE_DESC" />
+		
+		<field type="spacer" class="label label-info spacer" label="COM_RESPONSIVIZER_PREFERENCES" />
+		<field name="show_messages" type="radio" class="btn-group" default="0" label="COM_RESPONSIVIZER_SHOW_MESSAGES" description="COM_RESPONSIVIZER_SHOW_MESSAGES_DESC">
+			<option value="0">JNO</option>
+			<option value="1">JYES</option>
+		</field>
+		<field name="module_background" type="radio" class="btn-group" default="1" label="COM_RESPONSIVIZER_MODULE_BACKGROUND" description="COM_RESPONSIVIZER_MODULE_BACKGROUND_DESC">
+			<option value="0">JNO</option>
+			<option value="1">JYES</option>
+		</field>
+		<field name="main_component_background" type="radio" class="btn-group" default="1" label="COM_RESPONSIVIZER_MAIN_COMPONENT_BACKGROUND" description="COM_RESPONSIVIZER_MAIN_COMPONENT_BACKGROUND_DESC">
+			<option value="0">JNO</option>
+			<option value="1">JYES</option>
+		</field>
+		<field name="show_print_email_icons" type="radio" class="btn-group" default="0" label="COM_RESPONSIVIZER_SHOW_PRINT_EMAIL_ICONS" description="COM_RESPONSIVIZER_SHOW_PRINT_EMAIL_ICONS_DESC">
+			<option value="0">JNO</option>
+			<option value="1">JYES</option>
+		</field>
+		<field name="transform_table_responsive" type="radio" class="btn-group" default="0" label="COM_RESPONSIVIZER_TRANSFORM_TABLE_RESPONSIVE" description="COM_RESPONSIVIZER_TRANSFORM_TABLE_RESPONSIVE_DESC">
+			<option value="0">JNO</option>
+			<option value="1">JYES</option>
+		</field>
+		<field name="responsive_elements_classname" type="text" default="responsive" size="10" label="COM_RESPONSIVIZER_RESPONSIVE_ELEMENTS_CLASSNAME" description="COM_RESPONSIVIZER_RESPONSIVE_ELEMENTS_CLASSNAME_DESC" />
+		<field name="tpl_load_jquery" type="radio" class="btn-group" default="1" label="COM_RESPONSIVIZER_LOADJQUERY" description="COM_RESPONSIVIZER_LOADJQUERY_DESC">
+			<option value="0">JNO</option>
+			<option value="1">JYES</option>
+		</field>
+		
+		<field type="spacer" class="label label-info spacer" label="COM_RESPONSIVIZER_FOOTER_SETTINGS" />
+		<field name="copyright_footer_html" type="editor" hide="pagebreak,readmore" width="300px" height="200px" default="" label="COM_RESPONSIVIZER_COPYRIGHT_FOOTER" description="COM_RESPONSIVIZER_COPYRIGHT_FOOTER_DESC"/>
+		<field name="tel_number" type="text" default="" size="10" label="COM_RESPONSIVIZER_TEL_NUMBER" description="COM_RESPONSIVIZER_TEL_NUMBER_DESC" />
+	</fieldset>
+	
+	<fieldset id="template_widths" name="template_widths" label="COM_RESPONSIVIZER_TEMPLATE_WIDTHS">
+		<field type="spacer" class="label label-info spacer" label="COM_RESPONSIVIZER_WEBSITE_WIDTHS" />
+	 	<field name="width" type="text" default="1024px" size="10" label="COM_RESPONSIVIZER_WIDTH" description="COM_RESPONSIVIZER_WIDTH_DESC" />
+	 	<field name="width_threshold" type="text" default="1024px" size="10" label="COM_RESPONSIVIZER_WIDTH_THRESHOLD" description="COM_RESPONSIVIZER_WIDTH_THRESHOLD_DESC" />
+		<field name="min_height" class="number" type="text" default="400" size="10" label="COM_RESPONSIVIZER_MINCONTENT_HEIGHT" description="COM_RESPONSIVIZER_MINCONTENT_HEIGHT_DESC" />
+		<field type="spacer" class="label label-info spacer" label="COM_RESPONSIVIZER_ELEMENTS_WIDTHS" />
+		<field name="width_menutop" class="number" type="text" default="100" size="10" label="COM_RESPONSIVIZER_WIDTH_MENUTOP" description="COM_RESPONSIVIZER_WIDTH_MENUTOP_DESC" />
+		<field name="width_left" class="number" type="text" default="20" size="10" label="COM_RESPONSIVIZER_WIDTH_LEFT" description="COM_RESPONSIVIZER_WIDTH_LEFT_DESC" />
+		<field name="width_right" class="number" type="text" default="20" size="10" label="COM_RESPONSIVIZER_WIDTH_RIGHT" description="COM_RESPONSIVIZER_WIDTH_RIGHT_DESC" />
+ 		<field name="user1_width" class="number" type="text" default="31" size="10" label="COM_RESPONSIVIZER_USER1_WIDTH" description="COM_RESPONSIVIZER_USER1_WIDTH_DESC" />
+		<field name="user2_width" class="number" type="text" default="31" size="10" label="COM_RESPONSIVIZER_USER2_WIDTH" description="COM_RESPONSIVIZER_USER2_WIDTH_DESC" />
+		<field name="user3_width" class="number" type="text" default="31" size="10" label="COM_RESPONSIVIZER_USER3_WIDTH" description="COM_RESPONSIVIZER_USER3_WIDTH_DESC" />
+		<field name="user4_width" class="number" type="text" default="31" size="10" label="COM_RESPONSIVIZER_USER4_WIDTH" description="COM_RESPONSIVIZER_USER4_WIDTH_DESC" />
+		<field name="user5_width" class="number" type="text" default="31" size="10" label="COM_RESPONSIVIZER_USER5_WIDTH" description="COM_RESPONSIVIZER_USER5_WIDTH_DESC" />
+		<field name="user6_width" class="number" type="text" default="31" size="10" label="COM_RESPONSIVIZER_USER6_WIDTH" description="COM_RESPONSIVIZER_USER6_WIDTH_DESC" />
+		<field name="width_menubottom" class="number" type="text" default="100" size="10" label="COM_RESPONSIVIZER_WIDTH_MENUBOTTOM" description="COM_RESPONSIVIZER_WIDTH_MENUBOTTOM_DESC" />
+		<field name="width_copyright" class="number" type="text" default="100" size="10" label="COM_RESPONSIVIZER_WIDTH_COPYRIGHT" description="COM_RESPONSIVIZER_WIDTH_COPYRIGHT_DESC" />
+ 	</fieldset>
+
+	<fieldset id="template_paddings" name="template_paddings" label="COM_RESPONSIVIZER_TEMPLATE_MARGINS_PADDINGS">
+		<field type="spacer" class="label label-info spacer" label="COM_RESPONSIVIZER_LAYOUT_MARGINS" />
+	 	<field name="logo_top_padding" class="number" type="text" default="2" size="10" label="COM_RESPONSIVIZER_LOGO_TOP_PADDING" description="COM_RESPONSIVIZER_LOGO_TOP_PADDING_DESC" />
+	 	<field name="logo_bottom_padding" class="number" type="text" default="2" size="10" label="COM_RESPONSIVIZER_LOGO_BOTTOM_PADDING" description="COM_RESPONSIVIZER_LOGO_BOTTOM_PADDING_DESC" />
+	 	<field name="header_bottom_padding" class="number" type="text" default="5" size="10" label="COM_RESPONSIVIZER_HEADER_BOTTOM_PADDING" description="COM_RESPONSIVIZER_HEADER_BOTTOM_PADDING_DESC" />
+		<field name="menuside_top_padding" class="number" type="text" default="50" size="10" label="COM_RESPONSIVIZER_MENUSIDE_TOP_PADDING" description="COM_RESPONSIVIZER_MENUSIDE_TOP_PADDING_DESC" />
+		<field name="border_radius_elements" class="number" type="text" default="3" size="10" label="COM_RESPONSIVIZER_BORDER_RADIUS_ELEMENTS" description="COM_RESPONSIVIZER_BORDER_RADIUS_ELEMENTS_DESC" />
+		<field name="wrapper_site_padding" class="number" type="text" default="2" size="10" label="COM_RESPONSIVIZER_WRAPPER_SITE_PADDING" description="COM_RESPONSIVIZER_WRAPPER_SITE_PADDING_DESC" />
+		<field name="component_site_padding" class="number" type="text" default="0" size="10" label="COM_RESPONSIVIZER_COMPONENT_SITE_PADDING" description="COM_RESPONSIVIZER_COMPONENT_SITE_PADDING_DESC" />
+		<field name="footer_top_padding" class="number" type="text" default="5" size="10" label="COM_RESPONSIVIZER_FOOTER_TOP_PADDING" description="COM_RESPONSIVIZER_FOOTER_TOP_PADDING_DESC" />
+		<field name="footer_bottom_padding" class="number" type="text" default="5" size="10" label="COM_RESPONSIVIZER_FOOTER_BOTTOM_PADDING" description="COM_RESPONSIVIZER_FOOTER_BOTTOM_PADDING" />
+	</fieldset>
+	
+	<fieldset id="template_predefined_themes" name="template_predefined_themes" label="COM_RESPONSIVIZER_PREDEFINED_THEMES"> 
+		<field name="predefined_theme_0" type="radio" class="btn-group mutex" label="COM_RESPONSIVIZER_PREDEFINED_THEME1">
+			<option value="1">JENABLED</option>
+		</field>
+		<field name="predefined_theme_1" type="radio" class="btn-group mutex" label="COM_RESPONSIVIZER_PREDEFINED_THEME2">
+			<option value="1">JENABLED</option>
+		</field>
+		<field name="predefined_theme_2" type="radio" class="btn-group mutex" label="COM_RESPONSIVIZER_PREDEFINED_THEME3">
+			<option value="1">JENABLED</option>
+		</field>
+		<field name="predefined_theme_3" type="radio" class="btn-group mutex" label="COM_RESPONSIVIZER_PREDEFINED_THEME4">
+			<option value="1">JENABLED</option>
+		</field>
+		<field name="predefined_theme_4" type="radio" class="btn-group mutex" label="COM_RESPONSIVIZER_PREDEFINED_THEME5">
+			<option value="1">JENABLED</option>
+		</field>
+		<field name="predefined_theme_5" type="radio" class="btn-group mutex" label="COM_RESPONSIVIZER_PREDEFINED_THEME6">
+			<option value="1">JENABLED</option>
+		</field>
+		<field name="predefined_theme_6" type="radio" class="btn-group mutex" label="COM_RESPONSIVIZER_PREDEFINED_THEME7">
+			<option value="1">JENABLED</option>
+		</field>
+		<field name="predefined_theme_7" type="radio" class="btn-group mutex" label="COM_RESPONSIVIZER_PREDEFINED_THEME8">
+			<option value="1">JENABLED</option>
+		</field>
+		<field name="istemplate" type="hidden" default="1"/>
+	</fieldset>
+	
+	<fieldset id="template_colors" name="template_colors" label="COM_RESPONSIVIZER_TEMPLATE_COLORS"> 
+		<field type="spacer" class="label label-info spacer" label="COM_RESPONSIVIZER_SITE_COLORS_COMBINATION" />
+ 	 	<field name="general_background" type="list" default="white" label="COM_RESPONSIVIZER_GENERAL_BCK" description="COM_RESPONSIVIZER_GENERAL_BCK_DESC">
+			<option value="white">White</option>
+			<option value="black">Black</option>
+			<option value="gray">Gray</option>
+			<option value="blue">Blue</option>
+			<option value="green">Green</option>
+			<option value="android">Android</option>
+			<option value="ios">iOS</option>
+		</field> 
+		<field name="color_theme" type="list" default="blue" label="COM_RESPONSIVIZER_COLORTHEME" description="COM_RESPONSIVIZER_COLORTHEME_DESC">				
+			<option value="white">White</option>
+			<option value="blue">Blue</option>
+			<option value="orange">Orange</option>
+			<option value="green">Green</option>
+			<option value="red">Red</option>
+			<option value="yellow">Yellow</option>
+			<option value="gray">Gray</option>
+			<option value="black">Black</option>
+			<option value="android">Android</option>
+			<option value="ios">iOS</option>
+		</field>
+		
+		<field type="spacer" class="label label-info spacer" label="COM_RESPONSIVIZER_CUSTOM_TEXT_COLOR" />
+		<field name="main_foreground_overridecolor" type="radio" class="btn-group" default="0" label="COM_RESPONSIVIZER_MAIN_FOREGROUND_COLOR_OVERRIDE" description="COM_RESPONSIVIZER_MAIN_FOREGROUND_COLOR_OVERRIDE_DESC">
+			<option value="0">JNO</option>
+			<option value="1">JYES</option>
+		</field>
+		<field name="main_foreground_color" type="text" default="#6e6e6e" label="COM_RESPONSIVIZER_MAIN_FOREGROUND_COLOR" description="COM_RESPONSIVIZER_MAIN_FOREGROUND_COLOR_DESC"/>
+		
+		<field type="spacer" class="label label-info spacer" label="COM_RESPONSIVIZER_CUSTOM_BACKGROUND" />
+		<field name="main_background_overridecolor" type="radio" class="btn-group" default="0" label="COM_RESPONSIVIZER_MAIN_BACKGROUND_COLOR_OVERRIDE" description="COM_RESPONSIVIZER_MAIN_BACKGROUND_COLOR_OVERRIDE_DESC">
+			<option value="0">JNO</option>
+			<option value="1">JYES</option>
+		</field>
+		<field name="main_background_color" type="text" default="#f7f7f7" label="COM_RESPONSIVIZER_MAIN_BACKGROUND_COLOR" description="COM_RESPONSIVIZER_MAIN_BACKGROUND_COLOR_DESC"/>
+		<field name="main_background_image_override" type="radio" class="btn-group" default="0" label="COM_RESPONSIVIZER_MAIN_BACKGROUND_IMAGE_OVERRIDE" description="COM_RESPONSIVIZER_MAIN_BACKGROUND_IMAGE_OVERRIDE_DESC">
+			<option value="0">JNO</option>
+			<option value="1">JYES</option>
+		</field>
+		<field name="main_background_image" type="media" class="input-large" label="COM_RESPONSIVIZER_MAIN_BACKGROUND_IMAGE" description="COM_RESPONSIVIZER_MAIN_BACKGROUND_IMAGE_DESC"/>
+		<field name="main_background_image_repeat" type="radio" class="btn-group" default="0" label="COM_RESPONSIVIZER_MAIN_BACKGROUND_IMAGE_REPEAT" description="COM_RESPONSIVIZER_MAIN_BACKGROUND_IMAGE_REPEAT_DESC">
+			<option value="0">JNO</option>
+			<option value="1">JYES</option>
+		</field>
+		<field name="main_background_image_stretch" type="radio" class="btn-group" default="0" label="COM_RESPONSIVIZER_MAIN_BACKGROUND_IMAGE_STRETCH" description="COM_RESPONSIVIZER_MAIN_BACKGROUND_IMAGE_STRETCH_DESC">
+			<option value="0">JNO</option>
+			<option value="1">JYES</option>
+		</field>
+		<field name="main_background_image_stretch_height" type="list" default="100%" label="COM_RESPONSIVIZER_MAIN_BACKGROUND_IMAGE_STRETCH_HEIGHT" description="COM_RESPONSIVIZER_MAIN_BACKGROUND_IMAGE_STRETCH_HEIGHT_DESC">				
+			<option value="20%">20%</option>
+			<option value="40%">40%</option>
+			<option value="60%">60%</option>
+			<option value="80%">80%</option>
+			<option value="100%">100%</option>
+		</field>
+		<field name="main_background_image_element" type="radio" class="btn-group" default="body" label="COM_RESPONSIVIZER_MAIN_BACKGROUND_IMAGE_ELEMENT" description="COM_RESPONSIVIZER_MAIN_BACKGROUND_IMAGE_ELEMENT_DESC">
+			<option value="body">COM_RESPONSIVIZER_BODY</option>
+			<option value="site">COM_RESPONSIVIZER_SITE</option>
+		</field>
+		
+		<field name="override_titles_menu" type="radio" class="btn-group" default="0" label="COM_RESPONSIVIZER_TITLES_MENU_COLOR_OVERRIDE" description="COM_RESPONSIVIZER_TITLES_MENU_COLOR_OVERRIDE_DESC">
+			<option value="0">JNO</option>
+			<option value="1">JYES</option>
+		</field>
+		<field name="custom_titles_menu_color" type="text" default="#333333" label="COM_RESPONSIVIZER_TITLES_MENU_COLOR_CUSTOM" description="COM_RESPONSIVIZER_TITLES_MENU_COLOR_CUSTOM_DESC"/>
+		
+		
+		<field type="spacer" class="label label-info spacer" label="COM_RESPONSIVIZER_FOOTER_COLORS" />
+		<field name="footer_background_enabled" type="radio" class="btn-group" default="0" label="COM_RESPONSIVIZER_FOOTER_BACKGROUND_ENABLED" description="COM_RESPONSIVIZER_FOOTER_BACKGROUND_ENABLED_DESC">
+			<option value="0">JNO</option>
+			<option value="1">JYES</option>
+		</field>
+		<field name="footer_background_color" type="text" default="#333333" label="COM_RESPONSIVIZER_FOOTER_BACKGROUND_COLOR" description="COM_RESPONSIVIZER_FOOTER_BACKGROUND_COLOR_DESC"/>
+		<field name="footer_foreground_color" type="text" default="#FFFFFF" label="COM_RESPONSIVIZER_FOOTER_FOREGROUND_COLOR" description="COM_RESPONSIVIZER_FOOTER_FOREGROUND_COLOR_DESC"/>
+	</fieldset>
+	
+	<fieldset id="template_fonts" name="template_fonts" label="COM_RESPONSIVIZER_TEMPLATE_FONTS"> 
+		<field name="font_content" type="list" default="Ubuntu" label="COM_RESPONSIVIZER_FONTCONTENT" description="COM_RESPONSIVIZER_FONTCONTENT_DESC">
+			<option value="Trebuchet">Trebuchet</option>
+			<option value="Arial">Arial</option>
+			<option value="Comic+sans+ms">Comic sans MS</option>
+			<option value="Georgia">Georgia</option>
+			<option value="Times+new+roman">Times new roman</option>
+			<option value="Verdana">Verdana</option>
+			<option value="Tahoma">Tahoma</option>
+			<option value="Open+Sans:300">Open Sans</option>
+			<option value="Aldrich">Aldrich</option>
+			<option value="Metrophobic">Metrophobic</option>
+			<option value="Maven+Pro">Maven Pro</option>	
+			<option value="Nobile">Nobile</option>			
+			<option value="Kreon">Kreon</option>
+			<option value="Ubuntu">Ubuntu</option>
+			<option value="Chicle">Chicle</option>
+			<option value="Trade+Winds">Trade Winds</option>
+			<option value="Ribeye+Marrow">Ribeye Marrow</option>
+			<option value="Lily+Script+One">Lily Script One</option>
+		</field>		
+		
+		<field name="font" type="list" default="Ubuntu" label="COM_RESPONSIVIZER_FONTMENU" description="COM_RESPONSIVIZER_FONTMENU_DESC">
+			<option value="Trebuchet">Trebuchet</option>
+			<option value="Arial">Arial</option>
+			<option value="Comic+sans+ms">Comic sans MS</option>
+			<option value="Georgia">Georgia</option>
+			<option value="Times+new+roman">Times new roman</option>
+			<option value="Verdana">Verdana</option>
+			<option value="Tahoma">Tahoma</option>
+ 			<option value="Open+Sans:300">Open Sans</option>
+			<option value="Aldrich">Aldrich</option>
+			<option value="Metrophobic">Metrophobic</option>
+			<option value="Maven+Pro">Maven Pro</option>	
+			<option value="Nobile">Nobile</option>			
+			<option value="Kreon">Kreon</option>
+			<option value="Ubuntu">Ubuntu</option>
+			<option value="Chicle">Chicle</option>
+			<option value="Trade+Winds">Trade Winds</option>
+			<option value="Ribeye+Marrow">Ribeye Marrow</option>
+			<option value="Lily+Script+One">Lily Script One</option>
+		</field>
+	
+		<field name="fontSize" type="list" default="1.00em" label="COM_RESPONSIVIZER_FONTSIZE" description="COM_RESPONSIVIZER_FONTSIZE_DESC">
+			<option value="0.50em">50%</option>
+			<option value="0.60em">60%</option>
+			<option value="0.70em">70%</option>
+			<option value="0.80em">80%</option>
+			<option value="0.90em">90%</option>
+			<option value="1.00em">100%</option>
+			<option value="1.10em">110%</option>
+			<option value="1.20em">120%</option>
+			<option value="1.30em">130%</option>
+			<option value="1.40em">140%</option>
+			<option value="1.50em">150%</option>
+			<option value="1.60em">160%</option>
+			<option value="1.70em">170%</option>
+			<option value="1.80em">180%</option>
+			<option value="1.90em">190%</option>
+			<option value="2.00em">200%</option>
+		</field>
+	</fieldset>
+	
+	<fieldset id="template_menu_settings" name="template_menu_settings" label="COM_RESPONSIVIZER_MENU_SETTINGS"> 
+		<field name="switcher_menutype" type="radio" class="btn-group switcher" default="accordion" label="COM_RESPONSIVIZER_SWITCHER_MENUTYPE" description="COM_RESPONSIVIZER_SWITCHER_MENUTYPE_DESC">
+			<option value="dropdown">COM_RESPONSIVIZER_NORMAL_DROPDOWN</option>
+			<option value="accordion">COM_RESPONSIVIZER_ACCORDION_STYLE</option>
+		</field>
+		
+		<field type="spacer" class="label label-info spacer" label="COM_RESPONSIVIZER_MENU_SPACES" />
+		<field name="menuitem_width" type="text" default="100" label="COM_RESPONSIVIZER_MENUITEM_WIDTH" description="COM_RESPONSIVIZER_MENUITEM_WIDTH_DESC" />	
+		<field name="menuitem_vert_padding" type="text" default="5" label="COM_RESPONSIVIZER_MENUITEM_VERTICAL_PADDING" description="COM_RESPONSIVIZER_MENUITEM_VERTICAL_PADDING_DESC" />	
+		<field name="menuitem_horiz_padding" type="text" default="10" label="COM_RESPONSIVIZER_MENUITEM_HORIZONTAL_PADDING" description="COM_RESPONSIVIZER_MENUITEM_HORIZONTAL_PADDING_DESC" />	
+		<field name="submenuitem_splacement" type="text" default="0" label="COM_RESPONSIVIZER_MENUSPLACEMENT" description="COM_RESPONSIVIZER_MENUSPLACEMENT_DESC" />	
+		
+		<field type="spacer" class="label label-info spacer" label="COM_RESPONSIVIZER_MENU_PREFERENCES" />
+		<field name="menutext_alignment" type="list" default="left" label="COM_RESPONSIVIZER_MENUTEXT_ALIGNMENT" description="COM_RESPONSIVIZER_MENUTEXT_ALIGNMENT_DESC">
+			<option value="left">COM_RESPONSIVIZER_ALIGN_LEFT</option>
+			<option value="center">COM_RESPONSIVIZER_ALIGN_CENTER</option>
+			<option value="right">COM_RESPONSIVIZER_ALIGN_RIGHT</option>
+		</field>
+		<field name="submenu_open_mode" type="list" default="relative" label="COM_RESPONSIVIZER_SUBMENU_OPENMODE" description="COM_RESPONSIVIZER_SUBMENU_OPENMODE_DESC">
+			<option value="absolute">COM_RESPONSIVIZER_HOVERING</option>
+			<option value="relative">COM_RESPONSIVIZER_SLIDING</option>
+		</field>
+		<field name="include_search_field" type="radio" class="btn-group" default="1" label="COM_RESPONSIVIZER_INCLUDE_SEARCH_FIELD" description="COM_RESPONSIVIZER_INCLUDE_SEARCH_FIELD_DESC">
+			<option value="0">JNO</option>
+			<option value="1">JYES</option>
+		</field>
+		<field name="transition_menu" type="radio" class="btn-group" default="1" label="COM_RESPONSIVIZER_TRANSITION_MENU" description="COM_RESPONSIVIZER_TRANSITION_MENU_DESC">
+			<option value="0">JNO</option>
+			<option value="1">JYES</option>
+		</field>
+	</fieldset>
+	
+	<fieldset id="template_social" name="template_social" label="COM_RESPONSIVIZER_TEMPLATE_SOCIAL">
+		<field type="spacer" class="label label-info spacer" label="COM_RESPONSIVIZER_SOCIAL_ICONS_PREFERENCES" />
+		<field name="enable_socials" type="radio" class="btn-group" default="0" label="COM_RESPONSIVIZER_ENABLE_SOCIALS" description="COM_RESPONSIVIZER_ENABLE_SOCIALS_DESC">
+			<option value="0">JNO</option>
+			<option value="1">JYES</option>
+		</field>
+		<field name="text_social_icons" type="text" default="" label="COM_RESPONSIVIZER_SOCIALINCONS_TEXT" description="COM_RESPONSIVIZER_SOCIALINCONS_TEXT_DESC" />	
+		
+		<field type="spacer" class="label label-info spacer" label="COM_RESPONSIVIZER_SOCIAL_ICONS_LINKS" />
+		<field name="facebook" type="text" default="" class="social_parameter" size="30" label="COM_RESPONSIVIZER_FACEBOOK_URL" description="COM_RESPONSIVIZER_SOCIALINCONS_DESC" />
+		<field name="google" type="text" default="" class="social_parameter" size="30" label="COM_RESPONSIVIZER_GOOGLE_URL" description="COM_RESPONSIVIZER_GOOGLE_DESC" />
+		<field name="twitter" type="text" default="" class="social_parameter" size="30" label="COM_RESPONSIVIZER_TWITTER_URL" description="COM_RESPONSIVIZER_SOCIALINCONS_DESC" />
+		<field name="linkedin" type="text" default="" class="social_parameter" size="30" label="COM_RESPONSIVIZER_LINKEDIN_URL" description="COM_RESPONSIVIZER_SOCIALINCONS_DESC" />
+		<field name="youtube" type="text" default="" class="social_parameter" size="30" label="COM_RESPONSIVIZER_YOUTUBE_URL" description="COM_RESPONSIVIZER_YOUTUBE_URL_DESC" />
+		<field name="flickr" type="text" default="" class="social_parameter" size="30" label="COM_RESPONSIVIZER_FLICKR_URL" description="COM_RESPONSIVIZER_FLICKR_URL_DESC" />
+		<field name="instagram" type="text" default="" class="social_parameter" size="30" label="COM_RESPONSIVIZER_INSTAGRAM_URL" description="COM_RESPONSIVIZER_INSTAGRAM_URL_DESC" />
+		<field name="pinterest" type="text" default="" class="social_parameter" size="30" label="COM_RESPONSIVIZER_PINTEREST_URL" description="COM_RESPONSIVIZER_PINTEREST_URL_DESC" />
+		<field name="tumblr" type="text" default="" class="social_parameter" size="30" label="COM_RESPONSIVIZER_TUMBLR_URL" description="COM_RESPONSIVIZER_TUMBLR_URL_DESC" />
+		<field name="vimeo" type="text" default="" class="social_parameter" size="30" label="COM_RESPONSIVIZER_VIMEO_URL" description="COM_RESPONSIVIZER_VIMEO_URL_DESC" />
+		<field name="delicious" type="text" default="" class="social_parameter" size="30" label="COM_RESPONSIVIZER_DELICIOUS_URL" description="COM_RESPONSIVIZER_DELICIOUS_URL_DESC" />
+		<field name="skype" type="text" default="" class="social_parameter" size="30" label="COM_RESPONSIVIZER_SKYPE_URL" description="COM_RESPONSIVIZER_SKYPE_URL_DESC" />
+		<field name="rss" type="text" default="" class="social_parameter" size="30" label="COM_RESPONSIVIZER_RSS_URL" description="COM_RESPONSIVIZER_RSSICON_DESC" /> 
+	</fieldset>
+	
+	<fieldset id="template_socialsharer" name="template_socialsharer" label="COM_RESPONSIVIZER_TEMPLATE_SOCIAL_SHARER">
+		<field type="spacer" class="label label-info spacer" label="COM_RESPONSIVIZER_GENERALSETTINGS_TITLE" />
+		<field name="social_sharer_enabled" type="radio" class="btn-group" default="0" label="COM_RESPONSIVIZER_SOCIAL_SHARER_ENABLED" description="COM_RESPONSIVIZER_SOCIAL_SHARER_ENABLED_DESC" >
+		   <option value="0">JNO</option>
+		   <option value="1">JYES</option>
+		</field>
+		<field name="custom" type="radio" class="btn-group" default="0" label="COM_RESPONSIVIZER_CUSTOM" description="COM_RESPONSIVIZER_CUSTOM_DESC" >
+		   <option value="0">JNO</option>
+		   <option value="1">JYES</option>
+		</field>
+		<field name="position" type="list" default="2" label="COM_RESPONSIVIZER_BUTTONS_POSITION" description="COM_RESPONSIVIZER_BUTTONS_POSITION_DESC">
+		   <option value="0">COM_RESPONSIVIZER_BOTH</option>
+		   <option value="1">COM_RESPONSIVIZER_TOP</option>
+		   <option value="2">COM_RESPONSIVIZER_BOTTOM</option>
+		   <option value="3">COM_RESPONSIVIZER_NOTHING</option>
+		</field>
+		<field name="showInArticles" type="radio" class="btn-group" default="1" label="COM_RESPONSIVIZER_SHOW_ARTICLE" description="COM_RESPONSIVIZER_SHOW_ARTICLE_DESC" >
+		   <option value="0">JNO</option>
+		   <option value="1">JYES</option>
+		</field>
+		
+		<field name="showInCategories" type="radio" class="btn-group" default="0" label="COM_RESPONSIVIZER_SHOW_CATEGORY" description="COM_RESPONSIVIZER_SHOW_CATEGORY_DESC" >
+		   <option value="0">JNO</option>
+		   <option value="1">JYES</option>
+		</field>
+		
+		<field name="showInFrontPage" type="radio" class="btn-group" default="0" label="COM_RESPONSIVIZER_SHOW_FRONTPAGE" description="COM_RESPONSIVIZER_SHOW_FRONTPAGE_DESC" >
+		   <option value="0">JNO</option>
+		   <option value="1">JYES</option>
+		</field>
+		
+		<field name="excludeSections" type="text" default="" size="40" label="COM_RESPONSIVIZER_EXCLUDE_SECTION" description="COM_RESPONSIVIZER_EXCLUDE_SECTION_DESC" />
+		<field name="excludeCats" type="text" default="" size="40" label="COM_RESPONSIVIZER_EXCLUDE_CATEGORY" description="COM_RESPONSIVIZER_EXCLUDE_CATEGORY_DESC" />
+		<field name="excludeArticles" type="text" default="" size="40" label="COM_RESPONSIVIZER_EXCLUDE_ARTICLE" description="COM_RESPONSIVIZER_EXCLUDE_ARTICLE_DESC" />
+		<field name="includeArticles" type="text" default="" size="40" label="COM_RESPONSIVIZER_INCLUDE_ARTICLE" description="COM_RESPONSIVIZER_INCLUDE_ARTICLE_DESC" /> 
+	
+		<field type="spacer" class="label label-info spacer" label="COM_RESPONSIVIZER_FB_LIKE_TITLE" />
+		<field name="facebookLikeButton" type="radio" class="btn-group" default="1" label="COM_RESPONSIVIZER_FB_LIKE_BUTTON" description="COM_RESPONSIVIZER_FB_LIKE_BUTTON_DESC" >
+		   <option value="0">COM_RESPONSIVIZER_HIDE</option>
+		   <option value="1">COM_RESPONSIVIZER_SHOW</option>
+		</field>
+
+		<field name="facebookLikeAction" type="text" default="like" label="COM_RESPONSIVIZER_FB_LIKE_BUTTON_TEXT" description="COM_RESPONSIVIZER_FB_LIKE_BUTTON_TEXT_DESC" >
+		   <option value="like">COM_RESPONSIVIZER_FB_LIKE_LIKE</option>
+		   <option value="recommend">COM_RESPONSIVIZER_FB_LIKE_RECOMMEND</option>
+		</field>
+		<field name="facebookLikeType" type="list" default="button_count" label="COM_RESPONSIVIZER_FB_LIKE_TYPE" description="COM_RESPONSIVIZER_FB_LIKE_TYPE_DESC" >
+			<option value="standard">COM_RESPONSIVIZER_FB_LIKE_STANDARD</option>
+		   <option value="box_count">COM_RESPONSIVIZER_FB_LIKE_BOX_COUNT</option>
+		   <option value="button_count">COM_RESPONSIVIZER_FB_LIKE_BUTTON_COUNT</option>
+		</field>
+
+		<field name="facebookLikeColor" type="list" default="light" label="COM_RESPONSIVIZER_FB_LIKE_COLOR" description="COM_RESPONSIVIZER_FB_LIKE_COLOR_DESC" >
+		   <option value="light">COM_RESPONSIVIZER_FB_LIKE_LIGHT</option>
+		   <option value="dark">COM_RESPONSIVIZER_FB_LIKE_DARK</option>
+		</field>
+		<field name="facebookLikeFont" type="list" default="" label="COM_RESPONSIVIZER_FB_LIKE_FONT" description="COM_RESPONSIVIZER_FB_LIKE_FONT_DESC" >
+		   <option value=""></option>
+			<option value="arial">Arial</option>
+			<option value="lucida grande">Lucida Grande</option>
+			<option value="segoe ui">Segoe UI</option>
+			<option value="tahoma">Tahoma</option>
+			<option value="trebuchet ms">Trebuchet ms</option>
+			<option value="verdana">Verdana</option>
+		</field>
+		<field name="facebookLikeWidth" type="text" default="100" label="COM_RESPONSIVIZER_FB_LIKE_WIDTH" description="COM_RESPONSIVIZER_FB_LIKE_WIDTH_DESC" />
+		<field name="facebookLikeAppId" type="text" default="" label="COM_RESPONSIVIZER_FB_APP_ID" description="COM_RESPONSIVIZER_FB_APP_ID_DESC" />
+		
+		<field type="spacer" class="label label-info spacer" label="COM_RESPONSIVIZER_FB_SHAREME_TITLE" />
+		<field name="facebookShareMeButton" type="radio" class="btn-group" default="1" label="COM_RESPONSIVIZER_FB_SHAREME_BUTTON" description="COM_RESPONSIVIZER_FB_SHAREME_BUTTON_DESC" >
+		   <option value="0">COM_RESPONSIVIZER_HIDE</option>
+		   <option value="1">COM_RESPONSIVIZER_SHOW</option>
+		</field>
+		<field name="color_facebookShareMeBadgeText" type="text" default="#FFFFFF" label="COM_RESPONSIVIZER_FB_SHAREME_TEXT_COLOR" description="COM_RESPONSIVIZER_FB_SHAREME_TEXT_COLOR_DESC" />
+		<field name="color_facebookShareMeBadge" type="text" default="#3B5998" label="COM_RESPONSIVIZER_FB_SHAREME_COLOR" description="COM_RESPONSIVIZER_FB_SHAREME_COLOR_DESC" />
+	
+
+		<field type="spacer" class="label label-info spacer" label="COM_RESPONSIVIZER_TWITTER_TITLE" />
+		<field name="twitterButton" type="radio" class="btn-group" default="1" label="COM_RESPONSIVIZER_TWITTER_BUTTON" description="COM_RESPONSIVIZER_TWITTER_BUTTON_DESC" >
+		   <option value="0">COM_RESPONSIVIZER_HIDE</option>
+		   <option value="1">COM_RESPONSIVIZER_SHOW</option>
+		</field>
+		<field name="twitterName" type="text" default="" size="40" label="COM_RESPONSIVIZER_TWITTER_NAME" description="COM_RESPONSIVIZER_TWITTER_NAME_DESC" />
+		<field name="twitterCounter" type="list" default="horizontal" label="COM_RESPONSIVIZER_TWITTER_COUNTER" description="COM_RESPONSIVIZER_TWITTER_COUNTER_DESC" >
+		   <option value="none">COM_RESPONSIVIZER_HIDE</option>
+		   <option value="vertical">COM_RESPONSIVIZER_TWITTER_VERTICAL</option>
+		   <option value="horizontal">COM_RESPONSIVIZER_TWITTER_HORIZONTAL</option>
+		</field>
+
+		<field type="spacer" class="label label-info spacer" label="COM_RESPONSIVIZER_LINKEDIN_TITLE" />
+		<field name="linkedInButton" type="radio" class="btn-group" default="1" label="COM_RESPONSIVIZER_LINKEDIN_BUTTON" description="COM_RESPONSIVIZER_LINKEDIN_BUTTON_DESC" >
+		   <option value="0">COM_RESPONSIVIZER_HIDE</option>
+		   <option value="1">COM_RESPONSIVIZER_SHOW</option>
+		</field>
+		<field name="linkedInType" type="list" default="right" label="COM_RESPONSIVIZER_LINKEDIN_TYPE" description="COM_RESPONSIVIZER_LINKEDIN_TYPE_DESC" >
+		   <option value="none">COM_RESPONSIVIZER_LINKEDIN_COUNTER_NONE</option>
+		   <option value="top">COM_RESPONSIVIZER_LINKEDIN_COUNTER_TOP</option>
+		   <option value="right">COM_RESPONSIVIZER_LINKEDIN_COUNTER_RIGHT</option>
+		</field>  
+
+		<field type="spacer" class="label label-info spacer" label="COM_RESPONSIVIZER_GOOGLE_PLUSONE_TITLE" />
+		<field name="plusButton" type="radio" class="btn-group" default="1" label="COM_RESPONSIVIZER_GOOGLE_PLUSONE_BUTTON" description="COM_RESPONSIVIZER_GOOGLE_PLUSONE_BUTTON_DESC" >
+		   <option value="0">COM_RESPONSIVIZER_HIDE</option>
+		   <option value="1">COM_RESPONSIVIZER_SHOW</option>
+		</field>
+		<field name="plusType" type="list" default="medium" label="COM_RESPONSIVIZER_GOOGLE_PLUSONE_STYLE" description="COM_RESPONSIVIZER_GOOGLE_PLUSONE_STYLE_DESC" >
+		   <option value="small">COM_RESPONSIVIZER_GOOGLE_PLUSONE_SMALL</option>
+		   <option value="medium">COM_RESPONSIVIZER_GOOGLE_PLUSONE_MEDIUM</option>
+		   <option value="">COM_RESPONSIVIZER_GOOGLE_PLUSONE_STANDARD</option>
+		   <option value="tall">COM_RESPONSIVIZER_GOOGLE_PLUSONE_TALL</option>
+		</field>
+		
+		<field type="spacer" class="label label-info spacer" label="COM_RESPONSIVIZER_GOOGLE_PLUSSHARE_TITLE" />
+		<field name="gshareButton" type="radio" class="btn-group" default="1" label="COM_RESPONSIVIZER_GOOGLE_PLUSSHARE_BUTTON" description="COM_RESPONSIVIZER_GOOGLE_PLUSSHARE_BUTTON_DESC" >
+		   <option value="0">COM_RESPONSIVIZER_HIDE</option>
+		   <option value="1">COM_RESPONSIVIZER_SHOW</option>
+		</field>
+		<field name="shareAnnotation" type="list" default="bubble" label="COM_RESPONSIVIZER_GOOGLE_SHARE_ANNOTATION" description="COM_RESPONSIVIZER_GOOGLE_SHARE_ANNOTATION_DESC" >
+		   <option value="none">COM_RESPONSIVIZER_GOOGLE_SHARE_ANNOTATION_NONE</option>
+		   <option value="bubble">COM_RESPONSIVIZER_GOOGLE_SHARE_ANNOTATION_BUBBLE</option>
+		   <option value="inline">COM_RESPONSIVIZER_GOOGLE_SHARE_ANNOTATION_INLINE</option>
+		   <option value="vertical-bubble">COM_RESPONSIVIZER_GOOGLE_SHARE_ANNOTATION_VBUBBLE</option>
+		</field>
+						
+		<field type="spacer" class="label label-info spacer" label="COM_RESPONSIVIZER_PINTEREST_TITLE" />
+		<field name="pinterestButton" type="radio" class="btn-group" default="1" label="COM_RESPONSIVIZER_PINTEREST_TITLE_BUTTON" description="COM_RESPONSIVIZER_PINTEREST_TITLE_BUTTON_DESC" >
+		   <option value="0">COM_RESPONSIVIZER_HIDE</option>
+		   <option value="1">COM_RESPONSIVIZER_SHOW</option>
+		</field>
+	</fieldset>
+	
+	<fieldset id="plugin_responsivizer" name="plugin_responsivizer" label="COM_RESPONSIVIZER_PLUGINS_SETTINGS" addfieldpath="/administrator/components/com_responsivizer/models/fields"> 
+		<field type="spacer" class="label label-info spacer" label="COM_RESPONSIVIZER_MAIN_SETTINGS" />
+		<field name="switch_enabled" type="radio" class="btn-group" default="1" label="COM_RESPONSIVIZER_TEMPLATESWITCHER" description="COM_RESPONSIVIZER_TEMPLATESWITCHER_DESC">
+			<option value="0">JNO</option>
+			<option value="1">JYES</option>
+		</field> 
+		<field name="switch_always" type="radio" class="btn-group" default="0" label="COM_RESPONSIVIZER_SWITCH_ALWAYS" description="COM_RESPONSIVIZER_SWITCH_ALWAYS_DESC">
+			<option value="0">JNO</option>
+			<option value="1">JYES</option>
+		</field> 
+		<field name="include_tablets" type="radio" class="btn-group" default="1" label="COM_RESPONSIVIZER_INC_TABLETS" description="COM_RESPONSIVIZER_INC_TABLETS_DESC">
+			<option value="0">JNO</option>
+			<option value="1">JYES</option>
+		</field>
+		<field name="native_app_feature" type="radio" class="btn-group" default="0" label="COM_RESPONSIVIZER_NATIVE_APP_FEATURE" description="COM_RESPONSIVIZER_NATIVE_APP_FEATURE_DESC">
+			<option value="0">JNO</option>
+			<option value="1">JYES</option>
+		</field>
+		<field name="offlinecache" type="radio" class="btn-group" default="0" label="COM_RESPONSIVIZER_OFFLINECACHE" description="COM_RESPONSIVIZER_OFFLINECACHE_DESC">
+			<option value="0">JNO</option>
+			<option value="1">JYES</option>
+		</field>
+		
+		<field type="spacer" class="label label-info spacer" label="COM_RESPONSIVIZER_TEMPLATE_SWITCHER" />
+		<field name="show_tpl_switcher" type="radio" class="btn-group" default="0" label="COM_RESPONSIVIZER_SHOW_TPL_SWITCHER" description="COM_RESPONSIVIZER_SHOW_TPL_SWITCHER_DESC">
+			<option value="0">JNO</option>
+			<option value="1">JYES</option>
+		</field> 
+		<field name="desktop_fallback_cookie_lifetime" type="text" default="10" label="COM_RESPONSIVIZER_DESKTOPFALLBACK_COOKIETIME" description="COM_RESPONSIVIZER_DESKTOPFALLBACK_COOKIETIME_DESC" />	
+		
+		<field type="spacer" class="label label-info spacer" label="COM_RESPONSIVIZER_ADVANCED" />
+		<field name="template" type="loadtemplates" style="width:250px;" size="1" default="responsivizer" label="COM_RESPONSIVIZER_CHOOSE_TEMPLATE" description="COM_RESPONSIVIZER_CHOOSE_TEMPLATE_DESC" ></field>
+		<field name="include_compat_styles" type="radio" class="btn-group" default="0" label="COM_RESPONSIVIZER_INCLUDE_COMPAT_STYLES" description="COM_RESPONSIVIZER_INCLUDE_COMPAT_STYLES_DESC">
+     		<option value="0">JNO</option>
+      		<option value="1">JYES</option>
+        </field>  
+		<field name="enable_debug" type="radio" class="btn-group" default="0" label="COM_RESPONSIVIZER_ENABLE_DEBUG" description="COM_RESPONSIVIZER_ENABLE_DEBUG_DESC">
+   			<option value="0">JNO</option>              
+   			<option value="1">JYES</option>
+   		</field>
+	</fieldset>
+	
+	<fieldset id="plugin_lightimgs" name="plugin_lightimgs" label="COM_RESPONSIVIZER_PLUGIN_IMAGES_CONFIG"> 
+		<field name="plugin_lightimgs_status" type="radio" class="btn-group" default="0" label="COM_RESPONSIVIZER_LIGHTIMAGES_STATUS" description="COM_RESPONSIVIZER_LIGHTIMAGES_STATUS_DESC">
+     		<option value="0">JNO</option>
+      		<option value="1">JYES</option>
+        </field>   
+		 <field name="img_quality" type="list" default="75" label="COM_RESPONSIVIZER_LIGHTIMAGES_QUALITY" description="COM_RESPONSIVIZER_LIGHTIMAGES_QUALITY_DESC">
+			<option value="50">50</option>
+			<option value="55">55</option>
+		 	<option value="60">60</option>
+		 	<option value="65">65</option>
+		 	<option value="70">70</option>
+		 	<option value="75">75</option>
+		 	<option value="80">80</option>
+		 	<option value="85">85</option>
+			<option value="90">90</option>
+    	</field>
+    	<field name="img_resizing_switcher" type="radio" class="btn-group" default="0" label="COM_RESPONSIVIZER_LIGHTIMAGES_RESIZING_SWITCHER" description="COM_RESPONSIVIZER_LIGHTIMAGES_RESIZING_SWITCHER_DESC">
+     		<option value="0">JNO</option>
+      		<option value="1">JYES</option>
+        </field>   
+    	<field name="img_resizing" type="list" default="50" label="COM_RESPONSIVIZER_LIGHTIMAGES_RESIZING" description="COM_RESPONSIVIZER_LIGHTIMAGES_RESIZING_DESC">
+    		<option value="40">40</option>
+			<option value="45">45</option>
+			<option value="50">50</option>
+			<option value="55">55</option>
+		 	<option value="60">60</option>
+		 	<option value="65">65</option>
+		 	<option value="70">70</option>
+		 	<option value="75">75</option>
+		 	<option value="80">80</option>
+		 	<option value="85">85</option>
+			<option value="90">90</option>
+    	</field>
+    	<field name="img_resizing_minwidth" type="text" default="1280" label="COM_RESPONSIVIZER_LIGHTIMAGES_RESIZING_MINWIDTH" description="COM_RESPONSIVIZER_LIGHTIMAGES_RESIZING_MINWIDTH_DESC" />	
+        <field name="img_support_gif" type="radio" class="btn-group" default="0" label="COM_RESPONSIVIZER_LIGHTIMAGES_OPTIMIZEGIF" description="COM_RESPONSIVIZER_LIGHTIMAGES_OPTIMIZEGIF_DESC">
+     		<option value="0">JNO</option>
+      		<option value="1">JYES</option>
+        </field>        
+        <field name="img_exts_excluded" type="list" default="" multiple="multiple" size="5" label="COM_RESPONSIVIZER_LIGHTIMAGES_EXTS_EXCLUDED" description="COM_RESPONSIVIZER_LIGHTIMAGES_EXTS_EXCLUDED_DESC">
+			<option value="">COM_RESPONSIVIZER_LIGHTIMAGES_ALLEXTS</option>
+    		<option value="jpeg">jpeg</option>
+			<option value="jpg">jpg</option>
+		 	<option value="png">png</option>
+			<option value="gif">gif</option>
+			<option value="bmp">bmp</option>
+		 </field>
+	</fieldset>
+	 
+	 <fieldset id="plugin_compressor" name="plugin_compressor" label="COM_RESPONSIVIZER_PLUGIN_CUSTOM_HOME"> 
+		<field name="mobile_homepage" type="radio" class="btn-group" default="0" label="COM_RESPONSIVIZER_MOBILEHOMEPAGE_ENABLED" description="COM_RESPONSIVIZER_MOBILEHOMEPAGE_ENABLED_DESC">
+			<option value="0">JNO</option>
+			<option value="1">JYES</option>
+		</field>
+		<field name="mobile_homepage_menuid" type="menuselect" class="btn-group" default="0" size="10" label="COM_RESPONSIVIZER_MOBILEHOMEPAGE_ITEMID" description="COM_RESPONSIVIZER_MOBILEHOMEPAGE_ITEMID_DESC"/>
+	</fieldset>
+	
+	<fieldset id="module_settings" name="module_settings" label="COM_RESPONSIVIZER_MODULE_SETTINGS" addfieldpath="/administrator/components/com_responsivizer/models/fields">
+	 	<field type="spacer" class="label label-info spacer" label="COM_RESPONSIVIZER_MAIN_SETTINGS" />
+	 	<field name="responsivizer_slideshow_enabled" type="radio" class="btn-group" default="0" label="COM_RESPONSIVIZER_SLIDEWSHOW_ENABLED" description="COM_RESPONSIVIZER_SLIDEWSHOW_ENABLED_DESC">
+			<option value="0">JNO</option>
+			<option value="1">JYES</option>
+		</field>
+		<field name="slideshow_width" type="text" default="100" size="10" label="COM_RESPONSIVIZER_SLIDESHOW_WIDTH" description="COM_RESPONSIVIZER_SLIDESHOW_WIDTH_DESC" />
+	 	<field name="directionNav" type="list" default="default" label="COM_RESPONSIVIZER_PREVNEXT_BTN" description="COM_RESPONSIVIZER_PREVNEXT_BTN_DESC">
+			<option value="default">Yes default style</option>
+			<option value="white-arrow">Yes white arrow</option>
+			<option value="black-arrow">Yes black arrow</option>				
+			<option value="false">JNO</option>					
+		</field>
+		
+		<field type="spacer" class="label label-info spacer" label="COM_RESPONSIVIZER_PREFERENCES" />
+ 		<field name="pauseOnHover" type="radio" class="btn-group" default="true" label="COM_RESPONSIVIZER_PAUSEHOVER" description="COM_RESPONSIVIZER_PAUSEHOVER_DESC">
+			<option value="false">JNO</option>
+			<option value="true">JYES</option>
+		</field>
+ 		<field name="initDelay" type="text" default="0" label="COM_RESPONSIVIZER_INIT_DELAY" description="COM_RESPONSIVIZER_INIT_DELAY_DESC"/>				
+ 		<field name="randomize" type="radio" class="btn-group" default="false" label="COM_RESPONSIVIZER_RANDOM" description="COM_RESPONSIVIZER_RANDOM_DESC">
+			<option value="false">JNO</option>
+			<option value="true">JYES</option>
+		</field>	 	
+		<field name="target" type="list" default="_blank" label="COM_RESPONSIVIZER_Target" description="COM_RESPONSIVIZER_TARGET_DESC">
+			<option value="_blank">New window</option>
+			<option value="_self">Same window</option>
+		</field> 
+	 	<field name="enable_minheight" type="radio" class="btn-group" default="0" label="COM_RESPONSIVIZER_ENABLE_MINHEIGHT" description="COM_RESPONSIVIZER_ENABLE_MINHEIGHT_DESC">
+			<option value="0">JNO</option>
+			<option value="1">JYES</option>
+		</field> 
+		<field name="min_height" type="text" default="380" label="COM_RESPONSIVIZER_MINHEIGHT" description="COM_RESPONSIVIZER_MINHEIGHT_DESC" />			
+		<field name="images_auto_height" type="radio" class="btn-group" default="true" label="COM_RESPONSIVIZER_IMAGES_AUTO_HEIGHT" description="COM_RESPONSIVIZER_IMAGES_AUTO_HEIGHT_DESC">
+			<option value="false">JNO</option>
+			<option value="true">JYES</option>	
+		</field>
+
+		<field name="slide_theme" type="list" default="false" label="COM_RESPONSIVIZER_SLIDESHOW_THEME_CHOOSE" description="COM_RESPONSIVIZER_SLIDESHOW_THEME_CHOOSE_DESC">
+			<option value="true">Slide theme</option>
+			<option value="false">Custom theme</option>
+		</field>
+ 		<field name="bg_color" type="text" default="#ffffff" label="COM_RESPONSIVIZER_SLIDESHOW_BCK" description="COM_RESPONSIVIZER_SLIDESHOW_BCK_DESC"/>				
+		<field name="theme_shadow" type="list" default="theme-shadow-normal" label="COM_RESPONSIVIZER_SHADOW" description="COM_RESPONSIVIZER_SHADOW_DESC">
+			<option value="theme-without-shadow">JNO</option>
+			<option value="theme-shadow-normal">Shadow normal (4px)</option>
+			<option value="theme-shadow-large">Shadow large (15px)</option>
+		</field>
+	 	<field name="theme_border" type="list" default="00" label="COM_RESPONSIVIZER_BORDER_AROUND" description="COM_RESPONSIVIZER_BORDER_AROUND_DESC">
+			<option value="00">None</option>
+			<option value="01">2 pixels</option>
+			<option value="02">4 pixels</option>
+			<option value="03">7 pixels</option>
+			<option value="04">10 pixels</option>
+		</field>
+	 	<field name="theme_border_radius" type="list" default="00" label="COM_RESPONSIVIZER_BORDER_RADIUS" description="COM_RESPONSIVIZER_BORDER_RADIUS_DESC">
+			<option value="00">None</option>
+			<option value="01">4 pixels</option>
+			<option value="02">8 pixels</option>
+			<option value="03">12 pixels</option>
+			<option value="04">24 pixels</option>
+		</field>
+
+	 	<field name="controlNav" type="radio" class="btn-group" default="true" label="COM_RESPONSIVIZER_CONTROLNAV" description="COM_RESPONSIVIZER_CONTROLNAV_DESC">
+			<option value="true">JYES</option>	
+			<option value="false">JNO</option>
+		</field> 
+		<field name="positionNav" type="list" default="under" label="COM_RESPONSIVIZER_CONTROLNAVPOS" description="COM_RESPONSIVIZER_CONTROLNAVPOS_DESC">
+			<option value="under">Under the slideshow</option>
+			<option value="bottom">Bottom of the slideshow</option>
+			<option value="top">Top of the slideshow</option>
+		</field> 
+		<field name="colorNav" type="list" default="dark" label="COM_RESPONSIVIZER_NOCACTIVE_COLOR" description="COM_RESPONSIVIZER_NOCACTIVE_COLOR_DESC">
+			<option value="dark">Dark</option>
+			<option value="light">Light</option>
+		</field> 
+		<field name="colorNavActive" type="list" default="black" label="COM_RESPONSIVIZER_ACTIVE_COLOR" description="COM_RESPONSIVIZER_ACTIVE_COLOR_DESC">
+			<option value="black">Black</option>
+			<option value="green">Green</option>
+			<option value="red">Red</option>
+			<option value="orange">Orange</option>
+			<option value="blue">Blue</option>
+			<option value="white">White</option>
+		</field>				
+		
+		<field type="spacer" class="label label-info spacer" label="COM_RESPONSIVIZER_ADVANCED" />
+	 	<field name="transition" type="list" default="slide" label="COM_RESPONSIVIZER_TRANSITION_TYPE" description="COM_RESPONSIVIZER_TRANSITION_TYPE_DESC">
+			<option value="slide">Slide</option>
+			<option value="fade">Fade</option>
+		</field>
+		<field name="direction" type="list" default="horizontal" label="COM_RESPONSIVIZER_TRANSITION_DIR" description="COM_RESPONSIVIZER_TRANSITION_DIR_DESC">
+			<option value="horizontal">Horizontal</option>
+			<option value="vertical">Vertical</option>
+		</field>
+	 	<field name="easing" type="list" default="easeInQuart" label="COM_RESPONSIVIZER_EASING_TYPE" description="COM_RESPONSIVIZER_EASING_TYPE_DESC">
+			<option value="linear">Linear</option>
+			<option value="swing">Swing</option>
+			<option value="easeInQuad">Ease In Quad</option>
+			<option value="easeOutQuad">Ease Out Quad</option>
+			<option value="easeInOutQuad">Ease In Out Quad</option>
+			<option value="easeInCubic">Ease In Cubic</option>
+			<option value="easeOutCubic">Ease Out Cubic</option>
+			<option value="easeInOutCubic">Ease In Out Cubic</option>
+			<option value="easeInQuart">Ease In Quart</option>
+			<option value="easeOutQuart">Ease Out Quart</option>
+			<option value="easeInOutQuart">Ease In Out Quart</option>
+			<option value="easeInQuint">Ease In Quint</option>
+			<option value="easeOutQuint">Ease Out Quint</option>
+			<option value="easeInOutQuint">Ease In Out Quint</option>
+			<option value="easeInSine">Ease In Sine</option>
+			<option value="easeOutSine">Ease Out Sine</option>
+			<option value="easeInOutSine">Ease In Out Sine</option>
+			<option value="easeInExpo">Ease In Expo</option>
+			<option value="easeOutExpo">Ease Out Expo</option>
+			<option value="easeInOutExpo">Ease In Out Expo</option>
+			<option value="easeInCirc">Ease In Circ</option>
+			<option value="easeOutCirc">Ease Out Circ</option>
+			<option value="easeInOutCirc">Ease In Out Circ</option>
+			<option value="easeInElastic">Ease In Elastic</option>
+			<option value="easeOutElastic">Ease Out Elastic</option>
+			<option value="easeInOutElastic">Ease In Out Elastic</option>
+			<option value="easeInBack">Ease In Back</option>
+			<option value="easeOutBack">Ease Out Back</option>
+			<option value="easeInOutBack">Ease In Out Back</option>
+			<option value="easeInBounce">Ease In Bounce</option>
+			<option value="easeOutBounce">Ease Out Bounce</option>
+			<option value="easeInOutBounce">Ease In Out Bounce</option>
+		</field>		 
+		<field name="animSpeed" type="text" default="2000" label="COM_RESPONSIVIZER_ANIMSPEED" description="COM_RESPONSIVIZER_ANIMSPEED_DESC" />
+		<field name="pauseTime" type="text" default="3500" label="COM_RESPONSIVIZER_PAUSETIME" description="COM_RESPONSIVIZER_PAUSETIME_DESC" />
+		 
+	 	<field name="bg_caption" type="list" default="black" label="COM_RESPONSIVIZER_BCK_CAPTION" description="COM_RESPONSIVIZER_BCK_CAPTION_DESC">
+			<option value="black">Black</option>
+			<option value="white">White</option>
+		</field> 
+		<field name="transparency_caption" type="list" default="02" label="COM_RESPONSIVIZER_TRANSPARENCY_OPT" description="COM_RESPONSIVIZER_TRANSPARENCY_OPT_DESC">
+			<option value="00">No transparency</option>
+			<option value="01">Transparency 01</option>
+			<option value="02">Transparency 02</option>
+			<option value="03">Transparency 03</option>
+			<option value="04">Transparency 04</option>
+			<option value="05">Transparency 05</option>
+			<option value="06">Transparency 06</option>
+			<option value="09">100% Transparent</option>
+		</field> 
+		<field name="position_caption" type="list" default="bottom" label="COM_RESPONSIVIZER_CAPTION_POSITION" description="COM_RESPONSIVIZER_CAPTION_POSITION_DESC">
+			<option value="bottom">Bottom</option>
+			<option value="top">Top</option>
+		</field> 
+		<field name="text_align" type="list" default="centered" label="COM_RESPONSIVIZER_CAPTION_TEXTALIGN" description="COM_RESPONSIVIZER_CAPTION_TEXTALIGN_DESC">
+			<option value="left">Left</option>
+			<option value="centered">Centered</option>
+			<option value="right">Right</option>
+		</field> 
+		<field name="color_caption" type="text" default="#dddddd" label="COM_RESPONSIVIZER_CAPTION_COLOR" description="COM_RESPONSIVIZER_CAPTION_COLOR_DESC"/>				
+	</fieldset>
+</config>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<extension method="upgrade" type="package" version="3.0">
+	<name>Community Polls Package</name>
+	<author>Maverick</author>
+	<creationDate>2015-May-31</creationDate>
+	<packagename>communitypolls</packagename>
+	<version>4.2.5</version>
+	<url>http://www.corejoomla.com/</url>
+	<packager>Maverick</packager>
+	<packagerurl>http://www.corejoomla.com/</packagerurl>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<description><![CDATA[
+	    <div class="well">
+		<p>Community Polls Package:</p> 
+		<table class="table table-hover table-striped">
+		<tr><td>Community Polls Component:</td><td>Successfully installed</td></tr>
+		<tr><td>Random Poll Module:</td><td>Successfully installed</td></tr>
+		<tr><td>Content Polls Plugin:</td><td>Successfully installed</td></tr>
+		<tr><td>Editor Plugin:</td><td>Successfully installed</td></tr>
+		<tr><td>Search Plugin:</td><td>Successfully installed</td></tr>
+		</table>
+		<p><strong style="color: red;">Please install CjLib component if not yet installed. Please enable the plugins from plugin manager.</strong></p>
+		<p>Thank you for using corejoomla&reg; software. Please add a rating and review at Joomla&reg; Extension Directory.</p>
+		</div>
+		]]></description>
+	
+	<files folder="packages">
+		<file id="communitypolls" type="component">com_communitypolls.zip</file>
+		<file client="site" id="communitypolls" type="module">mod_randompoll.zip</file>
+		<file client="site" id="communitypolls" type="module">mod_cpcategories.zip</file>
+		<file client="site" group="content" id="communitypolls" type="plugin">plg_contentpolls.zip</file>
+		<file client="site" group="editors-xtd" id="communitypolls" type="plugin">plg_editor_polls.zip</file>
+		<file client="site" group="search" id="communitypolls" type="plugin">plg_search_polls.zip</file>
+	</files>
+</extension>

@@ -1,0 +1,58 @@
+<html>
+<head>
+	<title>Test Condition</title>
+</head>
+<body>
+<style>
+.signupframe {
+  border: 1px solid #000000;
+  background: #ffffff;
+  color: #226699;
+  font-family: Arial, Helvetica, sans-serif;
+}
+</style>
+<form method=post action="http://app.icontact.com/icp/signup.php" name="icpsignup" accept-charset="UTF-8" onsubmit="return verifyRequired();" >
+<input type=hidden name=redirect value="http://www.icontact.com/www/signup/thanks.html" />
+<input type=hidden name=errorredirect value="http://www.icontact.com/www/signup/error.html" />
+<script type="text/javascript">
+function verifyRequired() {
+  if (document.icpsignup["fields_email"].value == "") {
+    document.icpsignup["fields_email"].focus();
+    alert("The Email field is required.");
+    return false;
+  }
+
+
+return true;
+}
+</script>
+<div id="SignUp">
+<table width="260" class="signupframe" border="0" cellspacing="0" cellpadding="5">
+    <tr>
+      <td valign=top align=right>
+        <font size="1" face="Arial,Helvetica, sans-serif">*</font> <font size="2">Email</font>
+      </td>
+      <td align=left>
+        <input type=text name="fields_email">
+      </td>
+    </tr>
+    <input type=hidden name="listid" value="9958857">
+    <input type=hidden name="specialid:9958857" value="6T8J">
+
+    <input type=hidden name=clientid value="100099">
+    <input type=hidden name=formid value="3908">
+    <input type=hidden name=reallistid value="1">
+    <input type=hidden name=doubleopt value="0">
+    <TR>
+      <TD> </TD>
+      <TD><font size="1">*</font><font size="2"> = Required Field</FONT></TD>
+    </TR>
+    <tr>
+      <td> </td>
+      <td><input type="submit" name="Submit" value="Submit"></td>
+    </tr>
+    </table>
+</div>
+</form>
+</body>
+</html>

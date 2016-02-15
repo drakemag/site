@@ -1,0 +1,172 @@
+*{
+	margin:0; 
+	padding: 0; 
+	border-collapse: collapse; 
+	line-height: 150%; 
+	font-size: 14px;
+	font-family: monospace;
+}
+
+body{
+}
+
+#wrapper{
+	padding:10px 14px 240px;
+	display: block;
+	float: left;
+}
+th,td{
+	padding: 2px 4px;
+}
+
+th{
+	font-weight: bold; 
+	text-align: center; 
+	border: 1px solid #ccc;
+}
+
+td{
+	border: 1px solid #ccc;
+	vertical-align: top;
+}
+
+.nav{
+	width:100%;
+	float: left;
+	display: block;
+}
+
+.nav li{
+	display: inline-block;
+	list-style: none;
+}
+.nav li a {
+	padding: 10px 20px;
+	display: block;
+}
+
+.grayed_out{
+	color: #bbb !important;
+	font-weight: bold;
+}
+
+.field {
+	float: left;
+	clear: both;
+	margin:.1em 0;
+}
+.field label{
+	width: 10em;
+	height: 1.5em;
+	display: inline-block;
+	vertical-align: top;
+	text-align: right;
+	padding: .3em .3em 0 0;
+}
+
+.field input,
+.field select{
+	padding: .2em .2em .2em .3em;
+	height: 2em;
+	width: 20em;
+	border-radius: 4px;
+	border: 1px solid #ccc;
+}
+	.field select option{
+		padding: .2em .2em .2em .5em;
+	}
+.field input[type="radio"]{
+	width: 1em;
+	height: 2.5em;
+	vertical-align: middle;
+}
+
+.field .select_radio{
+	display: inline-block;
+}
+
+.ad_type{
+	width: 100%;
+	float: left;
+	clear: both;
+}
+
+.publish_container{
+	width: 32px;
+	height: 32px;
+	overflow: hidden;
+}
+.edit_container{
+	width: 32px;
+	height: 32px;
+	overflow: hidden;
+}
+
+.custom_code{
+	height: 8em !important;
+	vertical-align: top;
+	padding: 4px;
+}
+
+.del_button{
+	width: 32px;
+	height: 32px;
+	overflow: hidden;
+	background: url(/adserver/images/icon-32-delete.png) no-repeat top;
+}
+
+.unpublish_button{
+	width: 32px;
+	height: 32px;
+	overflow: hidden;
+	background: url(/adserver/images/icon-32-publish.png) no-repeat top;
+}
+.publish_button{
+	width: 32px;
+	height: 32px;
+	overflow: hidden;
+	background: url(/adserver/images/icon-32-unpublish.png) no-repeat top;
+}
+.edit_record_button{
+	width: 32px;
+	height: 32px;
+	overflow: hidden;
+	background: url(/adserver/images/icon-32-edit.png) no-repeat top;
+}
+
+fieldset{
+	padding:6px 20px 14px 8px;
+	border: 1px solid #888;
+	margin: 8px 0;
+}
+legend{
+	padding: 4px 10px 4px 6px;
+	border: 1px solid #888;
+}
+
+
+.banner_img img{
+	width: 100%;
+}
+
+/***** TABS *******/
+.tabs-nav {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.tabs-nav .tab-active a {
+	font-weight: bold;
+}
+.tabs-nav a {
+    display: block;
+}
+.tabs-nav li {
+    float: left;
+}
+.tabs-stage {
+    position: relative;
+    width: 40em;
+    float: left;
+    padding: 4px 6px 6px 4px;
+}

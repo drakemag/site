@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<extension version="2.5" type="plugin" group="system" method="upgrade">
+    <name>manage.myJoomla.com Secure Plugin</name>
+    <author>Blue Flame IT Ltd.</author>
+    <creationDate>2012</creationDate>
+    <copyright>(C) 2012 Blue Flame IT Ltd / Phil Taylor.</copyright>
+    <license>http://www.gnu.org/copyleft/gpl.html GNU/GPL</license>
+    <authorEmail>phil@phil-taylor.com</authorEmail>
+    <authorUrl>www.phil-taylor.com</authorUrl>
+    <version>n/a</version>
+    <description><![CDATA[
+	Our files are now uploaded - Please now return to https://manage.myjoomla.com to continue the connection process ...
+	]]></description>
+    <files>
+        <filename plugin="bfnetwork">bfnetwork.php</filename>
+        <folder>bfnetwork</folder>
+    </files>
+    <params/>
+</extension>

@@ -1,0 +1,8 @@
+.well {
+	margin: 10px 0 0 10px;
+	word-break: break-all;
+}
+
+.well div.spacer {
+	margin-bottom: 5px;
+}

@@ -1,0 +1,20 @@
+[27-Feb-2015 16:21:40 UTC] PHP Warning:  fseek() expects parameter 1 to be resource, boolean given in /home/devdrake/public_html/administrator/components/com_joomlaupdate/restore.php on line 1983
+[27-Feb-2015 16:21:41 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/devdrake/public_html/administrator/components/com_joomlaupdate/restore.php on line 4997
+[27-Feb-2015 16:21:41 UTC] PHP Warning:  unpack(): Type V: not enough input, need 4, have 0 in /home/devdrake/public_html/administrator/components/com_joomlaupdate/restore.php on line 4998
+[27-Feb-2015 16:21:41 UTC] PHP Warning:  ftell() expects parameter 1 to be resource, boolean given in /home/devdrake/public_html/administrator/components/com_joomlaupdate/restore.php on line 5003
+[27-Feb-2015 16:21:41 UTC] PHP Warning:  ftell() expects parameter 1 to be resource, boolean given in /home/devdrake/public_html/administrator/components/com_joomlaupdate/restore.php on line 5016
+[30-Jun-2015 16:41:56 UTC] PHP Warning:  fseek() expects parameter 1 to be resource, boolean given in /home/rxjdkdfp/public_html/administrator/components/com_joomlaupdate/restore.php on line 1983
+[30-Jun-2015 16:41:57 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/rxjdkdfp/public_html/administrator/components/com_joomlaupdate/restore.php on line 4997
+[30-Jun-2015 16:41:57 UTC] PHP Warning:  unpack(): Type V: not enough input, need 4, have 0 in /home/rxjdkdfp/public_html/administrator/components/com_joomlaupdate/restore.php on line 4998
+[30-Jun-2015 16:41:57 UTC] PHP Warning:  ftell() expects parameter 1 to be resource, boolean given in /home/rxjdkdfp/public_html/administrator/components/com_joomlaupdate/restore.php on line 5003
+[30-Jun-2015 16:41:57 UTC] PHP Warning:  ftell() expects parameter 1 to be resource, boolean given in /home/rxjdkdfp/public_html/administrator/components/com_joomlaupdate/restore.php on line 5016
+[30-Jun-2015 16:42:58 UTC] PHP Warning:  fseek() expects parameter 1 to be resource, boolean given in /home/rxjdkdfp/public_html/administrator/components/com_joomlaupdate/restore.php on line 1983
+[30-Jun-2015 16:42:58 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/rxjdkdfp/public_html/administrator/components/com_joomlaupdate/restore.php on line 4997
+[30-Jun-2015 16:42:58 UTC] PHP Warning:  unpack(): Type V: not enough input, need 4, have 0 in /home/rxjdkdfp/public_html/administrator/components/com_joomlaupdate/restore.php on line 4998
+[30-Jun-2015 16:42:58 UTC] PHP Warning:  ftell() expects parameter 1 to be resource, boolean given in /home/rxjdkdfp/public_html/administrator/components/com_joomlaupdate/restore.php on line 5003
+[30-Jun-2015 16:42:58 UTC] PHP Warning:  ftell() expects parameter 1 to be resource, boolean given in /home/rxjdkdfp/public_html/administrator/components/com_joomlaupdate/restore.php on line 5016
+[02-Nov-2015 22:32:11 UTC] PHP Warning:  fseek() expects parameter 1 to be resource, boolean given in /home/rxjdkdfp/public_html/administrator/components/com_joomlaupdate/restore.php on line 1983
+[02-Nov-2015 22:32:12 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/rxjdkdfp/public_html/administrator/components/com_joomlaupdate/restore.php on line 4997
+[02-Nov-2015 22:32:12 UTC] PHP Warning:  unpack(): Type V: not enough input, need 4, have 0 in /home/rxjdkdfp/public_html/administrator/components/com_joomlaupdate/restore.php on line 4998
+[02-Nov-2015 22:32:12 UTC] PHP Warning:  ftell() expects parameter 1 to be resource, boolean given in /home/rxjdkdfp/public_html/administrator/components/com_joomlaupdate/restore.php on line 5003
+[02-Nov-2015 22:32:12 UTC] PHP Warning:  ftell() expects parameter 1 to be resource, boolean given in /home/rxjdkdfp/public_html/administrator/components/com_joomlaupdate/restore.php on line 5016

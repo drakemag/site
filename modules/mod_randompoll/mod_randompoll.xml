@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" version="2.5.0" method="upgrade" client="site">
+	<name>Community Polls - Random Poll</name>
+	<author>Maverick</author>
+	<creationDate>2014-10-28</creationDate>
+	<copyright>All rights reserved by www.corejoomla.com 2009-14.</copyright>
+	<license>GPLv2 or Later</license>
+	<authorEmail>support@corejoomla.com</authorEmail>
+	<authorUrl>www.corejoomla.com</authorUrl>
+	<version>4.0.1</version>
+	<description>Please vote for us on Joomla Extension Directory(extensions.joomla.org) if you like this extension. Please write a review on Joomla Extension Directory.</description>
+	
+	<files>
+		<filename module="mod_randompoll">mod_randompoll.php</filename>
+		<filename>index.html</filename>
+		<filename>helper.php</filename>
+		<folder>tmpl</folder>
+		<folder>assets</folder>
+	</files>
+
+	<languages folder="language">
+		<language tag="en-GB">en-GB/en-GB.mod_randompoll.ini</language>
+	</languages>
+
+	<!-- Optional parameters -->
+	<config>
+		<fields name="params">
+			<fieldset name="basic">
+				<field name="showdescription" type="radio" class="btn-group btn-group-yesno" default="1" label="LBL_SHOW_DESCRIPTION" description="LBL_SHOW_DESCRIPTION_DESC">
+					<option value="1">LBL_SHOW</option>
+					<option value="0">LBL_HIDE</option>
+				</field>
+				
+				<field name="showcategory" type="radio" class="btn-group btn-group-yesno" default="1" label="LBL_SHOW_CATEGORY" description="LBL_SHOW_CATEGORY_DESC">
+					<option value="1">LBL_SHOW</option>
+					<option value="0">LBL_HIDE</option>
+				</field>
+				
+				<field name="showauthor" type="radio" class="btn-group btn-group-yesno" default="1" label="LBL_SHOW_AUTHOR" description="LBL_SHOW_AUTHOR_DESC">
+					<option value="1">LBL_SHOW</option>
+					<option value="0">LBL_HIDE</option>
+				</field>
+				
+				<field name="showavatar" type="radio" class="btn-group btn-group-yesno" default="1" label="LBL_SHOW_AVATAR" description="LBL_SHOW_AVATAR_DESC">
+					<option value="1">LBL_SHOW</option>
+					<option value="0">LBL_HIDE</option>
+				</field>
+				
+				<field name="showvotes" type="radio" class="btn-group btn-group-yesno" default="1" label="LBL_SHOW_VOTES" description="LBL_SHOW_VOTES_DESC">
+					<option value="1">LBL_SHOW</option>
+					<option value="0">LBL_HIDE</option>
+				</field>
+				
+				<field name="showlastvote" type="radio" class="btn-group btn-group-yesno" default="1" label="LBL_SHOW_LAST_VOTE" description="LBL_SHOW_LAST_VOTE_DESC">
+					<option value="1">LBL_SHOW</option>
+					<option value="0">LBL_HIDE</option>
+				</field>
+				
+				<field name="showclosed" type="radio" class="btn-group btn-group-yesno" default="1" label="LBL_SHOW_CLOSED_POLLS" description="LBL_SHOW_CLOSED_POLLS_DESC">
+					<option value="1">LBL_SHOW</option>
+					<option value="0">LBL_HIDE</option>
+				</field>
+				
+				<field name="showgridpolls" type="radio" class="btn-group btn-group-yesno" default="1" label="LBL_SHOW_GRID_POLLS" description="LBL_SHOW_GRID_POLLS_DESC">
+					<option value="1">LBL_SHOW</option>
+					<option value="0">LBL_HIDE</option>
+				</field>
+				
+				<field name="charttype" type="list" default="global" label="LBL_CHART_TYPE" description="LBL_CHART_TYPE_DESC">
+					<option value="global">LBL_GLOBAL</option>
+					<option value="bar">LBL_BAR_CHART</option>
+					<option value="pie">LBL_PIE_CHART</option>
+					<option value="sbar">LBL_SBAR_CHART</option>
+					<option value="gpie">LBL_GPIE_CHART</option>
+				</field>
+				
+				<field name="@spacer" type="spacer" default="" label="" description="" />
+				
+				<field name="categories" type="text" default="" label="LBL_LIMIT_CATEGORIES" description="LBL_LIMIT_CATEGORIES_DESC" />
+				
+				<field name="desc_length" type="text" default="0" label="LBL_LIMIT_DESC_LENGTH" description="LBL_LIMIT_DESC_LENGTH_DESC" />
+		        
+		        <field name="listtype" type="list" default="random" label="MOD_RANDOMPOLL_LIST_TYPE_LABEL" description="MOD_RANDOMPOLL_LIST_TYPE_DESC">
+		            <option value="latest">MOD_RANDOMPOLL_LATEST_POLL</option>
+		            <option value="random">MOD_RANDOMPOLL_RANDOM_POLL</option>
+		        </field>
+								
+				<field name="pollids" type="text" default="" label="LBL_CUSTOM_POLLS" description="LBL_CUSTOM_POLLS_DESC" />
+				<field name="exclude_pollids" type="text" default="" label="LBL_EXCLUDE_POLL_IDS" description="LBL_EXCLUDE_POLL_IDS_DESC" />
+				
+				<field name="chartwidth" type="text" default="200" label="LBL_CHART_WIDTH" description="LBL_CHART_WIDTH_DESC" />
+				
+				<field name="chartheight" type="text" default="200" label="LBL_CHART_HEIGHT" description="LBL_CHART_HEIGHT_DESC" />
+
+		        <field name="allowimages" type="list" default="1" label="LBL_ALLOW_IMAGES" description="LBL_ALLOW_IMAGES_DESC">
+		            <option value="1">LBL_YES</option>
+		            <option value="0">LBL_NO</option>
+		        </field>
+		        
+		        <field name="username" type="list" default="1" label="LBL_USERNAME" description="LBL_USERNAME_DESC">
+		            <option value="username">LBL_USERNAME</option>
+		            <option value="name">LBL_NAME</option>
+		        </field>
+		        
+<!-- 	        <param name="polltypes" type="list" default="radio,checkbox" label="LBL_ALLOWED_POLL_TYPES" description="LBL_ALLOWED_POLL_TYPES_DESC">
+		            <option value="radio">LBL_RADIO</option>
+		            <option value="checkbox">LBL_CHECKBOX</option>
+		            <option value="grid">LBL_GRID</option>
+		        </param> -->
+						
+				<field name="charttype" type="list" default="global" label="LBL_CHART_TYPE" description="LBL_CHART_TYPE_DESC">
+					<option value="global">LBL_GLOBAL</option>
+					<option value="bar">LBL_BAR_CHART</option>
+					<option value="pie">LBL_PIE_CHART</option>
+					<option value="sbar">LBL_SBAR_CHART</option>
+					<option value="gpie">LBL_GPIE_CHART</option>
+				</field>
+				
+				<field name="default_view" type="list" default="form" label="LBL_DEFAULT_VIEW" description="LBL_DEFAULT_VIEW_DESC">
+					<option value="form">LBL_FORM</option>
+					<option value="charts">LBL_CHARTS</option>
+				</field>
+
+		        <field name="hide_comments" type="list" default="0" label="LBL_HIDE_COMMENT_BUTTON" description="LBL_HIDE_COMMENT_BUTTON_DESC">
+		            <option value="0">LBL_NO</option>
+		            <option value="1">LBL_YES</option>
+		        </field>
+
+		        <field name="hide_pie_table" type="list" default="0" label="LBL_HIDE_GPIE_TABLE" description="LBL_HIDE_GPIE_TABLE_DESC">
+		            <option value="0">LBL_NO</option>
+		            <option value="1">LBL_YES</option>
+		        </field>
+			</fieldset>
+			<fieldset name="advanced">
+				<field name="layout" type="modulelayout" label="JFIELD_ALT_LAYOUT_LABEL" description="JFIELD_ALT_MODULE_LAYOUT_DESC" />
+				<field name="moduleclass_sfx" type="text" label="COM_MODULES_FIELD_MODULECLASS_SFX_LABEL" description="COM_MODULES_FIELD_MODULECLASS_SFX_DESC" />
+				<field name="cache" type="list" default="1" label="COM_MODULES_FIELD_CACHING_LABEL" description="COM_MODULES_FIELD_CACHING_DESC"> 
+					<option value="1">JGLOBAL_USE_GLOBAL</option>
+					<option value="0">COM_MODULES_FIELD_VALUE_NOCACHING</option>
+				</field>
+				<field name="cache_time" type="text" default="900" label="COM_MODULES_FIELD_CACHE_TIME_LABEL" description="COM_MODULES_FIELD_CACHE_TIME_DESC" />
+			</fieldset>
+		</fields>
+	</config>
+</extension>

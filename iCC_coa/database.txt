@@ -1,0 +1,1051 @@
+Crystal,test last name,itgirl61@gmail.com,,,2012-10-30 16:22:28
+test first name,test last name,itgirl61@gmail.com,4015 Norwood Avenue,TEST APT,Chattanooga,TN,37415,USA,crystal,Henry,itgirl61@gmail.com,4015 Norwood Avenue,TEST APT,Chattanooga,TN,37415,USA,2012-10-30 17:04:22
+test first name,test last name,itgirl61@gmail.com,4015 Norwood Avenue,TEST APT,Chattanooga,TN,37415,USA,crystal,Henry,itgirl61@gmail.com,4015 Norwood Avenue,TEST APT,Chattanooga,TN,37415,USA,2012-11-29 08:31:29
+test first name,test last name,itgirl61@gmail.com,4015 Norwood Avenue,TEST APT,Chattanooga,TN,37415,USA,crystal,Henry,itgirl61@gmail.com,4015 Norwood Avenue,TEST APT,Chattanooga,TN,37415,USA,2012-11-29 08:48:20
+test first name,test last name,itgirl61@gmail.com,4015 Norwood Avenue,TEST APT,Chattanooga,TN,37415,USA,crystal,Henry,itgirl61@gmail.com,4015 Norwood Avenue,TEST APT,Chattanooga,TN,37415,USA,2012-11-29 08:48:34
+test first name,test last name,itgirl61@gmail.com,,,2012-11-29 08:52:22
+test first name,test last name,itgirl61@gmail.com,,,2012-11-29 08:53:26
+test first name,test last name,itgirl61@gmail.com,,,2012-11-29 08:57:20
+Grant,Summerlin,grant@7weight.com,2120 Northgate Park Lane,Suite 404,Chattanooga,TN,37415,United States,Grant,Summerlin,grant@7weight.com,123 test lane,,Hixson,TN,37343,United States,2012-12-28 15:43:15
+Stephen,Spahn,sargon7@comcast.net,850 Central Ave,,Hammonton,New Jersey,08037,USA,Stephen,Spahn,sargon7@comcast.net,2600 6th Ave,,Hammonton,New Jersey,08037,USA,2013-01-13 17:13:52
+Chris,Roslonski,croslonski@gmail.com,1482 Alabama Ave,,Pittsburgh,PA,15216,USA,Chris,Roslonski,croslonski@gmail.com,321 5th ave.,,Carnegie,PA,15106,USA,2013-01-13 20:27:45
+Craig,Jenkins,135duke@gmail.com,101 Shell Rd,,Watsonville,CA,95076,USA,Craig,Jenkins,135duke@gmail.com,Po Box 23,,Bandon ,OR,97411,USA,2013-01-15 14:17:33
+Craig,Jenkins,135duke@gmail.com,101 Shell Rd,,Watsonville,CA,95076,USA,Craig,Jenkins,135duke@gmail.com,Po Box 23,,Bandon ,OR,97411,USA,2013-01-15 14:24:10
+Jim,Balyszak,,2870 Coates Road,,Penn Yan,NY,14527-8935,United States,Jim,Balyszak,,1856 Stiles Road,,Penn Yan,NY,14527,Unites States,2013-01-16 08:04:30
+Jim ,Balyszak,jim_balyszak@yahoo.com,2870 Coates Road,,Penn Yan,NY,14527-8935,United States,Jim,Balyszak,jim_balyszak@yahoo.com,1856 Stiles Rd,,Penn Yan,NY,14527,United States,2013-01-16 08:14:15
+Jim,Balyszak,adirondackjim@gmail.com,2870 Coates Road,,Penn Yan,NY,14527,USA,Jim,Balyszak,adirondackjim@gmail.com,1856 Stiles Road,,Penn Yan,NY,14527,USA,2013-01-16 08:38:18
+Spencer,Gregory,Lilg196@firehousemail.com,153 morningside dr,,Farmington,Utah,84025,Usa,Spencer,Gregory,Lilg196@firehousemail.com,1843 w hollybrook way,,Farmington,Utah,84025,Usa,2013-01-16 21:27:54
+Spencer,Gregory,Lilg196@firehousemail.com,153 morningside dr,,Farmington,Utah,84025,Usa,Spencer,Gregory,Lilg196@firehousemail.com,1843 w hollybrook way,,Farmington,Utah,84025,Usa,2013-01-16 21:43:08
+Spencer,Gregory,Lilg196@firehousemail.com,153 morningside dr,,Farmington,Utah,84025,Usa,Spencer,Gregory,Lilg196@firehousemail.com,1843 w hollybrook way,,Farmington,Utah,84025,Usa,2013-01-16 21:47:05
+Christopher,McDonnell,chris@cmcdonnell.com,1009 Blackhaw St,,Houston,TX,77079-1001,USA,Christopher,McDonnell,chris@cmcdonnell.com,560 Houston St,,New Ulm,TX,78950,USA,2013-01-17 17:50:21
+Christopher,McDonnell,chris@cmcdonnell.com,1009 Blackhaw St,,Houston,TX,77079,USA,Christopher,McDonnell,chris@cmcdonnell.com,560 Houston St,,New Ulm,TX,78950,USA,2013-01-17 17:52:07
+Bryan,Hulse,bhulse@charter.net,512 Fleetwood Ct,D,Kingsport,TN,37660,US,Hulse,Hulse,bhulse@charter.net,4236 Anchor Pointe Drive,,Kingsport,TN,37664,US,2013-01-19 19:26:04
+Dan,Hayes,danandkittyhayes@gmail.com,10 Nortons Race,,Honeoye Falls,New York,14472,USA,Dan,Hayes,danandkittyhayes@gmail.com,1981 Brandt Rd,,Cato,NY,13033,USA,2013-01-20 07:04:36
+cherri or rick (unsure which),scott,rickgizmo@gmail.com,3832 e. powell way,,gilbert,az,85298 ,us,same,scott,rickgizmo@gmail.com,17771 e. tulsa st. ,,chandler,az,85225,us,2013-01-21 10:30:18
+rick or cherri,scott,rickgizmo@gmail.com,3832 e. powell way,,gilbert,az,85298,us,same,scott,same,1771 e. tulsa st,,chandler,az,85225,us,2013-01-21 10:31:48
+Craig,Jenkins,135duke@gmail.com,101 Shell Rd,,Watsonville,Ca,95076,USA,Craig,Jenkins,135duke@gmail.com,PO Box 23,,Bandon ,OR,97411,USA,2013-01-22 15:25:46
+Bob,Ledrich,ledrich@optonline.net,16 North St,,Wappingers Falls,NY,12590,usa,Bob,Ledrich,ledrich@optonline.net,205 Shadblow Lane,,Clinton Corners,NY,12514,usa,2013-01-23 17:35:53
+Bob,Ledrich,ledrich@optonline.net,16 North St,,Wappingers Falls,NY,12590,USA,Bob,Ledrich,ledrich@optonline.net,205 Shadblow Lane,,Clinton Corners,NY,12514,USA,2013-01-23 17:39:45
+Bob,Ledrich,ledrich@optonline.net,16 North St,,Wappingers Falls,NY,12590,USA,Bob ,Ledrich,ledrich@optonline.net,205 Shadblow Lane,,Clinton Corners,NY,12514,USA,2013-01-23 17:48:45
+James,Wlodarz,jwlodar1@gmail.com,510 Old Hickory Blvd,417,Nashville,Tennessee,37209,USA,James ,Wlodarz,jwlodar1@gmail.com,211 Joyner Avenue,,Nashville,Tennessee,37210,USA,2013-01-24 19:12:00
+Jason ,Orzechowski,jason.orzechowski@yahoo.com,601 N James Street,,Ludington ,MI,49431,USA,Jason,Orzechowski,jason.orzechowski@yahoo.com,99 Day Spring Loop,,Helena,MT,59601,usa,2013-01-27 08:54:31
+Jason ,Orzechowski,jason.orzechowski@yahoo.com,601 N James Street,,Ludington ,MI,49431,USA,Jason,Orzechowski,jason.orzechowski@yahoo.com,99 Day Spring Loop,,Helena,MT,59601,usa,2013-01-27 16:30:58
+Jason ,Orzechowski,jason.orzechowski@yahoo.com,601 N James Street,,Ludington ,MI,49431,USA,Jason,Orzechowski,jason.orzechowski@yahoo.com,99 Day Spring Loop,,Helena,MT,59601,usa,2013-01-27 16:35:13
+scott,coffman,r_scoffman@yahoo.com,4136 ellington ave.,,western springs,il,60558,usa,scott,coffman,r_scoffman@yahoo.com,1 N Chestnut,apt. 4E,Arlington Heights,IL,6005,usa,2013-01-27 23:29:19
+scott,coffman,r_scoffman@yahoo.com,4136 ellington ave,,western springs,IL,60558,United States,Scott,Coffman,r_scoffman@yahoo.com,1 N chestnut,4E,arlington heights,IL,60005,United States,2013-01-27 23:41:17
+Randall,Clark,clarkman23@hotmail.com,7037 NE 8th Ave,,Portland,OR,97211,United States,Randall,Clark,clarkman23@hotmail.com,7469 SW Daisy Dr,,Beaverton,OR,97007,United States,2013-01-30 08:37:02
+Randall,Clark,clarkman23@hotmail.com,7037 NE 8th Ave,,Portland,OR,97211,United States,Randall,Clark,clarkman23@hotmail.com,7469 SW Daisy Dr,,Beaverton,OR,97007,United States,2013-01-30 08:37:58
+Randall,Clark,clarkman23@hotmail.com,7037 NE 8th Ave,,Portland,OR,97211,United States,Randall,Clark,clarkman23@hotmail.com,7469 SW Daisy Dr,,Beaverton,OR,97007,United States,2013-01-30 08:38:53
+derrick,busch,derrickbusch@gmail.com,3914 channel st,1/2,newport beach,California,92663,United States,derrick,busch,derrickbusch@gmail.com,210 Knox St,,Costa Mesa,California,92627,United States,2013-02-01 23:24:09
+derrick,busch,derrickbusch@gmail.com,3914 channel st,1/2,newport beach,California,92663,United States,derrick,busch,derrickbusch@gmail.com,210 Knox St,,Costa Mesa,California,92627,United States,2013-02-01 23:25:19
+derrick,busch,derrickbusch@gmail.com,3914 1/2 channel pl,,newport beach,California,92663,United States,derrick,busch,derrickbusch@gmail.com,210 Knox St,,Costa Mesa,California,92627,United States,2013-02-01 23:29:18
+derrick,busch,derrickbusch@gmail.com,3914 channel st,1/2,newport beach,California,92663,United States,derrick,busch,derrickbusch@gmail.com,210 Knox St,,Costa Mesa,California,92627,United States,2013-02-01 23:37:25
+Jim,Balyszak,jim_balyszak@yahoo.com,2870 Coates Rd,,Penn Yan,NY,14527,United States,Jim,Balyszak,jim_balyszak@yahoo.com,1856 Stiles Rd,,Penn Yan,NY,14527,United States,2013-02-04 10:07:30
+Dr. Robert,Schaffarzick,lynn@hamsfork.net,816 Klondyke St,,Kemmerer,WY,83101,USA,Dr. Robert,Schaffarzick,lynn@hamsfork.net,707 Pearl Street,,Kemmerer,WY,83101,USA,2013-02-04 15:22:28
+Dr. Robert,Schaffarzick,lynn@hamsfork.net,816 Klondyke St,,Kemmerer,WY,83101,USA,Dr. Robert,Schaffarzick,lynn@hamsfork.net,707 Pearl St,,Kemmerer,WY,83101,USA,2013-02-04 15:24:27
+Paul,Ansalone,paul.ansalone@yahoo.com,153 Westminster Dr,,Yonkers,NY,10710,USA,Paul,Ansalone,paul.ansalone@yahoo.com,1866 Hendrickson St,FL 2,Brooklyn ,NY,11234,USA,2013-02-04 19:47:14
+Paul,Ansalone,paul.ansalone@yahoo.com,153 Westminster Dr,,Yonkers,NY,10710,USA,Paul,Ansalone,paul.ansalone@yahoo.com,1866 Hendrickson St,FL 2,Brooklyn ,NY,11234,USA,2013-02-04 19:48:51
+Alina,Goldsmith,alioop19@hotmail.com,1005 - 11 Ave SE,,Calgary,Alberta,T2R0G1,Canada,Johnnie,Goldsmith,freebird1001@hotmail.com,208 Blackthorn rd NE,,Calgary,Alberta,T2K4X6,Canada,2013-02-06 16:56:59
+Jason,Freeman,freeman157@me.com,511 West 1st Ave.,205,Columbus,OH,43215,US,Jason,Freeman,freeman157@me.com,4529 Tetford Road,,Columbus,OH,43220,US,2013-02-08 10:20:28
+Marty,Knape,marty.knape@cbre.com,701 Clermont St,,Denver,CO,80220,USA,Marty,Knape,marty.knape@cbre.com,145 Willowleaf Dr,,Littleton,CO,80127,USA,2013-02-09 07:57:57
+Marty,Knape,knapemarty@gmail.com,701 Clermont St,,Denver,CO,80220,USA,Marty,Knape,knapemarty@gmail.com,145 Willowleaf Dr,,Littleton,CO,80127,USA,2013-02-09 08:03:17
+Dr. Robert,Schaffarzick,lynn@hamsfork.net,816 Klondyke St,,Kemmerer,WY,83101-2903,USA,Dr. Robert,Schaffarzick,lynn@hamsfork.net,707 Pearl Street,,Kemmerer,WY,83101,USA,2013-02-11 13:03:43
+Matthew ,Rayes,mjrayes@gmail.com,14235 s 13th st,,Phoenix,AZ,85048,United States,Matthew,Rayes,mjrayes@gmail.com,3703 e Kachina Dr,,Phoenix,AZ,85044,United States,2013-02-11 15:02:25
+Matthew,Rayes,mjrayes@gmail.com,14235 s 13 place,,Phoenix,AZ,85048,United States,Matthew,Rayes,mjrayes@gmail.com,3703 e Kachina Dr,,Phoenix,AZ,85044,United States,2013-02-11 15:11:42
+Brian,Shumaker,brianshu@verizon.net,209 Oak Knoll Road,,New Cumberland,PA,17070,USA,Brian,Shumaker,brianshu@verizon.net,1 East Factory Street,3,Mechanicsburg,PA,17055,USA,2013-02-13 20:45:10
+Keith,Shakespeare,kshakespeare@curie.org,3212 Victoria St,,Oakville,Ontario,l6l 5R2,Canada,Keith,Shakespeare,kshakespeare@curie.org,3212 Victoria St,,Oakville,Ontario,L6L 5R2,canada,2013-02-15 09:14:07
+Douglas,Henry,dougrhenry@yahoo.com,1080 Nicholson Avenue,,Lakewood,Ohio,44107,United States,Douglas ,Henry,dougrhenry@yahoo.com,584 Bradley Road,,Bay Village,Ohio,44140,United States,2013-02-18 10:26:47
+Christopher,Cook,ccook@sullivanhayes.com,730 Ash St,,Denver,CO,80220,United States,Christopher,Cook,ccook@sullivanhayes.com,PO Box 102949,,Denver,CO,80250,United States,2013-02-20 13:39:45
+Matthew,Rayes,mjrayes@gmail.com,14235 s 13 place,,Phoenix,AZ,85048,United States,Matthew,Rayes,mjrayes@gmail.com,3703 e Kachina Dr,,Phoenix,AZ,85044,United States,2013-02-20 15:41:36
+Spencer,Gregory,lilg196@firehousemail.com,153 morningside Dr,,Farmington,utah,84025,usa,Spencer,Gregory,lilg196@firehousemail.com,1843 w Hollybrook Way,,Farmington,Ut,84025,usa,2013-02-24 14:21:41
+Spencer,Gregory,lilg196@firehousemail.com,153 Morningside dr,,Farmington,Ut,84025,USA,Spencer,Gregory,lilg196@firehousemail.com,1843 W Hollybrook Way,,Farmington,Ut ,84025,USA,2013-02-24 14:32:54
+Spencer,Gregory,lilg196@firehousemail.com,153 Morningside Dr,,Farmington,Ut,84025,USa,Spencer,Gregory,lilg196@firehousemail.com,1843 W Hollybrook Way,,Farmington,Ut,84025,USA,2013-02-24 14:35:03
+Chris,Anderson,canderson@tu.org,5642 6th St. ,,Arlington,VA,22205,United States,Chris ,Anderson,cbanderson5@gmail.com,1449 28th St. South,Apt. 6,Arlington,VA,22206,United States,2013-02-25 14:07:52
+James,Odegaard,threedollardip@mac.com,P.O Box 412,,Ashley Falls,MA,01222,USA,James,Odegaard,threedollardip@mac.com,29 E Concord st,4,Boston,MA,02118,USA,2013-02-25 19:57:48
+James,Odegaard,odegaard.james@gmail.com,P.O Box 412,,Ashley Falls,MA,01222,USA,James,Odegaard,odegaard.james@gmail.com,29 E Concord st,4,Boston,MA,02118,USA,2013-02-25 20:01:03
+Daniel,Harrington,dharrington99@yahoo.com,PO Box 12,,Florence,Montana,59833,United States,Daniel,Harrington,dharrington99@yahoo.com,29301 Philo Greenwood Rd,,Elk,California [CA],95432,United States,2013-02-27 21:43:42
+Jason,McCandless,jbmccandless@gmail.com,171 Magnolia Street,,San Francisco,CA,94123,USA,Jason,McCandless,jbmccandless@gmail.com,215 Randall Street,,San Francisco,CA,94131,USA,2013-02-28 18:38:03
+Jason,McCandless,jbmccandless@gmail.com,171 Magnolia Street,,San Francisco,CA,94123,USA,Jason,McCandless,jbmccandless@gmail.com,215 Randall Street,,San Francisco,CA,94131,USA,2013-02-28 18:39:22
+Alina,Goldsmith,Alioop19@hotmail.com,208 blackthorn rd NE,,Calgary,Alberta,T2k4x6,Canada,Alina ,Goldsmith,Alioop19@hotmail.com,208 blackthorn rd NE,,Calgary,Alberta,T2k4x6,Canada,2013-03-02 22:17:42
+Pierce,Flynn,pierce@dubmagazine.com,3133 Via Puerta,,Carlsbad,CA,920009,United States,Pierce,Flynn,pierce@dubmagazine.com,680 Puesta Del Sol,,San Marcos,CA,92078,United States,2013-03-02 22:30:34
+John ,Botto,jvbotto@hotmail.com,402 Webb st.,,Clayton,NY,13624,US,John,Botto,jvbotto@hotmail.com,C.co 3-10 MEDEVAC TF Shadow,,APO,AE,09354,US,2013-03-03 06:00:58
+John,Botto,jvbotto@hotmail.com,402 Webb st.,,Clayton,NY,13624,US,John,Botto,jvbotto@hotmail.com,C.co 3-10 MEDEVAC,TF SHADOW,APO,AE,09354,US,2013-03-03 06:06:21
+John,Botto,jvbotto@hotmail.com,402 Webb st.,,Clayton,NY,13624,US,John ,Botto,jvbotto@hotmail.com,C.co 3-10 MEDEVAC,TF SHADOW,APO,AE,09354,US,2013-03-03 06:09:13
+John,Botto,jvbotto@hotmail.com,402 Webb st.,,Clayton,NY,13624,US,John,Botto,jvbotto@hotmail.com,C.co 3-10 MEDEVAC,TF Shadow,APO,AE,09354,US,2013-03-03 06:44:02
+Daniel,Harrington,dharrington99@yahoo.com,PO Box 12,,Florence,Montana,59833,United States,Daniel,Harrington,dharrington99@yahoo.com,29301 Philo Greenwood Rd,,Elk,CA,95432,United States,2013-03-03 14:27:18
+Timothy,Smith,smithmaryjane@comcast.net,1125 neal dow ave,,chico,California,95926,united states,Timothy,Smith,smithmaryjane@comcast.net,1275 E 5th ave,,chico,California,95926,united states,2013-03-05 23:48:57
+Timothy,Smith,smithmaryjane@comcast.net,1125 neal dow ave,,chico,California,95926,,Timothy,Smith,smithmaryjane@comcast.net,1275 E 5th  Ave,,Chico,California,95926,,2013-03-05 23:57:32
+Troy,McCuskey,troy.mccuskey@colostate.edu,6251 West 32nd Street,,Loveland,CO,80538,USA,Troy,McCuskey,troy.mccuskey@colostate.edu,PO Box 627,,Hotchkiss,CO,81419,USA,2013-03-06 13:37:04
+Troy,McCuskey,troy.mccuskey@colostate.edu,6251 West 32nd Street ,,Loveland,CO,80538,USA,Troy,McCuskey,troy.mccuskey@colostate.edu,PO Box 627,,Hotchkiss,CO,81419,USA,2013-03-06 13:51:57
+Troy,McCuskey,troy.mccuskey@colostate.edu,6251 West 32nd Street,,Loveland,CO,80538,US,Troy ,McCuskey,troy.mccuskey@colostate.edu,PO Box 627,,Hotchkiss,CO,81419,USA,2013-03-06 14:07:35
+Johnnie,Goldsmith,alioop19@hotmail.com,1005-11ave SW,,Calgary,Alberta,T2K4X6,Canada,Johnnie,Goldsmith,freebird1001@hotmail.com,208 Blackthorn Rd NE,,Calgary,Alberta,T2K4X6,Canada,2013-03-06 14:26:25
+Johnnie,Goldsmith,alioop19@hotmail.com,1005-11ave SW,,Calgary,AB,T2K4X6,Canada,Johnnie,Goldsmith,alioop19@hotmail.com,208 Blackthorn Rd NE,,Calgary,AB,T2K4X6,Canada,2013-03-06 14:30:57
+Alina,Goldsmith,alioop19@hotmail.com,1005-11ave SW,,Calgary,Alberta,T2K4X6,Canada,Alina,Goldsmith,alioop19@hotmail.com,208 Blackthorn Rd NE,,Calgary,Alberta,T2K4X6,Canada,2013-03-06 14:34:36
+robert,malling,rmalling22@gmail.com,13076 birch drive,,thornton,co,80241,u s of f'ing a,rob,malling,rmalling22@gmail.com,18891 west 57th drive,,golden,co,80403,usa,2013-03-07 21:57:01
+robert,malling,rmalling22@gmail.com,13076 birch drive,,thornton,co,80241,u s of f'ing a,rob,malling,rmalling22@gmail.com,18891 west 57th drive,,golden,co,80403,usa,2013-03-07 22:01:33
+Jason,Bernstein,jabernstein7@gmail.com,23 Fernwood Road,,Summit,NJ,07901,US,Jason,Bernstein,jabernstein7@gmail.com,226 Summit Avenue,,Summit,NJ,07901,US,2013-03-12 08:46:24
+Jason,Bernstein,jabernstein7@gmail.com,23 Fernwood Road,,Summit,NJ,07901,US,Jason,Bernstein,jabernstein7@gmail.com,226 Summit Avenue,,Summit,NJ,07901,US,2013-03-12 08:47:00
+Jason,Bernstein,jabernstein7@gmail.com,23 Fernwood Road,,Summit,NJ,07901,US,Jason,Bernstein,jabernstein7@gmail.com,226 Summit Avenue,,Summit,NJ,07901,US,2013-03-12 08:48:27
+Jason,Bernstein,jabernstein7@gmail.com,23 Fernwood Road,,Summit,NJ,07901,US,Jason,Bernstein,jabernstein7@gmail.com,226 Summit Avenue,,Summit,NJ,07901,US,2013-03-12 09:04:55
+Zach,Cockrum,zcockrum@gmail.com,439 Luray Pl NW,,Washington,District of Columbia,20010,United States,Zach,Cockrum,zcockrum@gmail.com,728 Newton Place NW,,Washington,DC,20010,United States,2013-03-14 14:14:53
+Zach,Cockrum,zcockrum@gmail.com,439 Luray Pl NW,,Washington,District of Columbia,20010,United States,Zach,Cockrum,zcockrum@gmail.com,728 Newton Place NW,,Washington,DC,20010,United States,2013-03-14 14:16:03
+MARK,KACZMAREK ,KACZMAREK_MARK@YAHOO.COM,202 E BASELINE AVENUE,364,Tempe,AZ,85283,,MARK,KACZMAREK ,kaczmarek_mark@yahoo.con,418 Goodall Avenue,,Daytona Beach,FL,32118,,2013-03-16 08:46:47
+Tommy,Sloan,tommyleesloan@msn.com,5015 Foothills Drive,,Berthoud,CO,80513,USA,Tommy,Sloan,tommyleesloan@msn.com,6990 Niwot Square,,Longmont,CO,80503,USA,2013-03-18 13:46:08
+Tommy,Sloan,tommyleesloan@msn.com,5015 Foothills Drive,,Berthoud,CO,80513,USA,Tommy,Sloan,tommyleesloan@msn.com,6990 Niwot Square,,Longmont,CO,80503,USA,2013-03-18 13:48:56
+test first name,test last name,itgirl61@gmail.com,4015 Norwood Avenue,TEST APT,Chattanooga,TN,37415,USA,crystal,Henry,itgirl61@gmail.com,4015 Norwood Avenue,TEST APT,Chattanooga,TN,37415,USA,2013-03-18 13:54:51
+test first name,test last name,itgirl61@gmail.com,4015 Norwood Avenue,TEST APT,Chattanooga,TN,37415,USA,crystal,Henry,itgirl61@gmail.com,4015 Norwood Avenue,TEST APT,Chattanooga,TN,37415,USA,2013-03-18 13:55:43
+test first name,test last name,itgirl61@gmail.com,4015 Norwood Avenue,TEST APT,Chattanooga,TN,37415,USA,crystal,Henry,itgirl61@gmail.com,4015 Norwood Avenue,TEST APT,Chattanooga,TN,37415,USA,2013-03-18 13:56:08
+BRADY,ANDERSON,cuinoz77@yahoo.com,844 BERYL ST,,SAN DIEGO,CALIFORNIA,92109,USA,BRADY,ANDERSON,cuinoz77@yahoo.com,3466 COASTLINE PL,,SAN DIEGO,CALIFORNIA,92110,USA,2013-03-19 01:44:08
+Connor,Tonroy,ctonroy@gmail.com,6336 Locke Ave,,Fort Worth,Texas,76116,United States,Connor,Tonroy,ctonroy@gmail.com,3806 Mattison Ave,,Fort Worth,Texas,76107,United States,2013-03-19 13:00:30
+Wayne,Johnston,Waynejohnston@me.com,910 gay st,,Phoenixville,Pa,19460,USA,Wayne,Johnston,Waynejohnston@me.com,W2840 County Road T,,Fond du Lac,WI,54937,USA ,2013-03-19 13:56:20
+Brady,Vance,brady.vance@gmail.com,620 S. Cranbrook Rd.,,Bloomfield,Michigan,48301,United States,Brady,Vance,brady.vance@gmail.com,2938 Barclay Way,,Ann Arbor,Michigan,48105,United States,2013-03-21 08:49:29
+Rob ,Mahoney ,rmahoney_2@hotmail.com,Po box 364,,Jacksonville,Maryland ,21131,United States,Rob,Mahoney ,rmahoney_2@hotmail.com,1973 Esther Ct,,Forest Hill,Maryland,21131,United States,2013-03-24 10:22:29
+Robert,Richardson,trebork2@gmail.com,501 East 13th Ave,24,Anchorage,AK,99501,USA,Robert,Richardson,trebork2@gmail.com,841 Winter Haven St,,Anchorage,AK,99504,USA,2013-03-25 20:05:33
+Rick,Sherbondy,ricksherbondy@yahoo.com,PO Box 503,,Meadville,PA,16335-0503,USA,Rick,Sherbondy,ricksherbondy@yahoo.com,630 Kahkwa Blvd,,Erie,PA,16505,USA,2013-03-26 20:54:34
+David,Nyberg,davidnyberg@gmail.com,292 Abrahams Road,,Skandia,Michigan,49885,USA,David,Nyberg,davidnyberg@gmail.com,761 C.R. 545 N.,,Skandia,Michigan,49885,USA,2013-03-28 08:43:04
+Derek,Brimhall,dbrimhal@yahoo.com,PO Box 455,,Granby,CO,80446,USA,Derek,Brimhall,dbrimhal@yahoo.com,PO Box 1641,,Eagle,CO,81631,USA,2013-03-28 22:21:16
+Ricky,Barnes,Troutslayer7@gmail.com,800 e 39thst,,Vancouver,washington,98663,united states,Ricky,Barnes,Troutslayer7@gmail.com,4910 59th circle,,Vancouver,Washington,98661,united states,2013-04-01 22:35:10
+Robert,Moore,,3015 Aster Lane,,,,,,Robert,Moore,remwilsonwy@aol.com,3105 Aster Lane,,Wilson,Wyoming,83014,USA,2013-04-02 11:22:32
+Will,Schenn,schennwill@hotmail.com,1009 B Ave K S,,Saskatoon,Saskatchewan,S7M 2G2,Canada,Will,Schenn,schennwill@hotmail.com,725 - 300th St.,,Kimberley,British Columbia,V1A 3K2,Canada,2013-04-02 15:32:23
+Matt,Huckeba,matthuckeba@gmail.com,35 McCormick Rd,,Sheridan,Wy,82801,United States,Matt,Huckeba,matthuckeba@gmail.com,238 West Burkitt,,Sheridan,Wy,82801,United States,2013-04-04 09:22:21
+Bradley ,Benson,bradleybenson13@gmail.com,900 Vineyard Dr.,403,Broadview Heights,OH,44147,USA,Bradley ,Benson,bradleybenson13@gmail.com,2212 Barrington Rd.,,University Heights,OH,44118,USA,2013-04-04 09:23:16
+David ,Nyberg,davidnyberg@gmail.com,292 Abrahams Rd.,,Skandia,MI,49885,USA,David ,Nyberg,davidnyberg@gmail.com,761 CR 545 N,,Skandia,MI,49885,USA,2013-04-04 16:32:32
+William,Little,wlittle123@gmail.com,2500 Deer Valley Road,#834,San Rafael,CA,94903,United States,William,Little,wlittle123@gmail.com,2500 Deer Valley Road,#1514,San Rafael,CA,94903,United States,2013-04-07 19:49:03
+Brandyn,Thorsen,brandyn.thorsen@gmail.com,13250 Patchin Dr,,Nunica,MI,49448,United States,Brandyn,Thorsen,brandyn.thorsen@gmail.com,5185 Farr Rd.,,Fruitport,MI,49415,United States,2013-04-07 20:01:28
+Jeff ,Pierce,jeffp.gci@gmail.com,5500 Pillsbury Ave S,,Minneapolis,MN,55419,USA,Jeff,Pierce,jeffp.gci@gmail.com,3923 West 49th Street,,Edina,MN,55424,USA,2013-04-07 23:03:23
+Peter,Sturke,peter.sturke@gmail.com,3206 Maplewood Avenue,,Richmond,VA,23221,USA,Peter,Sturke,peter.sturke@gmail.com,1761 Leicester Road,,Richmond,VA,23225,USA,2013-04-08 15:32:45
+smith,tim,smithmaryjane@comcast.net,1125 neal dow ave,,chico,California,95926,,smith,tim,smithmaryjane@comcast.net,1275 E 5th  Ave,,chico,California,95926,,2013-04-08 19:34:47
+Benjamin,Buckley,benabuckley@gmail.com,1707 Queen Anne Ct,,Atlanta,GA,30350,USA,Benjamin,Buckley,benabuckley@gmail.com,6924 Fairfax Dr,Unit 408,Arlington,VA,22213,USA,2013-04-08 20:15:04
+test first name,test first name,test@test.com,,,2013-04-25 15:30:34
+test first name,test first name,test@test.com,4015 Norwood,,Chattanooga,TN,37415,USA,test first name,test first name,test@test.com,4015 Norwood,,Chattanooga,TN,37415,USA,2013-04-25 15:32:38
+test first name,test first name,test@test.com,4015 Norwood,test,Chattanooga,TN,37415,USA,test first name,test first name,test@test.com,4015 Norwood,,Chattanooga,TN,37415,USA,2013-04-25 15:36:23
+Edward,Briganti,ebriganti@gmail.com,20 Prince Street,#38,New York,New York,10012,United States,Edward,Briganti,ebriganti@gmail.com,160 E. 88th Street,14D,New York,New York,10128,United States,2013-04-25 17:15:03
+Chris,Raml,christopher.raml@yahoo.com,9622 Timberhawk Circle,11,Highlands Ranch,Co,80126,USA,Chris,Raml,christopher.raml@yahoo.com,10618 Soulmark Way,,Highlands Ranch,Co,80126,USA,2013-04-25 22:28:08
+Jason,Bernstein,jabernstein7@gmail.com,23 Fernwood Road,,Summit,NJ,07901,US,Jason ,Bernstein,jabernstein7@gmail.com,226 Summit Avenue,,Summit,NJ,07901,US,2013-04-27 08:07:40
+Ryan ,Helling,ryanhelling@gmail.com,6045 3rd Ave NW #1,,Seattle,Washington,98107,United States,Ryan,Helling,ryanhelling@gmail.com,7001 Seaview Ave NW,Ste 160-310,Seattle,WA,98117,United States,2013-04-29 14:49:11
+Thomas B.,DeMillion,,8206 Village Cross Way,,Cary ,NC,27518,United States,Thomas B.,DeMillion,,107 Normandale drive,,Cary ,NC,27513,United States,2013-04-29 21:10:21
+Lou,Purvis,jillpurvis1@gmail.com,4505 Saint Clair Court,,Flower Mound,Texas,75022,USA,Lou,Purvis,jillpurvis1@gmail.com,5604 Lake Lucern Court,,Flower Mound,Texas,75022,USA,2013-04-30 21:41:25
+james,mcdaniel,nmcdan@yahoo.com,85 Avenue de la mer,404,palm coast,fl,32137,usa,james,mcdaniel,nmcdan@yahoo.com,256 summit ledges lane,,banner elk,nc,28604,usa,2013-05-01 08:23:05
+Michael,Blattner,medicfish27@gmail.com,1105 S. Mills ave.,,Orlando,FL,32806,United States,Michael,Blattner,,736 Red Wing Dr.,,Lake Mary ,FL,32746,United States,2013-05-02 09:13:29
+andrew,herrmann,andrew_herrmann@yahoo.com,441 prairie way,,wrightstown,wi,54241,usa,andrew,herrmann,andrew_herrmann@yahoo.com,10618 188th Ave NW,,Elk River,MN,55330,usa,2013-05-02 11:36:49
+Richard,Embry,rdembry@comcast.net,1420 NW Woodbine Way,,Seattle,WA,98177,USA,Richard,Embry,rdembry@comcast.net,1014 NW 130th Street,,Seattle,WA,98177,USA,2013-05-03 15:06:37
+Brandon,McGlamery,bonthefly@gmail.com,150 Seneca Trail,,Maitland,Fl,32751,us,Brandon,McGlamery,bonthefly@gmail.com,1741 Mohawk Trail,,Maitland,Fl,32751,US,2013-05-06 21:47:53
+Ronald,Evans,revans@consultmchugh.com,818 Spring Creek Rd,,Bellefonte,PA,16823,USA,Ronald,Evans,revans@consultmchugh.com,911 Bear Creek Trail,,Victor,MT,59875,USA,2013-05-07 08:08:02
+Robert,Westervelt,robwestervelt2@yahoo.com,30 Chestnut Hill Place,,Glen Ridge,NJ,07028,USA,Robert,Westervelt,robwestervelt2@yahoo.com,P.O. Box 51,,Glen Ridge,NJ,07028,USA,2013-05-07 09:12:15
+Robert,Westervelt,robwestervelt2@yahoo.com,30 Chestnut Hill Place,,Glen Ridge,NJ,07028,USA,Robert ,Westervelt,robwestervelt2@yahoo.com,P O Box 51,,Glen Ridge,NJ,07028,USA,2013-05-07 09:23:02
+Brenna ,Richardson,richardson.brenna@gmail.com,16363 E Fremont Ave,1034,Aurora,CO,80016,USA,Brenna,Richardson,richardson.brenna@gmail.com,PO Box 6397,,Colorado Springs,CO,80934,USA,2013-05-09 19:34:43
+Jonathan,Edwards,edwards.jonathan26@gmail.com,5001 Briarcliff Dr,,Sugar Hill,Georgia (GA),30518,United States,Jonathan,Edwards,edwards.jonathan26@gmail.com,5725 Grand Reunion Dr,,Hoschton,Georgia (GA),30548,United States,2013-05-13 18:24:35
+Matt,Rippee,rippeefamily@gmail.com,22800 Wallace Rd NW,,Salem,Or,97304,USA,Matt,Rippee,rippeefamily@gmail.com,9500 Sandpiper Way,,Nehalem,Or,97131,USA,2013-05-17 08:36:26
+Jonathan,Erwin,jonathan.erwin@erwindistributing.com,4247 Hockaday Dr.,,Dallas,Texas,75229,USA,Jonathan,Erwin,jonathan.erwin@erwindistributing.com,3136 Southwestern Blvd.,,Dallas,Texas,75225,USA,2013-05-17 14:54:52
+Allen,Chatriand,achatriand@charter.net,129 Bremmer,,Richland,WA,99352,USA,Allen,Chatriand,achatriand@charter.net,127 S Meadowbrook Ln,,East Wenatchee,WA,98802,USA,2013-05-18 14:32:29
+Keith,Calhoun,dkcalhoun@mindspring.com,670 Mt Paran Rd, NW,,Atlanta,GA,30327,USA,Keith,Calhoun ,keithcalhounatlanta@gmail.com,P O Box 30095,,Sea Island,GA,31561,USA,2013-05-20 21:42:43
+Christopher,Cusack,tophercusack@gmail.com,203 W. Cleveland Ave.,,Spokane,WA,99205,USA,Christopher,Cusack,tophercusack@gmail.com,420 W. 57th. Terrace,,Kansas City,MO,64113,USA,2013-05-21 11:46:41
+Andrew,Buck,abuck@balch.com,1831 28th Ave South,320,Birmingham,AL,35209,USA,Andrew,Buck,abuck@balch.com,500 Olde English Lane,536,Birmingham,AL,35203,USA,2013-05-22 08:48:07
+Scott,Newbern,scnewber@mac.com,3491 Waco AVE,,Simi Valley,CA,93063,USA,Scott,Newbern,scnewber@mac.com,97 Wildlife DR,,Simi Valley,CA,93065,USA,2013-05-26 11:22:49
+Dave,Ruckle,daveruckle@gmail.com,10880 Rock Rd,,Lake,Michigan,48632,United States,Dave,Ruckle,daveruckle@gmail.com,11852 S Littlefield,,Blanchard,Michigan,49310,United States,2013-05-28 07:35:25
+Jim,O'Connor,jkoc@bellsouth.net,930 Bowline Drive,,Vero Beach,FL,32963,United States,Jim,O'Connor,jkoc@bellsouth.net,371 Grouse Ridge Drive,,Gallatin Gateway,MT,32963,United States,2013-05-28 12:58:41
+Jim,O'Connor,jkoc@bellsouth.net,930 Bowline Drive,,Vero Beach,FL,32963,United States,Jim,O'Connor,jkoc@bellsouth.net,371 Grouse Ridge drive,,Gallatin Gateway,MT,59730,United States,2013-05-28 13:07:44
+John,Everett,everettjjs@gmail.com,613 NW 77th St,,Seattle,Washington,98117,United States,John,Everett,everettjjs@gmail.com,1307 26TH AVE S.,,Seattle,Washington,98144,United States,2013-05-29 12:06:50
+Adam,McMahon,adam.m.mcmahon@gmail.com,3400 Lodestar Lane,,Reno,NV,89503,USA,Adam,McMahon,adam.m.mcmahon@gmail.com,417 Lexington Drive,,Bozeman,MT,59715,USA,2013-05-30 12:29:39
+Garner,Agone,garneragone@gmail.com,606 Elm St,,Windsor,Co,80550,USA,Garner,Agone,garneragone@gmail.com,410 4th St,,Windsor,Co,80550,USA,2013-05-30 15:11:58
+Samuel,Spillane,samdspillane@hotmail.com,3500 Spring Valley Drive,,Steamboat Springs,CO,80487,United States,Samuel,Spillane,samdspillane@hotmail.com,4800 Cherry Creek Drive South,Apt I-200,Denver,CO,80246,United States,2013-06-01 07:15:22
+Judson,Daniel,jzd.121@gmail.com,12024 Taliesin Pl,31,Reston,VA,20190,USA,Judson,Daniel,jzd.121@gmail.com,1518 Grant Drive NE,,Atlanta,GA,30319,USA,2013-06-02 07:35:07
+Kyle,Lanigan,Lanigan.kyle@gmail.com,162 W. 13 St.,54,New York,NY,10011,USA,Kyle,Lanigan,Lanigan.kyle@gmail.com,200 Water St.,2706,New York,NY,10038,USA,2013-06-02 20:13:50
+BRANDON,VISSER,BRANDON.VISSER@AECOM.COM,325 HOMESTEAD DRIVE,,BOLINGBROOK,IL,60440,USA,BRANDON,VISSER,BRANDON.VISSER@AECOM.COM,1611 BOULDER RIDGE DRIVE,,BOLINGBROOK,IL,60490,USA,2013-06-06 23:13:30
+Scott,Bonk,sjbonk@mtu.edu,PO Box 12,,Peck,Idaho,83545,USA,Scott ,Bonk,sjbonk@mtu.edu,5791 Lakeview Rd,,Orofino,Idaho,83544,USA,2013-06-07 09:38:35
+Tim,Geist,tim@tcgeistphotography.com,46 Hickory Drive,,Oakland,New Jersey,07436,USA,Tim,Geist,tim@tcgeistphotography.com,169 Magee Road,,Ringwood,New Jersey,07456,USA,2013-06-07 12:51:53
+Tim,Geist,tim@tcgeistphotography.com,46 Hickory Drive,,Oakland,New Jersey,07436,USA,Tim,Geist,tim@tcgeistphotography.com,169 Magee Road,,Ringwood,New Jersey,07456,USA,2013-06-07 12:52:47
+nathan,scott,natejscott@gmail.com,204 South Union ST.,4,Burlington,vt,05401,USA,nathan,scott,natejscott@gmail.com,65 Oakland Terrace,,Burlington,VT,05408,USA,2013-06-10 13:44:19
+Derek,Roussel,koskeka@yahoo.com,1301 W Airline Hwy,,La Place,LA,70068,USA,Derek,Roussel,koskeka@yahoo.com,2949 Lakes Circle,,Paulina,LA ,70763,USA,2013-06-10 16:12:48
+Tyler,Johnson,flacojohnson@gmail.com,167 Conifer Dr,,Nederland,CO,80466,USA,Tyler,Johnson,flacojohnson@gmail.com,733 Twin Sisters Rd,,Nederland,CO,80466,USA,2013-06-10 16:17:12
+Keith,Calhoun,Keithcalhounatlanta@gmail.com,670 Mt Paran Rd, NW,,Atlanta,GA,30327,USA,Keith,Calhoun,Keithcalhounatlanta@gmail.com,P O Box 30095,,Sea Island,GA,31561,USA,2013-06-10 20:27:20
+Ed,Sylvester,edwardpsylvester@yahoo.com,61396 Elkhorn St,,Bend,Oregon,97702,United States,Ed,Sylvester,edwardpsylvester@yahoo.com,60870 Garrison Dr,,Bend,Oregon,97702,United States,2013-06-11 12:02:49
+Brady,Vance,brady.vance@gmail.com,2938 Barclay Way,,Ann Arbor,Michigan,48105,United States,Brady,Vance,brady.vance@gmail.com,3607 Hazelwood Ct.,,Boulder,Colorado,80304,United States,2013-06-11 12:49:44
+Jim ,Biviano,jimbiv@gmail.com,2628 Florence St,,Denver,CO,80238,United States,Jim,Biviano,jimbiv@gmail.com,10848 E. 27th Ave,,Denver,CO,80238,United States,2013-06-13 16:57:28
+Jim ,Biviano,jimbiv@gmail.com,2628 Florence St,,Denver,CO,80238,United States,Jim,Biviano,jimbiv@gmail.com,10848 E. 27th Ave,,Denver,CO,80238,United States,2013-06-13 16:58:43
+Jim ,Biviano,jimbiv@gmail.com,2628 Florence St,,Denver,CO,80238,United States,Jim,Biviano,jimbiv@gmail.com,10848 E. 27th Ave,,Denver,CO,80238,United States,2013-06-13 16:59:16
+Jonathan,King,jlk361@gmail.com,520 N. Benton Ave.,Apt. 2,Helena,MT,59601,USA,Jonathan,King,jlk361@gmail.com,807 5th Ave.,,Helena,MT,59601,USA,2013-06-13 17:41:46
+Andrew,Wood,,201 12th St NE,,Washington,DC,06783,USA,Andrew,Wood,Drewwood1@yahoo.com, 1 Church St ,,Roxbury,CT,06783,USA,2013-06-16 07:12:42
+Adam,Poole,adam.poole19@gmail.com,6940 S Uinta St,,Centennial,Colorado,80112,United States,Adam,Poole,adam.poole19@gmail.com,4894 E Costilla Ave,,Centennial,Colorado,80122,United States,2013-06-16 07:24:56
+Jeff,Osterhout,Jeffosterhout@hotmail.com,2094 pine meadow dr,,Wanship,UT,84017,USA,Jeff,Osterhout,Jeffosterhout@hotmail.com,4258 Sunrise Dr.,,Park City,UT,84098,USA,2013-06-19 16:51:39
+Adam,Langenmayr,alangenmayr@msn.com,734 SE 11th St,,Ocala,FL,34471,USA,Adam,Langenmayr,alangenmayr@msn.com,721 SE 52nd Ct.,,Ocala,FL,34471,USA,2013-06-22 13:11:42
+Justin ,Pond,pondjw@gmail.com,1912 Washington Ave,4,Waco,TX,76701,US,Justin,Pond,pondjw@gmail.com,4011 Austin Ave,,Waco ,TX,76710,US,2013-06-22 15:29:46
+Jonathan ,Edwards,melanieawilkes@gmail.com,5001 Briarcliff Dr,,Sugar Hill,Georgia,30518,USA,Jonathan,Edwards,melanieawilkes@gmail.com,5725 Grand Reunion Dr,,Hoschton,Georgia,30548,USA,2013-06-23 18:05:30
+Andrew,Forauer,andrew.r.forauer@hitchcock.org,3 Lindy Lane,,Hanover,NH,03755,USA,Andrew,Forauer,andrew.r.forauer@hitchcock.org,3 Brook Road,,Hanover,NH,03755,USA,2013-06-25 08:47:53
+David,Rickard,rickardavid@gmail.com,5330 Aberdeen Rd,,Fairway,Kansas,66205,,David,Rickard,rickardavid@gmail.com,7404 Ash St,,Prairie Village,Kansas,66208,,2013-06-27 09:07:22
+Robert Wayne,Carter,waynecarter1937@yahoo.com,206 Champion Drive,,Springfield,Tennessee,37172,USA,Robert Wayne,Carter,waynecarter1937@yahoo.com,4560 Turnberry Circle,,North Port,FL,34288,USA,2013-06-27 13:21:22
+Richard ,Embry,rdembry@comcast.net,1420 NW Woodbine Way,,Seattle,WA,98177,USA,Richard,Embry,rdembry@comcast.net,1014 NW 130th Street,,Seattle,WA,98177,USA,2013-06-27 13:43:09
+Luke,Kane,lukekane11@mac.com,801 Casa Vita Drive,,Greensburg,PA,15601,USA,Luke ,Kane,lukekane11@mac.com,7918 Oxford Court,,Norht Huntingdon,PA,15642,USA,2013-06-28 11:28:44
+Tim,Zink,Zinkworks@gmail.com,4040 Ellicott St NW,,Washington,DC,20016,USA ,Tim,Zink,Zinkworks@gmail.com,10034 Tenbrook Dr,,Silver Spring,MD,20901,USA ,2013-06-29 23:19:30
+Avery,Gillett,cherigillett@yahoo.com,499 N Sundance Drive,,Lake Mary,Florida,32746,United States,Avery,Gillett,cherigillett@yahoo.com,110 Channel Drive,,Lake Mary,Florida,32746,United States,2013-06-30 16:13:14
+scott,coffman,r_scoffman@yahoo.com,1N Chestnute,4E,Arlington Heights,il,60005,usa,scott,coffman,r_scoffman@yahoo.com,131 W. Adelaide st.,503,Elmhurst,il,60126,usa,2013-06-30 18:39:24
+Kyle ,Bisson,bisson64@gmail.com,501 Prospect Blvd,39B,Frederick,MD,21701,United States,Kyle ,Bisson,bisson64@gmail.com,1009 S Quinn Str,,Arlington,Virginia,22204,United States,2013-07-01 11:37:22
+Timothy,Ryan,Tryan831@gmail.com,2939 n Ashland ave,Apt 1,Chicago,Il,60657,United States ,Timothy,Ryan,Tryan831@gmail.com,2025 keim rd ,,Naperville ,Il,60565,United States ,2013-07-01 22:33:08
+Jevin,Croteau,jevin.croteau@encana.com,5334 Sage Brush Drive,,Broomfield,CO,80020,USA,Jevin,Croteau,jevin.croteau@encana.com,15772 West 79th Place,,Arvada,CO,80007,USA,2013-07-02 11:23:45
+David ,Cahill,davidcahill85@gmail.com,205 Highland ave,2208,Salem,MA,01970,USA,David ,Cahill,davidcahill85@gmail.com,53 East st,1st Floor,Ipswich ,MA,01938,USA,2013-07-02 12:43:55
+Roddy,Adams,hopea27@hotmail.com,8 Melrose Street,,Mosman,New South Wales,2088,Australia,Roddy ,Adams,hopea27@hotmail.com,37 Nassim Road,10-02,Singapore,Singapore,258423,Singapore,2013-07-03 08:26:02
+Kyle,Christian,kylechristianou@gmail.com,311 NE 3rd,Apt 103,Oklahoma City,Oklahoma,73104,USA,Kyle,Christian,kylechristianou@gmail.com,124 SW 174th Street ,,Oklahoma City,Oklahoma,73170,USA,2013-07-03 10:15:03
+David,Lamer,dlamer@ymail.com,P.O. Box 720755,,Norman,OK,73070,USA,David,Lamer,dlamer@ymail.com,511 E. Olive,,Bozeman,MT,59715,USA,2013-07-03 11:41:42
+Colin,Hurd,newboy13@hotmail.com,376 2nd Ave N,,Naples,FL,34102,USA,Colin,Hurd,newboy13@hotmail.com,2248 Curtis St,APT B,Naples,FL,34112,USA,2013-07-05 09:15:56
+Martin,Schiffert,mtriverdoc@yahoo.com,PO Box 50609,,Billings,MT,59105,USA,Martin,Schiffert,mtriverdoc@yahoo.com,3221 Arvin Road,,Billings,MT,59102,USA,2013-07-05 16:36:54
+Robert,Dougherty,robertpdougherty@gmail.com,6539 Woodland Drive,,Dallas,TX,75225,USA,Robert,Dougherty,robertpdougherty@gmail.com,4605 Southern Avenue,,Dallas,TX,75209,USA,2013-07-06 11:40:14
+Kimberly,Clark,kimberlyclark@me.com,3102 Climbing Rose St.,,San Antonio,TX,78230,USA,Kimberly,Clark,kimberlyclark@me.com,1881 Big Horn Way,,Cle Elum,WA,98922,USA,2013-07-06 17:46:30
+Matt,Rippee,rippeefamily@gmail.com,22800 Wallace Rd NW,,Salem,OR,97304,USA,Matt,Rippee,rippeefamily@gmail.com,9500 Sandpiper lane,,Nehalem,OR,97131,USA,2013-07-06 19:21:37
+Luke ,Kane,Lukekane11@mac.com,7918 Oxford Court,,North Huntingdon,Pa,15642,USA ,Luke,Kane,Lukekane11@mac.com,350 Elm Drive,,Greensburg ,Pa,15601,USA ,2013-07-07 13:06:35
+Chris ,Reno,Troutheads@comcast.net,912 N. 31st St,,colorado springs,Co,80904,USA,Chris,Reno,Troutheads@comcast.net,4500 Mallard Way,,Missoula,Mt,59808,USA,2013-07-07 23:19:15
+Andrew,Moore,andrewstephenmoore@gmail.com,4100 Ford Rd,,Billings,Montana,59101,USA,Andrew,Moore,andrewstephenmoore@gmail.com,3449 Fen Way,21,Bozeman,Montana,59715,USA,2013-07-08 13:25:09
+OSAR,VASQUEZ,fishbrewjack@yahoo.com,505 WINTER SOLSTICE,,FARMINGTON,NM,87401,USA,OSCAR,VASQUEZ,fishbrewjack@yahoo.com,25619 PIPESTONE GLEN LANE,,KATY,TX,77494,USA,2013-07-08 17:43:09
+Dan,Machuzak,Danpescare@yahoo.com,8745 South Street SE,,Warren,Ohio,44484,United States,Dan,Machuzak,Danpescare@yahoo.com,610 Colonial Drive,,Youngstown,Ohio,44505,United States,2013-07-08 20:31:17
+Keith,Calhoun,dkcalhoun@mindspring.com,670 Mt Paran Rd, NW,,Atlanta ,Ga,30327,USA,Keith,Calhoun,dkcalhoun@icloud.com,P O Box 30095,,Atlanta,Ga,31561,USA,2013-07-09 21:50:53
+George,Biandis,gbiand@yahoo.com,6009 Versailles Ave.,,Ann Arbor,Michigan,48103,USA,George,Biandis,gbiand@yahoo.com,13580 Sharon Hollow Road,,Manchester,Michigan,48158,USA,2013-07-10 10:08:24
+Jason,MCandless,jbmccandless@gmail.com,171 Magnolia Street,,San Francisco,CA,94123,,Jason,McCandless,jbmccandless@gmail.com,2250 Third Street,,San Francisco,CA,94107,,2013-07-10 12:32:48
+Dave,Ruckle,daveruckle@gmail.com,10880 Rock Rd,,Lake,Michigan,48632,USA,Dave,Ruckle,daveruckle@gmail.com,11852 S. Littlefield,,Blanchard,Michigan,49310,USA,2013-07-10 14:58:24
+dennis,murphy,bestdealiac@gmail.com,102 burnside st,,cranston,rhode island,02910,usa,dennis,murphy,bestdealiac@gmail.com,20 garden court,apt#9,cranston,rhode island,02920,usa,2013-07-10 16:23:23
+Jared,Williams,jmwilliams8811@gmail.com,2250 New River Inlet Road,Apartment 320,North Topsail Beach,North Carolina,28460,United States,Jared,Williams,jmwilliams8811@gmail.com,185 Riverside Drive,#1,Sneads Ferry,NC,28460,United States,2013-07-10 18:18:28
+scott,coffman,r_scoffman@yahoo.com,1 n chestnut,4e,arlington heights,il,60008,usa,scott,coffman,r_scoffman@yahoo.com,131 w. adelaide st.,503,elmhurst,il,60126,usa,2013-07-10 21:17:11
+Jim,Van Eschen,ladanavanesschen@gmail.com,4065 E. 53rd Ave,,Bettendorf,Ia,50672,USA,Jim ,Van Eschen,ladanavaneschen@gmail.com,102 Broadway,,Steamboat Rock,Iowa,50672,USA,2013-07-11 05:43:36
+Nathan,Scott,natejscott@gmail.com,204 South Union St,4,Burlington,VT,05401,USA,Nathan,Scott,natejscott@gmail.com,65 Oakland Terrace,,Burlington,VT,05401,USA,2013-07-11 10:23:08
+Ashley,VanSickle,avansickle@carroll.edu,1601 N. Benton Ave,,Helena,MT,59625,USA,Ashley,VanSickle,ashley.marie.vansickle@gmail.com,1720 Waukesha,#2,Helena,MT,59601,USA,2013-07-11 10:32:06
+Zach,Davis,zachd27@hotmail.com,301 Eldon Ave,,Drexel Hill,PA,19026,US,Zach,Davis,zachd27@hotmail.com,9 Carriage Path,,Chadds Ford,PA,19317,US,2013-07-11 13:37:07
+Zach,Davis,zachd27@hotmail.com,301 Eldon Ave,,Drexel Hill,PA,19026,US,Zach,Davis,zachd27@hotmail.com,9 Carriage Path,,Chadds Ford,PA,19317,US,2013-07-11 13:38:47
+Jason ,Orzechowski,jason.orzechowski@yahoo.com,99 Day Spring Loop ,,Helena ,MT ,59601,USA,Jason ,Orzechowski,jason.orzechowski@yahoo.com ,1045 Strawberry Drive ,,Helena ,MT,59601,USA,2013-07-13 09:37:35
+Conrad,Sceales,crsceales@gmail.com,3019 Christmas Tree Lane,,Bakersfield,CA,93306,USA,Conrad,Sceales,crsceales@gmail.com,4320 SE 180th Pl,,Vancouver,WA,98683,USA,2013-07-14 13:35:31
+Dennis,Michaud,dennispub@yahoo.com,83 Lexington Ave,,Somerville,Massachusetts,02144,United States,Dennis,Michaud,dennispub@yahoo.com,PO Box 527,,West Groton,Massachusetts,01472,United States,2013-07-15 10:22:24
+Tom,Rashid,tomrashid.sbs@gmail.com,27 Balsam court,,steamboat springs,co,80487,us,Tom,Rashid,tomrashid.sbs@gmail.com,22524 Cheyenne Trail,,Oak Creek ,Co.,80467,us,2013-07-15 11:09:29
+Glenn,Gaston,glenngaston@hotmail.com,1422 Biltmore Drive,,Charlotte,NC,28207,USA,Glenn,Gaston,glenngaston@hotmail.com,2231 Forest Drive,,Charlotte,NC,28211,USA,2013-07-16 12:58:12
+Eric,Dupuis,ericdupuis29@hotmail.com,328 Brigitta Street,,Stittsville,Ontario,K2S 0H9,Canada,Eric,Dupuis,ericdupuis29@hotmail.com,11 Silver Horse Crescent,,Kanata,Ontario,K2M 2E3,Canada,2013-07-16 13:56:03
+Robert,McCormack,troutrobert@gmail.com,262 Childs Rd,,Basking Ridge,NJ,07920,USA,Robert,McCormack,troutrobert@gmail.com,2994 25th st,,Boulder,Colorado,80304,USA,2013-07-16 17:07:53
+Maurice,Salata,Mosalata@hotmail.com,1109 Croton Dr.,,Alexandria,VA,22308,USA,Maurice,Salata,Mosalata@hotmail.com,2408 Lakeshire Dr.,,Alexandria,VA,22308,USA,2013-07-19 05:05:21
+Hal ,Clifford,hal@takeonecreative.com,4722 16th St,,Boulder,CO,80405,United States,Hal,Clifford,hal@takeonecreative.com,525 Buckthorn Way,,Louisville,CO,80027,United States,2013-07-19 15:44:26
+Hal ,Clifford,hal@takeonecreative.com,4722 16th St,,Boulder,CO,80405,United States,Hal,Clifford,hal@takeonecreative.com,525 Buckthorn Way,,Louisville,CO,80027,United States,2013-07-19 15:44:59
+James,Crotinger,jcrotinger@mac.com,1422 Miracerros Loop S,,Santa Fe,NM,87505,USA,James,Crotinger,jcrotinger@mac.com,184 N Marion St,,Oak Park,IL,60301,USA,2013-07-20 08:54:40
+Lucas,Young,lucasjyoung@gmail.com,32 Tucker Brook Rd,,Lincolnville,Maine,04849,U.S.A.,Lucas,Young,lucasjyoung@gmail.com,1107 Cedar Ln,,Wenatchee,Washington,98802,U.S.A.,2013-07-20 14:05:20
+Scott,Newbern,scnewber@mac.com,3491 Waco AVE,,Simi Valley,CA,93063,USA,Scott,Newbern,scnewber@mac.com,97 Wildlife DR,,Simi Valley,CA,93065,USA,2013-07-21 19:32:37
+Todd,Corcoran,tdc.istanbul@gmail.com,1423 Benjamin Street,,Baltimore,MD,21230,USA,Todd,Corcoran,tdc.istanbul@gmail.com,126 Hoydens Hill Road,,Fairfield,Connecticut,06824-1813 ,USA,2013-07-22 09:32:50
+Nathan,Schnetzler,nschnetzler@gmail.com,310 E Washington ST,,Lexington,Virginia,24450,USA,Nathan,Schnetzler,nschnetzler@gmail.com,1957 Denniston Ave SW,,Roanoke,Virginia,24015,USA,2013-07-24 06:34:30
+John,Self,Self_jb@newpark.com,615 N upper broadway ,Suite 1420,Corpus Christi,Texas,78401,US,John,Self,Self_jb@yahoo.com,715 S Upper Broadway,Apt 501,Corpus Christi,Texas,78401,US,2013-07-24 18:10:07
+James,Salsbury,itscoldhere@comcast.net,1202 Athens Ct,,Bel Air,MD,21014,USA,James,Salsbury,salsbury4@yahoo.com,1102 Greenwood Ridge Ct,,Bel Air,MD,21014,USA,2013-07-24 18:45:08
+Ryan,Rech,norcalrech@gmail.com,115 Primrose Ln,,Cloverdale,CA,95425,US,Ryan ,Rech,norcalrech@gmail.com,100 Grape Gables Way,,Cloverdale,CA,95425,US,2013-07-24 19:08:08
+Michael,Blattner,medicfish27@gmail.com,1105 S. mills ave.,,Orlando,FL,32806,USA,Michael ,Blattner,medicfish27@gmail.com,736 Red Wing Dr.,,Lake Mary,FL,32746,USA,2013-07-25 11:29:27
+Jeff,Ryan,Fishhawk2@gmail.com,708 N. Sashabaw Rd.,,Ortonville,MI,48462,United States,Jeff,Ryan,Fishhawk2@gmail.com,6842 Williamsbury Circle,,Clarkston,MI,48348,United States,2013-07-26 16:52:00
+Logan,Hollobaugh,lhollobaugh11@yahoo.com,2600 Hampden Ct.,F1,Chicago,IL,60614,US,Logan ,Hollobaugh,lhollobaugh11@yahoo.com,8008 Bluebonnet Blvd.,512,Baton Rouge,LA,70810,US,2013-07-27 21:44:05
+Jeff,Conrad,jconrad31@gmail.com,806 Carrington Park,,Jonesboro,Georgia,30236,USA,Jeff,Conrad,jconrad31@gmail.com,2237 N. Kedzie BLVD,#3,Chicago,Illinois,60647,USA,2013-07-28 20:59:49
+Nick,Satushek,nicksat800@hotmail.com,1031 N. State St,307,Bellingham,wa,,USA,Nick,Satushek,nicksat800@hotmail.com,2423 F. St,,Bellingham,,,USA,2013-07-30 13:22:12
+Matt,Mailloux,matt.mailloux@gmail.com,2320 Wisconsin Ave. NW,209,Washington,DC,20007,US,Matt,Mailloux,matt.mailloux@gmail.com,2208 40th St. NW,3,Washington,DC,20007,DC,2013-07-30 13:27:47
+Mark,Olszewski,debo81263@yahoo.com,1388 Magic Wand,,Draper,u,83449,USA,Mark,Olszewski,debo81263@yahoo.com,PO Box 45,,Swan Valley ,ID,83449,USA,2013-07-30 23:28:34
+Chad ,DuChateau,thechaddu@yahoo.com,N4612 Oakland Rd,,Scandinavia ,WI,54977,USA,Chad,DuChateau,thechaddu@yahoo.com,2320 N. Clark St,,Appleton,WI,54911,USA,2013-07-31 05:40:09
+Mick,Domagala,Mick@domagala.us,1438 Hutchinson,,Chicago,Il,60613,USA ,Mick,Domagala,Mick@domagala.us,913 Lynton place,,McLean,VA,22102,USA ,2013-07-31 08:22:33
+Ann,Chase,a.chase1000@gmail.com,29 Harbor Street,,Newburyport,MA,01950,USA,Ann,Chase,a.chasWBDe1000@gmail.com,PO Box 1446,,Newburyport,MA,01950,USA,2013-07-31 09:11:09
+Michael,Schramm,mpschramm@gmail.com,17 Carlisle Rd,,Newark,DE,19713,US,Michael,Schramm,mpschramm@gmail.com,115 N. 1st St. ,117,Richmond,VA,23219,US,2013-07-31 15:34:09
+Dennis,Michaud,dennispriv@yahoo.com,83 Lexington Ave,,Somerville,Massachusetts,02144,United States,Dennis,Michaud,dennispriv@yahoo.com,18 Pepperell Road,,Groton,Massachusetts,01450,United States,2013-08-01 08:53:59
+Max,Gilley,mdg244@msstate.edu,111 Jarnigan St. ,A,Starkville,Mississippi,39759,United States,Max ,Gilley,mdg244@msstate.edu,104 Caldwell,D,Starkville,Mississippi,39759,United States,2013-08-01 11:40:17
+Samuel,Havens,sammers760@gmail.com,123 Alliance Avenue,,Rochester,NY,14620,USA,Samuel,Havens,sammers760@gmail.com,95 Stonybrook Drive,,Rochester,NY,14618,USA,2013-08-01 18:49:50
+Charles ,Bentz,Cr@bentz.net,1050 s. Steele st,,Denver ,Co,80209,USA,Charles ,Bentz,Cr@bentz.net,530 S. Garfield Street,,Denver,CO,80209,USA,2013-08-05 13:24:46
+Grant,Summerlin,grant@7weight.com,123 Old Address,Apt none,Hixson,TN,37343,United States,Grant,Summerlin,grant@7weight.com,5918 Lake Resort Drive,it's a house,Hixson,TN,37343,United States,2013-08-06 17:07:39
+thomas ,DeMillion,bluewingolive001@yahoo.com,8206 Village Cross Way,,Cary ,NC,27518,United States,Thomas B.,DeMillion,bluewingolive001@yahoo.com,107 Normandale drive,,Cary ,NC,27513,United States,2013-08-07 13:37:57
+Grant,Summerlin,grant@7weight.com,PO Box 64,,Hixson,TN,37343,United States,Grant,Summerlin,grant@7weight.com,PO Box 64,,Hixson,TN,37343,United States,2013-08-08 15:12:41
+Russell Hunter,Harlow,hunter.harlow@gmail.com,921 Missouri Street,,Lawrence,KS,66044,USA,Russell Hunter,Harlow,hunter.harlow@gmail.com,2355 Austin Hines Drive,,China Spring,TX,76633,USA,2013-08-08 21:11:15
+Vanessa,Schiff,vtschiff@gmail.com,2401 Industrial Rd,,Las Vegas ,nv,89102,usa,Vanessa,Schiff,vtschiff@gmail.com,5300 parkview dr,apt 1070,lake oswego,or,97035,usa,2013-08-10 16:04:20
+John,Self,Jself@newpark.com,615 north upper broadway,1420,Corpus Christi ,Tx,78401,US,John,Self,Self_JB@yahoo.com,715 South Upper Broadway,501,Corpus Christi,TX,78401,US,2013-08-11 09:19:59
+James,Coursey,pescador70@comcast.net,6880 N. Wildwood Ave,,Chicago,IL,60646,USA,James ,Coursey,pescador70@comcast.net,3263 Coral Lane,,Glenview,IL,60026,USA,2013-08-12 10:54:16
+Charles,Bentz,Cr@bentz.net,530 s. Garfield st,,Denver ,Co,80209,USA,Charles ,Bentz,Cr@bentz.net,1050 S. Steele Street,,Denver ,Co,80209,USA,2013-08-12 13:18:10
+Rob,Rubin,robrubin@sbcglobal.net,4088 Yankee dr,,Agoura hills,Ca,91301,USA,Rob,Rubin,robrubin@sbcglobal.net,606 Ocean Dr,,Oxnard,Ca,93035,Usa,2013-08-12 15:01:34
+John,Harris,Jmsbf09@cableone.net,456 coiner cir,,Twin falls,Idaho,83301,USA,John,Harris,jmsbf09@gmail.com,5366 Chestnut St,,Lehigh,UT,84043,USA,2013-08-12 18:56:55
+Will,Enright,wenright@gmail.com,2429 Watson Cir.,,De Pere,WI,54115,USA,Will,Enright,wenright@gmail.com,3524 Euro Ln.,,De Pere,WI,54115,USA,2013-08-12 20:29:35
+Erik,Ulibarri,eeu@surescapeins.com,5594 S. Ward Way,,Littleton,Colorado,80127,USA,Erik,Ulibarri,eeu@surescapeins.com,11944 W. Belmont Dr.,,Littleton,Colorado,80127,USA,2013-08-13 14:38:30
+Jim,Nielsen,jimnielsen@mac.com,45301 Needle Rock Road,,Crawford,CO,81415,USA,Jim,Nielsen,jimnielsen@mac.com,825 Granite Road,,Victor,ID,83455,USA,2013-08-14 12:31:15
+Ann,Chase,,29 Harbor St,,Newburyport,Massachusetts,01950,United States,Ann,Chase,a.chase1000@gmail.com,1005 Golden Park Drive,Unit C,Golden,Colorado,80403,United States,2013-08-14 20:06:05
+Keith,Lanham ,Keeferlanham@yahoo.com,14889 E. Evans Ave.,,Aurora,CO,80014,USA,Keith ,Lanham ,Keeferlanham@yahoo.com,1225 Twinberry Ct.,,Fort Collins,CO,80525,USA,2013-08-15 16:11:15
+Benjamin,Turpin,,PO Box 1370,,Palmer Lake,CO,80133,USA,Benjamin,Turpin,,615 Albee Farm Rd N,,Nokomis,FL,34275,USA,2013-08-16 16:44:22
+Nigel ,brown,brownfamily1964@bigpond.com,9 trevatt court,,Lutana ,Tasmania,7009,Australia ,Nigel ,Brown ,brownfamily1964@bigpond.com ,10 Edge Ave ,,Lenah Valley ,Tasmania ,7008,Australia ,2013-08-16 23:33:55
+Corey,Morris,cmorris@gm.slc.edu,1724 South Fork Rd,,Cody,WY,82414,USA,Corey,Morris,cmorris@gm.slc.edu,1635 Draw St,,Cody,WY,82414,USA,2013-08-17 14:14:53
+Jacob,Ruthstrom,jruthstrom@gmail.com,636 E 69th Terrace,,Kansas City,Missouri,64131,USA,Jacob,Ruthstrom,jruthstrom@gmail.com,5122 Walnut St,,Kansas City,Missouri,64112,USA,2013-08-19 00:54:38
+Brad,DiFranco,bdifranco22@gmail.com,32 Berkely Rd,,Millburn,NJ,09741,USA,Brad,DiFranco,bdifranco22@gmail.com,4270 Preserve Crossing Lane,,Cumming,GA,30040,USA,2013-08-19 13:32:37
+Thomas,Roy,roy_t18@hotmail.com,3901 Sulkirk Rd,,Charlotte,NC,27214,USA,Thomas,Roy,roy_t18@hotmail.com,1497 Sunset Pointe Dr,,Salisbury,NC,28146,USA,2013-08-19 13:40:30
+Kenneth ,Sample,ken@littlesouthfork.com,35926 N Conklin Rd,,Elk,Wa,99009,United States,Kenneth,Sample,ken@littlesouthfork.com,10440 20th Ave S,,Seattle,Wa,98168,United States,2013-08-24 18:41:23
+Christian,Waara,cdub0451@yahoo.com,2443 Golden Avenue,,Long Beach,California,90806,United States,Christian,Waara,cdub0451@yahoo.com,1028 13th Street SE,,Rio Rancho,New Mexico,87124,United States,2013-08-25 22:08:42
+Matthew,Heart,mgheart@gmail.com,10208 Hazlehurst Dri,,Houston,Texas,77043,United States,Matthew,Heart,mgheart@gmail.com,1515 Sandy Springs Rd,1202,Houston,Texas,77042,united states,2013-08-26 07:42:59
+James,Jenkins,jmj76255@windstream.net,8717 Gettysburg Dr,,Twinsburg,Ohio,44087,United States,James,Jenkins,jmj76255@windstream.net,147 Larimar Dr,,Willowick,Ohio,44095,United States,2013-08-26 16:40:20
+Chase,Gunnell,chasegunnell@gmail.com,3034 NW 64th St,,Seattle,Washington,98107,United States,Chase,Gunnell,chasegunnell@gmail.com,1015 NW 83rd St,,Seattle,Washington,98117,United States,2013-08-27 16:30:58
+Erik,Schmitt,erik.schmitt@graef-usa.com,2976 North 79th St,,Milwaukee,WI,53222,USA,Erik,Schmitt,erik.schmitt@graef-usa.com,3740 Dominic Drive,,Brookfield,WI,53045,USA,2013-08-30 10:59:54
+Matt,Allenbaugh,mattallenbaugh@gmail.com,126 Slopes Ct.,,Boone,NC,28607,United States,Matt,Allenbaugh,mattallenbaugh@gmail.com,145 Weston Rd.,,Arden,North Carolina,28704,United States,2013-08-30 16:15:04
+Thomas,Morse,emttomcat@yahoo.com,8179 Autumn Woods Tr,,Superior Township,Michigan,48198,United States,Thomas,Morse,emttomcat@yahoo.com,604 Hooker Road,11,Allegan,Michigan,49010,United States,2013-08-31 16:51:22
+Jason,Aylward,jay.aylward@gmail.com,po box 243,,Petersham,ma,01366,USA,Jason,Aylward,jay.aylward@gmail.com,65 5th street apt 1B,,Turners Falls,Ma,01376,USA,2013-09-04 12:00:41
+Peter,Bak,bakster106@yahoo.com,97 Hooker St,,Allston,MA,02134,USA,Peter,Bak,bakster106@yahoo.com,40 Surrey Lane,,Holden,MA,01520,USA,2013-09-04 13:58:32
+Hunter ,Johnson,Ahjohnson1979@yahoo.com,3660caver rd,,Lufkin,Texas,75901,USA,Hunter ,Johnson,Ahjohnson1979@yahoo.com,903 millrace ct,,Lincoln,Ca,95648,Usa,2013-09-04 15:36:41
+Grant,Summerlin,grant@7weight.com,PO Box 64,,Hixson,TN,37343,United States,Grant,Summerlin,grant@7weight.com,PO Box 64,,Hixson,TN,37343,United States,2013-09-05 16:25:11
+Grant,Summerlin,grant@7weight.com,PO Box 64,,Hixson,TN,37343,United States,Grant,Summerlin,grant@7weight.com,PO Box 64,,Hixson,TN,37343,United States,2013-09-05 16:30:08
+Grant,Summerlin,grant@7weight.com,PO Box 64,,Hixson,TN,37343,United States,Grant,Summerlin,grant@7weight.com,PO Box 64,,Hixson,TN,37343,United States,2013-09-05 16:31:04
+Grant,Summerlin,grant@7weight.com,PO Box 64,,Hixson,TN,37343,United States,Grant,Summerlin,grant@7weight.com,PO Box 64,,Hixson,TN,37343,United States,2013-09-05 16:40:25
+Brant,Miller,53mills@gmail.com,813 Kenneth St,,Moscow,ID,83843,USA,Brant,Miller,53mills@gmail.com,243 Circle Drive,,Moscow,ID,83843,USA,2013-09-05 18:14:52
+Douglas,Rohn,lymfatic@me.com,6370 Hawaii Kai Drive,#50,Honolulu,HI,96825,United States,Douglas,Rohn,lymfatic@me.com,4957 E Fort Lowell Road,,Tucson,AZ,85712-1205,United States,2013-09-06 09:01:06
+dennis,murphy,bestdealiac@gmail.com,20 garden Court,apt#9,cranston,Rhode Island,02920,usa,dennis,murphy,bestdealiac@gmail.com,88 missouri dr,,warwick,Rhode Island,02886,usa,2013-09-08 11:09:47
+Conrad ,Sceales,crsceales@gmail.com,4320 SE 180th Pl,,Vancouver,WA,98683,USA,Conrad,Sceales,crsceales@gmail.com,PO Box 871473,,Vancouver,WA,98687,USA,2013-09-08 11:12:53
+Matthew,Conway,conway.matthew@gmail.com,860 Peachtree St.,Unit 1314,Atlanta,GA,30308,USA,Matthew,Conway,conway.matthew@gmail.com,2093 River Way NW,,Atlanta,GA,30318,USA,2013-09-10 10:51:46
+Paul,Lussow,lussgriz@yahoo.com,Box 479,,Buffalo,WY - Wyoming,82834,United States,paul,Lussow,lussgriz@yahoo.com,17329 N Throughbread dr,,surprise,Arizona,85374,United States,2013-09-10 15:01:55
+Paul,Lussow,lussgriz@yahoo.com,Box 479,,Buffalo,WY - Wyoming,82834,United States,paul,Lussow,lussgriz@yahoo.com,17329 N Throughbread dr,,surprise,Arizona,85374,United States,2013-09-10 15:04:01
+Paul,Lussow,lussgriz@yahoo.com,Box 479,,Buffalo,WY - Wyoming,82834,United States,paul,Lussow,mlussow@yahoo.com,17329 n Thoughbread dr,,Surpise,Arizona,85374,United States,2013-09-10 15:05:05
+Benjamin,Croce,bcroce@yahoo.com,549 El Medio Ave,,Pacific Palisades,CA,90272,USA,Benjamin,Croce,bcroce@yahoo.com,31503 N Bermuda Dunes Dr,,Evergreen,CO,80439,USA,2013-09-11 21:59:58
+Brian,Kohlman,bskohlman@gmail.com,2071 Ironstone Circle,,Santa Rosa,CA,95407,USA,Brian,Kohlman,bskohlman@gmail.com,3150 Redondo Court,,Redding,CA,96003,USA,2013-09-12 21:08:42
+Dave,Hunt,adventurelisa@hotmail.com,PO Box 4740,,Jackson,WY,83001,USA,Dave ,Hunt,adventurelisa@hotmail.com,121 Anna Drive,,Sitka,AK,99835,usa,2013-09-16 11:33:43
+Tom,Szymanowski,tom.szymanowski@gmail.com,1725 Port Pl. ,APT 302,Reston,VA,20194,USA,Tom ,Szymanowski,tom.szymanowski@gmail.com,20494 Blue Heron Terrace,,Sterling,VA,20165,USA,2013-09-17 17:58:39
+Lucas,Annear,lucas.annear@gmail.com,18066 Co Hwy Q,,Richland Center,Wisconsin,53581,USA,Lucas,Annear,lucas.annear@gmail.com,409 Presidential Lane,,Madison,Wisconsin,53711,USA,2013-09-17 21:45:37
+Jeffrey,Pinney,jeffreypinney@gmail.com,3740 Dupont Cir,,Virginia Beach,Virginia,23455,United States,Jeffrey,Pinney,jeffreypinney@gmail.com,13627 Olive Tree Lane,,Poway,CA,92064,United States,2013-09-18 06:51:09
+Ted,Steeble,ted.steeble@gmail.com,PO Box 465,,Queenstown,MD,21658,USA,Ted,Steeble,ted.steeble@gmail.com,PO Box 4209,,Evergreen,CO,80437,USA ,2013-09-19 15:26:04
+Ansel,Orr,aorr10@gmail.com,1330 Old Spanish Trail ,5108,Houston,TX,77054,USA,Ansel,Orr,aorr10@gmail.com,9757 Pine Lake Dr.,1098,Houston,TX,77055,USA,2013-09-23 13:52:25
+Maurice,Salata,mosalata@hotmail.com,2408 Lakeshire Dr,,Alexandria,VA,22308,USA,Maurice,Salata,mosalata@hotmail.com,5035 Ladies Tresses Place,,Broomfield,CO,80023,USA,2013-09-24 16:20:53
+Christian,de Ryss,,19453 Laurelbrook Ct. ,,Sonoma,California,95476,,Christian,de Ryss,,19225 Ferretti Rd.,,Groveland,California,95321,,2013-09-26 18:43:21
+Erik,Ulibarri,eeu@surescapeins.com,55944 S. Ward Way,,Littleton,CO.,80127,USA,Erik,Ulibarri,eeu@surescapeins.com,11944 W. Belmont Dr.,,Littleton,CO.,80127,USA,2013-09-30 12:58:42
+derek,thach,derekthach@aol.com,2 Columbia crest place,,The Woodlands,Texas,77382,United States,derek,thach,derekthach@aol.com,6559 15th NW Ave.,517,Seattle,WA,98117,United States,2013-10-02 10:28:12
+derek,thach,derekthach@aol.com,2 Columbia crest place,,The Woodlands,Texas,77382,United States,derek,thach,derekthach@aol.com,6559 15th NW Ave.,517,Seattle,WA,98117,United States,2013-10-02 10:29:25
+Taliesin,Gregory,taliesingregory@yahoo.com,310 Chapman RD,,Keene,New Hampshire,03431,United States,Tal,Gregory,taliesingregory@yahoo.com,816 Nelson Rd,,Nelson,New Hampshire,03457,United States,2013-10-02 23:00:21
+Taliesin,Gregory,taliesingregory@yahoo.com,310 Chapman RD,,Keene,New Hampshire,03431,United States,Tal,Gregory,taliesingregory@yahoo.com,816 Nelson Rd,,Nelson,New Hampshire,03457,United States,2013-10-02 23:01:30
+Joshua ,Hollinger,jmanh17@gmail.com,301 Washington St,Apt 2101,Conshohocken ,PA,19428,USA,Joshua ,Hollinger,jmanh17@gmail.com,339 Cassatt Rd,,Berwyn,PA,19312,USA,2013-10-03 13:19:13
+Joshua,Hollinger,Jmanh17@gmail.com,301 Washington St,Apt 2101,Conshohocken ,PA,19428,USA,Joshua,Hollinger,Jmanh17@gmail.com,339 Cassatt Rd,,Berwyn,PA,19312,USA,2013-10-03 19:17:38
+Nick,Smith,Nicksmith04@hotmail.com,7434 bunker lake blvd NW,,Ramsey,Mn,55303,USA ,Nick ,Smith,Nicksmith04@hotmail.com,11066 190 1/2 ave NW ,,Ramsey,MN,55330,USA,2013-10-06 12:46:51
+Nick,Smith,Nicksmith04@hotmail.com,7434 bunker lake blvd NW,,Ramsey,MN,55303,USA ,Nick,Smith,Nicksmith04@hotmail.com,11066 190 1/2 ave NW,,Elk River,MN,55330,USA ,2013-10-06 13:06:30
+John,Peipon,vineyard_john@peipon.net,PO Box 290,,Vineyard  Haven,MA,02568,USA,John,Peipon,vineyard_john@peipon.net,106 Grey Place,,Mt. Juliet,TN,37122,USA,2013-10-07 10:12:44
+Eric,Flottmann,eric@flottmann.org,3320 N Apollo Dr,,Chandler,AZ,85224,USA,Eric,Flottmann,eric@flottmann.org,236 E Dawn Dr,,Tempe,AZ,85284,USA,2013-10-07 12:20:49
+Matt ,Howard,matthoward.jh@gmail.com,PO Box 831,,Black Mountain,NC,28711,United States,Matt,Howard,matthoward.jh@gmail.com,6540 Lake Estates Court,,Cumming,GA,30040,United States,2013-10-08 18:02:05
+Steven,Gundersen,steve.gundersen@gmail.com,800 Milner St,,Buhl,ID,83316,USA,Steven ,Gundersen,steve.gundersen@gmail.com,202 S 8th St,,Hamilton,MT,59840,USA,2013-10-08 20:46:04
+Zach ,Boyd ,zachboyd@gmail.com,5270 Locksley Ave.,,Oakland,CA,94618,USA,Zach,Boyd,zachboyd@gmail.com,4066 Oakmore Rd,,Oakland,CA,94602,USA,2013-10-08 22:19:04
+Dan,Dummeyer,dummeyer@gmail.com,501 w 4th st,#6,Williamsport,Pennsylvania,17701,United States,Dan,Dummeyer,dummeyer@gmail.com,1827 Riverside Dr.,#1,S. Williamsport,Pennsylvania,17702,United States,2013-10-10 06:01:59
+Brian,Kelly,Fishinhooey@aol.com,5 Trotter Lane,,Fredericksburg,VA,22406,USA ,Brian,Kelly,Fishinhooey@aol.com,1700 Yates Avenue,,Pensacola ,FL,32503,USA ,2013-10-11 09:37:19
+Patrick,Chesney,Patchesney@gmail.com,987 Glenbanner road,,London,On ,N6e1n1,Canada,Patrick,Chesney,Patchesney@gmail.com,125 Bournemouth drive,,London ,Ontario,N5V4T1,Canada,2013-10-14 17:04:19
+Jason,Andrick,jasonpandrick@gmail.com,13818 Bronco Pl,,Germantown,Maryland,20874,United States,Jason,Andrick,jasonpandrick@gmail.com,710 Broadview Ave,,Highland Park,Illinois,60035,United States,2013-10-15 08:13:18
+Douglas,Derrick,doug@nostrana.com,2212 SE 70th St,,Portland,Oregon,97215,United States,Douglas,Derrick,dougjd83@gmail.com,4751 NE Davis St.,,Portland,Oregon,97213,United States,2013-10-15 20:55:33
+DONNET,Thibault,thibault.donnet@gmail.com,40 rue de Saint Dié,,Strasbourg,,67100,FRANCE,DONNET,Thibault,thibault.donnet@gmail.com,23 Avenue du Général Leclerc,,Saint-Prix,,95390,FRANCE,2013-10-22 05:34:17
+douglas,andersen,dthor74@yahoo.com,1632 NE Prescott St.,1,Portland,Oregon,97211,usa,douglas,andersen,dthor74@yahoo.com,1349 SE Linn St.,,Portland,Oregon,97202,usa,2013-10-22 15:01:58
+John,Sellars,arcamedies1200@gmail.com,2721 S 140th E Ave,,Tulsa,Oklahoma,74134,United States,John,Sellars,arcamedies1200@gmail.com,9405 East 65th Street,3604,Tulsa,Oklahoma,74133,United States,2013-10-24 12:55:21
+Ron,Evans,revans@consultmchugh.com,911 Bear Creek Trail,,Victor,MT,59875,USA,Ron,Evans,revans@consultmchugh.com,818 Spring Creek Rd,,Bellefonte,PA,16823,USA,2013-10-25 10:28:56
+Stephen,Sawczuk,ssawczuk@yahoo.com,74 Robert St Ext,,Plainville,CT,06062,United States,Stephen,Sawczuk,ssawczuk@yahoo.com,11 Sandstone Road,,Plainville,CT,06062,United States,2013-10-25 18:38:34
+Robert,Landman,dutchcaddis@gmail.com,PO Box 1837,,Lyons,CO,80540-1837,USA,Robert,Landman,dutchcaddis@gmail.com,2183 YArmouth Ave.,,Boulder,CO,80540-1614,USA,2013-10-26 13:17:06
+Benjamin,Briscoe,briscoe.ben@gmail.com,25125 S. Newkirchner Rd.,,Mulino,OR,97042,United States,Benjamin,Briscoe,briscoe.ben@gmail.com,860 Central Ave.,Unit #5,Coos Bay,OR,97420,United States,2013-10-27 13:29:04
+Jon,Wheat,jonwheat3@hotmail.com,PO Box 410,,Lakin ,Kansas,67860,USA,Jon,Wheat,jonwheat3@hotmail.com,#8 Kings Court,,Kearney ,NE,68845,USA,2013-10-27 21:01:23
+Todd,Helms,thelms307@yahoo.com,P.O. Box 393,,Big Horn,Wyoming,82833,United States,Todd,Helms,thelms307@yahoo.com,895 Highway 120 W.,,Thermopolis,Wyoming,82443,United States,2013-10-28 13:19:48
+Michael,Carpenter,mikecarpenter@charter.net,6674 Zumbro Hylands NW,,Rochester,MN,55901-8516,United States,Michael,Carpenter,michaelcarpentercci@gmail.com,3800 Bal Harbor Blvd,314,Punta Gorda,FL,33950,United States,2013-10-28 13:41:08
+Adam,Bergan,bergasaurus@gmail.com,2953 Columbine St.,,Denver,Colorado,80205,United States,Adam,Bergan,bergasaurus@gmail.com,11037 E 28th PL,,Denver,CO,80238,United States,2013-10-28 19:04:58
+Lucas,Young,lucasjyoung@gmail.com,32 Tucker Brook Rd,,Lincolnville,ME,04849,USA,Lucas,Young,lucasjyoung@gmail.com,1107 Cedar Ln,,East Wenatchee,WA,98802,USA,2013-10-30 07:02:19
+Jason,Wolfe,jasonrussellwolfe@gmail.com,101 Kitty Hawk Drive,,Windsor,CO,80550,USA,Jason ,Wolfe,jasonrussellwolfe@gmail.com,2203 Harvest Street,,Fort Collins,CO ,80528,USA,2013-10-30 15:55:36
+Thomas,Gnauck,tgnauck@bresnan.com,4515 Cascade Street,,Bozeman,MT,59718,USA,Thomas ,Gnauck,tgnauck@bresnan.com,905 Saxon Way,Unit B,Bozeman,MT,59718,USA,2013-10-30 16:39:28
+Brian,Shumaker ,susqguide@msn.com,1 East Factory Street,Apt 3,Mechanicsburg ,PA, 17055,USA,Brian,Shumaker,brianshu@comcast.met,318 Briar Lane,,Chambersburg,PA, 17202,USA,2013-10-30 16:43:20
+Troy,Knighton,troy.knighton@gmail.com,175 S Main Street,Suite 740,Salt Lake City,Utah,84111,United States,Troy,Knighton,troy.knighton@gmail.com,175 S Main Street,SUITE 740,SALT LAKE CITY,Utah,84108,United States,2013-10-30 18:24:49
+William,Herndon,wbherndon@gmail.com,4436 SW 14th Ave.,,Cape Coral ,Florida,33914,USA,William,Herndon,wbherndon@gmail.com,3650 Woodstork Ct.,,Fort Myers,FL,33908,USA,2013-10-31 11:39:36
+David,Rickard,rickardavid@gmail.com ,5330 Aberdeen Rd,,Fairway,KS,66205,USA,David,Rickard,rickardavid@gmail.com ,7404 Ash St,,Prairie Village,KS,66208,USA,2013-11-01 08:00:03
+Julie,Coburn,jbcoburn@gmail.com,9012 Cabin Creek Trail,,Reno,Nevada,89523-3867,United States,Julie,Coburn,jbcoburn@gmail.com,8798 Lynrock Cir,,Reno,Nevada,89523,United States,2013-11-02 13:48:36
+Timothy,Smith,smithmaryjane@comcast.net,1125 neal dow ave,,chico,California,95926,usa,Timothy,Smith,smithmaryjane@comcast.net,1275 E 5th ave,,chico,California,95926,usa,2013-11-04 00:01:21
+Martin,Schiffert,mtriverdoc@yahoo.com,PO Box 50609,,Billings,Montana,59105,USA,Martin,Schiffert,mtriverdoc@yahoo.com,3221 Arvin Road,,Billings,Montana,59102,USA,2013-11-04 20:24:14
+Ethan,Lively,ethanandrewlively@gmail.com,7823 East 6th Place,,Denver,CO,80230,USA,Ethan,Lively,ethanandrewlively@gmail.com,405 Krameria Street,,Denver,CO,80220,USA,2013-11-04 21:20:38
+Brian,Steffy,briansteffy177@yahoo.com,647 Schuylkill Rd,,Phoenixville,PA,19460,United States,Brian ,Steffy,briansteffy177@yahoo.com,5111 Williams Fork Trl,Apt 206,Boulder,CO,80301,United States,2013-11-04 22:12:55
+John,Harris,jmsbf09@cableone.net,456 Coiner Circle,,Twin Falls,ID,83301,USA,John,Harris,jmsbf09@gmail.com,5366 Chestnut St,,Lehi,UT,84043,USA,2013-11-05 21:50:14
+Andrea ,Barbagli,veneziana@me.com,Via Pier Capponi, 6,Matassino,Firenze,France,50063,France,Andrea,Barbagli,veneziana@me.com,Via Pier capponi, 6,Matassino - Figline V.no,Firenze,Italy,50063,Italy,2013-11-06 02:53:02
+Sinjin,Eberle,sinjin.eberle@gmail.com,4131 E. 26th Avenue,,Denver,Colorado (CO),80207,United States,Sinjin,Eberle,sinjin.eberle@gmail.com,42 Ophir Drive,,Durango,Colorado (CO),81301,United States,2013-11-06 11:08:52
+Ian,Stewart,,2466 Nob Hill Ave N,,Seattle,WA,98109,USA,Ian,Stewart,catfish@spanishcaravan.com,4576 West Cramer Street,,Seattle,WA,98199,USA,2013-11-08 19:04:08
+Adam,Shaw-doran ,asdbear@yahoo.com,2320 butch cassidy dr,,Bozeman,Mt,59718,USA ,Adam ,Shaw-doran,asdbear@yahoo.com,Po box 325,,Mcallister ,Mt,59740,USA ,2013-11-11 09:47:35
+Benjamin,Watts,bendwatts@hotmail.com,413 S. 5th St.,,Laramie,Wyoming,82070,United States,Benjamin ,Watts,bendwatts@hotmail.com,3745 S. Yaqui Dr.,APT 1-F,Flagstaff,Arizona,86005,United States,2013-11-12 09:49:59
+James,Kelleway,jrkelleway@gmail.com,430 A North 15th St.,,Oxford,MS,38655,United States,James,Kelleway,jrkelleway@gmail.com,23 LaRhonda Drive,,Oxford,Mississippi,38655,United States,2013-11-15 07:52:52
+Keith,Calhoun,dkcalhoun@mindspring.com,670 Mt Paran Rd, NW,,Atlanta,GA,30327,USA,Keith,Calhoun,Keithcalhounsi@gmail.com,PO Box 30095,,Sea Island,GA,31561,USA,2013-11-18 08:11:25
+Graham,Swalling,gswalling@gmail.com,1255 Ogden Street,Apartment 102,Denver,CO,80218,United States,Graham,Swalling,gswalling@gmail.com,2030 S. Pennsylvania Street,,Denver,CO,80210,United States,2013-11-18 15:36:19
+Peter,Petrillo,Peter.petrillo@gmail.com,4 9th ave,,Branford,Ct,06405,United states,Peter,Petrillo,Peter.petrillo@gmail.com,10142 n heather dr,,Fresno,Ca,93720,United states,2013-11-18 16:37:52
+Todd,Corcoran,tdc.istanbul@gmail.com,1423 Benjamin Street,,Baltimore,MD,21230,USA,Todd,Corcoran,tdc.istanbul@gmail.com,126 Hoydens Hill Road,,Fairfield,CT,06824,USA,2013-11-20 09:56:20
+alan,estrada,at.estrada@gmail.com,22 seagull rd,,groton,ct,06340,usa,ALAN,ESTRADA,at.estrada@gmail.com,68 White Plains Rd,,Norwich,Connecticut,06360,United States,2013-11-21 16:54:55
+Paul,Quinn,paulq@employees.org,1762 10th Ave,,San Francisco,CA,94122,USA,Paul,Quinn,paulq@employees.org,210 Walnut Street,,Wellesley,MA,02481,USA,2013-11-21 18:56:26
+Christopher,Ellalasingham,ellalasingham@gmail.com,1126 Scotland Ave,,Charlotte,NC,28207,USA,Christopher,Ellalasingham,ellalasingham@gmail.com,1750 Carlisle Farms Dr,,Traverse City,MI,49696,USA,2013-11-22 07:58:13
+Robert (Bob),Ratz,BNRatz@comcast.net,15807 NE 47th Street,Unit - HELL,Vancouver,WA,98682,USA,Bob,Ratz,Ratman1231@gmail.com,600 SE 177th Ave,A-1,Vancouver,WA,98683,USA,2013-11-23 10:53:11
+Frank,Kenney,kenneyfj@gmail.com,3240 Delooza Road,,Penn Yan,New York,14527,United States,Frank,Kenney,kenneyfj@gmail.com,3394 Adams Road,,Penn Yan,New York,14527,United States,2013-11-24 11:46:53
+Andrew,Forauer,andrew.r.forauer@hitchcock.org,3 Lindy Lane,,Hanover,NH,03755,USA,Andrew,Forauer,andrew.r.forauer@hitchcock.org,3 Brook Road,,Hanover,NH,03755,USA,2013-11-26 11:35:23
+Ben,Carmichael,b.h.carmichael@gmail.com,65 Lowden Ave,#3,Somerville,MA,02144,United States,Ben,Carmichael,b.h.carmichael@gmail.com,128 Bedford St,,Concord,MA,01742,United States,2013-11-27 17:31:18
+Elliott,Wharton,Tailwalkingsteel@gmail.com,809 ne Wyoming dr,,Prineville,Oregon,97754,USA,Elliott,Wharton,Tailwalkingsteel@gmail.com,2710 N. Main St.,,Prineville,,Oregon,USA ,2013-11-29 16:12:17
+Dan,Hutjens,hutjensmpg@q.com,5737 Sheridan Ave S,,Minneapolis,MN,55410,USA,Dan ,Hutjens,hutjensmpg@outlook.com,9387 Lufkin Way,,Elk Grove,CA,95758,USA,2013-11-30 15:32:03
+gary,sparr,gary@thesparrs.com,p.o. Box 547,,columbia falls,montana,59912,usa,gary,sparr,gary@thesparrs.com,645 country way north,,kalispell,montana,59901,,2013-12-01 17:03:59
+Will,Schenn,will@plummerslodges.com,725-300th St.,,Kimberley,British Columbia,V1A 3K2,Canada,Will,Schenn,will@plummerslodges.com,520 3rd St. E,,Saskatoon,Saskatchewan,S7H 1L9,Canada,2013-12-02 08:58:04
+W G,Stover,smokey24@mac.com,431 El Camino Real,Apt 1410,Santa Clara,CA,95050-7400,USA,W G,Stover,smokey24@mac.com,388 Santana Row,Apt 1223,San Jose,CA,95128,USA,2013-12-04 21:46:00
+Neil,Sheehan,NEIL@STANDBYRECORDS.NET,214 VISTA CIR,,NORTH OLMSTED,Ohio,44070-5710,United States,Neil,Sheehan,neil@standbyrecords.net,16427 Doves Canyon Lane,,Charlotte,North Carolina,28278,United States,2013-12-09 08:23:51
+Christopher,Adamo,cadamo@gmail.com,1338 Irving St NW,,Washington,DC,20010,USA,Christopher,Adamo,cadamo@gmail.com,1375 Maryland Ave NE,Loft G,Washington,DC,20002,USA,2013-12-09 16:38:02
+Chase,Priest,cpriest11@gmail.com,3727 Breakstone dr,,Fayetteville,AR,72764,United States,Chase,Priest,cpriest11@gmail.com,2418 W Cartier St,,Fayetteville,AR,72704,United States,2013-12-09 19:55:52
+Paul,Myers,psprmyers@comcast.net,2745 NE 60th Avenue,,Portland,OR,97213,United States,Paul,Myers,psprmyers@comcast.net,2325 NE 43rd Avenue,,Portland,OR,97213,United States,2013-12-10 01:51:59
+Paul,Myers,psprmyers@comcast.net,2745 NE 60th Avenue,,Portland,OR,97213,United States,Paul,Myers,psprmyers@comcast.net,2325 NE 43rd Avenue,,Portland,OR,97213,United States,2013-12-10 01:53:33
+Stuart,Fox,stuartfox2@gmail.com,361 Southside Drive,,Basalt,CO,81621,USA,Stuart,Fox,stuartfox2@gmail.com,108 Quail Run,,Carbondale,CO,81623,USA,2013-12-10 20:36:59
+Jay,Maufort,Jmaufort@hotmail.com,PO Box 811,,Gaylord,MI,49734,USA,Jay,Maufort,Jmaufort@hotmail.com,2662 Ordway Road,,Gaylord,MI,49735,USA,2013-12-11 11:26:29
+John,Riggs, IV,johnr@jariggs.com,21 Ridgeview Dr,,Little Rock,AR,72227,US,John,Riggs, IV,johnr@jariggs.com,26001 Ginger Hill Circle,,Little Rock ,AR,72223,US,2013-12-11 14:12:04
+Johannes,Beeby,jcbeeby@yahoo.com,727 Smith St.,,Fort Collins,CO,80524,United States,Johannes,Beeby,jcbeeby@yahoo.com,325 E. Prospect Rd.,,Fort Collins,CO,80525,United States,2013-12-11 20:27:25
+William,Bettes,wbettes@gmail.com,4566 Attleboro St.,,Jacksonville,Florida,32205,USA,William,Bettes,wbettes@gmail.com,8357 Red Holly Lane,,Jacksonville ,Florida,32221,USA,2013-12-12 17:35:51
+Judson,Daniel,jzd.121@gmail.com,12024 Taliesin Place ,31,Reston,VA,20190,USA,Judson,Daniel,jzd.121@gmail.com,1518 Grant Drive NE,,Atlanta,GA,30319,USA,2013-12-16 19:16:06
+Rodney,Pabst,firecapt@roadrunner.com,4533 Dogwood Ave,,Seal Beach,CA,90740,USA,Rodney,Pabst,firecaptrkp@gmail.com,151 Idlewood Lane,,Sequim,WA,98382,USA,2013-12-19 00:56:55
+Tim,Zink,Zinkworks@gmail.com,10034 Tenbrook Dr,,Silver Spring,MD,20901,USA,Tim,Zink,Zinkworks@gmail.com,10 W. Chatsworth Ave.,,Reisterstown,MD,21136,,2013-12-19 16:20:25
+Ian,Schechterman,Scheck70@gmail.com,614 Emerald Court,,Aurora,Ohio,44202,USA,Ian,Schechterman,Scheck70@gmail.com,715 Madison Avenue,,Aurora,Ohio,44202,USA,2013-12-20 10:09:38
+Mark,Molamphy ,mark.a.molamphy@gmail.com ,10608 topeka ave,,Lubbock,Texas,79424,USA ,Mark ,Molamphy ,mark.a.molamphy@gmail.com ,600 Bellerive Estates Drive ,,St Louis ,MO ,63141 ,USA ,2013-12-20 15:05:29
+Jeff,Carpenter,jeffcandoit@gmail.com,1650 Brook Court,,Estes Park ,CO,80517,U.S.,Jeff ,Carpenter,jeffcandoit@gmail.com,1615 Brook Court,,Estes Park ,CO,80517,U.S.,2013-12-27 13:57:43
+Carl,Adams,Carlmadams@comcast.net,337 S Fremont St,322,San Mateo,Ca,94401,USA ,Carl,Adams,Carlmadams@comcast.net,338 S Fremont,231,San Mateo,Ca,94401,USA,2013-12-30 18:44:52
+David ,Ramble,davidramble@aol.com,10 Faith dr.,,Delmont,Pennsylvannia,15626,US,David ,Ramble,davidramble@aol.com,po box 662,,West Burlington,Iowa,52655-0662,US,2013-12-31 07:58:39
+Alex,Coyle,dryflyaz@gmail.com,1826 Bellaire St.,,Denver,CO,80220,United States,Alex,Coyle,dryflyaz@gmail.com,2836 Palo Verde Dr NE,C,Albuquerque,NM,87112,United States,2013-12-31 17:52:53
+Ronald,Pitts,ronaldp249@aol.com,6750 E. Tanque Verde,,Tucson,AZ,85715,USA,Ronald,Pitts,ronaldp249@aol.com,9121 E. Tanque Verde,Suite 105-152,Tucson,AZ,85749,USA,2014-01-02 12:56:55
+Charles,Bentz,Cr@bentz.net,1050 s. Steele st,,Denver,Co,80209,USA,Charles,Bentz,Ct@bemtz.net,2545 E. Garden Lane,,Greenwood Village,Co,80209,USA,2014-01-02 14:32:36
+Michael,Lewis,lewdogg7@yahoo.com,1060 Riverbend Club Drive,,Atlanta,GA,30339,USA,Michael,Lewis,lewdogg7@yahoo.com,107 Fox Hills Circle SE,,Marietta,GA,30067,USA,2014-01-04 11:34:07
+John,Bowens,jbowens93@yahoo.com,614 S Main St,,Prineville,OR,97754,usa,John,Bowens,jbowens93@yahoo.com,16213 Mt. Sheep Ln,,Bend,OR,97707,usa,2014-01-06 10:49:09
+Anne,Uible,anne.uible@gmail.com,1225 W. Diversey PKWY,213,Chicago,IL,60614,United States,Anne,Uible,anne.uible@gmail.com,1730 N. Clark Street,#1201,Chicago,IL,60614,United States,2014-01-10 13:00:54
+Dave,Ruckle,daveruckle@gmail.com,10880 Rock Rd,,Lake,Michigan,48632,USA,Dave,Ruckle,daveruckle@gmail.com,11852 S Littlefield,,Blanchard,Michigan,49310,USA,2014-01-11 19:49:29
+Benjamin,Reed,Ben@thewhiteapron.com,40 Raliegh way,,Portsmouth,NH,03801Bwn,United States,Benjamin,Reed,Ben@thewhiteapron.com,56 Grove st.,1,Dover,NH,03820,United states,2014-01-13 18:44:15
+Jason ,Orzechowski,jason.orzechowski@yahoo.com,99 Day Spring Loop ,,Helena ,MT ,59601,USA,Jason ,Orzechowski,jason@wolfcreekangler.com,1045 Strawberry Drive ,,Helena ,MT,59601,USA,2014-01-15 11:47:13
+Corey,Morris,cmorris@gm.slc.edu,1724 South Fork Rd.,,Cody,WY,82414,United States,Corey,Morris,cmorris@gm.slc.edu,1635 Draw St.,,Cody,WY,82414,United States,2014-01-16 10:21:18
+Mark,Erdosy,merdosy@gmail.com,718 S Silversmith Ln,,Newark,DE,19702,United States,Mark ,Erdosy,merdosy@gmail.com,807 Chrysler Avenue,,Newark ,DE,19711,United States,2014-01-18 10:57:46
+Charles ,Bentz,Cr@bentz.net,1050 s. Steele st. ,,Denver,Co,80209,USA,Charles,Bentz,Cr@bentz.net,2545 E. Garden Lane, ,Greenwood Village ,CO,80121,USA,2014-01-19 15:21:48
+Kevney,Dugan,kevney@gmail.com,510 NW Utica,,Bend,OR,97701,USA,Kevney ,Dugan,kevney@gmail.com,2363 NW Torsway,,Bend,OR,97701,USA,2014-01-21 13:39:05
+Chas,Rashid,chasrashid@me.com,30175 Oak Leaf Lane,,franklin ,mi,48025,usa,Chas,Rashid,chasrashid@me.com,25996 Balsam,,franklin ,MI,48025,usa,2014-01-21 16:42:43
+Michael,Kaye,bonefishmak@me.com,785 jaded emeralds ct,,Las Vegas,Nv,89183,USA,Michael,Kaye,bonefishmak@me.com,15786 James gate pl,,Monument,Co,80142,USA ,2014-01-23 10:02:32
+Aaron & Michelle,Grabiel,Fishingchick16@gmail.com,1286 oakdale lane,,Redding,California,96002,USA,Aaron & Michelle,Grabiel,Fishingchick16@gmail.com,10939 Oak Run Rd,,Oak Run ,CA,96069,USA,2014-01-23 16:58:24
+Matthew,Trevors,angling.ronin@gmail.com,862 Birch Street,Unit 1,Campbell River,British Columbia,V9W2T4,Canada,Matthew,Trevors,angling.ronin@gmail.com,PO Box 154,,Cumberland,British Columbia,V0R1S0,Canada,2014-01-23 17:08:44
+RYAN,MOTTL,RCMOTTL@GMAIL.COM,64 1ST PLACE ,2,BROOKLYN,NY,11231,USA,RYAN,MOTTL,RCMOTTL@GMAIL.COM,900 NW LOVEJOY,615,PORTLAND,OR,97209,USA,2014-01-26 12:50:20
+Benjamin,Leonard,benjamin.leonard4@gmail.com,1024 East LaSalle Street,,Colorado Springs,Colorado,80907,United States,Benjamin,Leonard,benjamin.leonard4@gmail.com,1208 North Weber Street,,Colorado Springs,Colorado,80903,United States,2014-01-26 21:44:29
+Dana ,O'Brien,shaundi@eph-keene.com,63 Emerald Street,#508,Keene,NH,03431,USA,Dana ,O'Brien,shaundi@eph-keene.com,60 Richardson Rd,,Dublin,NH,03444,USA,2014-01-27 08:11:34
+Wally ,Riker,wallyriker@yahoo.com,1853 Golden Gate Lane ,,Naperville,IL,60563,USA,Wally,Riker,wallyriker@yahoo.com,1763 Holcomb Lake Rd,,Marietta,GA,30062,USA,2014-01-27 12:15:15
+Kelly,Belshaw,kelbel0804@gmail.com,8029 Starr Grass Drive,,Madison,Wisconsin,53719,United States,Kelly,Belshaw,kelbel0804@gmail.com,2120 Adderbury Circle,,Madison,WI,53711,United States,2014-01-27 15:00:34
+Woods,King IV,homerunwk@aol.com,14100 County Line Road,,Hunting Valley,OH,44022,USA,Woods,King IV,homerunwk@aol.com,477 Solon Road,,Chagrin Falls,OH,44022,USA,2014-01-28 08:32:00
+Chris,Morrell,cmorrell3@gmail.com,28 Grove St. Ext.,,Brunswick,Maine,04011,United States,Chris,Morrell,cmorrell3@gmail.com,PO Box 9371,,Jackson,WY,83002,United States,2014-01-28 13:07:18
+Neil,Parry,nparry4@gmail.com,406 Jackie Drive,,Ocean View,Delaware,19970,USA,Neil,Parry,,36827 Winners Cirlce,,Rehoboth Beach,Delaware,19971,USA,2014-01-30 17:07:09
+james,wlodarz,jwlodar1@yahoo.com,211 Joyner Avenue,,Nashville,TN,37210,USA,James,Wlodarz,jwlodar1@yahoo.com,99 Jersey Street,Apt 5,San Francisco,CA,94114,USA,2014-02-01 12:21:26
+Alan,Holcomb,Alanwholcomb22@yahoo.com,30 Arbor Rd,,S Burlington,VT,05403,USA,Alan,Holcomb,Alanwholcomb22@yahoo.com,17 Arbor Rd,,S Burlington,VT,05403,USA,2014-02-02 13:35:15
+Sophie,Roberts,sophieairoberts@gmail.com,1368 N. 200 W.,,Centerville,UT,84014,United States,Sophie,Roberts,sophieairoberts@gmail.com,290 W. 710 N.,,Centerville,UT,84014,United States,2014-02-03 09:21:53
+Sophie,Roberts,sophieairoberts@gmail.com,1368 N. 200 W.,,Centerville,UT,84014,United States,Sophie,Roberts,sophieairoberts@gmail.com,290 W. 710 N.,,Centerville,UT,84014,United States,2014-02-03 09:22:18
+Scott,Sells,sls@tritonev.com,PO Box 3125,,Crested Butte,Colorado,81224,USA,Scott,Sells,sls@tritonev.com,50 Scott Dyer Road,,Portland ,Maine,04107,USA,2014-02-03 14:18:32
+Scott,Sells,sls@tritonev.com,50 Scott Dyer Road,,Portland,Maine,04107,USA,Scott,Sells,sls@tritonev.com,50 Scott Dyer Road,,Cape Elizabeth,Maine,04107,USA,2014-02-03 14:20:28
+Scott,Sells,sls@tritonev.com,50 Scott Dyer Road,,Portland,Maine,04107,USA,Scott,Sells,sls@tritonev.com,50 Scott Dyer Road,,Cape Elizabeth,Maine,04107,USA,2014-02-03 14:21:22
+Richard,Graham Jr,richardgraham64@gmail.com,2373 Virginia PL NE,,Atlanta,GA,30305,USA,Richard ,Graham Jr,richardgraham64@gmail.com,182 Springdale Drive,,Atlanta,GA,30305,USA,2014-02-03 14:41:59
+Luke,Kane,Lukekane11@me.com,801 casa vita drive,,Greensburg,Pa,15601,USA ,Luke,Kane,Lukekane11@mac.com,7918 oxford court,,North huntingdon,Pa,15642,USA ,2014-02-03 19:02:08
+Bob,Salcedo,salcedobob@yahoo.com,2432 El Molino Ave.,,Altadena,CA,91001,USA,Bob ,Salcedo,salcedobob@yahoo.com,1646 N. Lincoln St.,,Burbank,CA,91506,USA,2014-02-05 08:37:05
+robert,kamela,robertckamela@gmail.com,po box 026007,,miami,Florida,33102,usa,Robert C,Kamela,robertckamela@gmail.com,po box 025331,SJO- 158170,MIAMI,FLORIDA,32102-5331,USA,2014-02-08 11:01:27
+Dennis,Ling,dealing46@aol.com,340 Valley Rd.,#3,Cos Cob,CT,06807,USA,Dennis ,Ling,dealing46@aol.com,7575 Pelican Bay Blvd.,#1504,Naples,FL,34108,USA,2014-02-08 13:41:33
+Josh ,Fallin,josh.fallin@centurylink.com,5214 Jones Rd SE,,Salem,OR,97302,USA,Josh ,Fallin,josh.fallin@centurylink.com,1533 Broken Wheel Ct NW,,Salem,OR,97304,USA,2014-02-10 09:18:23
+Chris,McMaster,chrismcmaster@gmail.com,1607 west fort rd,,PARK CITY,UT - Utah,840986587,United States,Chris,McMaster,chrismcmaster@gmail.com,5449 n old ranch rd,,PARK CITY,UT - Utah,84098,United States,2014-02-10 13:06:43
+David H,Walker,davidhdhwalker@gmail.com,PO Box 2378,,Aiken,SC,29802,USA,David H,Walker,davidhdhwalker@gmail.com,PO Box 1118,,Aiken,SC,29802,USA,2014-02-11 10:21:20
+Hamilton,James,james@blackstone.com,1001 Park Avenue,15,New York,NY,10028,USA,Hamilton,James,james@blackstone.com,834 Fifth Avenue,13/14-A,New York,NY,10065,USA,2014-02-11 14:15:40
+Cheryl,Stephenson,cherylelainesmith@hotmail.com,3500 Mill Tree Rd. ,Apt. B2,Raleigh,NC,27612,United States,Cheryl,Stephenson,cherylelainesmith@hotmail.com,4816 Morehead Dr.,,Raleigh,NC,27612,United States,2014-02-13 19:47:22
+John ,Mowery,johnmowery@gmail.com,6034 Upton Ave S,,Minneapolis ,Minnesota,55439,United States,John ,Mowery,johnmowery@gmail.com,5716 Beard Ave S,,Edina,Minnesota,55410,United States,2014-02-20 11:04:36
+Ron,Rider,r.rider2q.com,5757 Whiskey River Dr,,Colorado Springs,Colorado,80923,USA,Ron ,Rider,r.rider@q.com,7614 Eagle Feather Pt,,Colorado Springs,Colorado,80923,USA,2014-02-21 14:59:53
+Logan,Hollobaugh,lhollobaugh11@yahoo.com,2600 Hampden Ct.,F1,Chicago,IL,60614,US,Logan ,Hollobaugh,lhollobaugh11@yahoo.com,8008 Bluebonnet Blvd. ,512,Baton Rouge,LA,70810,US,2014-02-22 09:50:56
+Bradley,Davis,davisbj2@gmail.com,808 Heron Drive,,Huron,OH,44839,USA,Bradley,Davis,davisbj2@gmail.com,13220 Milliman Road,,Norwalk,OH,44857,USA,2014-02-23 11:10:59
+Anthony,Giorgi,aegiorgi@gmail.com,11257 N 109th Way,,Scottsdale,AZ,85259,USA,Anthony,Giorgi,aegiorgi@gmail.com,12048 E Mountain View Rd. ,,Scottsdale,AZ,85259,USA,2014-02-24 11:54:02
+Jeff,Harrop,alberta.flyfish@gmail.com,2408 Woodview Dr SW,,Calagry,Alberta,T2W 4X7,Canada,Jeff,Harrop,alberta.flyfish@gmail.com,878 Queensland Dr SE,,Calagry,Alberta,T2J 6E6,Canada,2014-02-24 13:53:59
+Thomas,Morse,emttomcat@yahoo.com,604 Hooker Rd,11,Allegan,Michigan,49010,United States of America,Thomas,Morse,emttomcat@yahoo.com,206 Race St.,,Allegan,Michigan,49010,United States of America,2014-02-25 11:56:51
+Adam,Johsnon,Texastigtlines@yahoo.com,903 mill race ct,,Lincoln,Ca,95648,Usa,Adam ,Johnson,Texastightlines@yahoo.com,207 pleasant valley rd,,Wimberley,Tx,78676,USA,2014-02-25 17:55:43
+Adam,Johsnon,Texastigtlines@yahoo.com,903 mill race ct,,Lincoln,Ca,95648,Usa,Adam ,Johnson,Texastightlines@yahoo.com,207 pleasant valley rd,,Wimberley,Tx,78676,USA,2014-02-25 17:56:21
+Ronald,Evans,revans@consultmchugh.com,818 Spring Creek Rd,,Bellefonte,PA,16823,USA,Ronald,Evans,revans@consultmchugh.com,911 Bear Creek Trail,,Victor,MT,59875,USA,2014-02-26 01:48:47
+John,Ceranic,ceraniciv@hotmail.com,966 Ogden St #1,,Denver,CO,80218,United States,John,Ceranic,ceraniciv@hotmail.com,714 E 5th Ave,,Denver,CO,80203,United States,2014-03-01 21:47:12
+Patrick ,Hunter,patrick.hunter1@gmail.com,11 Trexler Road,,Asheville,NC,28806,USA,Patrick,Hunter,patrick.hunter1@gmail.com,44 Laurel Loop,,Asheville,NC,28806,USA,2014-03-03 08:39:08
+Treven,Winters,treven.winters@yahoo.com,16328 NW Barkton Ct,,Beaverton,OR,97006,United States,Treven,Winters,treven.winters@yahoo.com,16355 NW Schendel Ave,12H,Beaverton ,OR,97006,United States,2014-03-04 17:40:27
+Harper,Bartolomei,hwbartolomei@gmail.com,1401 s flores,,San Antonio,texas,78204,United States,Harper,Bartolomei,,1608 Virginia Place,,Fort Worth,texas,76107,United States,2014-03-07 09:36:11
+Brian ,Eckart,catalissa1980@yahoo.com,8900 NE 135th Ave.,,Vancouver,WA,98682,USA,Brian,Eckart,catalissa1980@yahoo.com,9009 NE 164th Ave.,,Vancouver ,WA,98682,USA,2014-03-08 15:03:33
+Scott,Lewis,sml768@optonline.net,94 Main St.,,Tappan ,New York,10983,United States,Scott,Lewis,sml768@optonline.net,151 Kensington Ave,,Norwood,New Jersey,07648,United States,2014-03-09 19:56:14
+Scott,Lewis,sml768@optonline.net,94 Main St.,,Tappan ,New York,10983,United States,Scott,Lewis,sml768@optonline.net,151 Kensington Ave,,Norwood,New Jersey,07648,United States,2014-03-09 19:56:38
+Adrian,Stoeckenius,stoeckenius2@bluewin.ch,Hauptstrasse 324,,Scuol,GR,7550,Switzerland,Adrian,Stoeckenius,stoeckenius@gmx.ch,Stradun 324,,Scuol,GR,7550,Switzerland,2014-03-10 04:01:46
+Joe,Dauner,joedauner@gmail.com,8806 Indian Village Dr.,,Wellington,CO,80549,USA,Joe,Dauner,joedauner@gmail.com,3742 S Richmond Ave.,,Tulsa,OK,74135,USA,2014-03-10 19:12:30
+Jim,Brickey,jimbrtxva@hotmail.com,6370 Durango Drive,,Beaumont,TX,77708,USA,Jim,Brickey,jimbrtxva@hotmail.com,3130 East Jack Jouett Road,,Louisa,VA,23093,USA,2014-03-10 20:40:42
+Jeff,Needham,Jneedham1@gmail.com,6448b Flora ave s,,Seattle,Wa,98108,Us,Jeff ,Needham,Jneedham1@gmail.com,4 McNeil Court,,Greenville,SC,29609,US,2014-03-13 21:56:28
+Richard,Harting,jackie_harting@hotmail.com,672 Scenic Ranch Circle,,Fairview,TX,75069,USA,Richard,Harting,richard.harting@yahoo.com,4698 Foothills Drive,,Loveland,CO,80537,USA,2014-03-16 08:40:52
+Tony ,Indovina,Indovina1635@gmail.com,21680 Wagonwheel trail,,Lakeville ,Mn,55044,USA ,Tony ,Indovina,Indovina,21595 boulder creek drive,,Lakeville,Mn,55044,USA ,2014-03-18 15:32:35
+Jason ,Berg,jason.d.berg@hotmail.com,5006 1/2 200th ST SE,,Bothell ,WA,98012,USA,Jason ,Berg,jason.d.berg@hotmail.com,15840 197th PL NE,,Woodinville ,WA,98077,USA,2014-03-19 15:57:52
+John,Ritchey,dgojmr@gmail.com,830 Alpenglow Dr.,,Durango,CO,813021,USA,John,Ritchey,dgojmr@gmail.com,37 Lewis Mountain Ln,,Durango,CO,81301,US,2014-03-19 22:10:46
+Robert (Bob),Salcedo,salcedobob@yahoo.com,2432 El Molino Ave.,,Altadena,CA,91001,USA,Robert (Bob),Salcedo,salcedobob@yahoo.com,1646 N. Lincoln St.,,Burbank,CA,91506,USA,2014-03-21 12:55:13
+Steven,McClintock,stevenlmcclintock@gmail.com,402 Kathleen St,,Pittsburgh,PA,15211,USA,Steven,McClintock,stevenlmcclintock@gmail.com,202 Centerdale Rd,,Coraopolis,PA,15108,USA,2014-03-23 08:58:16
+Adam,Wright,adam_2005_354@hotmail.com,2912 South Broad Street,A2,Scottsboro,Alabama,35769,USA,Adam,Wright,adam_2005_354@hotmail.com,101 Chappell Street,,Scottsboro,Alabama,35768,USA,2014-03-24 17:58:16
+Nils,Rinaldi,nils@anadromousflyfishing.com,Place du Nord 4,,Lausanne,Vaud,1005,Switzerland,Nils,Rinaldi,nils@anadromousflyfishing.com,Chemin de Chatagny 2,,Denens,Vaud,1135,Switzerland,2014-03-26 11:04:20
+Shane,Schaffner,shaneschaffner@hotmail.com,p.o. box 334,,Basin,WY,82410,USA,Shane,Schaffner,shaneschaffner@hotmail.com,2810 Lane 26 Orchard Bench Road,,Basin,WY,82410,USA,2014-03-26 11:52:09
+Roger,Livingston,Rlivingston505@gmail.com,350 Thunderbird,61,El Paso,TX,79912,US,Roger,Livingston,Rlivingston505@gmail.com,1545 NW Market,#637,Seattle,WA,98104,US,2014-03-26 15:09:30
+Jose,Ferrer,tarpon-one@hotmail.com,1152 abbott blvd.,,fort lee,NJ,07024,United States,Jose,Ferrer,tarpon-one@hotmail.com,3314 Crest Ln.,,fort lee,NJ,07024,United States,2014-03-26 17:39:18
+Brad,Stevens,Bradstevens11@gmail.com,64 Linnaean St,196 Currier Mail CTR,Cambridge,MA,02138,USA,Bradley,Stevens,Bradstevens11@gmail.com,5 Flycatcher Way,Unit 207,Arden,NC,28704,USA,2014-03-28 09:22:11
+shelby,rogers,rogerssr@aol.com,23351 fm 150 west,,driftwood,tx,78619,usa,shelby,rogers,rogersssr@aol.com,5600 Sutton Place,,New Orleans,LA,70131,usa,2014-03-28 13:40:27
+Max,Gilley,mdg244@msstate.edu,104 Caldwell St. Apt D,D,Starkville,Mississippi,39759,USA,Max,Gilley,mdg244@msstate.edu,2607 Cedarwood Court,,Jefferson City,Missouri,65109,USA,2014-03-28 21:58:17
+Paul,Pijacki,ppijacki@gmail.com,14547 Mirabelle Vista Cir.,,Tampa,Florida,33626,USA,Paul,Pijacki,ppijacki@gmail.com,16009 Muirfield Drive,,Odessa,Florida,33556,USA,2014-04-01 13:46:47
+RONALD,PITTS,RONALDP249@AOL.COM,9121 E TANQUE VERDE RD,STE 105-152,TUCSON,AZ,85749,USA,RONALD,PITTS,RONALDP249@AOL.COM,620 BISHOPS LODGE RD,,SANTA FE,NM,87501,USA,2014-04-01 16:24:07
+Craig,Foss,craig.foss@me.com,9850 N 73RD ST UNIT 2029,,Scottsdale,AZ,85258,USA,Craig,Foss,craig.foss@me.com,9850 N 73RD ST UNIT 3081,,Scottsdale,AZ,85258,USA,2014-04-01 22:31:29
+Todd,Snidow,snidow@gkbaum.com,815 Vine St.,,Denver,CO,80206,USA,Todd ,Snidow,snidow@gkbaum.com,485 Race St.,,Denver,CO,80206,USA,2014-04-04 11:27:15
+Jeffrey,Pinney,jeffreypinney@gmail.com,3740 Dupont Cir,,Virginia Beach,VIRGINIA,23455,United States,Jeffrey,Pinney,jeffreypinney@gmail.com,P.O. Box 2288,,Big Spring,Texas,79721,United States,2014-04-04 17:12:16
+Jonathan ,Clark,,1487 S. Steele St,,Denver,Co,80210,USA,Jonathan,Clark,Clarkfamilyshopping@gmail.com,275 South Cherokee Street,3213,Denver,CO,80233,USA,2014-04-05 08:41:45
+Jonathan,Cordo,Glennabreslin@gmail.com,777 south broad st,201,Philadelphia,Pa,19147,USA,Jonathan ,Cordo,Jcordo@gmail.com,4601 flat rock rd,Unit 19,Philadelphia,Pa,19127,USA,2014-04-06 08:52:28
+Brian,Hinkle,brido@hotmail.com,336 Strand Ave.,,Missoula,MT,59801,USA,Brian,Hinkle,brido@hotmail.com,501 B'June,,Bainbridge Is.,WA,98110,USA,2014-04-07 11:45:12
+Ryan,Hanson,ryan.m.hanson1@gmail.com,PO Box 5357,,Midland,TX,79704,United States,Ryan,Hanson,ryan.m.hanson1@gmail.com,2121 Revere Circle,,Anchorage,AK,99515,United States,2014-04-09 13:24:03
+Rod,Scobee,rascobee@aol.com,159 Clift Road,,Coushatta,Louisiana,71019,USA,Rod,Scobee,rascobee@aol.com,108 Oak Leaf Trail,,Benton,Louisiana,71006,USA,2014-04-09 13:52:23
+Kevin,Kornegay,kjkornegay@gmail.com,318 Columbia Drive,Apt 1406,Carrollton,Georgia,30117,United States,Kevin,Kornegay,kjkornegay@gmail.com,2675 Spring Dr SE,,Smyrna,Georgia,30080,United States,2014-04-14 09:06:58
+Robert,Spaulding ,pami7@verizon.net,999 Fredensborg Canyon rd.,,Solvang,California ,93463,USA,Robert ,Spaulding ,bspaulding@mmrgrp.com,606 Alamo Pintado Rd.,STE# 3-248,Solvang ,California ,93463,USA,2014-04-14 17:45:32
+Adam,White,whiada@gmail.com,74 grand Ave,Apt 3D,Brooklyn,NY,11205,United States,Adam,White,whiada@gmail.com,77 Waterside Ave,,Northport,NY,11768,United States,2014-04-14 18:13:33
+Doug,Byrum,dbyrum1@gmail.com,1086 Chestnut Lane,,South Lyon,MI,48178,USA,Doug,Byrum,dbyrum1@gmail.com,8287 Maltby Road,,Brighton,MI,48116,USA,2014-04-15 09:21:38
+Doug,Byrum,dbyrum1@gmail.com,1086 Chestnut Lane,,South Lyon,MI,48178,USA,Doug,Byrum,dbyrum1@gmail.com,8287 Maltby Road,,Brighton,MI,48116,USA,2014-04-15 09:22:50
+robert,Wall,robbiewall@gmail.com,900 S. Capital of Texas Highway,425,Austin,Texas,78746,United States,robert,wall,robbiewall@gmail.com,2504 exposition blvd,,Austin,TX-Texas,78703,United States,2014-04-15 13:55:23
+Charlie,Anderson,bikerboy311@aol.com,4871 Andrea Lane,,Pace,Florida,32571,USA,Charlie,Anderson,bikerboy311@aol.com,3152 Parkway,Suite 13-129,Pigeon Forge,Tennessee,37863,USA,2014-04-15 19:40:43
+yvan ,malempree,malempreefamily@cegetel.net,187 rue jean goubert,,tourlaville,manche,50110,france,yvan,malempree,yvan.m@sfr.fr,70 b vallée de quincampoix,,la glacerie,manche,50470,la glacerie,2014-04-16 07:52:09
+Jared,Barnes,jaredbarn@gmail.com,1568 Devon Way,,Virginia Beach,VA,23456,USA,Jared,Barnes,jaredbarn@gmail.com,6483 Regents Cove,,Bartlett,TN,38135,USA,2014-04-17 11:01:01
+Chance,Maxville,chancemaxville@yahoo.com,PO Box 733,,Mannford,Oklahoma,74044,United States,Chance,Maxville,chancemaxville@yahoo.com,34110 W Highway 33,,Mannford,Oklahoma,74044,United States,2014-04-19 21:02:15
+Teresa,Key,tmcks@msn.com,1628 Zinks Mill School Rd.,,Vesuvius,VA,24483,USA,Teresa,Key,tmcks@msn.com,885 Lakefront Drive,,Clarksville,VA,23927,USA,2014-04-22 11:18:30
+Teresa,Key,tmcks@msn.com,1628 Zinks Mill School Rd.,,Vesuvius,VA,24483,USA,Teresa,Key,tmcks@msn.com,885 Lakefront Drive,,Clarksville,VA,23927,USA,2014-04-22 11:34:42
+Daniel,Dummeyer,dummeyer@gmail.com,1827 Riverside Dr.,#1,S. WILLIAMSPORT,Pennsylvania,17702,United States,Daniel,Dummeyer,dummeyer@gmail.com,716 Lincoln Ave.,,Williamsport,Pennsylvania,17701,United States,2014-04-24 18:30:32
+marc,scarbeary,mscarbeary@juno.com,1925 w lilley ave,,littleton,co,80120,usa,marc,scarbeary,mscarbeary@junol.com,5762 S Spotswood st,,littleton,co,80120,usa,2014-04-25 10:42:29
+Todd,Preston,holly_menchin@hotmail.com,PO Box 155,,Cooma,NSW,2630,Australia,Todd ,Preston,iddunno@hotmail.com,2 Ingebyra St,,Jindabyne,NSW,2627,Australia,2014-04-26 07:27:31
+Nathan,Kennedy,kennedynathan@yahoo.com,71 Barrow St., Apt. 5,New York,NY,10014,USA,Nathan,Kennedy,kennedynathan@yahoo.com,828 Anchorage Dr.,,North Palm Beach,FL,33408,USA,2014-04-27 19:36:09
+Jesse,Smith,jjhs@cox.net,2090 W Ivanhoe St,,Chandler,AZ,85284,USA,Jesse,Smith,jj@onadirtroad.com,206 Little Wood Reservoir Road,,Carey,ID,83320,USA,2014-04-30 19:15:49
+robert,wall,robbiewall@gmail.com,2504 exposition blvd,,austin,texas,78703,,robert,wall,robbiewall@gmail.com,100 congress ave,800,austin,texas,78701,,2014-05-01 00:26:37
+Teresa,Key,tmcks@msn.com,1628 Zinks Mill School Rd.,,Vesuvius,Virginia,24483,United States,Teresa,Key,tmcks@msn.com,885 Lakefront Drive,,Clarksville,Virginia,23927,United States,2014-05-01 16:43:33
+Teresa,Key,tmcks@msn.com,1628 Zinks Mill School Rd.,,Vesuvius,Virginia,24483,United States,Teresa,Key,tmcks@msn.com,885 Lakefront Drive,,Clarksville,Virginia,23927,United States,2014-05-01 16:44:03
+Teresa,Key,,1628 Zinks Mill School Rd.,,Vesuvius,Virginia,24483,United States,Teresa,Key,,885 Lakefront Drive,,Clarksville,Virginia,23927,United States,2014-05-01 16:44:49
+Jed,Johnson,jedjohnson406@gmail.com,5323 Montrose Drive,,Dallas,TX,75209,USA,Jed,Johnson,jedjohnson406@gmail.com,5317 Wateka Drive,,Dallas,TX,75209,USA,2014-05-02 09:06:24
+Sean,Gardner,britefab@hotmail.com,5717 SW 54th Avenue,,Portland,Oregon,97221,USA`,Sean,Gardner,britefab@hotmail.com,3700 SW 91st. Avenue,,Portland,Oregon,97225,USA,2014-05-02 09:16:23
+Steven ,McClintock,stevenlmcclintock@gmail.com,402 Kathleen Street,,Pittsburgh,PA,15211,USA,Steven,McClintock,stevenlmcclintock@gmail.com,202 Centerdale Road,,Coraopolis,PA,15108,USA,2014-05-02 14:19:25
+Winfield,Haggard,whaggard1@comcast.net,4502 Park Court,,Bellaire,TX,77401,USA,Winfield,Haggard,whaggard1@comcast.net,1419 Caravelle Court,,Katy,TX,77494,USA,2014-05-02 20:07:16
+david,lamer,dlamer@ymail.com,po box 720755,,norman,ok,73070,usa,david,lamer,dlamer@ymail.com,511 e olive,,bozeman,mt,59715,usa,2014-05-03 12:47:04
+Brady,Vance,Brady.vance@gmail.com,3607 HAZELWOOD CT,,BOULDER,CO,80304,United States,Brady,Vance,Brady.vance@gmail.com,3850 PASEO DEL PRADO,APT 6,BOULDER,CO,80301,United States,2014-05-05 10:24:34
+Joshua,Wargo,jpsdwargo@yahoo.com,2412 Ryan Ave,,Fort Worth,TX,76110,USA,Joshua,Wargo,jpsdwargo@yahoo.com,2106 W. Morphy St,,Fort Worth,TX,76110,USA,2014-05-05 12:47:25
+Scott,Herdman,msherdman@gmail.com,445 Myrtle St.,,Laguna Beach,CA,92651,USA,Scott,Herdman,msherdman@gmail.com,1936 Temple Hills Dr.,,Laguna Beach,CA,92651,USA,2014-05-05 19:20:32
+jim,mcdaniel,nmcdan@yahoo.com,900 live oak ave ne,,st petersburg,florida,33703,usa,jim,mcdaniel,nmcdan@yahoo.com,256 summit ledges lane,,banner elk,north carolina,28604,usa,2014-05-07 09:47:20
+Paul,Lussow,lussgriz@yahoo.com,17329 N Throoughbred dr,,Surprise,Az,85374,usa,Paul ,Lussow,lussgriz@yahoo.com,PO Box 479,,Buffalo,Wy,82834,USA,2014-05-07 13:02:02
+Jason ,Allred,jma12j@gmail.com,1946 Longmont Dr ,,Kernersville,NC,27284,USA,Jason,Allred,jma12j@gmail.com,678 Irving St,Apt 4,Winston Salem,NC,27103,United States,2014-05-08 08:46:35
+Christopher,St Hilaire,lisasthilaire77@gmail.com,13625 Village Gate Place,,Midlothian,VA,23114,United States,Christopher,St Hilaire,lisasthilaire77@gmail.com,442 Michaux Branch Terrace,,Midlothian,VA,23113,United States,2014-05-08 12:57:42
+Joe,Lorig,vball3cow@aol.com,2719 E Kael St,,Mesa,AZ,85213,USA,Joe,Lorig,vball3cow@aol.com,1501 East 2300 North,,North Logan,UT,84341,USA,2014-05-08 16:55:57
+John,Graham,mgraham3333@gmail.com,3333 Stanford Ave,,Dallas,TX,75225,United States,John,Graham,mgraham3333@gmail.com,3328 Stanford Ave,,Dallas,TX,75225,United States,2014-05-08 20:14:04
+Devin ,Olsen,devflyguy@hotmail.com,318 1/2 Scott Ave,,Fort Collins,CO,80521,USA,Devin ,Olsen,devflyguy@hotmail.com,1405 Lisbon Ave.,,West Sacramento,CA,95605,USA,2014-05-08 22:58:30
+Brian ,Gray,mrbrianagray@hotmail.com,375 Chestnut Street,,St Thomas,Ontario,N5R 6C2,Canada,Brian ,Gray,mrbrianagray@hotmail.com,137 Temple Blvd West,,Lethbridge,Alberta,T1K 5K1,Canada,2014-05-09 14:57:29
+Daryll,Southwick,dary.d@icloud.com,2400 Terry Lake Rd.,,Ft. Collins,Co,80524,USA,Daryll,Southwick,dary.d@icloud.com,1165 Fairway Woods Dr.,,Steamboat Springs,Co,80487,USA,2014-05-10 08:14:56
+Daryll,Southwick,dary.d@icloud.com,2400 Terry Lake Rd,,Ft Collins,Co,80524,USA,Daryll,Southwick,dary.d@icloud.com,1165 Fairway Woods Dr,,Steamboat Springs,Co,80487,USA,2014-05-10 08:57:58
+Chad,DuChateau,thechaddu@yahoo.com,2320 N CLARK ST,,APPLETON,WI,549112037,USA,Chad,DuChateau,thechaddu@yahoo.com,820 Westwood Drive,,Onalaska,Wisconsin,54650,United States,2014-05-11 06:50:10
+Chad,DuChateau,thechaddu@yahoo.com,2320 N CLARK ST,,APPLETON,WI,549112037,USA,Chad,DuChateau,thechaddu@yahoo.com,820 Westwood Drive,,Onalaska,Wisconsin,54650,United States,2014-05-11 06:50:40
+Robert,Dickinson,robsother@yahoo.com,532 Bonair Pl.,,La Jolla,CA,92037,USA,Robert,Dickinson,robsother@yahoo.com,7111 Linden Ave N.,#102,Seattle,WA,98103,USA,2014-05-12 17:15:54
+Andrew,Orthober,andreworthober@gmail.com,6411 Cody St.,,Duluth,MN,55807,USA,Andrew,Orthober,andreworthober@gmail.com,2436 Harvey St.,,Duluth,MN,55811,USA,2014-05-13 12:11:19
+Mike,Carpenter,michaelcarpentercci@gmail.com,3800 Bal Harbor Blvd,Apt. 314,Punta Gorda,FL,33950,USA,Mike,Carpenter,michaelcarpentercci@gmail.com,6674 Zumbro Hylands NW,,Rochester,MN,55901,USA,2014-05-13 12:48:10
+Mark,Bromley,striperfly1@gmail.com,2507 Louisville Ave. ,,Lubbock,Tx,79410,USA,Mark,Bromley,striperfly1@gmail.com,103 Charleston Dr. ,,Anna,Tx,75409,USA,2014-05-15 02:57:21
+Troy,Anderson,Usmc95@hotmail.com,1021 Driftwood Dr,,Fort Collins,Colorado,80525,USA,Troy,Anderson,Usmc95@hotmail.com,2802 Paddington Dr,,Fort Collins,Colorado,80525,USA,2014-05-17 23:54:12
+Jim ,Howard,jim@peoplemax.org,PO Box 4091,,Orange Beach,AL,36561,USA,Jim,Howard,jim@peoplemax.org,645 Lost Key Dr. #501,,Pensacola,FL,32507,USA,2014-05-18 19:41:51
+Jeff,Carpenter,jeffcandoit@gmail.com,1615 Brook Court,,Estes Park,CO ,80517,U.S.,Jeff,Carpenter,jeffcandoit@gmail.com,P.O. Box 4127,,Estes Park,CO ,80517,U.S.,2014-05-19 18:57:20
+Chris,Pino,capino@gmail.com,3848 King St,,Denver,CO,80211,USA,Chris ,Pino,capino@gmail.com,2241 Fenton St,,Edgewater,CO,80214,USA,2014-05-20 12:08:32
+john,veale,jfveale@gmail.com,713 Old Clinton Rd,,Westbrook,CT,06498,USA,John,Veale,jfveale@gmail.com,26 Pond St,Apt 1B,Westerly,RI,02891,USA,2014-05-23 15:56:49
+Ryan,Tucker,rwt1027@gmail.com,57 N. Castlerock Ln.,,East Amherst,New York,14051,United States,Ryan,Tucker,rwt1027@gmail.com,1194 Woodstock Ave.,,Tonawanda,New York,14150,United States,2014-05-23 18:45:29
+Eric,Woodard,ericw@carolina.rr.com,1625 N. Lafayette St.,,Shelby,NC,28150,USA,Eric,Woodard,ericw@carolina.rr.com,1137 E. Marion St.,#120,Shelby,NC,28150,USA,2014-05-27 09:03:31
+Aaron,Heindl,ajheindl@gmail.com,1822 Lake Pointe Drive,,Traverse City,Michigan,49686,United States,Aaron ,Heindl,ajheindl@gmail.com,5055 Hidden Gables Drive,,Traverse City,Michigan,49684,United States,2014-05-28 18:59:25
+Adam,Green,Eastern.slopes.carpentry@gmail.com,10 everwillow circle SW,,Calgary ,Alberta,T2Y4V2,Canada,Adam,Green,Eastern.slopes.carpentry@gmail.com,Box 2063,,Pincher creek,Alberta,T0K 1W0,Canada,2014-05-28 21:40:20
+Adam,Green,eastern.slopes.carpentry@gmail.com,10 Everwillow Circle SW,,Calgary,Alberta,T2Y4V2,Canada,Adam ,Green,eastern.slopes.carpentry@gmail.com,P.O. Box 2063,,Pincher Creek,Alberta,T0K 1W0,Canada,2014-05-29 11:16:20
+jeffrey ,Bitsack,jbit88@hotmail.com,8022 NE Hidden Cove Road,,Bainbridge Island,WA,98110,United States,jeffrey,Bitsack,jbit88@hotmail.com,10580 NE Hidden Cove Road,,Bainbridge Island,WA,98110,United States,2014-05-29 23:44:28
+Tracey ,Vangolen,tlvangolen@yahoo.com,P.O. Box 27759,,Houston,TX,77227,USA,Tracey,Vangolen,tlvangolen@yahoo.com,486 - 3rd Ave N,,Naples,FL,34102,USA,2014-05-31 03:05:58
+Michael,Friedrich,michaelj_friedrich@yahoo.com,PO Box 2742,,Soldotna,Alaska,99669,USA,Michael,Friedrich,michaelj_friedrich@yahoo.com,246 E. Walnut St.,,Genesee,Idaho,83832,USA,2014-06-02 12:07:26
+Thomas,Reilley,treilley@columbus.rr.com,6177 Abbotsford Drive,,Dublin,OH,43017,US,Thomas,Reilley,reilley46@gmail.com,21072 East 6th Ave,,Cudjoe Key,Florida,33042-4031,US,2014-06-03 12:41:29
+Ben,Smith,smithbensmith@hotmail.com,15 Gillard Drive,,Rosslyn Park,South Australia,5072,Australia,Ben,Smith,smithbensmith@hotmail.com,P.O. Box 43,,Big Timber,Montana,59011,USA,2014-06-03 23:03:36
+Grant,Domke,gmdomke@gmail.com,1870 W. Burnsville Pkwy,,Burnsville,Minnesota,55337,United States,Grant,Domke,gmdomke@gmail.com,680 Bluebill Circle,,Shakopee,MN,55379,United States,2014-06-04 09:03:22
+Daniel,Bitondo,dbitondo@comcast.net,13483 Achilles drive,,Littleton,Colorado,80124,United States,Daniel,Bitondo,dbitondo@comcast.net,934 East Nichols Ave ,,Centennial,Colorado,80122,United States,2014-06-06 08:47:34
+John,West,johnttwest@gmail.com,245 N. Undermountain Road,,Sheffield,MA,01257,USA,John,West,johnttwest@gmail.com,11226 Falls Road,,Lutherville,MD,21093,USA,2014-06-06 12:08:34
+Patrick,Schumacher,pschumacher@verizon.net,350 HOBART AVENUE,,SHORT HILLS,New Jersey,07078,United States,Patrick,Schumacher,pschumacher@verizon.net,3520 Southwestern Blvd.,,University Park,Texas,75225,United States,2014-06-08 08:32:49
+Terry,Langowski,tlangowski@comcast.net,5301 Talbot Rd S ,Apt FF204,Renton,WA,98055,United States,Terry,Langowski,tlangowski@comcast.net,5301 Talbot Rd S,Apt S104,Renton,WA,98055,United States,2014-06-10 08:37:37
+Thomas,Szymanowski,tom.szymanowski@gmail.com,20494 Blue Heron Terrace,,Sterling ,VA,20165,USA,Thomas,Szymanowski,tom.szymanowski@gmail.com,18521 Sierra Springs SQ,,Leesburg,VA,20176,USA,2014-06-10 16:37:55
+Steve,Spahn,sargon7@comcast.net,850 Central Ave,,Hammonton,NJ,08037,USA,Steve,Spahn,sargon7@comcast.net,2600 6th Ave,,Sweetwater,NJ,08037,USA,2014-06-13 07:02:09
+David,Reid,reidfamilyfive@gmail.com,3639 fraser st,,rockford,mi,49341,usa,David,Reid,reidfamilyfive@gmail.com,14419 W. Comisky Dr.,,Boise,Id.,83713,usa,2014-06-13 09:55:56
+Jim,O'Connor,jkoc@bellsouth.net,930 Bowline Drive,,Vero Beach,FL,32963,United States,Jim,O'Connor,jkoc@bellsouth.net,371 Grouse Ridge Drive,,Gallatin Gateway,MT,59730,United States,2014-06-13 13:14:52
+B. Dan,Berger,bdanberger@yahoo.com,7543 Grey Goose Way,,Alexandria,VA,22306,USA,B. Dan,Berger,bdanberger@yahoo.com,9321 Ludgate Drive,,Alexandria,VA,22309,USA,2014-06-15 10:08:03
+steven,potter,stevenjpotter@mac.com,5808 oak grove st,,lorton,Virginia,22079,,steven,potter,stevenjpotter@mac.com,9025 harrover place,,lorton,Virginia,22079,,2014-06-16 13:16:32
+John,Henderson,jhender53@gmail.com,89 George Brown Cove,,Dover,AR,72837,,John,Henderson,jhender53@gmail.com,1700 West 4th Street,,Russellville,AR,72801,USA,2014-06-16 14:22:56
+Mark,Brown,marbrown24@shaw.ca,169 Prestwick Acres Lane SE,,Calgary,Alberta,T2Z 3Y2,Canada,Mark,Brown,mark.brown@calgary.ca,13 Elgin Meadows Link SE,,Calgary,Alberta,T2Z 0S3,Canada,2014-06-17 22:55:15
+Dana ,Sanford,danasanford@gmail.com,10909 56th ave ct e,Apt N305,Puyallup ,WA,98373,,Dana ,Sanford ,danasanford@gmail.com,1011 S. Madison St,,Tacoma ,WA,98405,,2014-06-18 11:30:08
+Brian ,Morrison,brian_bpm@hotmail.com,167 Sophia Street,,Peterborough,Ontario,K9H 1E4,Canada,Brian,Morrison,brian_bpm@hotmail.com,2674 Foxmeadow Road,,Peterborough,Ontario,K9L 0A8,Canada,2014-06-18 15:30:37
+Vernon,Soares,hawaiivern@gmail.com,2943 Unicornio St,Apt G,Carlsbad,California ,92009,United States,Vernon,Soares,hawaiivern@gmail.com,6269 Citracado Cir,,Carlsbad ,California ,92009,United States,2014-06-18 20:44:43
+Preston,Ailor,pailor97@yahoo.com,9519 Chatterleigh dr,,henrico,va,23238,usa,Preston,Ailor,pailor97@yahoo.com,11211 pinewood ct,,Henrico,va,23238,usa,2014-06-20 12:55:00
+William,Nemeth,bnemeth52@yahoo.com ,2 McCreary Street,,Johnstown,Pa,15906,USA ,William,Nemeth,bnemeth52@yahoo.com ,243 Malbranc Rd,,Johnstown ,Pa,15905,USA ,2014-06-20 15:34:17
+John ,Abby,Dodza@att.net,493 E. 7th Ave,,Chico,Ca,95926,United States,John,Abby,Jabby1163@gmail.com,716 W. 12th Ave,,Chico,Ca,95926,United States,2014-06-22 17:31:27
+Brian,Kasten,Brian.kasten@gmail.com,2040 market,1018,Philadelphia ,Pa,19103,USA,Brian,Kasten,Brian.kasten@gmail.com,2020 Walnut Street,28H,Philadelphia,Pa,19103,USA,2014-06-22 22:46:27
+Ian,McBride,mcbridei@gmail.com,7378 S Knolls Way,,Denver,CO,80122,United States,Ian ,McBride,mcbridei@gmail.com,PO Box 2521,,Littleton,Colorado,80161,United States,2014-06-24 11:53:50
+Jeff,McKenna,jeffmckenna29@yahoo.com,2839 B 4/10 Rd,,Grand Junction,CO,81503,USA,Jeff,McKenna,jeffmckenna29@yahoo.com,2456 1/2 Ajay Ave,,Grand Junction,CO,81505,USA,2014-06-27 09:31:59
+Spencer,Shell,spence.shell@gmail.com,4181 Ridgehurst Dr SE,,Smyrna,GA,30080,USA,Spencer,Shell,spence.shell@gmail.com,102 Roanoke Ave NE,,Atlanta,GA,30305,USA,2014-06-30 09:49:05
+Justin,Sheehan,jmsheehan5@gmail.com,18 Snowberry Dr,,Scarborough,ME,04074,USA,Justin,Sheehan,jmsheehan5@gmail.com,1301 N 18th Ave,,Pensacola,FL,32503,USA,2014-06-30 12:08:03
+Kurt ,Jones,kurtjones55@yahoo.com,13822 Barryknoll,,Houston,TX,77079,United States,Kurt,Jones,kurtjones55@yahoo.com,13902 Aspen Cove Court,,Houston,TX,77077,United States,2014-06-30 19:00:57
+Scott,Ballinger,muir.caitlin@yahoo.com,1633 Draw St,,Cody,Wyoming,82414,United States,Scott,Ballinger,muir.caitlin@yahoo.com,1655 North Park Drive,,Cody,WY,82414,United States,2014-07-01 14:22:00
+Jason,Lettmann,jlettmann@hotmail.com,310 Oakdale St,,Redwood City,CA,94062,USA,Jason,Lettmann,jlettmann@hotmail.com,Lismore,Knocknacree Road,Dalkey,Co. Dublin,,Ireland,2014-07-01 21:20:19
+Greg,Bremhorst,gbremhorst@gmail.com,7956 Timber Lake Dr,,Eden Prairie,MN,55347,USA,Greg,Bremhorst,gbremhorst@gmail.com,8091 Currant Pl,,Eden Prairie,MN,55347,USA,2014-07-02 07:20:43
+Daniel,Hasegawa,dhasega@gmail.com,550 Harbor Cove Lane,1400F,Charleston,South Carolina,29412,USA,Daniel,Hasegawa,dhasega@gmail.com,550 Harbor Cove Lane,1500I,Charleston,South Carolina,29412,USA,2014-07-02 08:00:11
+Alex,Taylor,,1427-K Kenesaw Ave,,Knoxville, TN,TN,37919,United States,Alex ,Taylor,alexmtaylorjr@gmail.com,626 Blows Ferry,,Knoxville ,TN,37919,United States,2014-07-02 15:04:11
+Alex,Taylor,,1427-K Kenesaw Ave,,Knoxville, TN,TN,37919,United States,Alex ,Taylor,alexmtaylorjr@gmail.com,626 Blows Ferry,,Knoxville ,TN,37919,United States,2014-07-02 15:04:31
+anthony,mancia,thetonyage@gmail.com,1005 birch st,,scranton,pa,18505,usa,anthony,mancia,thetonyage@gmail.com,7418 n fessenden st,,portland,or,97203,usa,2014-07-02 17:01:09
+Anderson,Kemp,ason47@uga.edu,909 East Broad Street,545,athens ,GA,30601,United States,Anderson,Kemp,ason47@hotmail.com,206 Parkersburg Road,,Savannah,GA,31406-6427,United States,2014-07-03 10:11:17
+Brandon,Hall,hall.brandonb@gmail.com,3035 London View Drive,,Murfreesboro,Tennessee,37128,United States of America,Brandon,Hall,hall.brandonb@gmail.com,2246 Mt. View Road,,Manchester,Tennessee,37355,United States of America,2014-07-06 10:40:28
+Christopher,Schmidt,sch01025@gmail.com,213 Stanford Street,,Vermillion,SD,57069,USA,Christopher,Schmidt,sch01025@gmail.com,4487 E. 351 N. ,,Rigby,ID,83442,USA,2014-07-06 18:01:34
+Eric,Scrivner,epscrivner@gmail.com,890 California Ave,,KLAMATH FALLS,OREGON,97601,United States,Eric,Scrivner,epscrivner@gmail.com,PO Box 48,,Bigfork,Minnesota,56628,USA,2014-07-07 13:42:33
+Shawn Ryan,Somers,shawnrsomers@gmail.com,608 E 9th St,Apt 12,New York,New York,10009,United States,Shawn Ryan,Somers,shawnrsomers@gmail.com,120 York St ,Apt. 914,Jersey City,NJ,07302,United States,2014-07-08 11:00:06
+Josh,Butler,butlerj48@gmail.com,87 Appleton St,3,Boston,MA,02116,USA,Josh,Butler,butlerj48@gmail.com,1942 Washington St,22,Newton,MA,02466,USA,2014-07-08 21:30:03
+Shelly,Manas,shellymanas103@yahoo.com,PO Box 5731,,Pahrump,NV,89041,USA,Shelly,Manas,shellymanas103@yahoo.com,80 Huascaran St,,Pahrump,NV,89060-4049,USA,2014-07-08 21:34:21
+JD,Henderson,jhender53@gmail.com,1700 West 4th St,,Russellville,AR,72801,USA,JD,Henderson,jhender53@gmail.com,410 Mountain View Ct,,Russellville,AR,72802,USA,2014-07-12 21:25:23
+Jeff,Sturniolo,jsturniolo@windstream.net,1190 Reese Rd,,Warriors Mark,PA,16877 ,USA,Jeff,Sturniolo,jsturniolo@atlanticbb.net,1190 Reese Rd,,Warriors Mark,PA,16877,USA,2014-07-13 20:23:29
+Bob,Hallock,ontheflytoo@yahoo.com,561 Indian Peaks Trail West,,Lafayette,CO,80026,USA,Bob,Hallock,ontheflytoo@yahoo.com,PO Box 782,,Gardner,MA,01440,USA,2014-07-14 13:14:04
+Sean,Holiman,jamiebushell@hotmail.com,3321 Sharps Court,,Fort Collins,CO,80526,USA,Sean ,Holiman,seanholiman@hotmail.com,443 Mannington Drive,,St. Peters,MO,63376,USA,2014-07-15 08:32:57
+Lee,Badersnider,Lee.badersnider@gmail.com,1921 Plymouth Terrace SE,,Grand Rapids,MI,49506,United States,Lee,Badersnider,Lee.badersnider@gmail.com,6233 Meadowlark St NE,,Rockford ,MI,49341,United States,2014-07-15 14:55:30
+Justin,Boevers,justin.boevers@gmail.com,6946 Lakeside St SW,,Olympia,WA,98512,United States,Justin,Boever,justin.boevers@gmail.com,2038 79th Ave SE,,Tumwater,WA,98501,United States,2014-07-16 13:49:26
+Justin,Boevers,justin.boevers@gmail.com,6946 Lakeside St SW,,Olympia,WA,98512,United States,Justin,Boever,justin.boevers@gmail.com,2038 79th Ave SE,,Tumwater,WA,98501,United States,2014-07-16 13:49:48
+dave,ludwick,dave.ludwick@gmail.com,950 secrest st,,golden,Colorado,80401,United States,dave,ludwick,dave.ludwick@gmail.com,8300 W 8th Ave,,Lakewood,Colorado,80214,United States,2014-07-17 10:05:08
+Bryan,Pearman,bpvaco@me.com,757 Niagara Street,,Denver,CO,80220,United States ,Bryan,Pearman,bpvaco@me.com,1257 Arkwright PL SE,,Atlanta,GA,30317,United States ,2014-07-20 10:26:21
+Evan,Boyle,epb5te@virginia.edu,8605 oak brook lane,,fairfax station,va,22039,united states,evan,Boyle,epb5te@virginia.edu,815 e denny way,303,seattle,washington,22039,united states,2014-07-20 16:29:13
+Joshua,Goeschel,joshgoeschel@yahoo.com,82 Uinta Way ,Unit 108,Denver,CO,80230,United States,Joshua,Goeschel,joshgoeschel@yahoo.com,2845 S Pennsylvania St,,Englewood,CO,80113,United States,2014-07-20 20:19:27
+Randy,Kjorstad ,rkjorstad@hotmail.com,536 linden ct,,Helena ,MT,59601,USA,Randy,Kjorstad ,rkjorstad@hotmail.com,PO Box 13331,,Jackson,WY,83002,Usa,2014-07-21 00:04:56
+Graham,Frey,frey.graham@gmail.com,3511 Verde Valley School Rd,,Sedona,AZ,86351,USA,Graham,Frey,frey.graham@gmail.com,P.O. Box 13322,,Austin,Texas,78711,USA,2014-07-21 13:09:50
+Clayton,Kinsel,cwkins@gmail.com,1617 THURSTON AVE NE,,OLYMPIA,Washington,98506,United States,Clayton,Kinsel,cwkins@gmail.com,2924 McCormick Street SE,,Olympia,WA,98501,United States,2014-07-21 14:34:52
+Alexander M,Coyle,dryflyaz@gmail.com,2836 Palo Verde Dr NE,C,Albuquerque,NM,87112,United States,Alex,Coyle,dryflyaz@gmail.com,2508 Camino San Patricio,,Santa Fe,NM,87505,United States,2014-07-21 19:18:05
+Micah ,Revell,micah.revell@gmail.com,1751 Piedmont Ave NE #1,,Atlanta ,GA,30324,USA,Micah ,Revell,micah.revell@gmail.com,2038 Eastern Pkwy #1,,Louisville ,KY,40204,USA,2014-07-22 10:15:49
+Matthew,Glavan,,106A Franklin St,,Watertown,Massachusetts (MA),02472,USA,Matthew,Glavan,,488 North Road,,Yarmouth,Maine,04096,USA,2014-07-25 06:53:15
+Ian,McBride,mcbridei@gmail.com,PO Box 2521,,Littleton,CO,80160,United States,Ian ,McBride,mcbridei@gmail.com,3181 S Acoma St,,Englewood,Colorado,80110,United States,2014-07-25 12:30:23
+Scott,Redman,scott.redman@sellen.com,811 33rd Ave E,,Seattle,WA,98112,USA,Scott,Redman,scott.redman@sellen.com,1112 41st Ave E,,Seattle,WA,98112,USA,2014-07-26 11:16:43
+Jeff,Needham,jneedham1@gmail.com,4 McNeil Court,,Greenville,SC,29609,USA,Jeff,Needham,jneedham1@gmail.com,154 Old Mill Drive,,Bryson City ,NC,28713,USA,2014-07-26 15:03:09
+Ben,Jensen,bjensen.sd@gmail.com,3622 Hemlock St.,,Rapid City,SD,57701,United States,Ben,Jensen,bjensen.sd@gmail.com,506 N. Franklin Ave.,Apt 3,Madison,WI,57305,United States,2014-07-26 16:30:01
+Jeff ,Laffond,jrlaffond@gmail.com,3580 Loftlands Drive,,Earlysville,VA,22936,USA,Jeff,Laffond,jrlaffond@gmail.com,250 E. 54th Street,22B,New York,NY,10022,USA,2014-07-29 08:54:52
+James,Anker,jda@barclaycreek.com,PO Box 249,,Bolton,MA,01740-0249,USA,James,Anker,jda0104@comcast.net,22 Fells Pond Rd,,Mashpee,MA,02649-4110,USA,2014-07-31 16:31:42
+Jake,Ruthstrom,jruthstrom@gmail.com,5122 Walnut ST,,Kansas City,MO,64112,USA,Jake,Ruthstrom,jruthstrom@gmail.com,3133 SW Grandstand Cir,,Lees Summit,MO,64081,USA,2014-08-01 06:40:52
+colin,boyles,colin.boyles@gmail.com,1 icon,,foothill ranch,ca,92610,usa,colin,boyles,colin.boyles@gmail.com,3671 provincetown,,irvine,ca,92606,usa,2014-08-01 10:07:37
+John,Ellis,jjellis31@yahoo.com,24 Saltus Drive,,Old Saybrook,CT,06475,USA,John,Ellis,jjellis31@yahoo.com,183 Dove Lane,,Middletown,CT,06457,USA,2014-08-02 07:28:54
+Larry,Beckett,Larry.webstuff@hotmail.com,2708 SW Warberry Ave.,,Bentonville,AR,72712,USA,Larry,Beckett,Larry.webstuff@hotmail.com,8  Waycross Drive,,Greenbrier,AR,72058,USA,2014-08-02 14:59:12
+Rob,Shelby,rmshelby@yahoo.com,PO Box 335,,Lopez Island,WA,98261,USA,Rob ,Shelby,rmshelby@yahoo.com,PO Box 361,,Talkeetna ,AK,99676,USA,2014-08-03 21:51:10
+Joshua,Jones,Joshuasjones@yahoo.com,309 Goldfinch Court,,Shelby,NC,28150,USA,Joshua,Jones,Joshuasjones@yahoo.com,124 S. Ridge St. ,,Stillwater,OK,74074,USA,2014-08-04 15:57:43
+John,Harris,jmsbf09@gmail.com,5366 Chestnut St,,Lehi,Utah,84043,USA,John,Harris,jmsbf09@gmail.com,1815 Silver St,,Helena,Montana,59601,USA,2014-08-05 22:54:18
+John,Harris,jmsbf09@gmail.com,5366 Chestnut St,,Lehi,Utah,84043,USA,John,Harris,jmsbf09@gmail.com,1815 Silver St,,Helena,Montana,59601,USA,2014-08-05 22:56:10
+Jordan,Brandenburg,jordanbrandenburg@yahoo.com,1213 NW 44th St,,Oklahoma City,OK,73118,USA,Jordan,Brandenburg,jordanbrandenburg@yahoo.com,868 S. Pearl St. ,#1,Denver,CO,80209,USA,2014-08-06 12:25:59
+Matthew,Johns,mattyjohns77@gmail.com,124 Huron Ct,,Boulder,Co,80303,United States,Matthew ,Johns,mattyjohns77@gmail.com,5352 Pennsylvania Ave,,Boulder,Co,80303,United States,2014-08-06 15:46:28
+Tom ,McMahon,tmmcmahon33@gmail.com,11242 Campsie Fells Ct,,Las Vegas,Nevada,89141,United States,Tom,McMahon,tmmcmahon33@gmail.com,2036 Grouse St,,Las Vegas,NV - Nevada,891346124,United States,2014-08-12 17:45:26
+William,Cloonan,whc112280@yahoo.com,5731 Clearwater Dr,,Homer,AK,99603,USA,William,Cloonan,whc112280@yahoo.com,2611 88th Dr NE,,Lake Stevens,WA,98258,USA,2014-08-12 19:22:59
+Eric,Budd,heights_2120@yahoo.com,2120 Gostic St,,Houston,TX,77008,USA,Eric ,Budd,heights_2120@yahoo.com,3001 Riviera Dr,,Key West,FL,33040,USA,2014-08-12 19:51:21
+Penelope,Wright,w_penelo@bellsouth.net,70 Lakeshore Drive,,Birmingham,AL,35209,USA,Penelope,Wright,w_penelo@bellsouth.net,2320 Flat Stone Drive,,Cumming,GA,30041,USA,2014-08-17 07:34:34
+Elizabeth,Hatch,elizhatch@gmail.com,2712 Monk Ct NW,,Albuquerque,NM,87107,USA,Elizabeth,Hatch,elizhatch@gmail.com,1020 Solar Rd NW,,Albuquerque,NM,87107,USA,2014-08-18 11:28:35
+Matthew,Patyk,matthewpatyk@gmail.com,916 Woodford Ave.,,Fort Collins,CO,80521,USA,Matthew,Patyk,matthewpatyk@gmail.com,934 W. Mountain Ave.,,Fort Collins,CO,80521,USA,2014-08-18 20:04:03
+Logan,Hollobaugh,lhollobaugh11@yahoo.com,8008 Bluebonnet Blvd. ,Apt. 5-12,Baton Rouge,LA,70810,US,Logan ,Hollobaugh,lhollobaugh11@yahoo.com,2500 S. Millbend Dr.,6307,The Woodlands,TX,77380,U.S.,2014-08-18 22:04:52
+Bob,Hallock,ontheflytoo@yahoo.com,561 Indian Peaks Trl W,,Lafayette,CO,80026,USA,Bob,Hallock,ontheflytoo@yahoo.com,111 Lyman Road,,Berlin,MA,01503,USA,2014-08-20 07:25:51
+Bob,Hallock,ontheflytoo@yahoo.com,PO Box 782,,Gardner,MA,01440,USA,Bob,Hallock,ontheflytoo@yahoo.com,111 Lyman Road,,Berlin,MA,01503,USA,2014-08-20 07:27:02
+Sean ,Holiman,seanholiman@hotmail.com,3321 Sharps Court,,Ft Collins,CO,80526,USA,Sean ,Holiman,seanholiman@hotmail.com,443 Mannington Dr,,St Peters ,MO,63376,USA,2014-08-21 08:34:24
+Barry,Woods,barrytwoods@gmail.com,5608 Grand Oaks Dr,,Lake Oswego,OR,97035,USA,Barry,Woods,barrytwoods@gmail.com,12 Pond Rd,,South Portland,ME,04106,USA,2014-08-21 11:40:13
+Greg,Bremhorst,gbremhorst@gmail.com,7956 Timber Lake Dr,,Eden Prairie,MN,55347,USA,Greg,Bremhorst,gbremhorst@gmail.com,8091 Currant Pl,,Eden Prairie,MN,55347,USA,2014-08-21 21:03:17
+Mark,Jacobson,mljaketrout@yahoo.com,28224 E Historic Columbia River Hwy,,Troutdale,Oregon,97060,US,Mark,Jacobson,mljaketrout@yahoo.com,3636 Monterey Blvd,,Oakland,Oregon,94619,US,2014-08-21 22:31:00
+W Bentley ,Burrus,bburrus@gmail.com,6812 County Road 4209,,Campbell,Texas`,75422,USA,W Bentley,Burrus,bburrus@gmail.com,10508 Woodland,,Greenville,Texas,75402,USA,2014-08-23 17:13:05
+Richard ,Stacey,richard.stacey@nyu.edu,38 Columbia Place,3A,Brooklyn,NY,11201,USA,Richard,Stacey,richard.stacey@nyu.edu,76 Hogarth Avenue,,Toronto,ON,M4K1K3,Canada,2014-08-25 15:44:21
+John ,McLaughlin,andymac@gmail.com,102 Murray Guard ,G50,Jackson,TN,38305,USA,John,McLaughlin,andymac983@gmail.com,134 Matthew Lane,,Nashville,TN,37215,USA,2014-08-26 12:33:42
+Anderson,Kemp,ason47@uga.edu,206 Parkersburg Road,,Savannah,GA,31406-6427,United States,Anderson,Kemp,ason47@uga.edu,600 N Thomas St,1505,Athens,GA,30601,United States,2014-08-26 13:42:01
+Andrew,McDougall,amcdouga@hotmail.com,5805 NW 162nd Street,,Edmond,OK,73013,USA,Andrew,McDougall,amcdouga@hotmail.com,10901 Sorentino Drive,,Arcadia ,OK,73007,USA,2014-08-26 17:07:49
+Andrew,Miller,wyomingsurf@gmail.com,1170 Hay Sled Dr,,Jackson,Wyoming,83001,USA,Andrew,Miller,wyomingsurf@gmail.com,PO Box 6760,,Jackson,Wyoming,83001,USA,2014-08-27 22:16:11
+victor,olivares,victorolivares727@gmail.com,1483 las lomas,,brownsville,tx,78526,USA,victor,olivares,victorolivares727@gmail.com,250 Ash st,7106,brownsville,TX,78521,united states,2014-08-28 15:57:02
+Laurence,Paradis,paradisdirtyd@yahoo.com,1612 Shingle Loop,Unit A,Clovis,NM,88101,United States,Laurence,Paradis,paradisdirtyd@yahoo.com,753 NW 1st Street,,Moore,OK,73160,United States,2014-08-29 11:12:36
+Brett,Bleichrodt,bbleichrodt@hotmail.com,133 Pinecrest Circle,,Bailey,Co,80421,USA,Brett ,Bleichrodt,bbleichrodt@hotmail.com,552 E Irwin Ave,,Littleton,Co,80122,USA,2014-09-02 08:35:02
+Eric,Croke,ejcroke@gmail.com,100 Tremont Way,,Madison,MS,39110,USA,Eric,Croke,ejcroke@gmail.com,103 Langdon Bend,,Madison,MS,39110,USA,2014-09-02 13:35:13
+Robert,Carlson,carlsonrobert27@gmail.com,47 NW 1021st Rd,,Holden,MO,64040,USA,Robert,Carlson,carlsonrobert27@gmail.com,6360 Zephyr St,,Arvada,CO,80004,USA,2014-09-02 20:05:53
+stephen,kirschner,skirschner2@gmail.com,2838 sitting bull way,,fort collins,CO,80525,USA,stephen,kirschner,skirschner2@gmail.com,5415 rabbit creek road,,fort collins,CO,80528,USA,2014-09-03 11:59:08
+Michael,Titone,m_and_d_titone@att.net,117 Estelle Drive,,Vicksburg,MS,39180,United States,Michael,Titone,m_and_d_titone@att.net,136 Pebble Beach Drive,,Vicksburg,MS,39183,United States,2014-09-04 14:29:40
+colin,boyles,colin.boyles@gmail.com,3671 provincetown,,irvine,CA,92606,USA,colin,boyles,colin.boyles@gmail.com,3220 Snowbrush Pl,,Fort Collins,CO,80521,USA,2014-09-04 22:22:55
+jk,lk,co@aol.com,54 true ave,,irvine,ca,92606,USA,jk,lk,co@aol.com,89 true dr,,irvine,ca,92606,USA,2014-09-04 22:23:53
+colin,boyles,colin.boyles@gmail.com,1 Icon,,Foothill Ranch,CA,92610,USA,colin,boyles,colin.boyles@gmail.com,3220 Snowbrush Pl,,Fort Collinss,CO,80521,USA,2014-09-04 22:25:03
+colin,boyles,colin.boyles@gmail.com,1 Icon,,Foothill Ranch,CA,92610,USA,colin,boyles,colin.boyles@gmail.com,3220 Snowbrush Pl,,Fort Collins,CO,80521,USA,2014-09-04 22:25:30
+brian,crook,brian.crook@cox.net,92 Sienna Ridge,,mission viejo,ca,92692,usa,brian,crook,brian.crook@cox.net,104 dornoch way,,coto de caza,ca,92679,usa,2014-09-05 00:43:43
+brian,crook,brian.crook@cox.net,92 Sienna Ridge,,mission viejo,ca,92692,usa,brian,crook,brian.crook@cox.net,104 dornoch way,,coto de caza,ca,92679,usa,2014-09-05 00:44:12
+Nicholas,Thornton,nicholas.thornton@hotmail.com,307 Chinook Drive,,Placentia,CA,92870,United States,Nicholas,Thornton,nicholas.thornton@hotmail.com,2721 Crystal Ct. #2,,Missoula,MT,59808,United States,2014-09-05 09:50:41
+Nathan,Perkinson,kyra.perkinson@yahoo.com,582 W 200S,,Albion,IN,46701,USA,Nathan,Perkinson,kyra.perkinson@yahoo.com,215 S Walnut St,,Columbia City,IN,46725,USA,2014-09-07 13:51:25
+Ron,Darnell,caimenron@gmail.com,12400 NW 15 Street,1302,Sunrise,Florida,33323,USA,Ron,Darnell,caimenron@gmail.com,5725 SW 117 Terrace,,Cooper City,FL,33330,USA,2014-09-09 10:08:47
+Mark,Kirkby,Mkirkby@cox.net,2029 Centerville Turnpike S.,,Chesapeake,VA,23322,USA,Mark,Kirkby,Markkirkby5@gmail.com,203 Woodmere Ave.,,Kill Devil Hills,NC ,27948,USA,2014-09-10 13:55:37
+William,Moran,wmoranvt@gmail.com,182 Rotax Road,,North Ferrisburgh,Vermont,05473,USA,William,Moran,wmoranvt@gmail.com,144 South Jefferson Road,109,South Burlington,Vermont,05403,USA,2014-09-11 20:19:32
+Brendan,McDonald,mcdbrendan@gmail.com,457 Maxwell Ave Apt 1,,Boulder,CO,80304,USA,Brendan,McDonald,mcdbrendan@gmail.com,1540 Grove St ,Basement,Boulder,CO,80302,USA,2014-09-13 12:56:37
+Keith,Bentz,keithbentz@wildblue.net,1362 De Haro St,,San Francisco,CA,94107,United States,Keith,Bentz,keithbentz@gmail.com,461 Kings Road,,Brisbane,California,94005,United States,2014-09-15 12:42:04
+Paul,Pijacki,ppijacki@gmail.com,16009 Muirfield Dr,,Odessa,Florida,33556,USA,Paul,Pijacki,ppijacki@gmail.com,1407 N River Rock,,Belgrade,Montana,59714,USA,2014-09-15 16:05:29
+Rodney,Lane,lanerodney@comcast.net,32A Elm Street,,Topsham,ME,04086,,Rodney ,Lane,lanerodney@comcast.net,8022 Summer Brook Court,,Sugar Land,TX,77479,,2014-09-20 13:51:20
+Will,Masters,wwmastersiii@gmail.com,PO Box 1051,,Plains,TEXAS,79355,United States,Will,Masters,wwmastersiii@gmail.com,1512 South Austin,,Amarillo,TEXAS,79102,United States,2014-09-22 07:36:39
+Bob,Hallock,ontheflytoo@yahoo.com,561 Indian Peaks Trail West,,Lafayette,CO,80026,USA,Bob,Hallock,ontheflytoo@yahoo.com,111 Lyman Road,,Berlin,MA,01503,USA,2014-09-22 08:59:00
+Bob,Hallock,ontheflytoo@yahoo.com,PO Box 782,,Gardner,MA,01440,USA,Bob,Hallock,ontheflytoo@yahoo.com,111 Lyman Road,,Berlin,MA,01503,USA,2014-09-22 09:00:24
+Justin,Sheehan,jmsheehan5@gmail.com,1301 N 18th Ave,,Pensacola,FL,32503,USA,Justin,Sheehan,jmsheehan5@gmail.com,18 Snowberry Dr,,Scarborough,ME (Maine),04074,United States,2014-09-22 09:39:27
+Ernie,Szalontai,bondra44@aol.com,25 Albert Ave,,milltown,New Jersey,08850,United States,Ernie,Szalontai,bondra44@aol.com,53 Kuhlthau Ave,,milltown,New Jersey,08850,United States,2014-09-22 11:53:52
+Eric,Guldner,outshots.photography@gmail.com,PO Box 872257,,Vancouver,WA,98687,United States,Eric,Guldner,outshots.photography@gmail.com,PO Box 1929,,Battle Ground,WA,98604-1929,United States,2014-09-22 22:55:59
+Jesse,Robbins,jesselancerobbins@gmail.com,505 Bjune Dr SE,,Bainbridge Island,WA,98110,USA,Jesse,Robbins,jesselancerobbins@gmail.com,323 Wyatt Way NE,,Bainbridge Island,WA,98110,USA,2014-09-24 16:08:10
+Jarod,Kastning,jarod.kastning@gmail.com,2271 SW 11th St,,Miami,FL,33135,United States,Jarod,Kastning,jarod.kastning@gmail.com,6511 SW 42nd St,,Miami,FL,33155,United States,2014-09-25 08:27:26
+jeff,davids,jdavids77@hotmail.com,5448 altamaha dr.,,north charleston,sc,29420,usa,jeff ,davids,jdavids77@hotmail.com,4096 egrets pointe dr.,,mount pleasant,sc,29466,usa,2014-09-25 09:58:44
+William Clark,Cryer,wcryer@gmail.com,2112 S. Suzanne Cir,,NorthPalm Beach,Florida,33408,United States,William Clark,Cryer,wcryer@gmail.com,170 River Dr.,,Tequesta,Florida,33469-1932,United States,2014-09-26 07:56:22
+Daniel,Hasegawa,dhasega@gmail.com,550 Harbor Cove Lane,1500I,Charleston,SC,29412,USA,Daniel,Hasegawa,dhasega@gmail.com,45 Sycamore Ave.,1211,Charleston,SC,29407,USA,2014-09-28 06:59:59
+Connor,Seli,coolconman@yahoo.com,807 SE 35th Ave,A,Portland,OR,97214,USA,Connor,Seli,connor.seli@gmail.com,8015 N Denver Ave,12,Portland,OR,97217,USA,2014-09-29 13:40:38
+Paul,Crosby,paul.j.crosby@gmail.com,213 Hillside Avenue,,Cranford,NJ,07016,USA,Paul,Crosby,paul.j.crosby@gmail.com,1605 Westfield Street,,Oakhurst,NJ,07755,USA,2014-10-01 14:12:57
+Tim,Sickles,tsickles@ltu.edu,260 N. Dixie Dr. Unit #412,,St. George,Utah,84770,United States,Tim,Sickles,,260 N. Dixie Dr. Unit #12D,,St. George,Utah,84770,United States,2014-10-02 16:37:54
+Jamie,Farrell,fishynp@gmail.com,2654 Glenmare St.,,Salt Lake City,Utah,84106,U.S.A,Jamie,Farrell,fishynp@gmail.com,2587 E. Sherwood Dr.,,Salt Lake City,Utah,84108,U.S.A.,2014-10-06 19:06:59
+Alan,Holcomb,alanwholcomb22@yahoo.com,17 Arbor Rd,,South Burlington,Vermont,05403,United States,Alan,Holcomb,alanwholcomb22@yahoo.com,628 Field Days Rd.,,New Haven,Vermont,05472,United States,2014-10-09 07:24:15
+Geoff,Meyer,gmeyer@ufpi.com,8150 Conservation,,Ada,MI,49301,USA,Geoff,Meyer,gmeyer@ufpi.com,3503 Golden Currant Blvd,,Fort Collins,CO,80521,USA,2014-10-09 13:39:22
+Geoff,Meyer,gmeyer@ufpi.com,8150 Conservation,,Ada,MI,49301,USA,Geoff,Meyer,gmeyer@ufpi.com,3503 Golden Currant Blvd,,Fort Collins,CO,80521,USA,2014-10-09 13:39:56
+Geoff,Meyer,gmeyer@ufpi.com,8150 Conservation,,Ada,MI,49301,USA,Geoff,Meyer,gmeyer@ufpi.com,3503 Golden Currant Blvd,,Fort Collins,CO,80521,USA,2014-10-09 13:41:55
+Geoff,Meyer,gmeyer@ufpi.com,8150 Conservation,,Ada,MI,49301,USA,Geoff,Meyer,gmeyer@ufpi.com,3503 Golden Currant Blvd,,Fort Collins,CO,80521,USA,2014-10-09 13:46:45
+David,Hernandez,dhernandez@hsginc.org,1302 Katherine CT,,Georgetown,TX,78626,USA,David ,Hernandez,dhernandez@hsginc.org,1710 S Main St,,Georgetown,TX,78626,USA,2014-10-09 14:45:19
+Anderson,Kemp,ason47@uga.edu,206 Parkersburg road,,Savannah,Ga,31406,United States,Anderson,Kemp,ason47@uga.edu,600 N Thomas Street,1505 B,Athens ,GA,30601,United States,2014-10-09 16:11:44
+Daniel,Schwartz,travel.dan.schwartz@gmail.com,632 W Verano Place,,Gilbert,AZ,85233,US,Daniel,Schwartz,travel.dan.schwartz@gmail.com,9437 Fortune Dr,,Fishers,IN,46037,United States,2014-10-10 06:51:24
+Jonathan,Williams,jmwi004@gmail.com,322 Kingston Circle,,Birmingham,AL,35211,USA,Jonathan,Williams,jmwi004@gmail.com,6824 Woodstock Road,,Fort Worth,TX,76116,USA,2014-10-10 10:41:56
+Stephen,Lordon,splordon@gmail.com,19 Spencer Street,Apt 413,Lebanon,New Hampshire,03766,United States,Stephen,Lordon,splordon@gmail.com,97 Daisy Hill Road,,Lebanon,NH,03766,,2014-10-13 08:41:39
+Nick ,DeMuth,Captnick@hookjawcharters.com,465 Cypress St,,Elmira,New York,14904,USA,Nick,DeMuth,Captnick@hookjawcharters.com,505 Beckwith Rd,,Pine City,NY,14871,USA ,2014-10-13 15:43:22
+Kurt,Fratzke,Fratzkman@Yahoo.com,5075 St. Albans Bay Rd.,,Excelsior ,MN,55331,USA,Kurt ,Fratzke ,Fratzkman@Yahoo.com,4003 Oregon Ave. N.,,New Hope ,MN,55427,USA,2014-10-17 12:03:39
+Steve,Avery,savery@securitiesmail.com,PO Box 643,,Amesbury,MA,01913-0015,US,Steve,Avery,savery@securitiesmail.com,6 Middle Road,,Amesbury,MA,01913-3902,US,2014-10-17 13:22:20
+Mark,Grocholl,m.grocholl@comcast.net,2225 Oxford St,,Rockford,IL,61103,USA,Mark,Grocholl,mark.grocholl@gmail.com,7279 Wishop Rd,,Rockton,IL,61072,USA,2014-10-18 13:17:05
+Robert,Glazier,ruglazier1@yahoo.com,8200 E 8th Ave 2-101,,Denver,VCO,80230,USA,Robert,Glazier,ruglazier1@yahoo..com,914 W 20th Ave,,Spokane,WA,99203,USA,2014-10-18 17:33:57
+Robbie,Wirth,jmwirth63@yahoo.com,19 Juniper Way,,Moraga,CA,94556,USA,Robbie ,Wirth,rwirthusayfft@gmail.com,510 North 19th Ave,,Bozeman,MT,59718,USA,2014-10-19 11:27:28
+Kyle,Kolodziejski,kyle@keeneyeanglers.com,PO Box 166,,Moose Pass,AK,99631,USA,Kyle,Kolodziejski,kyle@keeneyeanglers.com,100 N Pacific HWY,74,Talent,OR,97540,USA,2014-10-19 16:54:21
+Matthew,otto,matthewkotto@gmail.com,4853 N Hoyne,1,Chicago,Illinois,60625,USA,Matthew,Otto,matthewkotto@gmail.com,5227 West Berteau,,Chicago,Illinois,60641,USA,2014-10-20 09:19:29
+Mark,Rinehart,mcrinehart@gmail.com,5638 e 16th Ave,,Denver,Colorado,80220,USA,Mark,Rinehart,mcrinehart@gmail.com,2040 Krameria St,,Denver,Colorado,80207,USA,2014-10-20 10:46:23
+David,Mullins,captain.dave.fl@gmail.com,2100 Calumet St,272,Clearwater,FL,33765,USA,David,Mullins,captain.dave.fl@gmail.com,6312 SW Capiol Hwy,#224,Portland,OR,97239,USA,2014-10-20 12:34:48
+Joshua,Miller,joshua.miller@telos.com,2168 Natures Gate Crt S,,Fernandina Beach,Florida,32034,United States,Joshua,Miller,joshua.miller@telos.com,1502 First Ave,,Fernandina Beach,Florida,32034,United States,2014-10-20 15:33:06
+Joseph,Brennan,nj.hype@gmail.com,428A Canterbury Ct,,Ventnor City,NJ,08406,USA,Joseph,Brennan,nj.hype@gmail.com,679 Haddon Ave,2nd Floor,Collingswood,NJ,08108,USA,2014-10-20 18:28:59
+joshua,wargo,jpsdwargo@yahoo.com,2412 ryan ave,,fort worth,texas,76110,usa,joshua,wargo,jpsdwargo@yahoo.com,2106 w morphy st,,fort worth,texas,76110,usa,2014-10-21 16:38:16
+Paul,Peixoto,peixoto@theserragroup.com,219 Shadyside Rd,,Ramsey,NJ,07446,USA,Paul,Peixoto,peixoto@theserragroup.com,10 Brookside Ave,,Hawthorne,New Jersey,07506,United States,2014-10-23 09:35:05
+Tom,Butcher,troutmagic2@gmail.com,385 Burnham Rd,,Freedom,NH,03836,USA,Tom,Butcher,troutmagic2@gmail.com,PO Box 707,,New Meadows,ID,83654,USA,2014-10-24 13:44:04
+Michael,Carpenter,michaelcarpentercci@gmail.com,6674 Zumbro Hylands NW,,Rochester,Minnesota,55901,United States,Michael,Carpenter,michaelcarpentercci@gmail.com,3800 Bal Harbor Blvd,Apt. 314,PUNTA GORDA,Florida,33950,United States,2014-10-26 13:22:43
+Deniz,Brus,deniz.brus@gmail.com,1709 Salerno Way,,Howell ,NJ,07731-1760,USA,Deniz,Brus,deniz.brus@gmail.com,PO Box 700687,,San Antonio,TX,78270-0687,USA,2014-10-26 19:49:32
+George,Costa,pugfish@comcast.net,1030 Morris St.,,Philadelphia,PA,19148,UnitedStates,George,Costa,george.flyfish@gmail.com,146 Cow View Lane,,Warriors Mark,PA,16877,UnitedStates,2014-10-27 12:21:13
+Joel,Henry,joelbhenry@msn.com,7666 23rd Street N,,Oakdale,MN,55128,USA,Joel,Henry,joelbhenry@msn.com,9752 Lansing Ave N,,Stillwater,MN,55082,USA,2014-10-28 14:09:06
+Lucas,Young,lucasjyoung@gmail.com,1107 Cedar Ln,,East Wenatchee,Washington,98802,United States,Lucas,Young,lucasjyoung@gmail.com,323 Wyatt Way,,Bainbridge Island,Washington,98110,United States,2014-10-29 12:54:32
+Alan,Holcomb,alanwholcomb22@yahoo.com,17 Arbor Rd.,,south Burlington,VT,05403,usa,Alan,Holcomb,alanwholcomb22@yahoo.com,628 Field Days Rd,,New Haven,VT,05472,usa,2014-10-30 13:29:13
+Scott,Ballinger,caitmuir89@gmail.com,1633 Draw St,,Cody,WY,82414,United States,Scott,Ballinger,caitmuir89@gmail.com,1655 North Park Drive,,Cody,WY,82414,United States,2014-10-31 20:04:00
+Ethan ,Krieger ,eckrieg@gmail.com,62 Pine Brook ct. ,,Shenandoah,TX,77381,United States ,Ethan ,Krieger ,eckrieg@gmail.com,218 Breezy Way ,,The Woodlands ,Tx,77380,United States ,2014-11-02 15:06:01
+Phillip,Rollins,philfishing@gmail.com,15449 Woodland Beach Lane,,Deerwood,MN,56444,USA,Phillip ,Rollins,philfishing@gmail.com,90 Val Vista Road,,Mill Valley,CA,94941,USA,2014-11-03 12:10:16
+Blake,Downing,mtnbikedad@yahoo.com,P.O. Box 178,,Mancos,Colorado,81328,United States,Blake,Downing,mtnbikedad@yahoo.com,P.O. Box 1927,,Bayfield,Colorado,81122,United States,2014-11-04 12:55:29
+KEITH,LEWIS,keithwlewis@frontier.com,PO BOX 175,,FRANKLIN,NC,28744,USA,KEITH,LEWIS,keithwlewis@frontier.com,162 LEWIS RD,,FRANKLIN,NC,28734,USA,2014-11-06 13:46:45
+KEITH,LEWIS,keithwlewis@frontier.com,PO BOX 175,,FRANKLIN,NC,28744,USA,KEITH,LEWIS,keithwlewis@frontier.com,162 LEWIS RD,,FRANKLIN,NC,28734,USA,2014-11-06 13:47:16
+KEITH,LEWIS,keithwlewis@frontier.com,PO BOX 175,,FRANKLIN,NC,28744,USA,KEITH,LEWIS,keithwlewis@frontier.com,162 LEWIS RD,,FRANKLIN,NC,28734,USA,2014-11-06 13:47:54
+Oliver,Snelling,olliesnelling@hotmail.com,81 Sullivan Street,Apartment 4,New York,NY,10012,USA,Oliver,Snelling,olliesnelling@hotmail.com,125 East 4th Street,Apartment 23,New York,NY,10003,USA,2014-11-09 09:41:13
+Alex,Lauver,alex.lauver@gmail.com,7435 159th Pl NE,A105,Redmond,WA,98052,USA,Alex,Lauver,alex.lauver@gmail.com,560 Silver Sands Rd,Unit 1602,East Haven,CT,06512,USA,2014-11-09 21:40:14
+Samuel,Yannerilla,syannerilla@gmail.com,17300 Galehouse Rd.,,Doylestown,Ohio,44230,U.S.A.,Samuel,Yannerilla,syannerilla@gmail.com,6408 Whispering Lake Dr.,,Gaylord,Michigan,49735,U.S.A.,2014-11-10 15:43:35
+William,Vandiver ,lanev1963@hotmail.com,380 Buena vista ave,,Athens ,Georgia ,30601,Usa,William,Vandiver,lanev1963@hotmail.com,81 Paul Lane ,,Crawford ,Georgia,30630,Usa,2014-11-12 19:25:54
+Michael ,Tafel,michael.tafel@gmail.com,790 Washington St,909,Denver,CO,80203,USA,Michael ,Tafel,michael.tafel@gmail.com,4121 Shoshone St,,Denver,CO,80211,USA,2014-11-13 11:21:20
+sean,grady,sgrady11@gmail.com,2243 W 113th Pl,,Chicago,IL,60643,USA,sean,grady,sgrady11@gmail.com,10358 S Wood St,FL 2,Chicago,IL,60643,USA,2014-11-15 19:37:22
+William,Widdoes,bill.widdoes@gmail.com,865 Mirror St,,Pittsburgh,Pennsylvania,15217-2641,United States,William,Widdoes,bill.widdoes@gmail.com,428 Chapel Harbor Dr,,Pittsburgh,Pennsylvania,15238,United States,2014-11-17 10:02:21
+Edwin,stroh,imbistro1@gmail.com,1800 Espanola Drive,,Coconut Grove,Florida,33133,USA,Edwin,Stroh,imbistro1@gmail.com,6471 Sunset Drive,,South Miami,Florida,33143,USA,2014-11-17 18:28:45
+Brad,Rhoades,brad.r.rhoades@gmail.com,60934 Garrison Dr,,Bend,Oregon,97702,United States,Brad,Rhoades,brad.r.rhoades@gmail.com,5614 Havencrest Dr,,Klamath Falls,Oregon,96703,United States,2014-11-17 23:46:31
+James,Bigham,Jandrew3000@aol.com,32 lowell street,,Asheville,Nc,28803,Usa,James ,Bigham,Jandrew3000@aol.com,42 woodcreek circle,,Swannanoa,Nc,28778,Usa,2014-11-18 09:19:51
+Bryan,Maddox,bgmaddox61@gmail.com,717 east Ridgecrest Road,,Fort Collins,Colorado,80524,United States,Bryan,Maddox,bgmaddox61@gmail.com,PO Box 1041,,Laporte,Colorado,80535,United States,2014-11-20 18:56:49
+Shawn,McCole,shawn.mccole@gmail.com,1012 S Tennessee Ave,,Lakeland,FL,33803,USA,Shawn ,McCole,shawn.mccole@gmail.com,940.5 3rd St N,,St. Petersburg,FL,33701,USA,2014-11-24 12:19:01
+Shawn,McCole,shawn.mccole@gmail.com,1012 S Tennessee Ave,,Lakeland,FL,33803,USA,Shawn ,McCole,shawn.mccole@gmail.com,940.5 3rd St N,,St. Petersburg,FL,33701,USA,2014-11-24 12:19:27
+Peter,Boissonneault,bigskyturbine@hotmail.com,83 Bolton Hill Road,,Augusta,ME,04330,USA,Peter,Boissonneault,bigskyturbine@hotmail.com,95 Hannaford Hill Road,B,Vassalboro,ME,04989,USA,2014-11-24 18:54:03
+Ron ,Evans,revans@consultmchugh.com,911 Bear Creek Trail,,Victor,MT,59875,USA,Ron,Evans,same,818 Spring Creek Rd,,Bellefronte,PA,16823,USA,2014-11-25 13:45:43
+Walwyn,Trezise,maryloupetty@gmail.com,PO BOX 1987,,DUBOIS,WY,82513,USA,WALWYN,TREZISE,maryloupetty@gmail.com,535 N MICHIGAN AVE,APT 3009,CHICAGO,IL,60611,USA,2014-11-27 10:27:03
+Dan,Bitondo,,934 e nichols ave,,centennial,CO,80122,United States,Daniel,Bitondo,,2895 West LONG Circle Unit C,,Littleton,CO,80120,United States,2014-11-27 11:40:10
+Mike,Callan,mike@haydenoutdoors.com,8250 WCR 62,,Windsor,CO,80550,USA,Mike ,Callan,mike@haydenoutdoors.com,623 Scotch Pine Dr.,,Severance,CO,80550,USA,2014-12-03 10:34:43
+Eric,Matijevich,eric.matijevich@mac.com,1605 Lander St,,Reno,NV,89509,United States,Eric,Matijevich,eric.matijevich@mac.com,PO Box 5338,,Incline Village,NV,89450,United States,2014-12-04 13:52:08
+Jason,St. Clair,jmstclair2000@yahoo.com,250 S El Molino Ave,Apt 8,Pasadena,CA,91101,USA,Jason,St. Clair,jmstclair2000@yahoo.com,2252 Washington Ave,Apt 103,Silver Spring,MD,20910,USA,2014-12-07 16:51:12
+Mike,Mihalas,mike@mihalas.com,1701 Bellewood Dr,,Waunakee,WI,53597,USA,Mike,Mihalas,mike@mihalas.com,143 Knob Creek Rd,,Pisgah Forest,NC,28768,USA,2014-12-09 17:12:18
+derek,thach,derekthach,6559 15th AVE NW,517,Seattle ,WA,98117,united states,derek,thach,derekthach@aol.com,13395 161st Street NE,C321,Woodinville,WA,98072,united states,2014-12-09 17:15:54
+derek,thach,derekthach,6559 15th AVE NW,517,Seattle ,WA,98117,united states,derek,thach,derekthach@aol.com,13395 161st Street NE,C321,Woodinville,WA,98072,united states,2014-12-09 17:16:16
+Barkley,Smith,bb11smith@gmail.com,Lewis,,Boise,Idaho,83712,USA,Barkley,Smith,bb11smith@gmail.com,6698 N Avenue H,Apt 202,Boise,Idaho,83712,USA,2014-12-14 13:35:17
+David,Rickard,rickardavid@gmail.com,7404 Ash St,,Prairie Village,KS,66208,USA,David,Rickard,rickardavid@gmail.com,4824 Belleview Ave,,Kansas City,MO,64112,USA,2014-12-15 19:22:25
+Christopher,Adamo,cadamo@gmail.com,1375 Maryland Ave NE,Loft G,Washington,District of Columbia,20002,United States,Chris ,Adamo,cadamo@gmail.com,710 10th St NE,,Washington,DC,20002,,2014-12-19 14:32:04
+Christopher,Adamo,cadamo@gmail.com,1375 Maryland Ave NE,Loft G,Washington,District of Columbia,20002,United States,Chris,Adamo,cadamo@gmail.com,710 10th St NE,,Washington,DC,20002,,2014-12-19 14:33:24
+Dennis,Harden,fishskull@msn.com,16879 County Rd 15,,Tyler,Tx,75703,USA,Dennis ,Harden,fishskull@msn.com,4610 Miramar,,Rowlett,Tx,75088,USA,2014-12-22 17:32:32
+Dennis,Harden,fishskull@msn.com,16879 County Rd 15,,Tyler,Tx,75703,USA,Dennis ,Harden,fishskull@msn.com,4610 Miramar,,Rowlett,Tx,75088,USA,2014-12-22 17:38:36
+Micah,Groeber,micahgroeber@gmail.com,1218 Belrose Lane,,Charlotte,NC,28209,United States,Micah,Groeber,micahgroeber@gmail.com,2425 Chesterfield Ave,,Charlotte,NC,28205,United States,2014-12-23 21:07:13
+Daniel,Ritter,therittester@hotmail.com,17495 North Shore Drive,,Leavenworth ,WA,98826,USA,Daniel,Ritter,therittester@hotmail.com,35 Cindy Lane,,Sedona,AZ,86336,USA,2014-12-24 11:54:45
+Zachary,Church,zego32@hotmail.com,2293 Dogwood Dr,,Erie,CO,80516,usa,Zachary ,Church,zego32@hotmail.com,1604 3Rd Ave,,Longmont,CO,80501,usa,2014-12-28 16:18:54
+michael,scott,,4775 lakewood ave,,stevensville,mi,49127,usa,michael,scott,,16037 lake ave,,grand haven,mi,49417,usa,2014-12-29 08:39:11
+Matt,Smythe,matt@fishingpoet.com,7067 Boughton Rd,,Victor,New York (NY),14564,United States,Matt,Smythe,matt@fishingpoet.com,43 Main St,,Bloomfield,NY,14469,United States,2014-12-29 10:22:59
+Christopher,Gasbarre,chrisgasbarre@hotmail.com,3050 Golden Eagle Place,,Spearfish,SD,57783,USA,Christopher,Gasbarre,chrisgasbarre@hotmail.com,2235 Lookout Vista Rd.,,Spearfish,SD,57783,USA,2014-12-30 15:29:15
+Diego,Rojas,Drojas11@gmail.com,5516 Southwick Street,,Bethesda,Maryland,20817,USA,Diego,Rojas,Drojas11@gmail.com,3464 Bromley Dr. SE,,Grand Rapids,Michigan,49508,USA,2014-12-31 13:13:41
+Joe,Russell,joseph.russell@bsci.com,16 Meadowbrook Ct.,,Ballston Spa,NY,12020,United States,Joe,Russell,joseph.russell@bsci.com,116 Yorktown Dr.,,Clifton Park,NY,12065,United States,2015-01-02 14:08:55
+gary ,hill,ghillj@sccourts.org,116 w augusta place,,greenville,sc ,29605,usa,gary,hill,ghillj@sccourts.org,305 E. North St.,Suite 213,greenville,sc,29601,usa,2015-01-02 19:11:09
+Preston,Chase,prestonchase11@gmail.com,120 S Black Ave,U,Bozeman,Montana,59715,USA,Preston,Chase,prestonchase11@gmail.com,501 W Peach St,,Bozeman,Montana,59715,USA,2015-01-03 14:50:20
+Joseph,Kumer,josephkumer@gmail.com,176 Conduit Street ,#4,Annapolis,MD,21401,USA,Joseph,Kumer,josephkumer@gmail.com,1235 South David Street,,Casper,WY,82601,USA,2015-01-05 15:49:10
+Casey,Deller,cdeller9@hotmail.com,2590 Keeney Dr.,,York,PA ,17403,United States,Casey,Deller,cdeller9@hotmail.com,232 N. George St.  ,Ste. 101,York,PA ,17401,United States,2015-01-06 15:49:43
+Jim,Butler,constructionbuilder@hotmail.com,2506 Halfmoon Ct,,Lincoln,Ca,95648,usa,Jim,Butler,constructionbuilder@hotmail.com,P.O. Box 2081,,Cupertino,Ca,95015,usa,2015-01-06 16:12:59
+Haig,Rudd,haig.rudd@gmail.com,47 Gracelyn Rd.,,Asheville,NC,28804,US,Haig,Rudd,haig.rudd@gmail.com,48 McLain St.,,Asheville,NC,28803,US,2015-01-06 16:35:14
+Richard Lee,Davis,slickricky88@gmail.com,1180 Filbert Street,403,San Francisco,CA,94109,USA,Richard Lee,Davis,slickricky88@gmail.com,P.O. Box # 865,,Arnold,CA,95223,USA,2015-01-06 23:07:27
+Matthew,Heart,mgheart@gmail.com,10208 Hazelhurst Dr,,Houston,Texas,77043,United States,Matthew,Heart,mgheart@gmail.com,10415 Ivyridge Rd,,Houston,Texas,77043,United States,2015-01-07 05:44:16
+Lee,Church,chur0085@gmail.com,1320 E 7th Street,,Benicia,CA,94510,US,Lee,Church,chur0085@gmail.com,2112 Brighton Shore St,,Las Vegas,NV,89128,US,2015-01-07 14:23:06
+James ,Reilly,jimmyr948@aol.com,111 Worth Street,Apt 12W,New York,NY,10013,USA,James ,Reilly,jimmyr948@aol.com,564 Gregory Avenue,A4,Weehawken,NJ,07086,USA,2015-01-07 19:00:34
+Mark,Johnston,mjohnstondds@gmail.com,3650 Muirfield Dr,,Lansing,MI,48911,USA,Mark,Johnston,mjohnstondds@gmail.com,3640 Muirfield Dr,,Lansing,MI,48911,USA,2015-01-18 06:02:38
+tony,haman,,8739 So. Turkey Creek Rd,,morrison,co,80465,usa,tony,haman,dandthaman@gmail.com,8739 So. turkey creek rd,,morrison,co,80465,usa,2015-01-19 16:16:01
+Larry,Meyer,larsmeyer1950@gmail.com,440 N. Spruce St.,,Colorado Springs,CO,80905,USA,Larry,Meyer,larsmeyer1950@gmail.com,4016 Sunridge Terrace Ct.,,Castle Rock,CO,80109,USA,2015-01-20 12:43:45
+Phillipp,Ara,phillipp.ara@gmx.de,Martin-Luther-Strasse 113,,Berlin,Berlin,10825,Germany,Phillipp,Ara,phillipp.ara@gmx.de,Berliner Strasse 17,,Berlin,Berlin,10715,Germany,2015-01-31 08:42:41
+TYLER,BRUNSON,tyscottb@gmail.com,21 Middlefield Ct,,Greensboro,North Carolina,27455,United States,TYLER ,BRUNSON,tyscottb@gmail.com,PO BOX 2407,,BOONE,North Carolina,28607,United States,2015-02-01 17:00:20
+Tim,Lawry,tim.lawry@gmail.com,36 Cameron St ,,Melbourne,Vic ,3121,Australia,Tim ,Lawry,tim.lawry@gmail.com,25 Westwell Road,,Auckland,N/A,0622,New Zealand ,2015-02-01 17:34:06
+xRobert,xSummerlin,grant@7weight.com,xx7956 Vaughn Road #311,,xMontgomery,xAL,x36116,xUnited States,Robert,Summerlin,info@7weight.com,7956 Vaughn Road #311,,Montgomery,AL,36116,United States,2015-03-02 19:47:33
+grant@7weight.com,xRobert,xSummerlin,x7956 Vaughn Road #311,x,xMontgomery,xAL,x36116,xUnited States,grant@7weight.com,Robert,Summerlin,7956 Vaughn Road #311,y,Montgomery,AL,36116,United States,2015-03-02 20:05:33
+grant@7weight.com,Robert,Summerlin,7956 Vaughn Road #311,,Montgomery,AL,36116,United States,grant@7weight.com,Robert,Summerlin,7956 Vaughn Road #311,,Montgomery,AL,36116,United States,2015-03-02 20:47:56
+dryfly99@hotmail.com,Joseph,Howard,2215 2nd Ave S,,Great Falls,MT,59405,USA,dryfly99@hotmail.com,Joseph,Howard,PO Box 268,,Great Falls,MT,59403,USA,2015-04-17 19:38:30
+weidenb@me.com,Brian,Weiden,927 Franklin,,Grand Haven,MI,49417,US,weidenb@me.com,Brian,Weiden,15108 Briarwood Dr.,,Grand Haven,MI,49417,US,2015-04-19 11:28:19
+crosbyasu@gmail.com,Philip,Crosby,648 Seneca Place,,Charlotte,NC,28210,United States,crosbyasu@gmail.com,Philip,Crosby,53502 Bickett,,Chapel Hill,NC,27517,United States,2015-04-21 20:11:15
+lemon.jacob@gmail.com,Jacob,Lemon,198 Mt Eagle Rd,,Howard,PA,16841,United States,lemon.jacob@gmail.com,Jacob,Lemon,1005 Halfmoon St,,Bellefonte,PA,16823,United States,2015-04-22 14:47:58
+perkojjr@aol.com,James,Perko,3431 Pointe Creek Court,Apt 102,Bonita Springs,FL,34134,USA,perkojjr@aol.com,James ,Perko,3291 S Coconut Island Dr,Apt 201,Bonita Springs,FL,34134,USA,2015-04-22 23:14:41
+scott.hatter2@gmail.com,Scott,Hatter,406 S 13th St,504,Boise,ID,83702,US,scott.hatter2@gmail.com,Scott,Hatter,460 W Highland St,,Boise,ID,83702,US,2015-04-23 03:41:12
+rpkjr2@gmail.com,Ross,Kennedy,1201 McDuffie # 108,,Houston,TX,77019,United States,rpkjr2@gmail.com,Ross,Kennedy,309 Chimney Hill,,College Station,Texas,77840,United States,2015-04-23 15:36:26
+mcnaydl@gmail.com,Doug,McNay,132 Benedict Lane,,Raleigh,NC,27614,USA,mcnaydl@gmail.com,Doug,McNay,127 Francis Marion Drive,,Wilmington,NC - North Carolina,28411,USA,2015-04-26 18:22:58
+Mainemarsh@aol.com,Bruce,Marshall,2242 South Fletcher Ave,,Fernandina Beach,Florida,32034,USA,Mainemarsh@aol.com,Bruce,Marshall,51 Painted Point Road,,Phippsburg,Maine,04562,USA,2015-04-27 15:47:10
+waynecarter1937@yahoo.com,wayne,carter ,2537 62nd ave E,apt 33-104,fife,wa,98424,usa,waynecarter1937@yahoo.com,wayne ,carter,5243 E. Grant,,Fresno,Ca.,93727,usa,2015-04-28 05:12:58
+maryloupetty@gmail.com,WALWYN ,Trezise,535 N MICHIGAN AVE,#3009,CHICAGO,IL,60611,USA,maryloupetty@gmail.com,WALWYN,TREZISE,PO BOX 1987,,DUBOIS,WY,82513,USA,2015-04-28 19:29:21
+eyesnflys@gmail.com,John,Hoven,4169 Rue de Frenchman NEe,,Alexandria,MN ,56308,USA,eyesnflys@gmail.com,John,Hoven,4021 Rue de Frenchman NE,,Alexandria,MN,56308,USA,2015-04-29 20:18:11
+riebecky73@gmail.com,toshana,riebecky,2819 s cnty Rd 13,,loveland,Colorado,80537,United States,riebecky73@gmail.com,toshana,riebecky,648 SE frontage rd d2,,Johnstown,Colorado,80534,United States,2015-05-03 16:13:33
+Gheartwell@grcity.us,George,Heartwell,440 E. Fulton St.,,Grand Rapids,MI,49503,United States,Gheartwell@grcity.us,George,Heartwell ,538 Bond St. NW,#406,Grand Rapids,MI,49503,United States,2015-05-04 00:48:02
+kylemessier@yahoo.com,Kyle ,Messier,1247 NW 2nd Terr,,Crystal River,FL ,34428,USA,kylemessier@yahoo.com,Kyle ,Messier,1531 NW 20th Ave,,Crystal River,FL,34428,USA,2015-05-04 10:44:14
+Chipmaker47@msn.com,Patrick,Fisher,1736 NW 120th St.,,Clive ,Iowa,50325,US,Chipmaker47@msn.com,Patrick,Fisher,9364 Winterberry Dr.,,West Des Moines,Iowa,50266,US,2015-05-04 14:12:57
+kingfisher983@yahoo.com,Brian,Bolser,12 Stonehouse Rd,,Los Alamos,NM,87544,USA,kingfisher983@yahoo.com,Brian ,Bolser,52 Upper Loop,,Los Alamos,NM,87544,USA,2015-05-05 13:26:02
+kramer1242@comcast.net,David,Kramer,676 Bower Hill Road,,Pittsburgh,PA,15243,United States,kramer1242@comcast.net,David ,Kramer,205 Roycroft Ave,,Pittsburgh,PA,15234,United States,2015-05-06 11:36:51
+onthefly@tds.net,Scott,Meske,314 Santa Fe Trail,,Waunakee,WI,53597,USA,onthefly@tds.net,Scott,Meske,721 E. Highland Dr,111,Williston,ND,58801,USA,2015-05-06 17:48:05
+bthelgeson@gmail.com,Ben,Helgeson,3920 West 112 Ave,205,Westminster,CO,80031,USA,bthelgeson@gmail.com,Ben,Helgeson,12441 Irving Drive,,Broomfield,CO,80020,USA,2015-05-09 14:54:22
+johnroberts321@hotmail.com,John ,Roberts,714 Campusview Dr,,Columbia,Mo,65201,USA,johnroberts321@hotmail.com,John,Roberts,4105 Cotton Wood Dr,,Columbia,Mo ,65202,USA,2015-05-09 20:12:10
+kramer1242@comcast.net,David,Kramer,676 Bower Hill Road,,Pittsburgh,PA,15243,United States,,David ,Kramer,205 Roycroft Ave,,Pittsburgh,PA,15234,United States,2015-05-10 02:17:39
+sylvain.fournier@gmail.com,Sylvain,Fournier,1297 rue Principale,,St-Basile,NB,E7C 1M2,Canada,sylvain.fournier@gmail.com,Sylvain,Fournier,135 rue Gould,117,Dieppe,NB,E1A 1T8,Canada,2015-05-11 18:18:56
+nikomichael@gmail.com,Niko,Kalinic,410 Cliffside Drive,,Danville ,CA,94526,USA,nikomichael@gmail.com,Niko ,Kalinic,65 Chaucer Drive,,Pleasant Hill,CA,94523,USA,2015-05-15 19:09:29
+bpugh1@gmail.com,Brad,Pugh,16 Bourne Street,,Boston,MA,02130,USA,bpugh1@gmail.com,Brad,Pugh,2210 S. Clarkson Street,,Denver,CO,80210,USA,2015-05-16 19:16:59
+wrbaldus@gmail.com,William,Baldus,5132 SW 86th Terrace,,Gainesville,Florida,32608,United States,wrbaldus@gmail.com,William,Baldus,242 Newport Drive ,502,Naples,Florida,34114,United States,2015-05-19 13:27:01
+cricketontherun@hotmail.com,Ryan,McCauley,6593 Mars Rd,,Cranberry Township,PA,16066,US,cricketontherun@hotmail.com,Ryan,McCauley,69 Miller Rd,,Mill Run,PA,15464,US,2015-05-22 12:40:34
+wallen@ngkf.com,Wills,Allen,1871  Claremont St. NW,,Atlanta,GA,30318,United States,wallen@ngkf.com,Wills ,Allen,760 Triple Tree Rd.,,Bozeman,MT,59715,United States,2015-05-22 18:15:21
+tommyleesloan@msn.com,Tommy,Sloan,6990 Niwot Square Drive,,Niwot,CO,80503,USA,tommyleesloan@msn.com,Tommy,Sloan,1413 Venice Street,,Longmont,CO,80501,USA,2015-05-22 21:28:16
+ethan.scott@western.edu,ethan,scott,620 N Taylor St,Unit B,Gunnison,Colorado,81230,United States,ethan.scott@western.edu,ethan,scott,108 N Taylor St,Apt #229,Gunnison,Colorado,81230,United States,2015-05-24 21:48:16
+trevor.gilley@gmail.com,Trevor,Gilley,31-14 Crescent Street,2D,Queens,New York,11106,United States,trevor.gilley@gmail.com,Trevor,Gilley,30-40 23rd Street,2L,Queens,New York,11102,United States,2015-05-28 14:58:33
+dwhitby539@aol.com,DAVID,WHITBY,39 n. waterview drive,,palm coast,florida,32137,USA,dwhitby539@aol.com,DAVID,WHITBY,18 Flamingo Court,,Palm Coast,Florida,32137,USA,2015-05-28 15:03:17
+fmta22@gmail.com,Fred,Anderson,3520 Swan Trail,,Rockford,IL,61103,USA,fmta22@gmail.com,Fred,Anderson,203 S Rural St,,Chippewa Falls,WI,54729,USA,2015-05-29 13:22:56
+glenn.phillips1@virgin.net,Glenn,Phillips,Swift House,Horwood,Bideford,Devon,EX39 4PB,United Kingdom,glenn.phillips12@btinternet.com,Glenn,Phillips,Swift House,Horwood,Bideford,Devon,EX39 4PB,United Kingdom,2015-05-31 15:23:30
+jonsamford@hotmail.com,Jonathan,Samford,2409 Menokin Drive ,103,Alexandria,VA,22302,USA,jonsamford@hotmail.com,Jonathan,Samford,4000 Duke Street,,Alexandria,VA,22304,USA,2015-06-01 15:43:22
+hfatino@gmail.com,Henry,Fatino,9900 E 85th Street,,Raytown,MO,65138,USA,hfatino@gamil.com,Henry,Fatino,9900 E 85th Street,,Kansas City,Mo,64138,USA,2015-06-02 14:14:30
+mbhiland@att.net,Bill,Morrison,310 61st Street,Unit A,Holmes Beach,Florida,34217,United States,mbhiland@att.net,Bill ,Morrison,724 12th Street,#312,Wilmette,IL,60091,United States,2015-06-02 17:27:17
+nikomichael@gmail.com,Niko,Kalinic,410 Cliffside Drive,,Danville,CA,94526,USA,nikomichael@gmail.com,Niko,Kalinic,65 Chaucer Drive,,Pleasant Hill,CA,94523,USA,2015-06-03 15:39:17
+Kramerd676@gmail.com,David,Kramer,676 Bower Hill Road,,Pittsburgh,PA,15243,USA,Kramerd676@gmail.con,David ,Kramer,205 Roycroft Ave,,Pittsburgh,PA,15234,USA,2015-06-04 01:50:04
+cchines@live.com,Chris,Hines,2035 Rodeo Way,,Grand Junction,Colorado,81507,US,cchines@live.com,Chris,Hines,403 1/2 Rockwood Ln,,Grand Junction,Colorado,81507,US,2015-06-04 03:19:12
+Brad@Vanover.org,Amy,Vanover,1967 Deer Park Ave,,Louisville,Kentucky,40205,United States,Brad@Vanover.org,Amy,Vanover,5256 Cove Canyon Dr.,B,Park City,Utah,84098,United States,2015-06-04 20:51:16
+dlw87@mac.com,David,Wells,21812 Sheppard Dr.,,Eagle River,AK,99577,USA,dlw87@mac.com,David,Wells,4884 Cape Seville Dr.,,Anchorage,AK,99516,USA,2015-06-08 02:41:49
+drojas11@gmail.com,Diego,Rojas,3464 Bromley Dr. SE,,Grand Rapids,Michigan,49508,United States,drojas11@gmail.com,Diego,Rojas,2645 Hall Street SE,,Grand Rapids,Michigan,49506,United States,2015-06-08 15:41:37
+Pitzerrandy@hotmail.com,Randy,Pitzer,2224 1st Ave W,,Williston,North Dakota,58801,United States,Pitzerrandy@hotmail.com,Randy,Pitzer,1416 Gateway Ct,,Spearfish,South Dakota,57783,United States,2015-06-08 19:48:08
+a.michaelshaw@gmail.com,Adam,Shaw,2331 Valley Dr.,,Missoula,MT,59802,US,a.michaelshaw@gmail.com,Adam,Shaw,102 W Artemos Dr.,,Missoula,MT,59803,US,2015-06-09 16:29:57
+dakota.lee1@yahoo.com,Dakota,Lee,304B Lumpkin road,,fort benning,GA,31905,United States,dakota.lee1@yahoo.com,Dakota,Lee,364 crane way,,Bunnlevel,NC,28323,UNITED STATES,2015-06-10 09:40:53
+haddock.d@sbcglobal.net,Doug,Haddock,4737 Palm Dr.,,La Canada,Calif.,91011,U.S.A.,haddock.d@sbcglobal.net,Douglas,Haddock,2241 Florencita Ave.,Apt.  A,Montrose ,Calif.,91020,U.S.A.,2015-06-11 20:34:03
+jconrad31@gmail.com,Jeff,Conrad,2237 N Kedzie Blvd,3,Chicago,Illinois,60647,USA,jconrad31@gmail.com,Jeff ,Conrad,3420 N Kolmar Ave,,Chicago,Illinois,60641,USA,2015-06-12 02:33:58
+pschwart00@yahoo.com,Peter,Schwartz,3640 Michigan Ave,,Cincinnati,OH,45208,usa,pschwart00@yahoo.com,Peter,Schwartz,3624 Shaw Ave,,Cincinnati,OH,45208,usa,2015-06-12 14:52:54
+Michaelkbassi@yahoo.com,Michael,Bassi,1003 N 9t St,,Temple,TX,76501,USA,Michaelkbassi@yahoo.com,Michael,Bassi,2200 Legacy Lane,APT 703,Belton,TX,76513,USA,2015-06-13 00:15:35
+luisx.garcia@gmail.com,Luis,Garcia,1318 S Cloverdale Ave,1,Los Angeles,California,90019,USA,luisx.garcia@gmail.com,Luis,Garcia,3820 S Hobart Blvd,,Los Angeles,California,90062,USA,2015-06-14 14:29:28
+briandavis926@gmail.com,Brian ,Davis,3381 Rocky Head Rd.,,Enterprise ,AL,36330,U.S.,briandavis926@gmail.com,Brian,Davis,117 W. Robertson Ct. ,,Enterprise ,AL,36330,U.S.,2015-06-15 17:54:54
+jimmybhaynes@gmail.com,James,Haynes,6 St Francis Ct,,Greensboro,North Carolina,27408,United States,jimmybhaynes@gmail.com,James,Haynes,500 Parkmont Dr.,,Greensboro,North Carolina,27408,united states,2015-06-16 10:25:45
+anders.larson@live.com,Anders,Larson,154 West End Circle,104,Verona,WI,53593,United States,anders.larson@live.com,Anders,Larson,W3291 Schaefer Rd,,Belleville,WI,53508,United States,2015-06-16 14:43:06
+whiterivertrout@gmail.com,Michael,Leach,14884 Dutchmans Dr,,Rogers,AR,72756,usa,whiterivertrout@gmail.com,Michael,Leach,9039 N Park Rd,,Rogers,AR,72756,usa,2015-06-16 16:35:26
+rickgizmo@gmail.com,rick,scott,1771 e tulsa st,,Chandler,Az,85225,us,rickgizmo@gmail.com,rickq,scott,PO Box 664,,Maricopa,Az,85139,us,2015-06-17 12:46:05
+Jim@peoplemax.org,Jim,Howard,645 Lost Key Dr. ,#501,Pensacola,Florida ,32507,United States,Jim@peoplemax.org,Jim,Howard,3094 Stapp Dr. ,,Eugene ,Oregon,97408,United States,2015-06-17 21:56:25
+kmde@mac.com,kevin ,eldredge,1324 Broadway St #9,,San Francisco,CA,94109,USA,kmde@mac.com,kevin ,eldredge,34626 SE Swenson Dr #F102,,Snoqualmie,WA,98065,USA,2015-06-18 03:39:37
+Wheatworth@yahoo.com,Stewart,Anderson,601 Ploughmans Bend Dr,,Franklin,TN,37064,USA,Wheatworth@yahoo.com,Stewart ,Anderson ,549 Ploughmans Bend,,Franklin,TN,37064,USA,2015-06-18 04:58:22
+skeptictanks@aol.com,Dustin,Boone,1226 Cheshire Court,,Concord,California,94521,United States,skeptictanks@aol.com,Dustin,Boone,729 San Bruno Court,,Concord,California,94518,United States,2015-06-18 07:53:34
+Oliver_hendrickson@hotmail.com,Oliver,Hendrickson,26 Hikanui Drive,,Havelock North,Hawke's Bay,4130,New Zealand,Oliver_hendrickson@hotmail.com,Oliver,Hendrickson,6 Spritsail Place,,Porirua,Great Wellington,5024,New Zealand,2015-06-18 08:03:49
+troutmdp1@yahoo.com,matt,pardy,430 purdue street,,orlando,fl,32806,USA,troutmdp1@yahoo.com,matt,pardy,1109 Aruba Drive,,orlando,fl,32806,USA,2015-06-18 10:57:43
+frankrancone@gmail.com,Frank,Rancone,2845 37th Ave S,,Minneapolis,MN,55406,USA,frankrancone@gmail.com,Frank,Rancone,4737 Gaywood Drive,,Minnetonka,MN,55345,USA,2015-06-18 13:04:16
+brianginder@yahoo.com,Brian,Ginder ,1122 I Street ,2,Anchorage,AK,99501,USA,brianginder@yahoo.com,Brian,Ginder,2102 Roosevelt Drive,,Anchorage,AK,99517,USA,2015-06-18 17:00:06
+windrider1111@charter.net,Duaine,Styles,2913 Saint Maria Dr,,Mansfield,TX,76073,USA,duaine.styles@pobox.com,Duaine,Styles,204 Meadow View Dr,,McKinney,TX,75071,USA,2015-06-19 00:23:13
+dperry90@vt.edu,Derek,Perry,508 Chapel Lake Drive,301,Virginia Beach,Virginia,23454,United States,dperry90@vt.edu,Derek,Perry,4929 Citrine Avenue,302,Virginia Beach,Virginia,23462,United States,2015-06-19 18:56:10
+kylemessier@yahoo.com,Kyle ,Meessier,1247 NW 2nd Terr,,Crystal River,FL,34428,USA,kylemessier@yahoo.com,Kyle ,Messier,1531 NW 20th Ave,,Crystal River ,FL,34428,USA,2015-06-21 11:32:29
+farrow.mj@gmail.com,Mark,Farrow,14576 San Pietro Dr.,,Houston,TX,77070-2150,USA,farrow.mj@gmail.com,Mark,Farrow,533 E. Fishing Creek Ln.,,Eagle,ID,83616,USA,2015-06-21 15:54:08
+joshua.j.kain@me.com,Joshua,Kain,1607 Fairview Street,,Houston,Texas,77006,USA,joshua.j.kain@me.com,Joshua,Kain,4509 Linwood Drive,,Birmingham,AL,35222,USA,2015-06-22 12:27:05
+rockcreekchick@hotmail.com,Adam,Pitt,1421 S Johnson St,,Missoula,MT,59801,USA,rockcreekchick@hotmail.com,Adam,Pitt,8225 Lazy H Trl,,Missoula,MT,59808,USA,2015-06-22 19:19:36
+weidenb@me.com,Brian,Weiden,927 Franklin Ave,,Grand Haven,MI,49417,US,weidenb@me.com,Brian,Weiden,15108 Briarwood Dr,,Grand Haven,MI,49417,US,2015-06-23 00:36:27
+devrieskeeler@gmail.com,Jake,Keeler,844 Hall Ave.,,St. Paul,MN,55107,United States,devrieskeeler@gmail.com,Jake,Keeler,2104 Vienna Ln.,,Eagan,MN,55122,United States,2015-06-23 15:21:49
+sam.swenson1@gmail.com,Sam,Swenson,3633B Wallingford Ave N,,Seattle,WA,98103,United States,sam.swenson1@gmail.com,Sam,Swenson,6539 21st Ave SW,,Seattle,WA,98106,United States,2015-06-24 01:14:02
+waverider12@mac.com,Rich,Hoffman,6901 Stagecoach Rd,B,Dublin,CA,94568,USA,waverider12@mac.com,Rich,Hoffman,5053 Crail Way,,El Dorado Hills,CA,95762,USA,2015-06-24 20:18:43
+ericroberts@verizon.net,Eric,Roberts,205 E 78th St,#4H,New York,NY,10075,USA,ericroberts@verizon.net,Eric,Roberts,205 E 78th St,#18 D,New York,NY,10075,USA,2015-06-25 10:58:15
+Ditch216@yahoo.com,Brian,Flett,554 outer dr,,Cocoa,Florida ,32926,USA ,Ditch216@yahoo.com,Brian,Flett,5  arapahoe  ,#4,Vernon,New jersey,07462,USA ,2015-06-27 11:46:44
+ian.j.llewellyn@gmail.com,Ian,Llewellyn ,43 Avery Drive,,Atlanta,Ga,30309,Usa,ian.j.llewellyn@gmail.com,Ian,Llewellyn ,P.O. Box 138,,Fishkill,NY,12524,Usa,2015-06-28 23:20:46
+matthew.dennis.hill@gmail.com,Matthew,Hill,124 Constitution St. ,Unit 7,Wallingford,Connecticut,06492,USA,matthew.dennis.hill@gmail.com,Matthew,Hill,15 Marie Ln,,Wallingford,CT,06492,United States,2015-06-29 15:01:50
+wmoranvt@gmail.com,Will ,Moran,144 South Jufferson Rd,109,South Burlington,Vermont,05403,USA,wmoranvt@gmail.com,Will,Moran,3588 Ryan Drive,,Dexter,Michigan,48130,USA,2015-06-30 01:11:23
+cdinsdale@mac.com,Craig,Dinsdale,33642 tidewater dr,,Dana Point,California,92629,United States,cdinsdale@mac.com,Craig ,Dinsdale,3786 N 2800 w ,,Farr west ,Utah ,84404,United States,2015-06-30 15:40:09
+fjamd4@yahoo.com,Francois,Archambault,603 Poundbury Ct,,Greenville,NC,27858,USA,fjamd4@yahoo.com,Francois,Archambault,304 Vanderbilt Road,,Asheville,NC,28803,USA,2015-06-30 17:05:01
+chris.hurst@comcast.net,Chris,Hurst,15506 S River Rd,,Plainfield ,Illinois,60544,USA,chris.hurst@comcast.net,Chris,Hurst,14903 S Bartlett Ave,,Plainfield,Illinois,60544,USA,2015-06-30 18:26:47
+browfam33@gmail.com,Larry,Brown,PO box 2158,,Mikana,Wisconsin,54857,USA,browfam33@gmail.com,Larry,Brown,2734 10th Street,,Barronette,WI,54813,USA,2015-07-01 15:36:48
+mcross10@gmail.com,Matthew,Cross,4670 Sprucewood Dr.,,Macon,GA,31210,USA,mcross10@gmail.com,Matthew,Cross,243 Albermarle Pl,,Macon,GA,31204,USA,2015-07-02 19:34:35
+jpeake43@vt.edu,John,Peake,3047 Bancroft Drive,,Ronoke,VA,24014,United States,jpeake43@vt.edu,John,Peake,2615 McDowell Street,,Augusta,Georgia,30904,United States,2015-07-03 20:19:02
+patrickgleeson4@gmail.com,Pat,Gleeson,370 Country Club Dr,,Whittier,NC,28789,USA,patrickgleeson4@gmail.com,Pat,Gleeson,PO Box 2165,,Highlands,NC,28741,USA,2015-07-05 12:26:32
+scottswarner@gmail.com,Scott,Warner,1448 Robert E Lee Lane,,Steamboat Springs,CO,80487,USA,scottswarner@gmail.com,Scott,Warner,PO Box 881032,,Steamboat Springs,CO,80488,USA,2015-07-05 20:33:36
+ryanclynch@gmail.com,Ryan,Lynch,35 Glen Ave,,Norwalk,CT,06850,United States,,Ryan,Lynch,79 Highland Ave,A,Norwalk,CT,06853,,2015-07-06 18:19:26
+Thursthouse@gmail.com,Thomas,Hursthouse,22 Alana Drive,,Hawthorne ,New Jersey,07506,USA,Thursthouse@gmail.com,Thomas,Hursthouse,14 Webb Place,,Mansfield,Massachusetts,02048,USA,2015-07-07 14:23:44
+shawnrsomers@gmail.com,Shawn,Somers,120 York St,914,Jersey City,NJ,07302,USA,shawnrsomers@gmail.com,Shawn,Somers,301 E 73rd St,PH-B,New York,NY,10021,USA,2015-07-08 12:50:21
+seidenbe@gmail.com,John,Seidenberger,PO Box 558,,Vinita,OK,74301,USA,seidenbe@gmail.com,John,Seidenberger,901 W. South,,Vinita,OK,74301,USA,2015-07-08 13:35:51
+Jaclyndenise33@yaho.com,Aaron,Pearsall,38752 Byriver St,,Clinton Township,MI,48036,USA,Jaclyndenise33@yahoo.com,Aaron,Pearsall,211 Deakin Circle,,Monterey,CA,93940,USA,2015-07-08 16:09:44
+revans@consultmchugh.com,Ronald,Evans,818 Spring Creek Rd,,Bellefonte,PA,16823,United States,revans@consultmchugh.com,Ronald,Evans,911 Bear Creek Trail,,Victor,Montana,59875,United States,2015-07-08 23:23:43
+cchines@live.com,Chris,Hines,2035 Rodeo Way,,Grand Junction,Colorado,81507,USA,cchines@live.com,Chris,Hines,403 1/2 Rockwood Ln,,Grand Junction,Colorado,81507,USA,2015-07-09 12:17:36
+greystone818@gmail.com,Ron,Evans,818 Spring Creek Rd,,Bellefonte,PA,16823,United States,revans@consultmchugh.com,Ronald,Evans,911 Bear Creek Trail,,Victor,Montana,59875,United States,2015-07-11 23:30:09
+mikeymays@hotmail.com,Mike,Mays,P.O. box 307,,Price,Ut,84501,USA,mikeymays@hotmail.com,Mike,Mays,1452 eastridge rd,D,Price,Ut,84501,USA,2015-07-12 16:30:13
+tmeyer1@gmail.com,Travis,Meyer,103 E. Summersweet Ln.,,Santa Rosa Beach,FLORIDA,32459,United States,tmeyer1@gmail.com,Travis,Meyer,696 Ricker Ave,,Santa Rosa Beach,FLORIDA,32459,United States,2015-07-12 23:20:34
+zachary.whitener@gmail.com,Zachary,Whitener,11 South St.,Apt 2,Portland,Maine,04101,USA,zachary.whitener@gmail.com,Zachary,Whitener,27 Willow St.,,South Portland,Maine,04106,USA,2015-07-13 20:58:46
+Richard.weiland@bp.com,Richard,Weiland,BP Expat - Angola, P.O. Box 4381,,Houston,Texas,77210,USA,Richard.weiland@comcast.net,Richard,Weiland,5914 Mesa Brook Lane,,Houston,Texas,77041,USA,2015-07-14 14:55:54
+jeffsinigaglia@comcast.net,Jeff,Sinigaglia,14689 SE Island Woods Ct,,Clackamas,OR,97015,USA,jeffsinigaglia@comcast.net,Jeff,Sinigaglia,4230 SE 33rd Street,,Gresham,OR,97080,USA,2015-07-15 15:47:22
+bluefish64@comcast.net,Peter,Hill,79 Federal St.,,Newburyport,MA,01950,USA,bluefish64@comcast.net,Peter,Hill,136 Crane Neck St.,,West Newbury,MA,01985,USA,2015-07-16 12:41:31
+michael.r.scott31@gmail.com,Michael,Scott,2131 6th Ave,,Rapid City,SD,57702,United States,michael.r.scott31@gmail.com,Michael,Scott,2407 E Blue Diamond Dr,,Tucson,AZ,85718,United States,2015-07-19 21:43:09
+zothommog88@gmail.com,jarod,sciegel,501 ocean trace arch,102,virginia beach ,va,23451,usa,zothommog88@gmail.com,jarod ,sciegel,913 east piney branch ln,201,virginia beach,va,23451,usa,2015-07-20 13:58:14
+grant@7weight.com,Robert,Summerlin,417 Merry Place,,Pike Road,AL,36064,United States,grant@7weight.com,Robert,Summerlin,7956 Vaughn Road #311,,Montgomery,AL,36116,United States,2015-07-20 17:06:28
+grant@7weight.com,Robert,Summerlin,417 Merry Place,,Pike Road,AL,36064,United States,grant@7weight.com,Robert,Summerlin,7956 Vaughn Road #311,,Montgomery,AL,36116,United States,2015-07-20 17:16:00
+grant@7weight.com,Robert,Summerlin,417 Merry Place,,Pike Road,AL,36064,United States,grant@7weight.com,Robert,Summerlin,7956 Vaughn Road #311,,Montgomery,AL,36116,United States,2015-07-20 17:16:52
+grant@7weight.com,Robert,Summerlin,417 Merry Place,,Pike Road,AL,36064,United States,grant@7weight.com,Robert,Summerlin,417 Merry Place,,Pike Road,AL,36064,United States,2015-07-20 17:17:43
+grant@7weight.com,Robert,Summerlin,417 Merry Place,,Pike Road,AL,36064,United States,grant@7weight.com,Robert,Summerlin,417 Merry Place,,Pike Road,AL,36064,United States,2015-07-20 17:30:23
+grant@7weight.com,Robert,Summerlin,7956 Vaughn Road #311,,Montgomery,AL,36116,United States,grant@7weight.com,Robert,Summerlin,7956 Vaughn Road #311,,Montgomery,AL,36116,United States,2015-07-20 17:37:30
+grant@7weight.com,Robert,Summerlin,7956 Vaughn Road #311,,Montgomery,AL,36116,United States,grant@7weight.com,Robert,Summerlin,7956 Vaughn Road #311,,Montgomery,AL,36116,United States,2015-07-20 17:38:34
+grant@7weight.com,Robert,Summerlin,7956 Vaughn Road #311,,Montgomery,AL,36116,United States,grant@7weight.com,Robert,Summerlin,7956 Vaughn Road #311,,Montgomery,AL,36116,United States,2015-07-20 17:39:55
+walter.dixon@gmail.com,Jake,Dixon,6057 45th Ave NE,,Seattle,WA,98115,USA,walter.dixon@gmail.com,Jake ,Dixon,7610 N Audubon St,,Spokane,WA,99208,United States,2015-07-21 14:28:28
+docpat47@gmail.com,Patrick ,Parten,255 Old Edgemoor Lane,,Powell,TN,37849,United States,,Patrick,Parten,20214 Harbour Vista Circle,,St. Augustine,FL,32080,United States,2015-07-23 00:51:42
+wood.dja@gmail.com,David,Wood,3927 Yates St.,,Denver,CO,80212,USA,wood.dja@gmail.com,David,Wood,2600 Terrace Dr.,,Billings,MT,59102,USA,2015-07-24 02:11:31
+kkowdvm@gmail.com,Kelvin,Kow,2619 NW 63rd St,,Gainesville,Fl,32606,United States,kkowdvm@gmail.com,Kelvin,Kow,92 Addison Road,,Guildford,Surrey,GU1 3QF,United Kingdom,2015-07-25 16:55:38
+pschut@brookfieldhomes.ca,Pete,Schut,65 Spruce Street,,Aurora,Ontario,L4G 1R9,Canada,pschut@brookfieldhomes.ca,Pete,Schut,934037 Airport Road,,Mono,Ontario,L9W 2V8,Canada,2015-07-27 18:58:31
+Jfgehl@aol.com,James,Gehl,3349 Park Meadow Dr.,,Lake Orion,MI,48362,USA,Jfgehl@aol.com,James,Gehl,11343 Broadview Dr.,,Moorpark,CA,93021,USA,2015-07-28 22:43:52
+hall.brandonb@gmail.com,Brandon,Hall,2246 Mt. View Road,,Manchester,Tennessee,37355,USA,hall.brandonb@gmail.com,Brandon,Hall,965 Haley Road,,Wartrace,Tennessee,37183,USA,2015-07-29 18:54:51
+embradley27@yahoo.com,Eric ,Bradley,1238 Scheffer Ave.,,Saint Paul,MN ,55116,USA,embradley27@yahoo.com,Eric ,Bradley,19 Baker St.,,Bristol,RI ,02809,USA,2015-07-31 01:28:57
+josrut@austin.rr.com,Joseph,Rutledge,1506 Patterson Road,,Austin,Texas,78733,USA,josmrutledge@gmail.com,Joseph,Rutledge,6905 Flamingsworth Hollow,,Austin,Texas,78750-8215,USA,2015-08-02 12:59:40
+paulstanford216@gmail.com,Paul,Stanford,1 Diack Pl Rear 1R,,Troy,New York,12182,United States,paulstanford216@gmail.com,Paul,Stanford,49 Quebec St,Apt 3,Portland,Maine [ME],04101,United States,2015-08-03 14:04:27
+kerryiselin@gmail.com,kerry,iselin,2452 glenarm place,,denver,CO,80205,United States,kerryiselin@gmail.com,kerry,iselin,4136 King st,,denver,CO,80211,United States,2015-08-04 21:20:18
+k.j.b.bullard@gmail.com,Ken,Bullard ,1865 Pacheco Blvd.,,Martinez,CA,94553,USA,k.j.b.bullard@gmail.com,Ken,Bullard ,2114 Wynkoop Drive ,,Colorado Springs,CO,80909,USA,2015-08-07 21:22:18
+csprevo1970@gmail.com,Christopher,Prevo,61 Park Ave.,,Eastchester,NY,10709,USA,csprevo1970@gmail.com,Christopher,Prevo,142 Garth Rd.,,Scarsdale,NY,10583,USA,2015-08-11 18:41:13
+miked63@gmail.com,Mike,Diakiwsky,3301 Commonwealth Ave.,Unit B,Alexandria,VA,22305,USA,miked63@gmail.com,Mike,Diakiwsky,8224 Clifton Farm Ct,,Alexandria,VA,22306,USA,2015-08-12 13:19:04
+joe.fherrin@gmail.com,Joseph,Herrin,506 Tanglewood PL,,West Plains,MO,65775,USA,joe.fherrin@gmail.com,Joseph,Herrin,4323 W La Casa ST,,Springfield,MO,65802,USA,2015-08-15 00:13:02
+michael.m.brunson@gmail.com,Michael,Brunson,187 Rochester Street,,Westbrook,Maine,04092,United States,michael.m.brunson@gmail.com,Michael,Brunson,PO Box 3503,,Flagstaff,Arizona,86003,United States,2015-08-17 21:30:21
+anthony.j.vescovi@gmail.com,Anthony,Vescovi,301 1/2 Lincoln Street,,Denver,Colorado (CO),80203,USA,anthony.j.vescovi@gmail.com,Anthony,Vescovi,3066 W. 36th Ave,,Denver,CO,80203,USA,2015-08-19 16:58:16
+daves.richardson@gmail.com,David,Richardson,2303 W 46th Ave,,Denver,Colorado,80211,United States,daves.richardson@gmail.com,David,Richardson,10802 Colony Wood Pl,,The Woodlands,Texas,77380,United States,2015-08-21 16:30:28
+ppijacki@gmail.com,Paul,Pijacki,1407 N River Rock Drive,,Belgrade ,Montana,59714,USA,ppijacki@gmail.com,Paul,Pijacki,240 Temple Street,403,Fredonia,New York,14063,USA,2015-08-21 19:09:48
+Michael.r.scott31@gmail.com,Michael,Scott,2407 E Blue Diamond Dr,,Tucson,AZ,85718,USA,Michael.r.scott31@gmail.com,Michael,Scott,10388 E Isadore Schifano Ln,,Tucson,AZ,85747,USA,2015-08-22 04:40:09
+dutchcaddis@gmail.com,Robert,Landman,5 Sterling St,Suite 306,Kingston,NY,12401,USA,dutchcaddis@gmail.com,Robert,Landman,260 Stevers Crossing Road,,Hudson,NY,12534,USA,2015-08-23 15:31:27
+mwoneal@gmail.com,Mark,O'Neal,532 Millpond Rd,,Lexington,KY,40514,US,mwoneal@gmail.com,Mark,O'Neal,3690 Alcot Way,,Cumming,GA,30041,US,2015-08-23 17:38:57
+bpugh1@gmail.com,Brad,Pugh,16 Bourne Street,,Boston,MA ,80210,USA,bpugh1@gmail.com,Brad,Pugh,2523 N. Franklin Ave.,,Louisville,CO,80027,USA,2015-08-23 21:24:06
+Robert.Braczyk@gmail.com,Robert,Braczyk,2462 Golf Trail Court,,Aurora,IL,60506,USA,Robert.Braczyk@gmail.com,Robert,Braczyk,110 E Prospect Street,,Waldwick,NJ,07463,USA,2015-08-23 22:02:57
+ross@halboutyenergy.com,Ross,Kennedy,1201 McDuffie # 108,,Houston,Texas,77019,United States,ross@halboutyenergy.com,Ross,Kennedy,10220 Memorial Drive #150,,Houston,TX-Texas,77024,United States,2015-08-23 22:17:14
+rickcingram@yahoo.com,Richard,Ingram,1104 Autumn Ridge Drive,,Lexington,KY,40509,USA,rickcingram@yahoo.com,Richard,Ingram,1129 Chetford Drive,,Lexington,KY,40509,USA,2015-08-24 20:48:42
+grant@7weight.com,Robert,Summerlin,417 Merry Place,,Pike Road,AL,36064,United States,grant@7weight.com,Robert,Summerlin,417 Merry Place,,Pike Road,AL,36064,United States,2015-08-26 19:52:03
+grant@7weight.com,Robert,Summerlin,7956 Vaughn Road #311,,Montgomery,AL,36116,United States,grant@7weight.com,Robert,Summerlin,7956 Vaughn Road #311,,Montgomery,AL,36116,United States,2015-08-26 19:55:27
+grant@7weight.com,Robert,Summerlin,7956 Vaughn Road #311,,Montgomery,AL,36116,United States,grant@7weight.com,Robert,Summerlin,7956 Vaughn Road #311,,Montgomery,AL,36116,United States,2015-08-27 15:34:25
+kellycdow@hotmail.com,Kelly,Dow,1900 Wind Ranch Rd. Unit C,,Reno,NV,89521,USA,kellycdow@hotmail.com,Kelly,Dow,2110 Blue Oaks Dr.,,Reno,NV,89521,USA,2015-08-27 22:46:35
+mick.miller777@gmail.com,Mick,Miller,2031 E Connemara Dr,,San Tan Valley,Arizona,85140,United States,mick.miller777@gmail.com,Mick,Miller,518 S Cleveland St.,,Boise,ID,83705,United States,2015-08-30 15:25:42
+caitmuir89@gmail.com,Scott ,Ballinger ,1655 N Park Drive,,Cody,Wyoming,82414,United States,caitmuir89@gmail.com,Scott,Ballinger ,2930 Marlisa Lane,,Cody,Wyoming,82414,United States,2015-09-01 01:58:15
+derbyshc@hotmail.com,Cameron,Derbyshire,116 Park Village Loop,,Florence,OR,97439,USA,derbyshc@hotmail.com,Cameron ,Derbyshire,1441 Bar M Drive,,Eugene,OR,97401,USA,2015-09-02 02:24:06
+weatherlys@mac.com,David,Weatherly,119 Marsh Trace Dr,,Brunswick,GA,31525,USA,weatherlys@mac.com,David ,Weatherly,5352 Sequoia Farms Rd,,Centreville,VA,20120,USA,2015-09-02 16:13:52
+mattdaniel26@gmail.com,Matthew,Daniel,6207 Anna Park Drive,102,Midlothian,VA,23112,United States,mattdaniel26@gmail.com,Matthew,Daniel,8519 Hampton Crest Circle,,Chesterfield,VA,23832,United States,2015-09-02 16:39:25
+Revans@consultmchugh.com,Ron,Evans,911 Bear Creek Trail,,Victor,MT,59875,USA,greystone818@gmail.com,Ron,Evans,818 Spring Creek Rd,,Bellefonte,PA,16823,USA,2015-09-03 15:16:59
+Mark.bunker@hotmail.com,Mark,Bunker,3334 n mountain rd,,Ogden,Utan,84414,US,Mark.bunker@hotmail.com,Mark,Bunker,71 Hughes street,,Collingwood,Ontario,L9Y 0W7,Canada,2015-09-04 12:27:31
+Mabrandenburg@gmail.com,Mark,Brandenburg,629 ideal way,,Charlotte,Nc,28203,USA,Mabrandenburg@gmail.com,Mark,Cummings,12222 journey's end trail,,Huntersville,Nc,28078,Usa,2015-09-04 23:50:52
+Reelmn67@gmail.com,Jeffrey,Schroeder,25711 Clyde Rock,,Boerne,TX,78006,United States,Reelmn67@gmail.com,Jeffrey,Schroeder,30019 Cibolo Trace,,Fair Oaks Ranch,TX,78015,United States,2015-09-09 03:43:13
+philipcrosby@hotmail.com,Philip,Crosby,648 Seneca Place,,Charlotte,NC,28210,United States,philipcrosby@hotmail.com,Philip,Crosby,905 Kings Mill Rd,,Chapel Hill,NC,27517,United States,2015-09-09 18:17:11
+adam.raleigh@latinmarkets.org,Adam,Raleigh,9 West 31st Street,apt PH2C,New York,New  York ,10001,USA,adam.raleigh@marketsgroup.org,Adam ,Raleigh,27 East 95th Street,apt 3W,New York,New York,10128,USA,2015-09-10 14:30:51
+prestonchase11@gmail.com,Preston,Chase,501 W Peach St,,Bozeman,MT,59715,USA,prestonchase11@gmail.com,Preston,Chase,111 Gravel Hollow Dr,,Bozeman,MT,59718,USA,2015-09-10 21:24:51
+Ethan.Scott@western.edu,Ethan ,Scott,108 North Taylor Street,,Gunnison,Colorado,81230,United States,Ethan.Scott@western.edu,Ethan ,Scott,112 Kensington Lane,,Swampscott,Massachusetts,01907,United States,2015-09-11 16:57:22
+henryceol@yahoo.com,Jeremy,Henry,1517 Clauverwie Road,,Middleburgh,New York,12122,U.S.A.,henryceol@yahoo.com,Jeremy,Henry,P.O. Box 263,,Middleburgh,New York,12122,U.S.A.,2015-09-11 22:22:40
+riorio88@comcast.net,Robert,Iorio,8 Chester Main Rd,,North Stonington,CT,06359,usa,riorio88@comcast.net,Robert,Iorio,68 Ox Bow Crossing,,Weaverville,NC,28787,USA,2015-09-15 16:20:57
+Josh@themackenzieco.com,Josh,MacKenzie,210 Nelson Ferry Rd,,Decatur,GA,30030,USA,Josh@themackenzieco.com,Josh,MacKenzie,489 Westover Dr NW,,Atlanta,GA,30305,USA,2015-09-15 20:49:29
+stewart.gerald@mail.com,gerald,stewart,8062 Greenfield Shores Dr,,Scotts,MI,49088,USA,stewart.gerald@gmail.com,gerald,stewart,244 Pretty Lake Hts,,Kalamazoo,MI,49009,USA,2015-09-16 20:13:34
+derekthach@aol.com,derek,thach,13305 NE 171st ST,Apt C 321,Woodinville,WA,98072,united states,derekthach@aol.com,derek,thach,2367 Minor AVE E,,Seattle,WA,98102,united states,2015-09-17 03:06:07
+Kylehartley1@gmail.com,Kyle,Hartley,613 hickory ridge,,Bayfield ,co,81122,USA ,Kylehartley1@gmail.com,Kyle,Hartley,2025 27th st ,,Monroe ,WI,53566,USA ,2015-09-19 16:13:56
+bandtc@ufl.edu,Carsten,Bandt,16405 SW 15th Ave,,Newberry,Florida,32669,USA,bandtc@ufl.edu,Carsten,Bandt,3153 Trevors Ave,,Vancouver,BC,V7V1G4,Canada,2015-09-19 18:00:04
+robert.waring@lpl.com,Robert,Waring,220 W Wistaria Ave,,Arcadia,CA,91007,USA,robert.waring@lpl.com,Robert,Waring,303 E Gurley St,#453,Prescott,AZ,86301,USA,2015-09-21 03:49:14
+josefminton@gmail.com,Joe,Minton,2040 W Dickens Ave,,Chicago,IL,60647,United States,josefminton@gmail.com,Joe,Minton,3726 N Claremont Ave,,Chicago,IL,60618,United States,2015-09-21 15:07:13
+krisolson@gmail.com,Kris,Olson,1213 4th ave,,Salt Lake City,UT,84103,United States,krisolson@gmail.com,Kris,Olson,751 E Harrison Ave,,Salt Lake City,UT,84105,United States,2015-09-22 22:50:18
+jasonmarks74@gmail.com,Jason,Marks,PO Box 2343,,Frisco,CO,80443,USA,jasonmarks74@gmail.com,Jason ,Marks,2470 Raleigh St. ,,Denver,CO,80212,USA,2015-09-23 02:04:18
+mcdbrendan@gmail.com,Brendan,McDonald,1540 Grove St,Apt 3,Boulder,Colorado,80302,United States,mcdbrendan@gmail.com,Brendan,McDonald,1350 Yarmouth Ave,Apt 203,Boulder,Colorado,80304,United States,2015-09-23 18:25:14
+arcamedies1200@gmail.com,John,Sellars,9405 E 65TH Street,3604,Tulsa,Oklahoma,74133,USA,arcamedies1200@gmail.com,John,Sellars,2721 S 140TH E AVE,,Tulsa,Oklahoma,74134,USA,2015-09-24 04:18:13
+kristie.malik@gmail.com,Kristie & Ryan,Malik,169 16th St 3G,,Brooklyn,NY,11215,US,kristie.malik@gmail.com,Kristie & Ryan,Malik,169 16th St 3C,,Brooklyn,NY,11215,US,2015-09-24 14:12:27
+kristie.etson@gmail.com,Ryan,Malik,169 16th St,3G,Brooklyn,NY,11215,US,kristie.malik@gmail.com,Ryan,Malik,169 16th St,3C,Brooklyn,NY,11215,US,2015-09-24 14:15:28
+joe.c.gillespie@gmail.com,Joe,Gillespie,4918 Alba Rd,,Houston,Texas,77018,United States,joe.c.gillespie@gmail.com,Joe,Gillespie,1710 Hewitt Drive,,Houston,Texas,77018,United States,2015-09-25 12:52:25
+awurban@msn.com,adam ,wurban ,#10-5601 Rocky Point Road,,metchosin,British Columbia,v9c 4h3,Canada,awurban@msn.com,adam,wurban,3354 Poplar Road,,Smithers ,British Columbia,V0J 2N6,Canada ,2015-09-27 04:46:04
+dave@merriman.com,David,Spratt,1604 Stone Creek Circle SW,,North Bend,Washington,98045,United States,dave@merriman.com,David,Spratt,2848 278th AVE SE,,Sammamish,WA,98075,United States,2015-09-28 16:29:26
+augiesmith@gmail.com,Augie,Smith,33 Monroe Place,Apartment 3F,Brooklyn,Ne,11201,United States,augiesmith@gmail.com,Augie,Smith,155 Henry Street,Apartment #PHC,Brooklyn,NY,11201,United States,2015-09-29 14:19:30
+toddbramwell@gmail.com,Andrew,Bramwell,2018 Stoneyridge Dr,,Raleigh,NC,27614,USA,toddbramwell@gmail.com,Andrew,Bramwell,6641 SW Seymour St,,Portland,OR,97221,USA,2015-09-29 15:35:18
+spodonnell8@gmail.com,Sean,O'Donnell,3209 Foxchase Court,,Lexington,Kentucky,40515,USA,spodonnell8@gmail.com,Sean,O'Donnell,12232 Parkstream Terrace,,Herndon,Virginia,20170,USA,2015-09-30 21:19:38
+williams.randallm@gmail.com,Randall,Williams,933 Cherry Street,,Missoula,Montana,59802,United States,williams.randallm@gmail.com,Randall,Williams,2727 S Tekoa Street,,Spokane,Washington,99203,United States,2015-10-01 18:12:56
+drojas11@gmail.com,Diego,Rojas,3464 Bromley Dr. SE,,Grand Rapids,MI,49508,USA,drojas11@gmail.com,Diego ,Rojas,2645 Hall St. SE,,Grand Rapids,MI,49506,USA,2015-10-01 18:13:04
+arrscott@gmail.com,Robert,Rogers,2315 Potomac Club Pkwy,,Woodbridge,Virginia,22191,United States,arrscott@gmail.com,Robert,Rogers,7313 Secret Bluff Dr,,Madison,Wisconsin,53719,United States,2015-10-01 18:16:43
+jbishop22080@gmail.com,James,Bishop,6630 N Spurwing Loop ,305,Coeur d'Alene,ID ,83815,USA,jbishop22080@gmail.com,James ,Bishop,115 S 4th Avenue,,Sandpoint,ID,83864,USA,2015-10-01 18:30:05
+therandwulfcompany@gmail.com,Randy,Moore,38 West End Avenue,,New Britain,CT,06058,USA,Randy@rmooreandsons.com,Randy ,MOore,10042 Uphill Lane,,Dardanelle,Arkansas,72834,USA,2015-10-02 00:00:33
+tgoodmanii@gmail.com,Timothy,Goodman,5 Highland Ct,,Stillman Valley,IL,61084,US,tgoodmanii@gmail.com,Timothy,Goodman,5054 E Nordic Woods Drive,,Byron,IL,61010,US,2015-10-02 02:04:13
+mcnaydl@gmail.com,Doug,McNay,132 Benedict Lane,,Raleigh,NC,27614,USA,mcnaydl@gmail.com,Doug,McNay,127 Francis Marion Dr.,,Wilmington ,NC,28411,USA,2015-10-02 14:39:15
+kristoferwilks@hotmail.com,Kristofer,Wilks,87 Mandria,,Newport Coast,CA,92657,United States,kristoferwilks@hotmail.com,Kristofer,Wilks,4940 Campus,Ste. D,Newport Beach,CA,92660,United States,2015-10-03 03:47:32
+jfox@ecentral.com,jack,fox,4501 E Ellsworth Ave,,Denver,CO,80246,USA,jfox@ecentral.com,Jack,Fox,70 S. Birch,,Denver,CO,80246,USA,2015-10-03 13:34:42
+Jkbannon@gmail.com,John,Bannon,3027 n seminary ave,#3,Chicago,Il,60657,USA ,Jkbannon@gmail.com,John,Bannon,1421 W Balmoral,#2,Chicago,IL,60640,60640,2015-10-04 22:20:18
+arcamedies1200@gmail.com,John,Sellars,2721 140TH E AVE,,Tulsa,OK,74134,USA,arcamedies1200@gmail.com,John,Sellars,1501 W Inglewood St.,,Broken Arrow,OK,74011,USA,2015-10-05 06:07:11
+sethtfarmer@hotmail.com,Seth,Farmer,316a Old Marlboro Rd,,Dublin,New Hampshire,03444,United States,sethtfarmer@hotmail.com,Seth,Farmer,P.O. Box 355,,Harrisville,New Hampshire,03450,United States,2015-10-05 17:23:56
+tracy@nativefishsociety.org,Native Fish Society,NFS,221 Molalla Ave.,Suite 100,Oregon City,Oregon,97045,USA,tracy@nativefishsociety.org,Native Fish Society,NFS,813 7th Street,Suite 200A,Oregon City,Oregon,97045,USA,2015-10-06 17:47:01
+erickuns@msn.com,Eric,Kuns,385 Brookwood Dr,,Athens,GA,30605,USA,erickuns@msn.com,Eric,Kuns,152 Bolt Hill Rd,,Eliot,ME,03903,USA,2015-10-06 18:01:52
+mick.miller777@gmail.com,Mick,Miller,2031 E Connemara Dr,,San Tan Valley,Arizona,85140,United States,mick.miller777@gmail.com,MICK,MiLLER,518 S Cleveland St,,Boise,Idaho,83705,United States,2015-10-07 15:08:56
+mwreish@yahoo.com,Matthew,reish,279 Springhouse Dr.,,Lewisburg,PA,17837,USA,mwreish@yahoo.com,Matthew,Reish,2636 Furnace Rd.,,Lewisburg,PA,17837,USA,2015-10-07 17:14:28
+derekthach@gmail.com,derek,thach,13305 NE 171st ST Apt C321,,Woodinville,WA Washington,98072,United States,derekthach@gmail.com,derek,thach,2367 minor ave e,,seattle,wa,98102,United States,2015-10-07 17:43:40
+mtgriffin@tcco.com,Mark,Griffin,9000 Treesdale Lane,,Raleigh,NC,27617-7424,United States,mtgriffin7@gmail.com,Mark,Griffin,389 Castle Pines Dr S,,Castle Rock,CO,80108,United States,2015-10-09 03:43:58
+flyfisherjill@gmail.com,Donald,Perkins,85 W Corinth Rd,,Corinth,Maine,04427,USA,flyfisherjill@gmail.com,Donald,Perkins,308 Orlando Blvd,,Port Charlotte,Florida,33954,usa,2015-10-09 18:32:27
+bpugh1@gmail.com,Brad,Pugh,2210 S. Clarkson Street,,Denver,CO ,80210,USA,bpugh1@gmail.com,Brad,Pugh,2523 N Fraklin Ave,,Louisville,CO ,80027,USA,2015-10-11 21:57:45
+Dkarnell@aol.com,Dave,Karnell,10200 Park Meadows Dr.,1418,Lone Tree,Colorado,80124,USA,Dkarnell@aol.com,Dave,Karnell,10721 Mountaingate Ct.,,Littleton,Co,80126,USA,2015-10-12 16:59:59
+rjbatesmd@gmail.com,Robert,Bates,1648 High Pointe Dr,,Zeeland,MI,49464,USA,rjbatesmd@gmail.com,Robert,Bates,3401 83.5 Ave. SE,,Jamestown,ND,58401,USA,2015-10-12 23:00:16
+weidenb@me.com,Brian,Weiden,927 Franklin,,Grand Haven,MI,49417,United States,weidenb@me.com,Brian,Weiden,15108 Briarwood Dr,,Grand Haven,MI,49417,United Staes,2015-10-13 00:26:08
+kylemessier@yahoo.com,Kyle,Messier,2253 N Kings Cove Pt,,Crystal River,FL,34428,USA,kylemessier@yahoo.com,Kyle,Messier,1531 NW 20th Ave,,Crystal River ,FL,34428,USA,2015-10-14 10:54:15
+jwaller1986@gmail.com,john,waller,712 wyndhurst dr,,Lynchburg,VA - Virginia,24502,United States,jwaller1986@gmail.com,john,waller,1921 North Talbott place ,,Waynesboro ,VA - Virginia,22980 ,United States,2015-10-14 10:57:21
+FSKernan@gmail.com,Francis,Kernan,206 Bayview Ave.,3,Cornwal on Hudson,NY,12520,USA,FSKernan@gmail.com,Francis,Kernan,24 Grandview Ave.,3A,Cornwal on Hudson,NY,12520,USA,2015-10-18 12:04:28
+johsualapointe8@gmail.com,Joshua,La Pointe,251 Spuraway Dr.,,San Mateo,CA,94403,US and A,joshualapointe8@gmail.com,Joshua,La Pointe,P.O. Box 3369,,Bowman,CA,95604,United States,2015-10-19 16:21:27
+ecreviston@rfmd.com,Eric,Creviston,3420 Owls Roost Rd,,Greensboro,NC,27410,USA,creviston.eric@gmail.com,Eric,Creviston,5015 Carlson Dairy Rd,,Greensboro,NC,27410,USA,2015-10-20 22:34:17
+weinstein432@gmail.com,paul,weinstein,3 crawford lane,,lakewood,NY,14750,USA,weinstein432@gmail.com,paul,weinstein,2598 Horton rd,,jamestown,ny,14701,USA,2015-10-25 17:42:07
+mpsanjuan@gmail.com,Miguel,San Juan,1914 Ottawa Ln,,Houston,Texas,77043,United States,mpsanjuan@gmail.com,Miguel,San Juan,14322 Carolcrest Dr,,Houston,Texas,77079,United States,2015-10-26 21:41:28
+PJTronquet@aol.com,Peter,Tronquet,233 Mt. Echo St,,Medford,OR,97504,USA,PJTronquet@aol.com,Peter,Tronquet,5730SW Barnacle Ct,,South Beach,OR,97366,USA,2015-10-26 22:14:55
+joe.fherrin@gmail.com,Joseph,Herrin,506 Tanglewood Pl,,West Plains,MO,65775,United States,joe.fherrin@gmail.com,Joseph,Herrin,4323 W La Casa,,Springfield,MO,65802,United States,2015-10-27 13:36:12
+hill.kenneth84@gmail.com,Kenny,Hill,246 Magnolia St,,COSTA MESA ,ca,92627,usa,hill.kenneth84@gmail.com,kenny,Hill,2227 Republic Ave,,Costa Mesa,Ca ,92627,usa,2015-10-29 23:31:21
+josh.holme@gmail.com,Joshua,Holme,5310 Callister Ave,,Sacramento,CA,95819,USA,josh.holme@gmail.com,Joshua,Holme,512 6th Street,,Oregon City,OR,97045,USA,2015-10-30 21:25:52
+mike.bruschi@yahoo.com,Michael,bruschi,1017 sweet spot circle,,morrisville,NC,27560,United States,mike.bruschi@yahoo.com,micheal,bruschi,3324 Cotton Press rd,,Raleigh,NC,27614,United States,2015-11-01 19:54:17
+Navydok@hotmail.com,Shawn,Kern,120 Twilight Bay Dr.,,Panama City Beach,FL,32407,USA ,Navydok@hotmail.com,Shawn,Kern,1300 Augusta road ,1304,Panama City Beach,Florida,32407,Usa,2015-11-03 14:39:57
+jonsamford@hotmail.com,Jonathan,Samford,2409 Menokin Drive,103,Alexandria,VA,22302,USA,jonsamford@hotmail.com,Jonathan,Samford,4000 Duke Street,,Alexandria,VA,22304,USA,2015-11-04 14:32:10
+pescador@bresnan.net,Richard,Ojala,2741 Allison Court,,Bozeman,Montana,59718,usa,rickojala54@gmail.com,Richard,Ojala,2482 Annie Street,,Bozeman,Montana,59718,usa,2015-11-05 23:28:28
+coolconman@yahoo.com,Connor,Seli,8015 N Denver Ave,Apt 12,Portland,Oregon,97217,USA,coolconman@yahoo.com,Connor,Seli,4635 SE Tibbetts Street,,Portland,Oregon,97206,USA,2015-11-06 17:46:58
+jmstclair2000@yahoo.com,Jason,St. Clair,250 S El Molino Ave ,Apt 8,Pasadena,CA,91101,USA,jmstclair2000@yahoo.com,Jason,St. Clair,2252 Washington Ave,#103,Silver Spring,MD,20910,USA,2015-11-07 22:59:59
+brownba2@gmail.com,Bernard,Brown,5112 Birnamwood Trail,,Greensboro,NC,27407,US,brownba2@gmail.com,Bernard,Brown,200 Kellyridge Drive,,Apex,NC,27502,US,2015-11-09 14:37:23
+jeryan4@gmail.com,John ,Ryan,4364 Spruce Street,,Whitehall,PA,18052,USA,jeryan4@gmail.com,John ,Ryan,PO Box 1980,,Frisco,CO,80443,USA,2015-11-09 17:07:38
+pitzerrandy@hotmail.com,randy,pitzer,1310 25th St W,,Williston,ND,58801,USA,pitzerrandy@hotmail.com,randy ,pitzer,1416 Gateway Ct,,Speardish,SD,57783,USA,2015-11-09 21:29:52
+Michaelj_friedrich@yahoo.com,Michael,Friedrich,131 E. Hazel St.,,Genesee,ID,83832,USA,Michaelj_friedrich@yahoo.com,Michael,Friedrich,1609 Alder Ave,,Lewiston,ID,83501,USA,2015-11-10 18:54:49
+lindsayfperret@gmail.com,lindsay,perret,31 County Farm Road,,Dover,NH,03820,United States,lindsayfperret@gmail.com,lindsay,perret,7 Deer Meadow Road,,Durham,NH,03824,United States,2015-11-10 22:43:51
+teichler@roadrunner.com,Tom ,Eichler,6544 East Eden Rd,,Hamburg,NY,14075,US,teichler@roadrunner.com,Tom,Eichler,6741 East Eden Rd,,Hamburg,NY,14075,US,2015-11-10 22:59:25
+jdhowar1@me.com,John ,HOward,12703 Devon LAne,,Carmel ,IN ,46032,USA,jdhowar1@me.com,John,Howard,1587 Rosebank Dr,,Westfield,IN,46074,USA,2015-11-11 15:42:08
+clarkfamilyshopping@gmail.com,Jonathan,Clark,275 S. Cherokeee St,3213,Denver,CO,80223,USA,clarkfamilyshopping@gmail.com,Jonathan,Clark,3 Rockwell Place,,Beacon,NY,12508,USA,2015-11-12 14:49:33
+Joseph_mcfarlane@hotmail.com,Joseph,McFarlane,1125 Summit Steet,,Evanston,Wyoming ,82930,USA ,Joseph_mcfarlane@hotmail.com,Joseph,McFarlane,PO Box 243,,Driggs,Idaho ,83442,USA ,2015-11-12 16:38:57
+krista.breneman@gmail.com,Krista,Breneman,436 Jennings St,,West Lafayette,IN,47906,United States,krista.breneman@gmail.com,Krista ,Breneman,10075 Sedalia St,,Commerce City,CO,80022,United States,2015-11-13 06:26:58
+Kpup22@hotmail.com,Kevin,Kennedy,3470 Beaver Brook Canyon Road,,Evergreen,CO,80439,USA,Kpup22@hotmail.com,Kevin,Kennedy,1153 Bergen Parkway,Ste. i, # 266,Evergreen,CO,80439,USA,2015-11-15 03:16:48
+weatherlys@mac.com,David,Weatherly,119 Marsh trace dr,,Brunswick,Ga,31525,USA,weatherlys@mac.com,David,Weatherly,5352 Sequoia Farms Dr,,Centreville,VA,20120,,2015-11-15 14:51:45
+dthor74@yahoo.com,Doug,Andersen,1349 SE Linn St.,,Portland,Oregon,97202,USA,dthor74@yahoo.com,Doug,Andersen,6906 N. Atlantic Ave,,Portland ,Oregon,97217,USA,2015-11-15 19:29:29
+bburrus@gmail.com,William,Burrus,10508 Woodland,,Greenville,Texas,75402,USA,bburrus@gmail.com,William,Burrus,4091 Tracy Lane,,Greenville,Texas,75402,USA,2015-11-18 01:06:33
+csnotari@gmail.com,craig,notari,135 fuller lane,,winnetka,il,60093,usa,csnotari@gmail.com,craig,notari,705 roger avenue,,kenilworth,il,60043,usa,2015-11-19 02:17:36
+brianshu@comcast.net,Brian,Shumaker,318 Briar Lane,,Chambersburg,PA,17202,USA,brianshu@comcast.net,Brian,Shumaker,409 Pine Grove Road,,Gardners,PA,17324,USA,2015-11-19 18:10:32
+grant@7weight.com,Robert,Summerlin,7956 Vaughn Road #311,,Montgomery,AL,36116,United States,grant@7weight.com,Robert,Summerlin,7956 Vaughn Road #311,,Montgomery,AL,36116,United States,2015-11-19 21:01:45
+bassic@cableone.net,JOHNNY,HARPER,103 chuck sewell dr,,marietta,ok,73448,USA,bassic@cableone.net,JOHNNY,HARPER,311 S HWY 77,SUITE B,MARIETTA,OK,73448,USA,2015-11-20 16:40:54
+mbhiland@att.net,William,Morrison,724 12th Street,#312,Wilmette,I,6,USA,mbhiland@att.net,William,Morrison,310 61st Street,Unit A,Holmes Beach,Florida,34217,USA,2015-11-20 19:13:08
+telern@gmail.com,Christopher ,Provost,7423 South Quail Cir,1528,Littleton,CO,80127,United States,telern@gmail.com,Christopher,Provost,5595 West 112th Place,,Westminster,CO,80020,United States,2015-11-20 23:01:17
+michael.m.brunson@gmail.com,Michael,Brunson,PO Box 3503,,Flagstaff,AZ,86003,United States,michael.m.brunson@gmail.com,Michael,Brunson,187 Rochester Street,,Westbrook,Maine,04092,United States,2015-11-21 21:44:10
+jakibler@gmail.com,JAMES,KIBLER,620 S Potomac St,,Baltimore,MD,21224,United States,jakibler@gmail.com,JAMES,KIBLER,963 Ocean Blvd,,Rye,NH,03870,United States,2015-11-22 13:54:34
+tcammisa@gmail.com,Timothy,Cammisa,211 Draper Avenue,,BUTLER,PA,16001,United States,tcammisa@gmail.com,Timothy,Cammisa,105 Vista Court,,Harmony,PA,16037,United States,2015-11-23 11:01:02
+rosseng@mac.com,David,Engbritson,255 FOXLEY WAY,,ROSWELL,Georgia,30075,United States,rosseng@mac.com,David,Engbritson,500 Willow Creek Lane #302,302,Woodstock,Georgia,30188,United States,2015-11-23 16:24:06
+jenniferfollett@yahoo.com,Jen ,Follett,3702 N Terri LN,,Appleton ,WI,54914,USA,jenniferfollett@yahoo.com,Jen,Follett,3732 N Terri LN,,Appleton ,WI,54914,USA,2015-11-23 20:02:55
+rickgizmo@gmail.com,rick,scott,po box 664,,maricopa,Az,85139,u,rickgizmo@gmail.com,rick,scott,54919 w. pima rd,,Maricopa,Az,85139,u,2015-11-23 20:31:18
+gjselm@gmail.com,Grahm,Selm,14135 Bentley Rd,,Brookville,IN,47012,US,gjselm@gmail.com,Grahm,Selm,401 SW 16th St,,Richmond,IN,47374,US,2015-11-24 13:12:32
+rcs63586@gmail.com,Ryan,Sparks,618 Walker Circle,,Iowa City,IA,52245,USA,rcs63586@gmail.com,Ryan,Sparks,6 loon lane,,Kingston,Ontario,K7K 5E2,Canada ,2015-11-25 16:06:10
+Anders.larson@live.com,Anders,Larson,154 west end cir,104,Verona ,Wi,53593,Usa,Anders.larson@live.com,Anders,Larson,W3291 schaefer rd,,Belleville,Wi,53508,Usa,2015-11-27 03:20:54
+wesmsmith@me.com,Wesley,Smith,116 Houston St,,Lexington,VA,24450,US,wesmsmith@me.com,Wesley,Smith,3406 Dartmouth,,Dallas,Tx,75205,US,2015-11-27 03:56:36
+martylech@gmail.com,Martin,Lecholat,11227 Stella Blue Drive,,Lolo,MT,59847,USA,martylech@gmail.com,Martin ,Lecholat,2125 Queen Street,,Missoula ,MT,59801,USA,2015-11-27 16:48:36
+Dan@dananthon.com,Dan,Anthon,69162 lariat ,,Sisters,Oregon,97759,USA ,Dan@dananthon.com,Dan ,Anthon,PO box 1735,,Sisters,Or,97759,USA ,2015-11-27 21:57:31
+Mwalker1858@gmail.com,Michael,Walker,800 Legion club rd,,Salisbury ,Nc,28146,USA ,Mwalker1858@gmail.com,Michael,Walker,285 Yates rd,,Salisbury,Nc,28146,USA ,2015-11-28 12:49:20
+ltlwoodsprite@gmail.com,Tal,Gregory,816 Nelson Rd,,Keene,NEW HAMPSHIRE,03457,United States,ltlwoodsprite@gmail.com,Tal,Gregory,816 Nelson Rd,,Nelson,NEW HAMPSHIRE,03457,United States,2015-11-28 18:38:58
+petedransfield@gmail.com,Peter,Dransfield,16 EMERSON ST APT 1,,PORTLAND,Maine,04101,United States,petedransfield@gmail.com,Peter,Dransfield,12 Kent RD,,South Portland,ME,04106,USA,2015-11-30 12:40:30
+fishtrem52@hotmail.com,Ben,Sheridan,1460 E Avenida Grande,,Casa Grande,AZ,85122,United States,fishtrem52@hotmail.com,Ben,Sheridan,2095 N Saint Pedro Ave,,Casa Grande,AZ,85122,United States,2015-11-30 18:40:18
+vsaturnino@gmail.com,Vincent,Saturnino,1738 S Marion St.,,Denver,Colorado,80210,USA,vsaturnino@gmail.com,Vincent,Saturnino,3060 S. University Blvd,,Denver,Colorado,80210,USA,2015-12-01 18:02:33
+ryan7moto@yahoo.com,Ryan,Graef,4868 Cheshire ln,,Missoula,MT,59808,USA ,ryan7moto@yahoo.com,Ryan,Graef,610 Cleveland St,,Missoula,MT,59801,Usa,2015-12-02 19:24:42
+shavingsguy@ntin.net,Frank,Rut,P.O. Box 265,,Era,Texas,76238,USA,shavingsguy@ntin.net,Frank,Rust,P.O. Box 760,,Angel Fire,New Mexico,87710,USA,2015-12-02 20:18:12
+grant@7weight.com,Robert,Summerlin,123 test lane,,testville,AL,36064,United States,grant@7weight.com,Robert,Summerlin,417 Merry Place,,Pike Road,AL,36064,United States,2015-12-03 17:28:32
+cpfranklin12@gmail.com,Chase,Franklin,1015 Mountain View Dr,Apt D,Green River,Wyoming,82935,USA,cpfranklin12@gmail.com,Chase,Franklin,180 N 5th West St,,Green River,Wyoming,82935,USA,2015-12-04 19:09:37
+grant@7weight.com,Robert,Summerlin,7956 Vaughn Road #311,,Montgomery,AL,36116,United States,grant@7weight.com,Robert,Summerlin,7956 Vaughn Road #311,,Montgomery,AL,36116,United States,2015-12-05 05:04:26
+grant@7weight.com,Robert,Summerlin,7956 Vaughn Road #311,,Montgomery,AL,36116,United States,grant@7weight.com,Robert,Summerlin,7956 Vaughn Road #311,,Montgomery,AL,36116,United States,2015-12-08 17:56:14
+grant@7weight.com,Robert,Summerlin,417 Merry Place,,Pike Road,AL,36064,United States,grant@7weight.com,Robert,Summerlin,417 Merry Place,,Pike Road,AL,36064,United States,2015-12-08 18:39:54
+trek815@gmail.com,Cory ,Cuevas,9722 272nd PL NW ,4,Stanwood,WA,98292,USA,trek815@gmail.com,Cory ,Cuevas,903 Shantel St,,Mount Vernon,WA,98274,USA,2015-12-09 16:22:52
+lifeofice@gmail.com,Justin ,Ice,1777 Kains Ave.,,San Bruno,California,94066,United States,lifeofice@gmail.com,Justin,Ice,P.O. Box 437,,Arnold,California,95223,United States,2015-12-09 22:51:22
+jasonskoda@yahoo.com,Jason,Skoda,412 Day St,,Decorah,IA,52101,United States,jasonskoda@yahoo.com,Jason,Skoda,PO Box 342,,Viroqua,Wisconsin,54665,United States,2015-12-14 19:06:52
+smeicke@gmail.com,Stephen ,Meicke,2809 SE Washington St,1,Portland,OR,97214,USA,smeicke@gmail.com,Stephen,Meicke,820 Pine Street,,Hood River,OREGON,97031,USA,2015-12-15 16:04:48
+d.holmesdesign@gmail.com,Daniel ,Holmes,214 North Portage Path,201,Akron,Ohio,44303,USA,d.holmesdesign@gmail.com,Daniel,Holmes,202 Twin Oaks Rd.,30,Akron,Ohio,44313,USA,2015-12-16 17:02:14
+rickcingram@yahoo.com,Richard,Ingram,1104 Autumn Ridge Drive,,Lexington,KY,40509,USA,rickcingram@yahoo.com,Richard,Ingram,1129 Chetford Drive,,Lexington,KY,40509,USA,2015-12-18 03:32:08
+hill.kenneth84@gmail.com,kenny,hill,246 magnolia st,,costa mesa ,ca,92627,usa,hill.kenneth84@gmail.com,kenny,hill,2227 Republic Ave,,Costa Mesa,ca,92627,usa,2015-12-19 16:51:49
+tlevandoski@gmail.com,Tom,Levandoski,1251 Milwaukee St.,,Denver,Colorado,80206,United States,,Tom,Levandoski,1000 Race St,,New Orleans,Louisiana,70130,United States,2015-12-21 20:10:57
+bjensen.sd@gmail.com,Ben,Jensen,506 N. Franklin Ave.,Apt. 3,Madison,Wisconsin,53705,United States,bjensen.sd@gmail.comc,Ben,Jensen,313 Glenway St.,,Madison,WISCONSIN,53705,United States,2015-12-22 01:52:50
+petedransfield@gmail.com,Peter,Dransfield,16 EMERSON ST APT 1,,PORTLAND,Maine,04101,United States,petedransfield@gmail.com,Peter,Dransfield,12 Kent RD,,SOUTH PORTLAND,Maine,04106,United States,2015-12-23 23:01:02
+michael.fontz@gmail.com,Michael,Fontz,11 Shore Road Apt 5D,,Somers Point,NJ,08244,USA,michael.fontz@gmail.com,Michael,Fontz,404 S Bozeman St,,Dillon,MT,59725,USA,2015-12-28 21:56:50
+jim@peoplemax.org,James,Howard,PO Box 4091,,Orange Beach,AL,36561,USA,jim@peoplemax.org,James,Howard,661 Mountaingate DR,,Springfield,OR,97478,USA,2015-12-29 01:10:36
+morris4hire@gmail.com,Jamie R,Morris,70 E Green St,,Mifflinburg,PA,17844,USA,morris4hire@gmail.com,Jamie R,Morris,28029 Tiger Barb Way,,Mifflinburg,PA,34135,USA,2015-12-29 19:48:39
+dwschrome66@gmail.com,Dave ,Swan,132 maple st,,Howard ,Pa,16841,Us,dwschrome66@gmail.com,Dave ,Swan,132 n main st.,,Pleasant gap,Pa,16823,Us,2015-12-30 13:21:33
+Michaelj_friedrich@yahoo.com,Michael,Friedrich ,131 E. Hazel St.,,Genesee,ID,83832,United States,Michaelj_friedrich@yahoo.com,Michael,Friedrich,1609 Alder Ave,,Lewiston,ID,83501,United States,2015-12-31 17:06:12
+Sarveyadam@gmail.com,Adam,Sarvey,2012 Rustic Drive,,Casper,WY,82609,USA,Sarveyadam@gmail.com,Adam,Sarvey,3604 Wyandot St.,,Denver,CO,80211,USA,2016-01-01 18:37:24
+martylech@gmail.com,Martin,Lecholat,11227 Stella Blue Drive,,Lolo,MT,59847,United States,martylech@gmail.com,Martin,Lecholat,2125 Queen Street,,Missoula,MT,59801,United States,2016-01-02 16:47:39
+Csdogger123@gmail.com,Craig,Scholnick,829 East Kensington Ave,,Salt Lake City,Utah,84105,USA ,Csdogger123@gmail.com,Craig,Scholnick,1537 South 1500 East,,Salt Lake City,Utah ,84105,USA,2016-01-02 22:24:15
+jhjeff69@mac.com,Jeff,Fraser,PO Box 189,,Teton Village,WY,83025,USA,jeff@tsaina.com,Jeff,Fraser,HC1 Box 84,,Valdez,AK,99686,USA,2016-01-04 21:59:58
+andymaetzold406@gmail.com,andy,maetzold,1312 2nd st east,,whitefish,montana,59937,United States,andymaetzold406@gmail.com,andy,maetzold,127 Brimstone Dr,,whitefish,montana,59937,United States,2016-01-05 17:19:02
+mathew.w.erickson@gmail.com,Mathew,Erickson,814 Placer St,,Butte,MT,59701,USA,mathew.w.erickson@gmail.com,Mathew,Erickson,405 W Quartz,,Butte,MT,59701,USA,2016-01-06 21:12:16
+reilly.kevin.v@gmail.com,Kevin,Reilly,P. O. Box 29927,,Santa Fe,NM,87592,USA,reilly.kevin.v@gmail.com,Kevin,Reilly,7 Avenida Vista Grande B7,PMB 537,Santa Fe,NM,87508-9207,USA,2016-01-06 23:17:30
+waynejeffress@yahoo.com,Wayne,Jeffress,192 Hwy 3169,,Colfax,Louisiana,71417,United States,waynejeffress@yahoo.com,Wayne,Jeffress,1713 Simmons St,,Alexandria,LA,71301,United States,2016-01-08 18:46:52
+grantwhite09@gmail.com,Grant ,White,515 Eckschtay,,Novi,MI,48374,USA,grantwhite09@gmail.com,Grant,White,6500 Lake Grey Blvd,924,Jacksonville,FLA,32244,USA,2016-01-13 00:07:49
+lifeofice@gmail.com,Justin,Ice,1777 Kains Ave.,,San Bruno,California,94066,United States,lifeofice@gmail.com,Justin,Ice,217 Saint Francis Drive,,Boulder Creek,CA,95006,United States,2016-01-13 22:00:44
+mike-germain@43re.com,Mike ,Germain,11282 W. Napia,,Boise,Idaho,83709,United States,mike-germain@43re.com,Mike,Germain,10963 W. Oliana,,Boise,Idaho,83709,United States,2016-01-14 16:01:16
+sniles.sn@gmail.com,Stephen,Niles,96422 Dawson Road,,Brookings,OR,97415,USA,sniles.sn@gmail.com,Stephen,Niles,12769 N Bradbury Drive,,Hayden,Idaho,83835,USA,2016-01-14 18:18:58
+bassic@cableoene.net,JOHNNY,HARPER,103 CHUCK SEWELL DR,,MARIETTA,OK,73448,USA,bassic@cableone.net,JOHNNY,HARPER,311 S HWY 77,STE B,MARIETTA,OK,73448,USA,2016-01-15 14:55:09
+jakibler@gmail.com,JAMES,KIBLER,620 S Potomac St,,Baltimore,MD,21224,United States,jakibler@gmail.com,James,Kibler,9 Toppan Lane,,Rye,New Hampshire,03844,United States,2016-01-17 20:15:50
+jess_eller@mac.com,Jessica,Eller,1308 Sawmill Creek Rd,,Sitka,AK,99835,USA,jess_eller@mac.com,Jessica,Eller,PO Box 33661,,Juneau,AK,99803,USA,2016-01-19 16:21:32
+phedlund@yahoo.com,philip,hedlund,331 Indian Peaks Trail West,,Lafayette,CO,80026,USA,phedlund@yahoo.com,Philip,Hedlund,6190 Songbird Circle,,Boulder,CO,80303,USA,2016-01-19 19:35:22
+yassy@fmlink.jp,YASSY ,NAKANO,IIDABASHI,3F 4-1-1,CHIYODA-KU,TOKYO,1020072,JAPAN,yassy@fmlink.jp,YASSY,NAKANO,IIDABASHI,3F 3-2-2,CHIYODA-KU,TOKYO,1020072,JAPAN,2016-01-21 00:17:14
+derick.williamson@gmail.com,derick,williamson,6740 Blarwood Dr,None,Austin,Texas,78745,United States,derick.williamson@gmail.com,derick,williamson,1521 N Wahsatch Ave,,Colorado Springs,co,80907,United States,2016-01-21 15:54:17
+zinkworks@gmail.com,Tim,Zink,10 W Chatsworth Ave,,Reisterstown,MD,21136,USA,zinkworks@gmail.com,Tim,Zink,812 Trafalgar Rd.,,Towson,MD,21204,USA,2016-01-21 18:36:08
+schnitzerphoto@gmail.com,RUSSELL,SCHNITZER,3674 S. MOORE ST,,LAKEWOOD,CO,80235,United States,schnitzerphoto@gmail.com,RUSSELL,SCHNITZER,3830 Garland St.,,Wheat Ridge,CO,80033,United States,2016-01-23 20:02:18
+ryankamp@hotmail.com,Ryan,Kamp,241 Shady Lane,,Lexington,KY,40503,USA,ryankamp@hotmail.com,Ryan,Kamp,246 S. Dawson Ave.,,Bexley,OH,43209,USA,2016-01-29 20:38:41
+jmsbf09@gmail.com,John,Harris,1815 Silver St,,Helena,MT,59601,USA,jmsbf09@gmail.com,John,Harris,8417 Linden Ave N,,Seattle,WA,98103,USA,2016-01-30 17:35:31
+bryan.horner@gmail.com,Bryan,Horner,407 52nd Street,,Virginia Beach,Virginia,23451,United States,bryan.horner@gmail.com,Bryan,Horner,1129 Hill Road,,Virginia Beach,Virginia,23451,United States,2016-02-01 21:08:12
+travis@kaisersdrake.com,Travis,Kaiser,2534 Fairview Heights Ct,,Rifle,CO,81650,United States,travis@kaisersdrake.com,Travis,Kaiser,215 Hutton Ave,,Rifle,CO,81650,United States,2016-02-02 01:22:29
+emmet.breen@bbdo.com,Emmet,breen,345 7th Ave ,Apt 3F,Brooklyn,New York,11215-4397,United States,,Emmet,Breen,593 Gaskill Street SE,,Atlanta,Georgia,30316,United States,2016-02-02 17:52:32
+troutmdp1@yahoo.com,Matthew,Pardy,430 Purdue St,,Orlando,FL,32806,USA,troutmdp1@yahoo.com,Matthew ,Pardy,1109 Aruba Drive,,Orlando,FL,32806,USA,2016-02-03 00:42:09
+Patroutbum@hotmail.com,Eric,Kelley ,201 Golf Rd ,B,Lebanon,PA,17046,US,Patroutbum@hotmail.com,Eric,Kelley ,31 Ridge Ave ,A,Claremont,NH,03743,US,2016-02-03 01:52:53
+amy@inthebite.com,Dale,Wills,207 E Blue Heron Blvd,STE 2,Riviera Beach,Florida,33404,USA,amy@inthebite.com,Dale,Wills,342 Toney Penna DR,STE 5,Jupiter,FL,33458,USA,2016-02-03 16:41:51

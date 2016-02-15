@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<form>
+	<fieldset>
+
+              <field name="id" type="text" default="0" label="COM_STORELOCATOR_FORM_LBL_TAG_ID"
+            readonly="true" class="readonly"
+            description="JGLOBAL_FIELD_ID_DESC" /> 
+
+       <field name="name" type="text"
+                
+            label="COM_STORELOCATOR_FORM_LBL_TAG_NAME"
+            description="COM_STORELOCATOR_FORM_DESC_TAG_NAME" 
+                
+                
+                 required="true" 
+            filter="string" /> 
+
+       <field name="marker_id" type="marker" class="marker"
+        
+            label="COM_STORELOCATOR_FORM_LBL_TAG_MARKER_ID"
+            description="COM_STORELOCATOR_FORM_DESC_TAG_MARKER_ID" 
+         default="1" 
+        
+        
+         required="true" 
+         />
+
+	</fieldset>
+
+</form>

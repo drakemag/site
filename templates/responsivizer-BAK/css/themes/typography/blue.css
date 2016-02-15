@@ -1,0 +1,5 @@
+.border_top_header{background-color:#10b0d0;height:5px}
+h3:hover{border-color:#10b0d0!important}
+ul.menu li:hover>a,ul.menu li:hover>span{color:#FFF!important;box-shadow:0 2px 3px rgba(0,0,0,0.3);cursor:pointer}
+ul.menu li:hover>a,ul.menu li:hover>span,ul.menu li li:hover>a,ul.menu li li:hover>span,ul.menu li li.active>a,ul.menu li li.active>span{background-color:#10b0d0}
+a,a:hover,.breadcrumb a:hover,.user7 .link a:hover,.user8 .link a:hover,.user9 .link a:hover,h1,.componentheading,.contentheading,h1 a,#social-links li.text_social_icons,.submenu li>a:hover,.submenu li>span.separator:hover,.submenu li#current>a,ul.menu li:hover>span,ul.menu li.active>a,ul.menu li.active>span,ul.menu li:hover>a,ul.menu li:hover>span,ul.menu li.active>a,ul.menu li.active>span,.content_menu li.active a,.content_menu li:hover a,.content_menu li:focus a,.top_menu li a:hover,#top_menu li span.separator:hover,.bottom_menu li a,.bottom_menu li span,#bottom_menu li span,.bottom_menu li a:hover,#bottom_menu li span:hover{color:#028bc0}

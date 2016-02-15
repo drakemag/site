@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- $Id: config.xml 14 2011-01-11 12:15:22Z maverick $ -->
+<config>
+	<fieldset name="polls" label="COM_COMMUNITYPOLLS_POLLS" description="COM_COMMUNITYPOLLS_CONFIG_POLL_SETTINGS_DESC">
+	    
+	    <field name="poll_layout" type="componentlayout" label="JGLOBAL_FIELD_LAYOUT_LABEL" description="JGLOBAL_FIELD_LAYOUT_DESC" menuitems="true" extension="com_communitypolls" view="polls"/>
+		<field name="poll_avatar_size" type="list" default="40" label="COM_COMMUNITYPOLLS_FIELD_AVATAR_SIZE_LABEL" description="COM_COMMUNITYPOLLS_FIELD_AVATAR_SIZE_DESC">
+		    <option value="16">COM_COMMUNITYPOLLS_SIZE_EXTRA_SMALL</option>
+		    <option value="32">COM_COMMUNITYPOLLS_SIZE_SMALL</option>
+		    <option value="40">COM_COMMUNITYPOLLS_SIZE_FIT</option>
+		    <option value="48">COM_COMMUNITYPOLLS_SIZE_MEDIUM</option>
+		    <option value="64">COM_COMMUNITYPOLLS_SIZE_BIG</option>
+		    <option value="96">COM_COMMUNITYPOLLS_SIZE_LARGE</option>
+		    <option value="128">COM_COMMUNITYPOLLS_SIZE_EXTRA_LARGE</option>
+		</field>
+		
+		<field name="show_title" type="radio" class="btn-group btn-group-yesno" default="1" label="JGLOBAL_SHOW_TITLE_LABEL" description="JGLOBAL_SHOW_TITLE_DESC">
+		    <option value="1">JSHOW</option>
+			<option value="0">JHIDE</option>
+		</field>
+		
+		<field name="link_titles" type="radio" class="btn-group btn-group-yesno" default="1" label="JGLOBAL_LINKED_TITLES_LABEL" description="JGLOBAL_LINKED_TITLES_DESC">
+			<option value="1">JYES</option>
+			<option value="0">JNO</option>
+		</field>
+		
+		<field name="info_block_position" type="list" default="0" label="COM_COMMUNITYPOLLS_FIELD_INFOBLOCK_POSITION_LABEL" description="COM_COMMUNITYPOLLS_FIELD_INFOBLOCK_POSITION_DESC">
+			<option value="0">COM_COMMUNITYPOLLS_FIELD_OPTION_ABOVE</option>
+			<option value="1">COM_COMMUNITYPOLLS_FIELD_OPTION_BELOW</option>
+			<option value="2">COM_COMMUNITYPOLLS_FIELD_OPTION_SPLIT</option>
+		</field>
+
+		<field name="show_category" type="radio" default="1" class="btn-group btn-group-yesno" label="JGLOBAL_SHOW_CATEGORY_LABEL" description="JGLOBAL_SHOW_CATEGORY_DESC">
+			<option value="1">JSHOW</option>
+			<option value="0">JHIDE</option>
+		</field>
+		
+		<field name="show_categories_table" type="radio" default="1" class="btn-group btn-group-yesno" label="COM_COMMUNITYPOLLS_FIELD_SHOW_CATEGORY_LIST_LABEL" description="COM_COMMUNITYPOLLS_FIELD_SHOW_CATEGORY_DESC">
+			<option value="1">JSHOW</option>
+			<option value="0">JHIDE</option>
+		</field>
+		
+		<field name="show_search_box" type="radio" default="1" class="btn-group btn-group-yesno" label="COM_COMMUNITYPOLLS_FIELD_SHOW_SEARCH_BOX_LABEL" description="COM_COMMUNITYPOLLS_FIELD_SHOW_SEARCH_BOX_DESC">
+			<option value="1">JSHOW</option>
+			<option value="0">JHIDE</option>
+		</field>
+		
+		<field name="display_cat_num_columns" type="list" default="3" label="COM_COMMUNITYPOLLS_FIELD_CATEGORY_NUM_COLS_LABEL" description="COM_COMMUNITYPOLLS_FIELD_CATEGORY_NUM_COLS_DESC">
+			<option value="1">J1</option>
+			<option value="2">J2</option>
+			<option value="3">J3</option>
+			<option value="4">J4</option>
+		</field>
+
+		<field name="link_category" type="radio" default="1" class="btn-group btn-group-yesno" label="JGLOBAL_LINK_CATEGORY_LABEL" description="JGLOBAL_LINK_CATEGORY_DESC">
+			<option value="1">JYES</option>
+			<option value="0">JNO</option>
+		</field>
+
+		<field name="show_parent_category" type="radio" default="1" class="btn-group btn-group-yesno" label="JGLOBAL_SHOW_PARENT_CATEGORY_LABEL" description="JGLOBAL_SHOW_PARENT_CATEGORY_DESC">
+			<option value="1">JSHOW</option>
+			<option value="0">JHIDE</option>
+		</field>
+
+		<field name="link_parent_category" type="radio" default="1" class="btn-group btn-group-yesno" label="JGLOBAL_LINK_PARENT_CATEGORY_LABEL" description="JGLOBAL_LINK_PARENT_CATEGORY_DESC">
+			<option value="1">JYES</option>
+			<option value="0">JNO</option>
+		</field>
+
+		<field name="show_author" type="radio" default="1" class="btn-group btn-group-yesno" label="JGLOBAL_SHOW_AUTHOR_LABEL" description="JGLOBAL_SHOW_AUTHOR_DESC">
+			<option value="1">JSHOW</option>
+			<option value="0">JHIDE</option>
+		</field>
+
+		<field name="link_author" type="radio" default="0" class="btn-group btn-group-yesno" label="JGLOBAL_LINK_AUTHOR_LABEL" description="JGLOBAL_LINK_AUTHOR_DESC">
+			<option value="1">JYES</option>
+			<option value="0">JNO</option>
+		</field>
+
+		<field name="show_create_date" type="radio" default="1" class="btn-group btn-group-yesno" label="JGLOBAL_SHOW_CREATE_DATE_LABEL" description="JGLOBAL_SHOW_CREATE_DATE_DESC">
+			<option value="1">JSHOW</option>
+			<option value="0">JHIDE</option>
+		</field>
+
+		<field name="show_modify_date" type="radio" default="1" class="btn-group btn-group-yesno" label="JGLOBAL_SHOW_MODIFY_DATE_LABEL" description="JGLOBAL_SHOW_MODIFY_DATE_DESC">
+			<option value="1">JSHOW</option>
+			<option value="0">JHIDE</option>
+		</field>
+
+		<field name="show_publish_date" type="radio" default="1" class="btn-group btn-group-yesno" label="JGLOBAL_SHOW_PUBLISH_DATE_LABEL" description="JGLOBAL_SHOW_PUBLISH_DATE_DESC">
+			<option value="1">JSHOW</option>
+			<option value="0">JHIDE</option>
+		</field>
+
+		<field name="show_votes" type="radio" default="0" class="btn-group btn-group-yesno" label="COM_COMMUNITYPOLLS_FIELD_SHOW_VOTES_LABEL" description="COM_COMMUNITYPOLLS_FIELD_SHOW_VOTES_DESC">
+			<option value="1">JSHOW</option>
+			<option value="0">JHIDE</option>
+		</field>
+		
+		<field id="show_tags" name="show_tags" type="radio" class="btn-group btn-group-yesno" default="1" label="COM_COMMUNITYPOLLS_FIELD_SHOW_TAGS_LABEL" description="COM_COMMUNITYPOLLS_FIELD_SHOW_TAGS_DESC">
+			<option value="1">JSHOW</option>
+			<option value="0">JHIDE</option>
+		</field>
+
+		<field name="spacer3" type="spacer" label="COM_COMMUNITYPOLLS_POLL_SUGGESTIONS"/>
+
+		<field name="show_suggestions" type="radio" default="1" class="btn-group btn-group-yesno" label="COM_COMMUNITYPOLLS_FIELD_SHOW_SUGGESTIONS_LABEL" description="COM_COMMUNITYPOLLS_FIELD_SHOW_SUGGESTIONS_DESC">
+			<option value="1">JSHOW</option>
+			<option value="0">JHIDE</option>
+		</field>
+
+		<field name="suggestions_order" type="text" default="A,F,R,L,M" label="LBL_POLL_SUGGESTIONS_ORDER" description="LBL_POLL_SUGGESTIONS_ORDER_DESC"/>
+		<field name="latest_polls_count" type="text" default="5" label="LBL_LATEST_POLLS_COUNT" description="LBL_LATEST_POLLS_COUNT_DESC"/>
+		<field name="mostvoted_polls_count" type="text" default="5" label="LBL_MOSTVOTED_POLLS_COUNT" description="LBL_MOSTVOTED_POLLS_COUNT_DESC"/>
+		<field name="featured_polls_count" type="text" default="5" label="LBL_FEATURED_POLLS_COUNT" description="LBL_FEATURED_POLLS_COUNT_DESC"/>
+		<field name="author_polls_count" type="text" default="5" label="LBL_AUTHOR_POLLS_COUNT" description="LBL_AUTHOR_POLLS_COUNT_DESC"/>
+		<field name="related_polls_count" type="text" default="5" label="LBL_RELATED_POLLS_COUNT" description="LBL_RELATED_POLLS_COUNT_DESC"/>
+
+		<field name="show_suggestions_vote_count" type="radio" class="btn-group" default="1" label="COM_COMMUNITYPOLLS_FIELD_SHOW_SUGGESTIONS_VOTE_COUNT_LABEL" description="COM_COMMUNITYPOLLS_FIELD_SHOW_SUGGESTIONS_VOTE_COUNT_DESC">
+			<option value="0">JHIDE</option>
+			<option value="1">JSHOW</option>
+		</field>
+				
+	</fieldset>
+	
+	<fieldset name="editinglayout" label="COM_COMMUNITYPOLLS_EDITING_LAYOUT" description="COM_COMMUNITYPOLLS_CONFIG_EDITOR_LAYOUT">
+	    
+		<field name="allowed_poll_types" type="checkboxes" class="btn-group" default="radio,checkbox" multiple="true" label="LBL_ALLOWED_POLL_TYPES" description="LBL_ALLOWED_POLL_TYPES_DESC">
+			<option value="radio">LBL_RADIO</option>
+			<option value="checkbox">LBL_CHECKBOX</option>
+			<option value="grid">LBL_GRID</option>
+		</field>
+		
+		<field name="allowed_chart_types" type="checkboxes" class="btn-group" default="sbar,gpie"  multiple="true" label="LBL_ALLOWED_CHART_TYPES" description="LBL_ALLOWED_CHART_TYPES_DESC">
+			<option value="sbar">LBL_SBAR_CHART</option>
+			<option value="gpie">LBL_GPIE_CHART</option>
+			<option value="bar">LBL_BAR_CHART</option>
+			<option value="pie">LBL_PIE_CHART</option>
+		</field>
+
+		<field name="show_alias" type="radio" class="btn-group" default="1" label="LBL_DISPLAY_OPTION_ALIAS" description="LBL_DISPLAY_OPTION_ALIAS_DESC">
+			<option value="0">JHIDE</option>
+			<option value="1">JSHOW</option>
+		</field>
+	    	    
+		<field name="show_publishing_options" type="radio" class="btn-group btn-group-yesno" default="1" label="COM_COMMUNITYPOLLS_SHOW_PUBLISHING_OPTIONS_LABEL"
+			description="COM_COMMUNITYPOLLS_SHOW_PUBLISHING_OPTIONS_DESC">
+			<option value="1">JYES</option>
+			<option value="0">JNO</option>
+		</field>
+		
+		<field name="spacer4" type="spacer" label=""/>
+		
+		<field name="show_poll_options" type="radio" class="btn-group btn-group-yesno" default="1" label="COM_COMMUNITYPOLLS_SHOW_POLL_OPTIONS_LABEL" description="COM_COMMUNITYPOLLS_SHOW_POLL_OPTIONS_DESC">
+			<option value="1">JYES</option>
+			<option value="0">JNO</option>
+		</field>
+		<field name="show_option_poll_closing_date" type="radio" class="btn-group" default="1" label="LBL_CLOSING_DATE" description="LBL_DISPLAY_OPTION_POLL_CLOSING_DATE_DESC">
+			<option value="0">JHIDE</option>
+			<option value="1">JSHOW</option>
+		</field>
+		<field name="show_option_publish_results_date" type="radio" class="btn-group" default="1" label="LBL_PUBLISH_UP_RESULTS" description="LBL_DISPLAY_OPTION_PUBLISH_RESULTS_DATE_DESC">
+			<option value="0">JHIDE</option>
+			<option value="1">JSHOW</option>
+		</field>
+		<field name="show_option_custom_answer" type="radio" class="btn-group" default="1" label="LBL_CUSTOM_ANSWER" description="LBL_DISPLAY_OPTION_CUSTOM_ANSWER_DESC">
+			<option value="0">JHIDE</option>
+			<option value="1">JSHOW</option>
+		</field>
+		<field name="show_option_embed_poll" type="radio" class="btn-group" default="1" label="LBL_POLL_EMBEDDING" description="LBL_DISPLAY_OPTION_EMBED_POLL_DESC">
+			<option value="0">JHIDE</option>
+			<option value="1">JSHOW</option>
+		</field>
+		<field name="show_option_chart_type" type="radio" class="btn-group" default="1" label="LBL_CHART_TYPE" description="LBL_DISPLAY_OPTION_CHART_TYPE_DESC">
+			<option value="0">JHIDE</option>
+			<option value="1">JSHOW</option>
+		</field>
+		<field name="show_option_answers_order" type="radio" class="btn-group" default="1" label="LBL_ANSWERS_ORDER" description="LBL_DISPLAY_ANSWERS_ORDER_DESC">
+			<option value="0">JHIDE</option>
+			<option value="1">JSHOW</option>
+		</field>
+		<field name="show_option_featured_poll" type="radio" class="btn-group" default="1" label="LBL_FEATURED" description="LBL_DISPLAY_OPTION_FEATURED_POLL_DESC">
+			<option value="0">JHIDE</option>
+			<option value="1">JSHOW</option>
+		</field>
+		<field name="show_option_color_pallete" type="radio" class="btn-group" default="1" label="LBL_PALLETE" description="LBL_DISPLAY_OPTION_COLOR_PALLETE_DESC">
+			<option value="0">JHIDE</option>
+			<option value="1">JSHOW</option>
+		</field>
+		<field name="show_option_anonymous" type="radio" class="btn-group" default="1" label="LBL_ANONYMOUS_POLL" description="LBL_DISPLAY_OPTION_ANONYMOUS_DESC">
+			<option value="0">JHIDE</option>
+			<option value="1">JSHOW</option>
+		</field>
+		<field name="show_option_private" type="radio" class="btn-group" default="1" label="LBL_PRIVATE_POLL" description="LBL_DISPLAY_OPTION_PRIVATE_DESC">
+			<option value="0">JHIDE</option>
+			<option value="1">JSHOW</option>
+		</field>
+		<field name="show_option_end_message" type="radio" class="btn-group" default="1" label="COM_COMMUNITYPOLLS_FIELD_END_MESSAGE_LABEL" description="COM_COMMUNITYPOLLS_FIELD_END_MESSAGE_DESC">
+			<option value="0">JHIDE</option>
+			<option value="1">JSHOW</option>
+		</field>
+		<field name="show_option_modify_answers" type="radio" class="btn-group" default="1" label="COM_COMMUNITYPOLLS_FIELD_MODIFY_ANSWERS_LABEL" description="COM_COMMUNITYPOLLS_FIELD_MODIFY_ANSWERS_DESC">
+			<option value="0">JHIDE</option>
+			<option value="1">JSHOW</option>
+		</field>
+
+		<field name="spacer5" type="spacer" label="LBL_DEFAULT_VALUES"/>
+		
+		<field name="custom_answer" type="list" class="btn-group" default="2" label="LBL_CUSTOM_ANSWER">
+			<option value="0">LBL_DISABLED</option>
+			<option value="1">LBL_ENABLED</option>
+			<option value="2">LBL_STACK_ANSWERS</option>
+		</field>
+		<field name="anywhere" type="list" class="btn-group" default="1" label="LBL_POLL_EMBEDDING">
+			<option value="0">LBL_DISABLED</option>
+			<option value="1">LBL_ENABLED</option>
+		</field>
+		<field name="featured" type="list" class="btn-group" default="1" label="LBL_FEATURED">
+			<option value="0">LBL_DISABLED</option>
+			<option value="1">LBL_ENABLED</option>
+		</field>
+		<field name="anonymous" type="list" class="btn-group" default="1" label="LBL_ANONYMOUS_POLL">
+			<option value="0">LBL_DISABLED</option>
+			<option value="1">LBL_ENABLED</option>
+		</field>
+		<field name="private" type="list" class="btn-group" default="0" label="LBL_PRIVATE_POLL">
+			<option value="0">LBL_DISABLED</option>
+			<option value="1">LBL_ENABLED</option>
+		</field>
+		<field name="chart_type" type="list" class="btn-group" default="sbar" label="LBL_CHART_TYPE" description="LBL_CHART_TYPE_DESC">
+			<option value="sbar">LBL_SBAR_CHART</option>
+			<option value="gpie">LBL_GPIE_CHART</option>
+			<option value="bar">LBL_BAR_CHART</option>
+			<option value="pie">LBL_PIE_CHART</option>
+		</field>
+		<field name="answers_order" type="list" class="btn-group" default="order" label="LBL_ANSWERS_ORDER">
+			<option value="order">LBL_ORDER</option>
+			<option value="votes">LBL_VOTES</option>
+			<option value="random">COM_COMMUNITYPOLLS_LABEL_RANDOM</option>
+		</field>
+		<field name="modify_answers" type="list" class="btn-group" default="0" label="COM_COMMUNITYPOLLS_FIELD_MODIFY_ANSWERS_LABEL">
+			<option value="0">LBL_DISABLED</option>
+			<option value="1">LBL_ENABLED</option>
+		</field>
+		<field name="pallete" type="list" class="btn-group" default="default" label="LBL_PALLETE">
+			<option value="default">LBL_PALLETE_DEFAULT</option>
+			<option value="shankar">LBL_PALLETE_SHANKAR</option>
+			<option value="kamala">LBL_PALLETE_KAMALA</option>
+			<option value="autumn">LBL_PALLETE_AUTUMN</option>
+			<option value="blind">LBL_PALLETE_BLIND</option>
+			<option value="evening">LBL_PALLETE_EVENING</option>
+			<option value="kitchen">LBL_PALLETE_KITCHEN</option>
+			<option value="light">LBL_PALLETE_LIGHT</option>
+			<option value="navy">LBL_PALLETE_NAVY</option>
+			<option value="shade">LBL_PALLETE_SHADE</option>
+			<option value="spring">LBL_PALLETE_SPRING</option>
+			<option value="summer">LBL_PALLETE_SUMMER</option>
+		</field>
+		
+	</fieldset>
+
+	<fieldset name="category" label="JCATEGORY" description="COM_COMMUNITYPOLLS_CONFIG_CATEGORY_SETTINGS_DESC">
+
+		<field name="category_layout" type="componentlayout" label="JGLOBAL_FIELD_LAYOUT_LABEL" description="JGLOBAL_FIELD_LAYOUT_DESC" menuitems="true" extension="com_communitypolls" view="category"/>
+		
+		<field name="show_cat_heading_title_text" type="radio" class="btn-group btn-group-yesno" label="JGLOBAL_SHOW_CATEGORY_HEADING_TITLE_TEXT_LABEL"
+			description="JGLOBAL_SHOW_CATEGORY_HEADING_TITLE_TEXT_DESC" default="1">
+				<option value="1">JSHOW</option>
+				<option value="0">JHIDE</option>
+		</field>
+		
+		<field name="show_cat_title" type="radio" class="btn-group btn-group-yesno" label="JGLOBAL_SHOW_CATEGORY_TITLE" description="JGLOBAL_SHOW_CATEGORY_TITLE_DESC" default="1">
+			<option value="1">JSHOW</option>
+			<option value="0">JHIDE</option>
+		</field>
+
+		<field name="show_cat_description" type="radio" class="btn-group btn-group-yesno" default="1" label="JGLOBAL_SHOW_CATEGORY_DESCRIPTION_LABEL" description="JGLOBAL_SHOW_CATEGORY_DESCRIPTION_DESC">
+			<option value="1">JSHOW</option>
+			<option value="0">JHIDE</option>
+		</field>
+
+		<field name="show_cat_description_image" type="radio" class="btn-group btn-group-yesno" default="0" label="JGLOBAL_SHOW_CATEGORY_IMAGE_LABEL" description="JGLOBAL_SHOW_CATEGORY_IMAGE_DESC">
+			<option value="1">JSHOW</option>
+			<option value="0">JHIDE</option>
+		</field>
+
+		<field name="maxLevel" type="list" description="JGLOBAL_MAXIMUM_CATEGORY_LEVELS_DESC" label="JGLOBAL_MAXIMUM_CATEGORY_LEVELS_LABEL" default="-1">
+			<option value="0">JNONE</option>
+			<option value="-1">JALL</option>
+			<option value="1">J1</option>
+			<option value="2">J2</option>
+			<option value="3">J3</option>
+			<option value="4">J4</option>
+			<option value="5">J5</option>
+		</field>
+
+		<field name="show_empty_categories" type="radio" class="btn-group btn-group-yesno" label="JGLOBAL_SHOW_EMPTY_CATEGORIES_LABEL" description="COM_COMMUNITYPOLLS_SHOW_EMPTY_CATEGORIES_DESC" default="0">
+			<option value="1">JSHOW</option>
+			<option value="0">JHIDE</option>
+		</field>
+
+		<field name="show_no_polls" type="radio" class="btn-group btn-group-yesno" label="COM_COMMUNITYPOLLS_NO_POLLS_LABEL" description="COM_COMMUNITYPOLLS_NO_POLLS_DESC" default="1">
+			<option value="1">JSHOW</option>
+			<option value="0">JHIDE</option>
+		</field>
+
+		<field name="show_subcat_desc" type="radio" class="btn-group btn-group-yesno" label="JGLOBAL_SHOW_SUBCATEGORIES_DESCRIPTION_LABEL" description="JGLOBAL_SHOW_SUBCATEGORIES_DESCRIPTION_DESC" default="1">
+			<option value="1">JSHOW</option>
+			<option value="0">JHIDE</option>
+		</field>
+
+		<field name="show_cat_num_polls" type="radio" class="btn-group btn-group-yesno" label="COM_COMMUNITYPOLLS_NUMBER_CATEGORY_ITEMS_LABEL" description="COM_COMMUNITYPOLLS_NUMBER_CATEGORY_ITEMS_DESC" default="1">
+			<option value="1">JSHOW</option>
+			<option value="0">JHIDE</option>
+		</field>
+
+		<field name="show_cat_tags" type="radio" label="COM_COMMUNITYPOLLS_FIELD_SHOW_CAT_TAGS_LABEL" description="COM_COMMUNITYPOLLS_FIELD_SHOW_CAT_TAGS_DESC" class="btn-group btn-group-yesno" default="1">
+			<option value="1">JSHOW</option>
+			<option value="0">JHIDE</option>
+		</field>
+
+	</fieldset>
+
+	<fieldset name="categories" label="JCATEGORIES" description="COM_COMMUNITYPOLLS_CONFIG_CATEGORIES_SETTINGS_DESC">
+	    
+		<field name="show_base_description" type="radio" class="btn-group btn-group-yesno" default="1" label="JGLOBAL_FIELD_SHOW_BASE_DESCRIPTION_LABEL" description="JGLOBAL_FIELD_SHOW_BASE_DESCRIPTION_DESC">
+			<option value="1">JSHOW</option>
+			<option value="0">JHIDE</option>
+		</field>
+
+		<field name="maxLevelcat" type="list" default="-1" description="JGLOBAL_MAXIMUM_CATEGORY_LEVELS_DESC" label="JGLOBAL_MAXIMUM_CATEGORY_LEVELS_LABEL">
+			<option value="-1">JALL</option>
+			<option value="1">J1</option>
+			<option value="2">J2</option>
+			<option value="3">J3</option>
+			<option value="4">J4</option>
+			<option value="5">J5</option>
+		</field>
+
+		<field name="show_empty_categories_cat" type="radio" class="btn-group btn-group-yesno" default="0" label="JGLOBAL_SHOW_EMPTY_CATEGORIES_LABEL" description="COM_COMMUNITYPOLLS_SHOW_EMPTY_CATEGORIES_DESC">
+			<option value="1">JSHOW</option>
+			<option value="0">JHIDE</option>
+		</field>
+
+		<field name="show_subcat_desc_cat" type="radio" class="btn-group btn-group-yesno" default="1" label="JGLOBAL_SHOW_SUBCATEGORIES_DESCRIPTION_LABEL" description="JGLOBAL_SHOW_SUBCATEGORIES_DESCRIPTION_DESC">
+			<option value="1">JSHOW</option>
+			<option value="0">JHIDE</option>
+		</field>
+
+		<field name="show_cat_num_polls_cat" type="radio" class="btn-group btn-group-yesno" default="1" label="COM_COMMUNITYPOLLS_NUMBER_CATEGORY_ITEMS_LABEL"
+			description="COM_COMMUNITYPOLLS_NUMBER_CATEGORY_ITEMS_DESC">
+			<option value="1">JSHOW</option>
+			<option value="0">JHIDE</option>
+		</field>
+
+	</fieldset>
+    
+	<fieldset name="list_default_parameters" label="JGLOBAL_LIST_LAYOUT_OPTIONS" description="COM_COMMUNITYPOLLS_CONFIG_LIST_SETTINGS_DESC">
+		<field name="list_avatar_size" type="list" default="40" label="COM_COMMUNITYPOLLS_FIELD_AVATAR_SIZE_LABEL" description="COM_COMMUNITYPOLLS_FIELD_AVATAR_SIZE_DESC">
+		    <option value="16">COM_COMMUNITYPOLLS_SIZE_EXTRA_SMALL</option>
+		    <option value="32">COM_COMMUNITYPOLLS_SIZE_SMALL</option>
+		    <option value="40">COM_COMMUNITYPOLLS_SIZE_FIT</option>
+		    <option value="48">COM_COMMUNITYPOLLS_SIZE_MEDIUM</option>
+		    <option value="64">COM_COMMUNITYPOLLS_SIZE_BIG</option>
+		    <option value="96">COM_COMMUNITYPOLLS_SIZE_LARGE</option>
+		    <option value="128">COM_COMMUNITYPOLLS_SIZE_EXTRA_LARGE</option>
+		</field>
+
+		<field name="show_pagination_limit" type="radio" class="btn-group btn-group-yesno" default="1" label="JGLOBAL_DISPLAY_SELECT_LABEL" description="JGLOBAL_DISPLAY_SELECT_DESC">
+				<option value="1">JSHOW</option>
+				<option value="0">JHIDE</option>
+		</field>
+
+		<field name="filter_field" type="list" default="hide" label="JGLOBAL_FILTER_FIELD_LABEL" description="JGLOBAL_FILTER_FIELD_DESC">
+			<option value="hide">JHIDE</option>
+			<option value="title">JGLOBAL_TITLE</option>
+			<option value="author">JAUTHOR</option>
+			<option value="votes">COM_COMMUNITYPOLLS_VOTES</option>
+		</field>
+
+		<field name="list_show_votes" type="radio" class="btn-group btn-group-yesno" default="1" label="COM_COMMUNITYPOLLS_FIELD_SHOW_VOTES_LABEL" description="COM_COMMUNITYPOLLS_FIELD_SHOW_VOTES_DESC">
+			<option value="1">JSHOW</option>
+			<option value="0">JHIDE</option>
+		</field>
+
+		<field name="list_show_date" type="list" default="1" label="JGLOBAL_SHOW_DATE_LABEL" description="JGLOBAL_SHOW_DATE_DESC">
+			<option value="1">JSHOW</option>
+		    <option value="0">JHIDE</option>
+		</field>
+
+		<field name="list_show_parent" type="list" default="0" label="JGLOBAL_SHOW_CATEGORY_LABEL" description="JGLOBAL_SHOW_CATEGORY_DESC">
+		    <option value="1">JSHOW</option>
+			<option value="0">JHIDE</option>
+		</field>
+				
+		<field name="list_show_author" type="radio" class="btn-group btn-group-yesno" default="1" label="JGLOBAL_LIST_AUTHOR_LABEL" description="JGLOBAL_LIST_AUTHOR_DESC">
+			<option value="1">JSHOW</option>
+			<option value="0">JHIDE</option>
+		</field>
+		
+		<field name="display_num" type="list" default="10" description="COM_COMMUNITYPOLLS_FIELD_NUMBER_ITEMS_LIST_DESC" label="COM_COMMUNITYPOLLS_FIELD_NUMBER_ITEMS_LIST_LABEL">
+			<option value="5">J5</option>
+			<option value="10">J10</option>
+			<option value="15">J15</option>
+			<option value="20">J20</option>
+			<option value="25">J25</option>
+			<option value="30">J30</option>
+			<option value="50">J50</option>
+			<option value="100">J100</option>
+			<option value="0">JALL</option>
+		</field>
+	</fieldset>
+
+	<fieldset name="shared" label="COM_COMMUNITYPOLLS_SHARED_LABEL" description="COM_COMMUNITYPOLLS_SHARED_DESC">
+		<field name="theme" type="list" class="btn-group" default="bbcode" label="COM_COMMUNITYPOLLS_THEME_LABEL" description="COM_COMMUNITYPOLLS_THEME_DESC">
+			<option value="default">Default</option>
+			<option value="primary">Primary</option>
+			<option value="success">Success</option>
+			<option value="info">Info</option>
+			<option value="warning">Warning</option>
+			<option value="danger">Danger</option>
+		</field>
+		<field name="default_editor" type="list" class="btn-group" default="wysiwygbb" label="LBL_DEFAULT_EDITOR" description="LBL_DEFAULT_EDITOR_DESC">
+			<option value="none">LBL_NONE</option>
+			<option value="wysiwygbb">LBL_BBCODE_EDITOR</option>
+			<option value="wysiwyg">LBL_WYSIWYG_EDITOR</option>
+		</field>
+		
+		<field name="limit_polls" type="text" default="0" label="LBL_LIMIT_POLLS" description="LBL_LIMIT_POLLS_DESC"/>
+		<field name="min_description_length" type="text" default="0" label="LBL_DESC_MIN_LENGTH" description="LBL_DESC_MIN_LENGTH_DESC"/>
+		<field name="vote_expiration" type="text" default="0" label="LBL_VOTE_EXPIRATION_TIME" description="LBL_VOTE_EXPIRATION_TIME_DESC"/>
+		
+		<field name="orderby_pri" type="list" default="none" label="JGLOBAL_CATEGORY_ORDER_LABEL" description="JGLOBAL_CATEGORY_ORDER_DESC">
+			<option value="none">JGLOBAL_NO_ORDER</option>
+			<option value="alpha">JGLOBAL_TITLE_ALPHABETICAL</option>
+			<option value="ralpha">JGLOBAL_TITLE_REVERSE_ALPHABETICAL</option>
+			<option value="order">JGLOBAL_CATEGORY_MANAGER_ORDER</option>
+		</field>
+
+		<field name="orderby_sec" type="list" default="rdate" label="COM_COMMUNITYPOLLS_FIELD_POLL_ORDER_LABEL" description="COM_COMMUNITYPOLLS_FIELD_POLL_ORDER_DESC">
+			<option value="rdate">JGLOBAL_MOST_RECENT_FIRST</option>
+			<option value="date">JGLOBAL_OLDEST_FIRST</option>
+			<option value="alpha">JGLOBAL_TITLE_ALPHABETICAL</option>
+			<option value="ralpha">JGLOBAL_TITLE_REVERSE_ALPHABETICAL</option>
+			<option value="author">JGLOBAL_AUTHOR_ALPHABETICAL</option>
+			<option value="rauthor">JGLOBAL_AUTHOR_REVERSE_ALPHABETICAL</option>
+			<option value="hvotes">COM_COMMUNITYPOLLS_MOST_VOTES</option>
+			<option value="rvotes">COM_COMMUNITYPOLLS_LEAST_VOTES</option>
+			<option value="order">COM_COMMUNITYPOLLS_POLL_MANAGER_ORDER</option>
+		</field>
+
+		<field name="order_date" type="list" default="published" description="JGLOBAL_ORDERING_DATE_DESC" label="JGLOBAL_ORDERING_DATE_LABEL">
+			<option value="created">JGLOBAL_CREATED</option>
+			<option value="modified">JGLOBAL_MODIFIED</option>
+			<option value="published">JPUBLISHED</option>
+		</field>
+
+		<field name="show_pagination" type="list" default="2" label="JGLOBAL_Pagination_Label" description="JGLOBAL_Pagination_Desc">
+			<option value="0">JHIDE</option>
+			<option value="1">JSHOW</option>
+			<option value="2">JGLOBAL_AUTO</option>
+		</field>
+		
+		<field name="user_display_name" type="radio" class="btn-group" default="name" label="LBL_USER_NAME" description="LBL_USER_NAME_DESC">
+			<option value="name">LBL_NAME</option>
+			<option value="username">LBL_USERNAME</option>
+		</field>
+
+		<field name="show_pagination_results" type="radio" class="btn-group btn-group-yesno" default="1" label="JGLOBAL_PAGINATION_RESULTS_LABEL" description="JGLOBAL_PAGINATION_RESULTS_DESC">
+			<option value="1">JSHOW</option>
+			<option value="0">JHIDE</option>
+		</field>
+
+		<field name="show_toolbar" type="radio" class="btn-group btn-group-yesno" default="1" label="COM_COMMUNITYPOLLS_FIELD_SHOW_TOOLBAR_LABEL" description="COM_COMMUNITYPOLLS_FIELD_SHOW_TOOLBAR_DESC">
+			<option value="1">JSHOW</option>
+			<option value="0">JHIDE</option>
+		</field>
+
+		<field name="show_timeline" type="radio" class="btn-group btn-group-yesno" default="1" label="COM_COMMUNITYPOLLS_FIELD_SHOW_TIMELINE_LABEL" description="COM_COMMUNITYPOLLS_FIELD_SHOW_TIMELINE_DESC">
+			<option value="1">JSHOW</option>
+			<option value="0">JHIDE</option>
+		</field>
+						
+		<field name="vote_restriction" type="checkboxes" class="btn-group" default="checkbox" multiple="true" label="LBL_VOTE_RESTRICTION_METHOD" description="LBL_VOTE_RESTRICTION_METHOD_DESC">
+			<option value="ip">LBL_IP_ADDRESS</option>
+			<option value="cookie">LBL_COOKIES</option>
+			<option value="username">LBL_USERNAME</option>
+		</field>
+		
+		<field name="chart_width" type="text" default="650" label="LBL_CHART_WIDTH" description="LBL_CHART_WIDTH_DESC"/>
+		<field name="pie_chart_height" type="text" default="350" label="LBL_PIE_CHART_HEIGHT" description="LBL_PIE_CHART_HEIGHT_DESC"/>
+				
+		<field name="allowed_image_types" type="text" default="jpg,gif,jpeg,png" label="LBL_ALLOWED_IMAGE_EXTENSIONS" description="LBL_ALLOWED_IMAGE_EXTENSIONS_DESC"/>
+		<field name="max_attachment_size" type="text" default="250" label="LBL_MAX_IMAGE_SIZE" description="LBL_MAX_IMAGE_SIZE_DESC"/>
+		
+		<field name="debug_mode" type="radio" class="btn-group" default="0" label="COM_COMMUNITYPOLLS_DEBUG_MODE" description="COM_COMMUNITYPOLLS_DEBUG_MODE">
+			<option value="0">LBL_DISABLED</option>
+			<option value="1">LBL_ENABLED</option>
+		</field>
+		
+	</fieldset>
+
+	<fieldset name="integration" label="JGLOBAL_INTEGRATION_LABEL" description="COM_COMMUNITYPOLLS_CONFIG_INTEGRATION_SETTINGS_DESC">
+		<field name="load_bootstrap_css" type="radio" class="btn-group btn-group-yesno" default="0" label="Load Bootstrap CSS" description="Enable it if your template does not load bootstrap.">
+			<option value="1">JYES</option>
+			<option value="0">JNO</option>
+		</field>
+	    <field name="layout" default="default" type="list" label="COM_COMMUNITYPOLLS_DEFAULT_LAYOUT_LABEL" description="COM_COMMUNITYPOLLS_DEFAULT_LAYOUT_DESC" filter="cmd">
+	        <option value="default">Default</option>
+	    </field>
+		
+		<field name="show_feed_link" type="radio" class="btn-group btn-group-yesno" default="1" label="JGLOBAL_SHOW_FEED_LINK_LABEL" description="JGLOBAL_SHOW_FEED_LINK_DESC">
+			<option value="1">JSHOW</option>
+			<option value="0">JHIDE</option>
+		</field>
+
+		<field name="feed_summary" type="list" label="JGLOBAL_FEED_SUMMARY_LABEL" description="JGLOBAL_FEED_SUMMARY_DESC" default="0">
+			<option value="0">JGLOBAL_INTRO_TEXT</option>
+			<option value="1">JGLOBAL_FULL_TEXT</option>
+		</field>
+
+		<field name="feed_show_readmore" type="radio" class="btn-group btn-group-yesno" label="JGLOBAL_FEED_SHOW_READMORE_LABEL" description="JGLOBAL_FEED_SHOW_READMORE_DESC" default="0">
+			<option value="1">JSHOW</option>
+			<option value="0">JHIDE</option>
+		</field>
+		<field name="spacer10" type="spacer" hr="true" />
+	
+		<field name="profile_component" type="list" class="btn-group" default="none" label="COM_COMMUNITYPOLLS_FIELD_PROFILE_COMPONENT_LABEL" description="COM_COMMUNITYPOLLS_FIELD_PROFILE_COMPONENT_DESC">
+			<option value="none">None</option>
+			<option value="cjforum">CjForum</option>
+			<option value="cjblog">CjBlog</option>
+			<option value="jomsocial">JomSocial</option>
+			<option value="easysocial">EasySocial</option>
+			<option value="cb">Community Builder</option>
+			<option value="kunena">Kunena</option>
+			<option value="gravatar">Gravatar</option>
+		</field>
+		<field name="avatar_component" type="list" class="btn-group" default="gravatar" label="COM_COMMUNITYPOLLS_FIELD_AVATAR_COMPONENT_LABEL" description="COM_COMMUNITYPOLLS_FIELD_AVATAR_COMPONENT_DESC">
+			<option value="none">None</option>
+			<option value="cjforum">CjForum</option>
+			<option value="cjblog">CjBlog</option>
+			<option value="jomsocial">JomSocial</option>
+			<option value="easysocial">EasySocial</option>
+			<option value="cb">Community Builder</option>
+			<option value="kunena">Kunena</option>
+			<option value="gravatar">Gravatar</option>
+		</field>
+		<field name="points_component" type="list" class="btn-group" default="none" label="COM_COMMUNITYPOLLS_FIELD_POINTS_COMPONENT_LABEL" description="COM_COMMUNITYPOLLS_FIELD_POINTS_COMPONENT_DESC">
+			<option value="none">None</option>
+			<option value="cjforum">CjForum</option>
+			<option value="cjblog">CjBlog</option>
+			<option value="jomsocial">JomSocial</option>
+			<option value="easysocial">EasySocial</option>
+			<option value="aup">Alpha User Points</option>
+		</field>
+		<field name="badge_system" type="list" class="btn-group" default="none" label="LBL_BADGE_SYSTEM" description="LBL_BADGE_SYSTEM_DESC">
+			<option value="none">LBL_NONE</option>
+			<option value="cjblog">CjBlog</option>
+		</field>
+		<field name="stream_component" type="list" class="btn-group" default="none" label="COM_COMMUNITYPOLLS_FIELD_STREAM_COMPONENT_LABEL" description="COM_COMMUNITYPOLLS_FIELD_STREAM_COMPONENT_DESC">
+			<option value="none">None</option>
+			<option value="cjforum">CjForum</option>
+			<option value="jomsocial">JomSocial</option>
+			<option value="easysocial">EasySocial</option>
+		</field>
+		
+		<field name="stream_character_limit" type="text" default="0" label="LBL_STREAM_CHARACTER_LIMIT" description="LBL_STREAM_CHARACTER_LIMIT_DESC"/>
+
+		<field name="stream_new_poll" type="radio" class="btn-group" default="0" label="LBL_STREAM_NEWPOLL" description="LBL_STREAM_NEWPOLL_DESC">
+			<option value="0">JNO</option>
+			<option value="1">JYES</option>
+		</field>
+		
+		<field name="stream_new_vote" type="radio" class="btn-group" default="0" label="LBL_STREAM_NEWVOTE" description="LBL_STREAM_NEWVOTE_DESC">
+			<option value="0">JNO</option>
+			<option value="1">JYES</option>
+		</field>
+		
+		<field name="spacer6" type="spacer" hr="true" />
+		
+		<field name="comment_system" type="list" class="btn-group" default="none" label="LBL_COMMENT_SYSTEM" description="LBL_COMMENT_SYSTEM_DESC">
+			<option value="none">LBL_NONE</option>
+			<option value="fbcomment">Facebook Comments</option>
+			<option value="disqus">Disqus Comments</option>
+			<option value="intensedebate">Intense Debate</option>
+			<option value="jcomment">JComment</option>
+			<option value="jacomment">JAComment</option>
+			<option value="kommento">Kommento</option>
+			<option value="ccomment">CComment</option>
+		</field>
+		
+		<field name="disqus_intdbt_id" type="text" default="" label="LBL_DISQUS_INTDBT_ID" description="LBL_DISQUS_INTDBT_ID_DESC"/>
+				
+		<field name="sharing_services" type="checkboxes" class="btn-group" default="" multiple="true" label="LBL_SHARING_SERVICES" description="LBL_SHARING_SERVICES_DESC">
+			<option value="fblike">LBL_FACEBOOK_LIKE</option>
+			<option value="tweet">LBL_TWITTER_TWEET</option>
+			<option value="googleplus">LBL_GOOGLE_PLUS</option>
+			<option value="addthis">LBL_ADD_THIS</option>
+		</field>
+
+		<field name="spacer11" type="spacer" hr="true" />
+		<field name="spacer7" type="spacer" label="COM_COMMUNITYPOLLS_TWITTER_INTEGRATION"/>
+		
+		<field name="enable_twitter" type="radio" class="btn-group" default="0" label="LBL_ENABLE_TWITTER" description="LBL_ENABLE_TWITTER_DESC">
+			<option value="0">JNO</option>
+			<option value="1">JYES</option>
+		</field>
+		
+		<field name="twitter_consumer_key" type="text" default="" label="LBL_TWITTER_CONSUMER_KEY" description="LBL_TWITTER_CONSUMER_KEY_DESC"/>
+		<field name="twitter_consumer_secret" type="text" default="" label="LBL_TWITTER_CONSUMER_SECRET" description="LBL_TWITTER_CONSUMER_SECRET_DESC"/>
+		<field name="twitter_oauth_token" type="text" default="" label="LBL_TWITTER_OAUTH_TOKEN" description="LBL_TWITTER_OAUTH_TOKEN_DESC"/>
+		<field name="twitter_oauth_secret" type="text" default="" label="LBL_TWITTER_OAUTH_SECRET" description="LBL_TWITTER_OAUTH_SECRET_DESC"/>
+		
+		<field name="short_url_service" type="list" class="btn-group" default="0" label="LBL_SHORT_URL_SERVICE" description="LBL_SHORT_URL_SERVICE_DESC">
+			<option value="none">LBL_NONE</option>
+			<option value="tinyurl">tinyurl</option>
+			<option value="bit.ly">bit.ly</option>
+		</field>
+		
+		<field name="bit_ly_login" type="text" default="" label="LBL_BIT_LY_LOGIN" description="LBL_BIT_LY_LOGIN_DESC"/>
+		<field name="bit_ly_api_key" type="text" default="" label="LBL_BIT_LY_API_KEY" description="LBL_BIT_LY_API_KEY_DESC"/>
+
+	</fieldset>
+    
+	<fieldset name="notification" label="LBL_NOTIFICATION_SETTINGS">
+	
+		<field name="admin_user_groups" type="usergroup" default="8" label="LBL_ADMIN_USER_GROUPS" description="LBL_ADMIN_USER_GROUPS_DESC"/>
+		
+		<field name="notif_poll_approval" type="radio" class="btn-group" default="1" label="LBL_NOTIF_POLL_APPROVAL" description="LBL_NOTIF_POLL_APPROVAL_DESC">
+			<option value="0">JNO</option>
+			<option value="1">JYES</option>
+		</field>
+		
+		<field name="notif_new_vote" type="radio" class="btn-group" default="1" label="LBL_NOTIF_NEW_VOTE" description="LBL_NOTIF_NEW_VOTE_DESC">
+			<option value="0">JNO</option>
+			<option value="1">JYES</option>
+		</field>
+		
+		<field name="notif_admin" type="radio" class="btn-group" default="1" label="LBL_NOTIF_ADMIN" description="LBL_NOTIF_ADMIN_DESC">
+			<option value="0">JNO</option>
+			<option value="1">JYES</option>
+		</field>
+	</fieldset>
+
+	<fieldset name="permissions" label="JCONFIG_PERMISSIONS_LABEL" description="JCONFIG_PERMISSIONS_DESC">
+		<field name="rules" type="rules" label="JCONFIG_PERMISSIONS_LABEL" class="inputbox" validate="rules" filter="rules" component="com_communitypolls" section="component"/>
+	</fieldset>
+</config>
+

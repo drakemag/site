@@ -1,0 +1,6 @@
+#sl_sidebar {
+  font-size: 0.9em;
+  margin: 10px 0;
+  max-height:none;
+  overflow:auto;
+}

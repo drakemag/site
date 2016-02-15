@@ -1,0 +1,31 @@
+@charset "utf-8";
+/**
+ * Store Locator CSS document for default View
+ * 
+ * @package    SysgenMedia.StoreLocator
+ * @subpackage Components
+ * @copyright	Copyright (c)2009 Sysgen Media LLC. All Rights Reserved.
+ * @license		GNU/GPLv3
+ */
+#sl_results_container { font-size:1em; border:solid 1px #000000; }
+#sl_locate_results { font-weight:bold; font-size:1.1em; border-bottom:solid 1px #000000; }
+#sl_sidebar { overflow: auto; width:200px; float:left; font-size: 0.9em; border-right:solid 1px #000000;}
+#sl_sidebar div { background:#ffffff; cursor:pointer; margin:0px 4px; border-bottom:solid 1px #000000; padding:4px; } 
+#sl_sidebar div:hover { background:#cccccc; }
+
+.location_name { font-size:1em; font-weight:bold; }
+.featureicon, .networkicon { vertical-align:middle; margin:0 2px 4px 0; }
+
+
+
+#map { float:right; overflow: hidden;  }
+.gmnoprint div {text-align:left !important; margin-right:3px; }
+.gmnoprint div#dir { margin:0 0 4px 0; }
+
+.marker_name { font-size:1.2em; font-weight:bold; white-space:nowrap;}
+
+#copyright-block { font-size:11px; margin:5px 0; }
+#copyright-block a { text-decoration:none; }
+.dirsmall {font-size:80%; color:#999; }
+
+.sl_search_col { float:left;margin:5px 10px; }
