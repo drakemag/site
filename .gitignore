@@ -3,3 +3,6 @@ configuration.php
 adserver/includes/constants.php
 
 images/*
+newsletter/*/images/*
+newsletter/*/img/*
+adserver/images/*
