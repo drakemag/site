@@ -1,6 +1,7 @@
 # Ignore configuration files that may contain sensitive information.
 configuration.php
 adserver/includes/constants.php
+adserver/includes/.htpasswd
 
 images/*
 newsletter/*/images/*
